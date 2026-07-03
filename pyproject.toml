@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobmonitor"
+version = "1.0.0"
+description = "Poll company career APIs and push new matching jobs to Discord/Slack."
+requires-python = ">=3.8"
+dependencies = []  # standard library only
+
+[project.scripts]
+jobmonitor = "jobmonitor.cli:main"
+
+[tool.setuptools]
+packages = ["jobmonitor"]
