@@ -5,6 +5,7 @@ platforms are added by writing a function and registering it in ``FETCHERS``.
 """
 
 import re
+import time
 import urllib.parse
 
 from . import http
@@ -310,7 +311,46 @@ def fetch_shopify(source):
     return jobs
 
 
+def fetch_github_listings(source):
+    """Community-maintained GitHub new-grad list repos (Simplify-lineage
+    listings.json, e.g. SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027).
+
+    source: urls (list of raw listings.json URLs), max_age_days (optional, default 30)
+
+    Listings marked citizenship-required are dropped at the source. The uid is
+    keyed on the normalized apply URL so the same posting appearing in several
+    list repos alerts only once.
+    """
+    cutoff = time.time() - source.get("max_age_days", 30) * 86400
+    jobs, seen_urls = [], set()
+    for url in source["urls"]:
+        for j in http.get_json(url):
+            if not j.get("active") or not j.get("is_visible"):
+                continue
+            if j.get("sponsorship") == "U.S. Citizenship is Required":
+                continue
+            posted = j.get("date_posted") or j.get("date_updated") or 0
+            if posted < cutoff:
+                continue
+            apply_url = j.get("url", "")
+            key = apply_url.split("?")[0].split("#")[0].rstrip("/")
+            if not key or key in seen_urls:
+                continue
+            seen_urls.add(key)
+            jobs.append(
+                Job(
+                    uid=f"ghlist:{key}",
+                    company=j.get("company_name", ""),
+                    title=j.get("title", ""),
+                    location="; ".join(j.get("locations") or []),
+                    url=apply_url,
+                )
+            )
+    return jobs
+
+
 FETCHERS = {
+    "github_listings": fetch_github_listings,
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "ashby": fetch_ashby,

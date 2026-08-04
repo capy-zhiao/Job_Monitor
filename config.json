@@ -14,6 +14,9 @@
     "software engineer i ",
     "engineer i,",
     "engineer 1",
+    "software engineer",
+    "software developer",
+    "software development engineer",
     "security analyst",
     "soc analyst",
     "junior security",
@@ -64,21 +67,51 @@
   ],
   "sources": [
     {
+      "type": "github_listings",
+      "name": "GitHub New-Grad Lists",
+      "urls": [
+        "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+        "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/main/.github/scripts/listings.json"
+      ],
+      "max_age_days": 30
+    },
+    {
       "type": "amazon",
       "name": "Amazon",
       "query": "software development engineer",
-      "countries": ["CAN"],
+      "countries": [
+        "CAN"
+      ],
       "limit": 100,
-      "keywords": ["engineer i,", "engineer i ", "sde i,", "new grad", "2026", "2027", "early career"],
+      "keywords": [
+        "engineer i,",
+        "engineer i ",
+        "sde i,",
+        "new grad",
+        "2026",
+        "2027",
+        "early career"
+      ],
       "locations": []
     },
     {
       "type": "amazon",
       "name": "Amazon (Security)",
       "query": "security engineer",
-      "countries": ["CAN"],
+      "countries": [
+        "CAN"
+      ],
       "limit": 50,
-      "keywords": ["security engineer i,", "security engineer i ", "security engineer 1", "new grad", "2026", "2027", "early career", "junior"],
+      "keywords": [
+        "security engineer i,",
+        "security engineer i ",
+        "security engineer 1",
+        "new grad",
+        "2026",
+        "2027",
+        "early career",
+        "junior"
+      ],
       "locations": []
     },
     {
@@ -90,7 +123,16 @@
       "search": "security",
       "country": "CAN",
       "pages": 3,
-      "keywords": ["security analyst", "security specialist", "analyst i,", "analyst 1", "junior security", "associate security", "new grad", "early career"],
+      "keywords": [
+        "security analyst",
+        "security specialist",
+        "analyst i,",
+        "analyst 1",
+        "junior security",
+        "associate security",
+        "new grad",
+        "early career"
+      ],
       "locations": []
     },
     {
@@ -100,23 +142,47 @@
       "search": "security",
       "country": "Canada",
       "size": 50,
-      "keywords": ["security analyst", "security specialist", "analyst i,", "analyst 1", "junior security", "associate security", "new grad", "early career", "early talent"],
+      "keywords": [
+        "security analyst",
+        "security specialist",
+        "analyst i,",
+        "analyst 1",
+        "junior security",
+        "associate security",
+        "new grad",
+        "early career",
+        "early talent"
+      ],
       "locations": []
     },
     {
       "type": "recruitee",
       "name": "Huawei",
       "board": "huaweicanada",
-      "keywords": ["engineer", "developer", "analyst", "security", "researcher"],
+      "keywords": [
+        "engineer",
+        "developer",
+        "analyst",
+        "security",
+        "researcher"
+      ],
       "locations": []
     },
     {
       "type": "amazon",
       "name": "Amazon (Science)",
       "query": "applied scientist",
-      "countries": ["CAN"],
+      "countries": [
+        "CAN"
+      ],
       "limit": 50,
-      "keywords": ["applied scientist", "research engineer", "data scientist i", "scientist i,", "scientist 1"],
+      "keywords": [
+        "applied scientist",
+        "research engineer",
+        "data scientist i",
+        "scientist i,",
+        "scientist 1"
+      ],
       "locations": []
     },
     {
@@ -149,16 +215,56 @@
       "country": "CAN",
       "pages": 2
     },
-    { "type": "greenhouse", "name": "Okta", "board": "okta" },
-    { "type": "lever", "name": "Magnet Forensics", "company": "magnetforensics" },
-    { "type": "ashby", "name": "1Password", "board": "1password" },
-    { "type": "ashby", "name": "Vanta", "board": "vanta" },
-    { "type": "greenhouse", "name": "Stripe", "board": "stripe" },
-    { "type": "greenhouse", "name": "Databricks", "board": "databricks" },
-    { "type": "greenhouse", "name": "Pinterest", "board": "pinterest" },
-    { "type": "greenhouse", "name": "Robinhood", "board": "robinhood" },
-    { "type": "greenhouse", "name": "DoorDash", "board": "doordashusa" },
-    { "type": "greenhouse", "name": "Carta", "board": "carta" },
+    {
+      "type": "greenhouse",
+      "name": "Okta",
+      "board": "okta"
+    },
+    {
+      "type": "lever",
+      "name": "Magnet Forensics",
+      "company": "magnetforensics"
+    },
+    {
+      "type": "ashby",
+      "name": "1Password",
+      "board": "1password"
+    },
+    {
+      "type": "ashby",
+      "name": "Vanta",
+      "board": "vanta"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Stripe",
+      "board": "stripe"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Databricks",
+      "board": "databricks"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Pinterest",
+      "board": "pinterest"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Robinhood",
+      "board": "robinhood"
+    },
+    {
+      "type": "greenhouse",
+      "name": "DoorDash",
+      "board": "doordashusa"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Carta",
+      "board": "carta"
+    },
     {
       "type": "eightfold",
       "name": "Netflix",
@@ -167,33 +273,115 @@
       "query": "software engineer",
       "location": "Canada",
       "num": 50,
-      "keywords": ["new grad", "early career", "junior", "engineer i,", "engineer 1", "engineer 2", "l3", "2026", "2027", "graduate"],
+      "keywords": [
+        "new grad",
+        "early career",
+        "junior",
+        "engineer i,",
+        "engineer 1",
+        "engineer 2",
+        "l3",
+        "2026",
+        "2027",
+        "graduate"
+      ],
       "locations": []
     },
-    { "type": "greenhouse", "name": "Faire", "board": "faire" },
-    { "type": "greenhouse", "name": "Cloudflare", "board": "cloudflare" },
-    { "type": "greenhouse", "name": "Datadog", "board": "datadog" },
-    { "type": "greenhouse", "name": "Instacart", "board": "instacart" },
-    { "type": "greenhouse", "name": "Affirm", "board": "affirm" },
-    { "type": "greenhouse", "name": "Coinbase", "board": "coinbase" },
-    { "type": "greenhouse", "name": "Tenstorrent", "board": "tenstorrent" },
-    { "type": "greenhouse", "name": "Hootsuite", "board": "hootsuite" },
-    { "type": "greenhouse", "name": "Asana", "board": "asana" },
-    { "type": "greenhouse", "name": "Squarespace", "board": "squarespace" },
-    { "type": "greenhouse", "name": "Dropbox", "board": "dropbox" },
-    { "type": "greenhouse", "name": "Reddit", "board": "reddit" },
-    { "type": "greenhouse", "name": "Duolingo", "board": "duolingo" },
-    { "type": "greenhouse", "name": "Lyft", "board": "lyft" },
-    { "type": "lever", "name": "Palantir", "company": "palantir" },
-    { "type": "lever", "name": "Waabi", "company": "waabi" },
-    { "type": "lever", "name": "Plusgrade", "company": "plusgrade" },
+    {
+      "type": "greenhouse",
+      "name": "Faire",
+      "board": "faire"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Cloudflare",
+      "board": "cloudflare"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Datadog",
+      "board": "datadog"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Instacart",
+      "board": "instacart"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Affirm",
+      "board": "affirm"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Coinbase",
+      "board": "coinbase"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Tenstorrent",
+      "board": "tenstorrent"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Hootsuite",
+      "board": "hootsuite"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Asana",
+      "board": "asana"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Squarespace",
+      "board": "squarespace"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Dropbox",
+      "board": "dropbox"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Reddit",
+      "board": "reddit"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Duolingo",
+      "board": "duolingo"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Lyft",
+      "board": "lyft"
+    },
+    {
+      "type": "lever",
+      "name": "Palantir",
+      "company": "palantir"
+    },
+    {
+      "type": "lever",
+      "name": "Waabi",
+      "company": "waabi"
+    },
+    {
+      "type": "lever",
+      "name": "Plusgrade",
+      "company": "plusgrade"
+    },
     {
       "type": "google",
       "name": "Google",
       "query": "software engineer",
       "location": "Canada",
       "target_level": "EARLY",
-      "keywords": ["engineer", "developer"],
+      "keywords": [
+        "engineer",
+        "developer"
+      ],
       "locations": []
     },
     {
@@ -201,8 +389,24 @@
       "name": "Shopify",
       "query": "engineer",
       "pages": 2,
-      "keywords": ["new grad", "early career", "junior", "engineer i,", "developer i,", "2026", "2027", "graduate"],
-      "locations": ["canada", "americas", "toronto", "ottawa", "montreal", "vancouver"]
+      "keywords": [
+        "new grad",
+        "early career",
+        "junior",
+        "engineer i,",
+        "developer i,",
+        "2026",
+        "2027",
+        "graduate"
+      ],
+      "locations": [
+        "canada",
+        "americas",
+        "toronto",
+        "ottawa",
+        "montreal",
+        "vancouver"
+      ]
     },
     {
       "type": "workday",
@@ -213,7 +417,15 @@
       "search": "software engineer",
       "country": "CAN",
       "pages": 3,
-      "keywords": ["engineer i,", "developer i,", "new grad", "early career", "graduate", "junior", "associate software"],
+      "keywords": [
+        "engineer i,",
+        "developer i,",
+        "new grad",
+        "early career",
+        "graduate",
+        "junior",
+        "associate software"
+      ],
       "locations": []
     },
     {
@@ -223,13 +435,42 @@
       "search": "software engineer",
       "country": "Canada",
       "size": 50,
-      "keywords": ["engineer i,", "developer i,", "new grad", "early career", "early talent", "graduate", "junior", "associate software"],
+      "keywords": [
+        "engineer i,",
+        "developer i,",
+        "new grad",
+        "early career",
+        "early talent",
+        "graduate",
+        "junior",
+        "associate software"
+      ],
       "locations": []
     },
-    { "type": "ashby", "name": "Wealthsimple", "board": "wealthsimple" },
-    { "type": "ashby", "name": "Cohere", "board": "cohere" },
-    { "type": "ashby", "name": "OpenAI", "board": "openai" },
-    { "type": "ashby", "name": "Ramp", "board": "ramp" },
-    { "type": "ashby", "name": "Linear", "board": "linear" }
+    {
+      "type": "ashby",
+      "name": "Wealthsimple",
+      "board": "wealthsimple"
+    },
+    {
+      "type": "ashby",
+      "name": "Cohere",
+      "board": "cohere"
+    },
+    {
+      "type": "ashby",
+      "name": "OpenAI",
+      "board": "openai"
+    },
+    {
+      "type": "ashby",
+      "name": "Ramp",
+      "board": "ramp"
+    },
+    {
+      "type": "ashby",
+      "name": "Linear",
+      "board": "linear"
+    }
   ]
 }

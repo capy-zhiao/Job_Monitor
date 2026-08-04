@@ -101,3 +101,38 @@ class RecruiteeTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class GithubListingsTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.get_json")
+    def test_filters_and_dedupes_across_lists(self, get_json):
+        import time
+        now = int(time.time())
+        listing = {
+            "id": "aaa",
+            "company_name": "Acme",
+            "title": "Software Engineer New Grad",
+            "locations": ["Toronto, ON, Canada"],
+            "url": "https://example.com/j/1?ref=x",
+            "active": True,
+            "is_visible": True,
+            "date_posted": now,
+            "sponsorship": "Other",
+        }
+        get_json.side_effect = [
+            [
+                listing,
+                {**listing, "id": "bbb", "title": "Old", "date_posted": now - 90 * 86400},
+                {**listing, "id": "ccc", "title": "Inactive", "active": False},
+                {**listing, "id": "ddd", "title": "US only",
+                 "url": "https://example.com/j/2",
+                 "sponsorship": "U.S. Citizenship is Required"},
+            ],
+            [{**listing, "id": "eee"}],  # second list repeats the same apply URL
+        ]
+        jobs = fetchers.fetch_github_listings({"urls": ["u1", "u2"]})
+        self.assertEqual(len(jobs), 1)
+        job = jobs[0]
+        self.assertEqual(job.uid, "ghlist:https://example.com/j/1")
+        self.assertEqual(job.company, "Acme")
+        self.assertEqual(job.location, "Toronto, ON, Canada")
