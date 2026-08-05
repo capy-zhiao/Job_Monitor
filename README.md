@@ -29,6 +29,7 @@ already seen, and pings me on Discord when a new one shows up.
 | `recruitee` | `<board>.recruitee.com/api/offers/`                         | Huawei Canada                             |
 | `google`    | Google Careers results page (HTML scrape)                    | Google                                    |
 | `shopify`   | Shopify Careers page (HTML scrape)                           | Shopify                                   |
+| `github_listings` | `listings.json` from community new-grad list repos      | SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027 |
 
 ## Project layout
 
@@ -131,6 +132,30 @@ odd titles, for example a security-only search at Amazon:
   "keywords": ["security engineer i,", "new grad", "early career"]
 }
 ```
+
+**Subscribe to the GitHub new-grad lists.** The `github_listings` type reads the
+structured `listings.json` that the community-maintained new-grad repos generate
+their README tables from, so every posting the crowd tracks lands in the same
+Discord channel as the company feeds. One source entry covers any number of
+list repos; postings appearing in several lists are de-duplicated by apply URL,
+listings marked as requiring U.S. citizenship are dropped at the source, and
+`max_age_days` keeps the initial backfill sane:
+
+```json
+{
+  "type": "github_listings",
+  "name": "GitHub New-Grad Lists",
+  "urls": [
+    "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+    "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/main/.github/scripts/listings.json"
+  ],
+  "max_age_days": 30
+}
+```
+
+Note the branch in each raw URL (Simplify uses `dev`, not `main`). If a list
+starts returning 404, check whether the repo moved the file or renamed its
+default branch.
 
 A good loop is: run `python3 run.py --dry-run`, look at how many jobs each source
 returns and how many match, then tighten or loosen the keywords until the matches
