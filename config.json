@@ -28,7 +28,15 @@
     "research engineer",
     "applied scientist",
     "security researcher",
-    "security research"
+    "security research",
+    "intermediate",
+    "engineer ii,",
+    "engineer ii ",
+    "engineer 2",
+    "sde ii",
+    "developer ii,",
+    "developer ii ",
+    "developer 2"
   ],
   "exclude_keywords": [
     "senior",
@@ -373,18 +381,6 @@
       "company": "plusgrade"
     },
     {
-      "type": "google",
-      "name": "Google",
-      "query": "software engineer",
-      "location": "Canada",
-      "target_level": "EARLY",
-      "keywords": [
-        "engineer",
-        "developer"
-      ],
-      "locations": []
-    },
-    {
       "type": "shopify",
       "name": "Shopify",
       "query": "engineer",
@@ -471,6 +467,60 @@
       "type": "ashby",
       "name": "Linear",
       "board": "linear"
+    },
+    {
+      "type": "workday",
+      "name": "NVIDIA",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "search": "software",
+      "pages": 2,
+      "facets": {
+        "locationHierarchy1": [
+          "2fcb99c455831013ea529c3b93ba3236"
+        ]
+      }
+    },
+    {
+      "type": "microsoft",
+      "name": "Microsoft",
+      "query": "software",
+      "location": "Canada",
+      "pages": 3
+    },
+    {
+      "type": "microsoft",
+      "name": "Microsoft (Security)",
+      "query": "security",
+      "location": "Canada",
+      "pages": 2
+    },
+    {
+      "type": "apple",
+      "name": "Apple",
+      "query": "software engineer",
+      "pages": 2
+    },
+    {
+      "type": "apple",
+      "name": "Apple (ML/Security)",
+      "query": "security machine learning",
+      "pages": 2
+    },
+    {
+      "type": "google",
+      "name": "Google",
+      "query": "software engineer",
+      "location": "Canada",
+      "pages": 2
+    },
+    {
+      "type": "google",
+      "name": "Google (Security)",
+      "query": "security engineer",
+      "location": "Canada",
+      "pages": 2
     }
   ]
 }

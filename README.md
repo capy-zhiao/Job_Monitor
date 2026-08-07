@@ -27,7 +27,9 @@ already seen, and pings me on Discord when a new one shows up.
 | `phenom`    | `<host>/widgets`                                             | RBC                                       |
 | `eightfold` | `<host>/api/apply/v2/jobs`                                   | Netflix                                   |
 | `recruitee` | `<board>.recruitee.com/api/offers/`                         | Huawei Canada                             |
-| `google`    | Google Careers results page (HTML scrape)                    | Google                                    |
+| `google`    | Careers batchexecute RPC (`r06xKb`), JSON behind the results page | Google                               |
+| `microsoft` | `apply.careers.microsoft.com/api/pcsx/search` (Eightfold)    | Microsoft                                 |
+| `apple`     | `jobs.apple.com/api/v1/search`                               | Apple                                     |
 | `shopify`   | Shopify Careers page (HTML scrape)                           | Shopify                                   |
 | `github_listings` | `listings.json` from community new-grad list repos      | SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027 |
 
@@ -156,6 +158,26 @@ listings marked as requiring U.S. citizenship are dropped at the source, and
 Note the branch in each raw URL (Simplify uses `dev`, not `main`). If a list
 starts returning 404, check whether the repo moved the file or renamed its
 default branch.
+
+**Big-tech direct sources.** Microsoft, Apple, and Google don't use a standard
+ATS, so each has a dedicated fetcher (verified 2026-08). Quirks worth knowing
+when they break:
+
+- `microsoft` — Eightfold PCSX API, GET with `query`/`location` params. Page
+  size is pinned to 10 (`num` below 10 is ignored). The pre-2026
+  `gcsservices.careers.microsoft.com` endpoint is dead (stale TLS cert).
+- `apple` — POST `api/v1/search`; the body must include the `sort` and
+  `format` keys or the API silently returns zero results. Multi-location
+  postings repeat per location; the fetcher dedupes on `positionId`.
+- `google` — the careers page is a JS app; jobs come from a `batchexecute`
+  RPC with a double-encoded `f.req` form field and a `)]}'` response prefix.
+  The old `target_level=EARLY` server-side filter is defunct; entry-level
+  filtering is client-side on titles like every other source.
+- Workday tenants with custom facet GUIDs (e.g. NVIDIA's `locationHierarchy1`)
+  can pass them via a raw `facets` object on the source entry.
+
+Overlapping queries (e.g. "Microsoft" + "Microsoft (Security)") may return the
+same posting; `collect_matches` dedupes globally on uid before notifying.
 
 A good loop is: run `python3 run.py --dry-run`, look at how many jobs each source
 returns and how many match, then tighten or loosen the keywords until the matches

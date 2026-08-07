@@ -41,6 +41,9 @@ def collect_matches(config):
         cfg = json.load(f)
 
     matched, errors = [], []
+    # One posting can surface through several sources (overlapping queries) or
+    # repeat within one (Workday pagination echoes) — dedupe globally on uid.
+    seen_uids = set()
     for source in cfg["sources"]:
         label = source.get("name", source["type"])
         try:
@@ -59,7 +62,10 @@ def collect_matches(config):
             and location_ok(job.location, locations)
         ]
         print(f"[{label}] {len(jobs)} jobs fetched, {len(hits)} match keywords")
-        matched.extend(hits)
+        for job in hits:
+            if job.uid not in seen_uids:
+                seen_uids.add(job.uid)
+                matched.append(job)
     return matched, errors
 
 

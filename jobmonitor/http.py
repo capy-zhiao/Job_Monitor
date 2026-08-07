@@ -46,3 +46,20 @@ def post_json(url, payload):
 def post_json_response(url, payload):
     """POST a JSON payload and parse the response body as JSON."""
     return json.loads(post_json(url, payload).decode("utf-8"))
+
+
+def post_form(url, fields):
+    """POST a form-encoded payload and return the response body as text."""
+    import urllib.parse
+
+    data = urllib.parse.urlencode(fields).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            "user-agent": USER_AGENT,
+            "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+        },
+    )
+    with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+        return resp.read().decode("utf-8", errors="replace")

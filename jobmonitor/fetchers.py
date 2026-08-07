@@ -113,11 +113,13 @@ WORKDAY_COUNTRY_FACETS = {
 def fetch_workday(source):
     """Workday CXS jobs API. Companies: TD, CrowdStrike, Trend Micro, Arctic Wolf, ...
 
-    source: host, tenant, site, search, country (optional), pages (optional)
+    source: host, tenant, site, search, country (optional), pages (optional),
+    facets (optional dict of raw appliedFacets for tenants with custom facet
+    GUIDs, e.g. NVIDIA's locationHierarchy1)
     """
     host, tenant, site = source["host"], source["tenant"], source["site"]
     url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
-    facets = {}
+    facets = dict(source.get("facets", {}))
     if source.get("country") in WORKDAY_COUNTRY_FACETS:
         facets["locationCountry"] = [WORKDAY_COUNTRY_FACETS[source["country"]]]
     jobs = []
@@ -240,40 +242,155 @@ def fetch_recruitee(source):
 
 
 def fetch_google(source):
-    """Google Careers results page (HTML scrape; no public API).
+    """Google Careers batchexecute RPC (the XHR behind the results page).
 
-    source: query, location (optional), target_level (optional, e.g. "EARLY")
+    source: query, location (optional, e.g. "Canada"), pages (optional)
+
+    The results page is a JS app; job data comes from the r06xKb RPC. The
+    request is double-encoded (f.req is JSON whose inner element is itself a
+    JSON string) and the response starts with an anti-JSON )]}' prefix.
+    The old target_level=EARLY server-side facet is defunct — entry-level
+    filtering happens client-side on titles like every other source.
     """
-    params = {"q": source.get("query", "software engineer")}
-    if source.get("location"):
-        params["location"] = source["location"]
-    if source.get("target_level"):
-        params["target_level"] = source["target_level"]
+    import json as _json
+
     url = (
-        "https://www.google.com/about/careers/applications/jobs/results?"
-        + urllib.parse.urlencode(params)
+        "https://www.google.com/about/careers/applications/_/HiringCportalFrontendUi"
+        "/data/batchexecute?rpcids=r06xKb&source-path=%2Fabout%2Fcareers%2Fapplications"
+        "%2Fjobs%2Fresults&hl=en-US"
     )
-    html = http.get_text(url)
-    jobs, seen_ids = [], set()
-    for match in re.finditer(r"<a[^>]*>", html):
-        tag = match.group(0)
-        href = re.search(r'href="(jobs/results/(\d+)[^"?]*)', tag)
-        label = re.search(r'aria-label="Learn more about ([^"]+)"', tag)
-        if not href or not label:
-            continue
-        job_id = href.group(2)
-        if job_id in seen_ids:
-            continue
-        seen_ids.add(job_id)
-        jobs.append(
-            Job(
-                uid=f"google:{job_id}",
-                company=source.get("name", "Google"),
-                title=label.group(1),
-                location=source.get("location", ""),
-                url="https://www.google.com/about/careers/applications/" + href.group(1),
-            )
+    location = source.get("location")
+    jobs = []
+    for page in range(1, source.get("pages", 2) + 1):
+        inner = [[
+            source.get("query", "software engineer"),
+            None, None, None, "en-US", None,
+            [[location]] if location else None,
+            page,
+        ]]
+        freq = _json.dumps([[["r06xKb", _json.dumps(inner), None, "generic"]]])
+        text = http.post_form(url, {"f.req": freq})
+        if text.startswith(")]}'"):
+            text = text[4:]
+        payload, _ = _json.JSONDecoder().raw_decode(text.lstrip())
+        row = next(
+            (r for r in payload if isinstance(r, list) and r and r[0] == "wrb.fr" and r[1] == "r06xKb"),
+            None,
         )
+        if row is None or not row[2]:
+            break
+        result = _json.loads(row[2])
+        postings = result[0] or []
+        if not postings:
+            break
+        for j in postings:
+            job_id = str(j[0])
+            title = j[1] or ""
+            locs = j[9] or []
+            canadian = [l[0] for l in locs if len(l) > 5 and l[5] == "CA"]
+            display = canadian or [l[0] for l in locs if l]
+            slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+            jobs.append(
+                Job(
+                    uid=f"google:{job_id}",
+                    company=source.get("name", "Google"),
+                    title=title,
+                    location="; ".join(display),
+                    url=f"https://www.google.com/about/careers/applications/jobs/results/{job_id}-{slug}",
+                )
+            )
+        if len(postings) < 20:
+            break
+    return jobs
+
+
+def fetch_microsoft(source):
+    """Microsoft careers via the Eightfold PCSX search API.
+
+    source: query, location (optional, e.g. "Canada"), pages (optional)
+
+    The pre-2026 gcsservices.careers.microsoft.com endpoint is dead (stale
+    azureedge.net TLS cert). Page size is fixed at 10 (num below 10 is ignored).
+    """
+    jobs = []
+    for page in range(source.get("pages", 2)):
+        params = {
+            "domain": "microsoft.com",
+            "query": source.get("query", "software engineer"),
+            "start": str(page * 10),
+            "num": "10",
+            "sort_by": "relevance",
+        }
+        if source.get("location"):
+            params["location"] = source["location"]
+        url = "https://apply.careers.microsoft.com/api/pcsx/search?" + urllib.parse.urlencode(params)
+        data = http.get_json(url)
+        positions = (data.get("data") or {}).get("positions") or []
+        if not positions:
+            break
+        for j in positions:
+            job_id = str(j.get("id", ""))
+            jobs.append(
+                Job(
+                    uid=f"microsoft:{job_id}",
+                    company=source.get("name", "Microsoft"),
+                    title=j.get("name", ""),
+                    location="; ".join(j.get("locations") or []),
+                    url=f"https://apply.careers.microsoft.com/careers/job/{job_id}",
+                )
+            )
+        if len(positions) < 10:
+            break
+    return jobs
+
+
+def fetch_apple(source):
+    """Apple jobs search API at jobs.apple.com.
+
+    source: query, location (optional postLocation id, default Canada), pages (optional)
+
+    The body must carry "sort" and "format" exactly as the site's client sends
+    them — omitting either returns HTTP 200 with zero results rather than an
+    error. Multi-location postings repeat per location with the same
+    positionId, so dedupe on positionId.
+    """
+    jobs, seen_positions = [], set()
+    for page in range(1, source.get("pages", 2) + 1):
+        payload = {
+            "query": source.get("query", "software engineer"),
+            "filters": {"locations": [source.get("location", "postLocation-CANC")]},
+            "page": page,
+            "locale": "en-ca",
+            "sort": "newest",
+            "format": {"longDate": "MMMM D, YYYY", "mediumDate": "MMM D, YYYY"},
+        }
+        data = http.post_json_response("https://jobs.apple.com/api/v1/search", payload)
+        results = (data.get("res") or {}).get("searchResults") or []
+        if not results:
+            break
+        for j in results:
+            position_id = str(j.get("positionId", ""))
+            if not position_id or position_id in seen_positions:
+                continue
+            seen_positions.add(position_id)
+            loc = (j.get("locations") or [{}])[0]
+            location = ", ".join(x for x in [loc.get("name"), loc.get("countryName")] if x)
+            slug = j.get("transformedPostingTitle", "")
+            team = (j.get("team") or {}).get("teamCode", "")
+            url = f"https://jobs.apple.com/en-ca/details/{position_id}/{slug}"
+            if team:
+                url += f"?team={team}"
+            jobs.append(
+                Job(
+                    uid=f"apple:{position_id}",
+                    company=source.get("name", "Apple"),
+                    title=(j.get("postingTitle") or "").strip(),
+                    location=location,
+                    url=url,
+                )
+            )
+        if len(results) < 20:
+            break
     return jobs
 
 
@@ -351,6 +468,8 @@ def fetch_github_listings(source):
 
 FETCHERS = {
     "github_listings": fetch_github_listings,
+    "microsoft": fetch_microsoft,
+    "apple": fetch_apple,
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "ashby": fetch_ashby,

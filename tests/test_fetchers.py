@@ -136,3 +136,62 @@ class GithubListingsTest(unittest.TestCase):
         self.assertEqual(job.uid, "ghlist:https://example.com/j/1")
         self.assertEqual(job.company, "Acme")
         self.assertEqual(job.location, "Toronto, ON, Canada")
+
+
+class MicrosoftTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.get_json")
+    def test_normalizes_and_paginates(self, get_json):
+        page1 = {"data": {"positions": [
+            {"id": 111, "name": "Software Engineer II", "locations": ["Canada, BC, Vancouver"]},
+        ]}}
+        get_json.return_value = page1
+        jobs = fetchers.fetch_microsoft({"query": "software", "location": "Canada", "pages": 2})
+        self.assertEqual(len(jobs), 1)
+        job = jobs[0]
+        self.assertEqual(job.uid, "microsoft:111")
+        self.assertEqual(job.title, "Software Engineer II")
+        self.assertEqual(job.location, "Canada, BC, Vancouver")
+        self.assertTrue(job.url.endswith("/careers/job/111"))
+        self.assertEqual(get_json.call_count, 1)
+
+
+class AppleTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.post_json_response")
+    def test_dedupes_on_position_id(self, post):
+        post.return_value = {"res": {"searchResults": [
+            {"positionId": "2001", "postingTitle": "Software Engineer ",
+             "transformedPostingTitle": "software-engineer",
+             "team": {"teamCode": "SFTWR"},
+             "locations": [{"name": "Vancouver", "countryName": "Canada"}]},
+            {"positionId": "2001", "postingTitle": "Software Engineer",
+             "transformedPostingTitle": "software-engineer",
+             "team": {"teamCode": "SFTWR"},
+             "locations": [{"name": "Toronto", "countryName": "Canada"}]},
+        ]}}
+        jobs = fetchers.fetch_apple({"query": "software engineer", "pages": 1})
+        self.assertEqual(len(jobs), 1)
+        job = jobs[0]
+        self.assertEqual(job.uid, "apple:2001")
+        self.assertEqual(job.title, "Software Engineer")
+        self.assertEqual(job.location, "Vancouver, Canada")
+        self.assertEqual(job.url, "https://jobs.apple.com/en-ca/details/2001/software-engineer?team=SFTWR")
+
+
+class GoogleTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.post_form")
+    def test_parses_batchexecute_envelope(self, post_form):
+        import json as j
+        inner = j.dumps([[
+            ["9001", "Software Developer II", None, None, None, None, None, "Google", None,
+             [["Waterloo, ON, Canada", [], "Waterloo", "", "ON", "CA"],
+              ["San Jose, CA, USA", [], "San Jose", "", "CA", "US"]]],
+        ], None, 1])
+        body = ")]}'\n" + j.dumps([["wrb.fr", "r06xKb", inner, None, None, None, "generic"]])
+        post_form.return_value = body
+        jobs = fetchers.fetch_google({"query": "software", "location": "Canada", "pages": 1})
+        self.assertEqual(len(jobs), 1)
+        job = jobs[0]
+        self.assertEqual(job.uid, "google:9001")
+        self.assertEqual(job.title, "Software Developer II")
+        self.assertEqual(job.location, "Waterloo, ON, Canada")
+        self.assertEqual(job.url, "https://www.google.com/about/careers/applications/jobs/results/9001-software-developer-ii")
