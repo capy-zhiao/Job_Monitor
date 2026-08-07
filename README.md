@@ -24,7 +24,7 @@ already seen, and pings me on Discord when a new one shows up.
 | `ashby`     | `api.ashbyhq.com/posting-api/job-board/<board>`             | OpenAI, Cohere, 1Password, Vanta          |
 | `amazon`    | `amazon.jobs/en/search.json`                                 | Amazon                                    |
 | `workday`   | `<host>/wday/cxs/<tenant>/<site>/jobs`                       | TD, CrowdStrike, Trend Micro, Arctic Wolf |
-| `phenom`    | `<host>/widgets`                                             | RBC                                       |
+| `phenom`    | `<host>/widgets`                                             | RBC, eBay                                 |
 | `eightfold` | `<host>/api/apply/v2/jobs`                                   | Netflix                                   |
 | `recruitee` | `<board>.recruitee.com/api/offers/`                         | Huawei Canada                             |
 | `google`    | Careers batchexecute RPC (`r06xKb`), JSON behind the results page | Google                               |

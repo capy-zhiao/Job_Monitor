@@ -36,7 +36,10 @@
     "sde ii",
     "developer ii,",
     "developer ii ",
-    "developer 2"
+    "developer 2",
+    "applied researcher",
+    "researcher 1",
+    "researcher 2"
   ],
   "exclude_keywords": [
     "senior",
@@ -521,6 +524,30 @@
       "query": "security engineer",
       "location": "Canada",
       "pages": 2
+    },
+    {
+      "type": "phenom",
+      "name": "eBay",
+      "host": "jobs.ebayinc.com",
+      "search": "software engineer",
+      "country": "Canada",
+      "size": 50
+    },
+    {
+      "type": "phenom",
+      "name": "eBay (Research)",
+      "host": "jobs.ebayinc.com",
+      "search": "researcher",
+      "country": "Canada",
+      "size": 20
+    },
+    {
+      "type": "phenom",
+      "name": "eBay (Security)",
+      "host": "jobs.ebayinc.com",
+      "search": "security engineer",
+      "country": "Canada",
+      "size": 20
     }
   ]
 }
