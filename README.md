@@ -183,7 +183,7 @@ A good loop is: run `python3 run.py --dry-run`, look at how many jobs each sourc
 returns and how many match, then tighten or loosen the keywords until the matches
 are the ones you would actually apply to. Only then schedule it.
 
-How to test if it is still running : `tail -3 /tmp/job_monitor.log`
+How to test if it is still running: `tail -3 /tmp/job_monitor.log`
 
 ## Tests
 
@@ -206,8 +206,8 @@ platform's response parsing.
 */15 * * * * DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/xxxx/yyyy" /usr/bin/python3 /path/to/job_monitor/run.py >> /tmp/job_monitor.log 2>&1
 ```
 
-**GitHub Actions** (recommended, runs without your machine): push this repo to a
-private GitHub repository, add `DISCORD_WEBHOOK_URL` as a repository secret, and
+**GitHub Actions** (recommended, runs without your machine): push this repo to
+your own GitHub repository, add `DISCORD_WEBHOOK_URL` as a repository secret, and
 the included `.github/workflows/monitor.yml` runs every 15 minutes and commits
 `seen.json` back to persist state.
 
