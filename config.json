@@ -540,6 +540,41 @@
       "search": "security engineer",
       "country": "Canada",
       "size": 20
+    },
+    {
+      "type": "greenhouse",
+      "name": "Waymo",
+      "board": "waymo"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Google DeepMind",
+      "board": "deepmind"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Wing",
+      "board": "wing"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Isomorphic Labs",
+      "board": "isomorphiclabs"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Intrinsic",
+      "board": "intrinsicrobotics"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Calico",
+      "board": "calicolabs"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Google Fiber",
+      "board": "googlefiber"
     }
   ]
 }
