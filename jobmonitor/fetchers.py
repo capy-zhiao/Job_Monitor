@@ -481,3 +481,322 @@ FETCHERS = {
     "google": fetch_google,
     "shopify": fetch_shopify,
 }
+
+
+# --- Fetchers ported from the AFM monitor (shared lineage) ---
+
+def fetch_successfactors(source):
+    """SAP SuccessFactors career sites (jobs2web) public RSS feed.
+    Companies: Scotiabank, Deloitte Canada, EY, ...
+
+    source: host, search, location_search (optional, e.g. "Canada" or
+    '"United States"'). Feed caps at 20 items, newest first — poll and dedupe.
+    """
+    import xml.etree.ElementTree as ET
+
+    keywords = f"({source.get('search', 'financial analyst')})"
+    if source.get("location_search"):
+        keywords += f" AND locationSearch:({source['location_search']})"
+    url = (
+        f"https://{source['host']}/services/rss/job/?"
+        + urllib.parse.urlencode({"locale": "en_US", "keywords": keywords})
+    )
+    root = ET.fromstring(http.get_text(url))
+    jobs = []
+    for item in root.iter("item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").split("?")[0]
+        id_match = re.search(r"/(\d+)/?$", link)
+        # Title carries location as a trailing "(City, Prov, CC, Postal)".
+        location = ""
+        loc_match = re.search(r"\(([^()]*)\)\s*$", title)
+        if loc_match and ("," in loc_match.group(1)):
+            location = loc_match.group(1)
+            title = title[: loc_match.start()].strip()
+        if not id_match or not title:
+            continue
+        jobs.append(
+            Job(
+                uid=f"sf:{source['host']}:{id_match.group(1)}",
+                company=source.get("name", source["host"]),
+                title=title,
+                location=location,
+                url=link,
+            )
+        )
+    return jobs
+
+
+def fetch_icims(source):
+    """iCIMS Career Sites (formerly Jibe) public JSON API.
+    Companies: KPMG Canada, Costco, ...
+
+    source: host, query (optional; some hosts ignore it server-side),
+    job_path (optional, default "/jobs/"), pages (optional)
+    """
+    jobs = []
+    for page in range(1, source.get("pages", 1) + 1):
+        params = {
+            "page": str(page),
+            "limit": "100",
+            "sortBy": "posted_date",
+            "descending": "true",
+        }
+        if source.get("query"):
+            params["keywords"] = source["query"]
+        if source.get("location"):
+            params["location"] = source["location"]
+        data = http.get_json(f"https://{source['host']}/api/jobs?" + urllib.parse.urlencode(params))
+        page_jobs = data.get("jobs") or []
+        if not page_jobs:
+            break
+        for j in page_jobs:
+            d = j.get("data") or {}
+            slug = d.get("slug", "")
+            if not slug:
+                continue
+            location = ", ".join(x for x in [d.get("city"), d.get("state"), d.get("country")] if x)
+            jobs.append(
+                Job(
+                    uid=f"icims:{source['host']}:{d.get('req_id') or slug}",
+                    company=source.get("name", source["host"]),
+                    title=d.get("title", ""),
+                    location=location,
+                    url=f"https://{source['host']}{source.get('job_path', '/jobs/')}{slug}",
+                )
+            )
+    return jobs
+
+
+def fetch_oracle(source):
+    """Oracle Recruiting Cloud (ORC) public REST API.
+    Companies: JPMorgan Chase, Lazard, ...
+
+    source: host, site_number (e.g. "CX_1001"), search, location (optional),
+    site_slug (optional, defaults to site_number), pages (optional)
+    """
+    jobs = []
+    slug = source.get("site_slug", source["site_number"])
+    for page in range(source.get("pages", 1)):
+        finder = (
+            f"findReqs;siteNumber={source['site_number']},limit=25,"
+            f"offset={page * 25},keyword={urllib.parse.quote(source.get('search', 'financial analyst'))}"
+        )
+        if source.get("location"):
+            finder += f",location={urllib.parse.quote(source['location'])}"
+        # Without the expand param the API omits requisitionList entirely.
+        url = (
+            f"https://{source['host']}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+            f"?onlyData=true&expand=requisitionList&finder={finder}"
+        )
+        data = http.get_json(url)
+        items = data.get("items") or [{}]
+        reqs = items[0].get("requisitionList") or []
+        if not reqs:
+            break
+        for j in reqs:
+            jobs.append(
+                Job(
+                    uid=f"oracle:{source['host']}:{j.get('Id')}",
+                    company=source.get("name", source["host"]),
+                    title=j.get("Title", ""),
+                    location=j.get("PrimaryLocation", "") or "",
+                    url=f"https://{source['host']}/hcmUI/CandidateExperience/en/sites/{slug}/job/{j.get('Id')}",
+                )
+            )
+        if len(reqs) < 25:
+            break
+    return jobs
+
+
+# Cities scanned in Oleeo feed content to synthesize a location string —
+# the Atom entries carry location only inside free-text description HTML.
+OLEEO_CITIES = [
+    "New York", "Toronto", "Vancouver", "Montreal", "Calgary", "San Francisco",
+    "Los Angeles", "San Diego", "Menlo Park", "Palo Alto", "Chicago", "Houston",
+    "Dallas", "Boston", "Charlotte", "Miami", "Washington", "Minneapolis",
+    "Jersey City", "Philadelphia", "Stamford", "Greenwich", "Salt Lake City",
+    "Austin", "Seattle", "Buffalo", "Ottawa", "Waterloo", "Kitchener",
+    "London", "Paris", "Frankfurt", "Dubai", "Hong Kong", "Singapore", "Tokyo",
+]
+
+
+def fetch_pcsx(source):
+    """Generic Eightfold PCSX search API (same engine as fetch_microsoft).
+    Companies: Morgan Stanley, ...
+
+    source: host, domain, query, location (optional), pages (optional)
+    """
+    jobs = []
+    for page in range(source.get("pages", 2)):
+        params = {
+            "domain": source["domain"],
+            "query": source.get("query", "financial analyst"),
+            "start": str(page * 10),
+            "num": "10",
+            "sort_by": "relevance",
+        }
+        if source.get("location"):
+            params["location"] = source["location"]
+        data = http.get_json(f"https://{source['host']}/api/pcsx/search?" + urllib.parse.urlencode(params))
+        positions = (data.get("data") or {}).get("positions") or []
+        if not positions:
+            break
+        for j in positions:
+            job_id = str(j.get("id", ""))
+            path = j.get("positionUrl") or f"/careers/job/{job_id}"
+            jobs.append(
+                Job(
+                    uid=f"pcsx:{source['host']}:{job_id}",
+                    company=source.get("name", source["host"]),
+                    title=j.get("name", ""),
+                    location="; ".join(j.get("locations") or []),
+                    url=f"https://{source['host']}{path}",
+                )
+            )
+        if len(positions) < 10:
+            break
+    return jobs
+
+
+
+def fetch_dayforce(source):
+    """Dayforce public job-feed API. Companies: eSentire, ...
+
+    source: host (region host, e.g. can60.dayforcehcm.com), company (client
+    namespace), country (optional ISO-2 client-side filter)
+    """
+    data = http.get_json(f"https://{source['host']}/Api/{source['company']}/V1/JobFeeds")
+    jobs = []
+    for j in data:
+        if source.get("country") and j.get("Country") != source["country"]:
+            continue
+        location = ", ".join(x for x in [j.get("City"), j.get("State"), j.get("Country")] if x)
+        jobs.append(
+            Job(
+                uid=f"dayforce:{source['company']}:{j.get('ReferenceNumber')}",
+                company=source.get("name", source["company"]),
+                title=j.get("Title", ""),
+                location=location,
+                url=j.get("JobDetailsUrl", ""),
+            )
+        )
+    return jobs
+
+
+def fetch_smartrecruiters(source):
+    """SmartRecruiters public postings API. Companies: ServiceNow, ...
+
+    source: company (identifier), country (optional alpha-2), query (optional),
+    limit (optional)
+    """
+    params = {"limit": str(source.get("limit", 100)), "offset": "0"}
+    if source.get("country"):
+        params["country"] = source["country"]
+    if source.get("query"):
+        params["q"] = source["query"]
+    data = http.get_json(
+        f"https://api.smartrecruiters.com/v1/companies/{source['company']}/postings?"
+        + urllib.parse.urlencode(params)
+    )
+    jobs = []
+    for j in data.get("content", []):
+        loc = j.get("location") or {}
+        location = loc.get("fullLocation") or ", ".join(
+            x for x in [loc.get("city"), loc.get("region"), loc.get("country")] if x
+        )
+        jobs.append(
+            Job(
+                uid=f"smartrecruiters:{source['company']}:{j.get('id')}",
+                company=source.get("name", source["company"]),
+                title=j.get("name", ""),
+                location=location,
+                url=f"https://jobs.smartrecruiters.com/{source['company']}/{j.get('id')}",
+            )
+        )
+    return jobs
+
+
+def fetch_jazzhr(source):
+    """JazzHR hosted job board (applytojob.com). Companies: Xanadu, ...
+
+    source: board (subdomain)
+    """
+    board = source["board"]
+    html = http.get_text(f"https://{board}.applytojob.com/apply")
+    jobs = []
+    for m in re.finditer(
+        rf'<a href="(https://{board}\.applytojob\.com/apply/([A-Za-z0-9]+)/[^"]*)"[^>]*>([\s\S]*?)</a>',
+        html,
+    ):
+        url, job_id, inner = m.groups()
+        title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", inner)).strip().replace("&amp;", "&")
+        if not title:
+            continue
+        window = html[m.end(): m.end() + 400]
+        loc_m = re.search(r"map-marker[^>]*></i>\s*([^<]+)</li>", window)
+        jobs.append(
+            Job(
+                uid=f"jazzhr:{board}:{job_id}",
+                company=source.get("name", board),
+                title=title,
+                location=loc_m.group(1).strip().replace("&amp;", "&") if loc_m else "",
+                url=url,
+            )
+        )
+    return jobs
+
+
+def fetch_ibm(source):
+    """IBM in-house careers search (Elasticsearch proxy at www-api.ibm.com).
+
+    source: query, country (optional, e.g. "Canada"), level (optional, e.g.
+    "Entry Level"), size (optional)
+    """
+    filters = []
+    if source.get("country"):
+        filters.append({"term": {"field_keyword_05": source["country"]}})
+    if source.get("level"):
+        filters.append({"term": {"field_keyword_18": source["level"]}})
+    payload = {
+        "appId": "careers",
+        "scopes": ["careers2"],
+        "query": {
+            "bool": {
+                "must": [{"multi_match": {
+                    "query": source.get("query", "software engineer"),
+                    "fields": ["title", "description"],
+                }}],
+                "filter": filters,
+            }
+        },
+        "size": source.get("size", 30),
+        "from": 0,
+        "_source": ["title", "url", "field_keyword_05", "field_keyword_18", "field_keyword_19"],
+    }
+    data = http.post_json_response("https://www-api.ibm.com/search/api/v2", payload)
+    jobs = []
+    for h in (data.get("hits") or {}).get("hits", []):
+        s = h.get("_source") or {}
+        jobs.append(
+            Job(
+                uid=f"ibm:{h.get('_id')}",
+                company=source.get("name", "IBM"),
+                title=s.get("title", ""),
+                location=s.get("field_keyword_19", "") or s.get("field_keyword_05", ""),
+                url=s.get("url", ""),
+            )
+        )
+    return jobs
+
+
+FETCHERS.update({
+    "successfactors": fetch_successfactors,
+    "icims": fetch_icims,
+    "oracle": fetch_oracle,
+    "pcsx": fetch_pcsx,
+    "dayforce": fetch_dayforce,
+    "smartrecruiters": fetch_smartrecruiters,
+    "jazzhr": fetch_jazzhr,
+    "ibm": fetch_ibm,
+})

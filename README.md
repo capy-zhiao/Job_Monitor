@@ -32,6 +32,14 @@ already seen, and pings me on Discord when a new one shows up.
 | `apple`     | `jobs.apple.com/api/v1/search`                               | Apple                                     |
 | `shopify`   | Shopify Careers page (HTML scrape)                           | Shopify                                   |
 | `github_listings` | `listings.json` from community new-grad list repos      | SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027 |
+| `successfactors` | `<host>/services/rss/job/` (jobs2web RSS)               | SAP                                       |
+| `icims`     | `<host>/api/jobs` (iCIMS Career Sites / Jibe)                | AMD                                       |
+| `oracle`    | Oracle Recruiting Cloud `recruitingCEJobRequisitions` REST   | Fortinet, Uber                            |
+| `pcsx`      | Eightfold `/api/pcsx/search`                                 | Ericsson                                  |
+| `dayforce`  | `<region>.dayforcehcm.com/Api/<client>/V1/JobFeeds`          | eSentire                                  |
+| `smartrecruiters` | `api.smartrecruiters.com/v1/companies/<X>/postings`    | ServiceNow                                |
+| `jazzhr`    | `<board>.applytojob.com/apply` (HTML)                        | Xanadu                                    |
+| `ibm`       | `www-api.ibm.com/search/api/v2` (Elasticsearch proxy)        | IBM                                       |
 
 ## Project layout
 

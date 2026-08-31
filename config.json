@@ -53,7 +53,9 @@
     "coop",
     "fellowship",
     "phd",
-    "apprentice"
+    "apprentice",
+    "intermediate",
+    " ii,"
   ],
   "locations": [
     "canada",
@@ -575,6 +577,221 @@
       "type": "greenhouse",
       "name": "Google Fiber",
       "board": "googlefiber"
+    },
+    {
+      "type": "workday",
+      "name": "BlackBerry",
+      "host": "bb.wd3.myworkdayjobs.com",
+      "tenant": "bb",
+      "site": "BlackBerry",
+      "search": "software",
+      "pages": 2,
+      "facets": {
+        "Country": [
+          "a30a87ed25634629aa6c3958aa2b91ea"
+        ]
+      }
+    },
+    {
+      "type": "workday",
+      "name": "BlackBerry (Security)",
+      "host": "bb.wd3.myworkdayjobs.com",
+      "tenant": "bb",
+      "site": "BlackBerry",
+      "search": "security",
+      "pages": 1,
+      "facets": {
+        "Country": [
+          "a30a87ed25634629aa6c3958aa2b91ea"
+        ]
+      }
+    },
+    {
+      "type": "dayforce",
+      "name": "eSentire",
+      "host": "can60.dayforcehcm.com",
+      "company": "esentire",
+      "country": "CA"
+    },
+    {
+      "type": "phenom",
+      "name": "OpenText",
+      "host": "careers.opentext.com",
+      "search": "software engineer",
+      "country": "CAN",
+      "size": 30
+    },
+    {
+      "type": "phenom",
+      "name": "OpenText (Security)",
+      "host": "careers.opentext.com",
+      "search": "security",
+      "country": "CAN",
+      "size": 20
+    },
+    {
+      "type": "oracle",
+      "name": "Fortinet",
+      "host": "edel.fa.us2.oraclecloud.com",
+      "site_number": "CX_2001",
+      "search": "software engineer",
+      "location": "Canada",
+      "pages": 2
+    },
+    {
+      "type": "oracle",
+      "name": "Fortinet (Security)",
+      "host": "edel.fa.us2.oraclecloud.com",
+      "site_number": "CX_2001",
+      "search": "security",
+      "location": "Canada",
+      "pages": 1
+    },
+    {
+      "type": "icims",
+      "name": "AMD",
+      "host": "careers.amd.com",
+      "query": "software engineer",
+      "location": "Canada",
+      "job_path": "/careers-home/jobs/",
+      "pages": 2
+    },
+    {
+      "type": "icims",
+      "name": "AMD (Security)",
+      "host": "careers.amd.com",
+      "query": "security",
+      "location": "Canada",
+      "job_path": "/careers-home/jobs/",
+      "pages": 1
+    },
+    {
+      "type": "workday",
+      "name": "Intel",
+      "host": "intel.wd1.myworkdayjobs.com",
+      "tenant": "intel",
+      "site": "External",
+      "search": "",
+      "pages": 1,
+      "facets": {
+        "locations": [
+          "3d7e019f2bb20100b6accdbea05c0000"
+        ]
+      }
+    },
+    {
+      "type": "phenom",
+      "name": "Cisco",
+      "host": "careers.cisco.com",
+      "search": "software engineer",
+      "country": "Canada",
+      "size": 30
+    },
+    {
+      "type": "phenom",
+      "name": "Cisco (Security)",
+      "host": "careers.cisco.com",
+      "search": "security",
+      "country": "Canada",
+      "size": 20
+    },
+    {
+      "type": "ibm",
+      "name": "IBM Canada",
+      "query": "software engineer developer",
+      "country": "Canada",
+      "size": 30
+    },
+    {
+      "type": "successfactors",
+      "name": "SAP",
+      "host": "jobs.sap.com",
+      "search": "software engineer",
+      "location_search": "Canada"
+    },
+    {
+      "type": "oracle",
+      "name": "Uber",
+      "host": "iaziqy.fa.ocs.oraclecloud.com",
+      "site_number": "CX_1",
+      "search": "engineer",
+      "location": "Canada",
+      "pages": 2
+    },
+    {
+      "type": "phenom",
+      "name": "Snowflake",
+      "host": "careers.snowflake.com",
+      "search": "software engineer",
+      "country": "Canada",
+      "size": 30
+    },
+    {
+      "type": "workday",
+      "name": "Autodesk",
+      "host": "autodesk.wd1.myworkdayjobs.com",
+      "tenant": "autodesk",
+      "site": "Ext",
+      "search": "software engineer",
+      "country": "CAN",
+      "pages": 2
+    },
+    {
+      "type": "workday",
+      "name": "Snap",
+      "host": "snapchat.wd1.myworkdayjobs.com",
+      "tenant": "snapchat",
+      "site": "snap",
+      "search": "software engineer",
+      "pages": 1,
+      "facets": {
+        "locations": [
+          "efe1a86507310102b650ed73030a9537"
+        ]
+      }
+    },
+    {
+      "type": "ashby",
+      "name": "Cerebras",
+      "board": "cerebras"
+    },
+    {
+      "type": "jazzhr",
+      "name": "Xanadu",
+      "board": "xanadu"
+    },
+    {
+      "type": "phenom",
+      "name": "Borealis AI (RBC)",
+      "host": "jobs.rbc.com",
+      "search": "Borealis",
+      "country": "Canada",
+      "size": 20
+    },
+    {
+      "type": "smartrecruiters",
+      "name": "ServiceNow",
+      "company": "ServiceNow",
+      "country": "ca",
+      "limit": 100
+    },
+    {
+      "type": "workday",
+      "name": "Interac",
+      "host": "interac.wd3.myworkdayjobs.com",
+      "tenant": "interac",
+      "site": "Interac",
+      "search": "software",
+      "pages": 2
+    },
+    {
+      "type": "pcsx",
+      "name": "Ericsson",
+      "host": "jobs.ericsson.com",
+      "domain": "ericsson.com",
+      "query": "software engineer",
+      "location": "Canada",
+      "pages": 2
     }
   ]
 }
