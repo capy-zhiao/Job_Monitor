@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01 14:55 UTC",
- "count": 211,
+ "generated_at": "2026-09-01 18:14 UTC",
+ "count": 209,
  "jobs": [
   {
    "company": "eBay",
@@ -221,6 +221,13 @@
   },
   {
    "company": "TD",
+   "title": "Associate Software Engineer (Fullstack)",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--Fullstack-_R_1508672",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "TD",
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1500104",
@@ -238,6 +245,13 @@
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Stripe",
+   "title": "Software Engineer, Metronome Infrastructure",
+   "location": "Toronto, Vancouver, Canada-Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=7737237",
    "first_seen": "2026-09-01"
   },
   {
@@ -325,27 +339,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
-   "first_seen": "2026-09-01"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -357,13 +350,6 @@
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Magnet Forensics",
-   "title": "Software Development Engineer in Test",
-   "location": "Waterloo, Ontario",
-   "url": "https://jobs.lever.co/magnetforensics/7cfeada6-21d6-44e6-be7d-81afbee2b502",
    "first_seen": "2026-09-01"
   },
   {
