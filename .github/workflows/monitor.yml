@@ -22,12 +22,12 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python3 run.py
+        run: python3 run.py --emit-json docs/jobs.json
 
       - name: Commit state
         run: |
           git config user.name "job-monitor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add seen.json
+          git add seen.json docs/jobs.json docs/first_seen.json
           git diff --cached --quiet || git commit -m "update seen jobs [skip ci]"
           git push

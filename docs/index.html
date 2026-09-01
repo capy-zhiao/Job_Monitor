@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Canada new-grad tech jobs</title>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1a1a1a; --muted: #6b7280; --border: #e5e7eb;
+    --card: #f9fafb; --accent: #2563eb; --new-bg: #dcfce7; --new-fg: #166534;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111418; --fg: #e5e7eb; --muted: #9ca3af; --border: #2d333b;
+      --card: #1a1f26; --accent: #60a5fa; --new-bg: #14432a; --new-fg: #86efac;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0 auto; max-width: 900px; padding: 24px 16px 64px;
+    background: var(--bg); color: var(--fg);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .controls { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  input, select {
+    padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
+    background: var(--bg); color: var(--fg); font-size: 14px;
+  }
+  input { flex: 1; min-width: 200px; }
+  .job {
+    display: block; padding: 12px 14px; margin-bottom: 8px;
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    text-decoration: none; color: inherit;
+  }
+  .job:hover { border-color: var(--accent); }
+  .job .t { font-weight: 600; }
+  .job .m { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .badge {
+    display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 8px;
+    border-radius: 999px; background: var(--new-bg); color: var(--new-fg);
+    margin-left: 8px; vertical-align: 1px;
+  }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+  footer { margin-top: 32px; color: var(--muted); font-size: 12px; }
+  footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<h1>Canada new-grad tech jobs</h1>
+<div class="sub" id="meta">loading…</div>
+<div class="controls">
+  <input id="q" type="search" placeholder="Search title, company, location…">
+  <select id="company"><option value="">All companies</option></select>
+  <select id="age">
+    <option value="">Any age</option>
+    <option value="2">New (48h)</option>
+    <option value="7">Last 7 days</option>
+    <option value="30">Last 30 days</option>
+  </select>
+</div>
+<div id="list"></div>
+<footer>
+  Auto-collected every ~15 minutes from company career APIs and community
+  new-grad lists by <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor</a>.
+  Filters: Canada locations, entry-level software / security / research titles.
+</footer>
+<script>
+let DATA = { jobs: [] };
+const $ = id => document.getElementById(id);
+const daysAgo = iso => (Date.now() - new Date(iso + "T00:00:00Z")) / 86400000;
+
+function render() {
+  const q = $("q").value.trim().toLowerCase();
+  const company = $("company").value;
+  const maxAge = $("age").value ? parseFloat($("age").value) : Infinity;
+  const rows = DATA.jobs.filter(j => {
+    if (company && j.company !== company) return false;
+    if (daysAgo(j.first_seen) > maxAge) return false;
+    if (!q) return true;
+    return (j.title + " " + j.company + " " + j.location).toLowerCase().includes(q);
+  });
+  $("list").innerHTML = rows.length ? rows.map(j => `
+    <a class="job" href="${j.url}" target="_blank" rel="noopener">
+      <span class="t">${esc(j.company)}: ${esc(j.title)}</span>
+      ${daysAgo(j.first_seen) <= 2 ? '<span class="badge">NEW</span>' : ""}
+      <div class="m">${esc(j.location || "—")} · first seen ${j.first_seen}</div>
+    </a>`).join("") : '<div class="empty">No jobs match.</div>';
+  $("meta").textContent =
+    `${rows.length} of ${DATA.count} openings · updated ${DATA.generated_at}`;
+}
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+fetch("jobs.json?" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d;
+    [...new Set(d.jobs.map(j => j.company))].sort().forEach(c => {
+      const o = document.createElement("option");
+      o.value = o.textContent = c;
+      $("company").appendChild(o);
+    });
+    render();
+  })
+  .catch(() => { $("meta").textContent = "failed to load jobs.json"; });
+["q", "company", "age"].forEach(id => $(id).addEventListener("input", render));
+</script>
+</body>
+</html>

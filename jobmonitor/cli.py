@@ -30,6 +30,11 @@ def parse_args(argv=None):
     )
     parser.add_argument("--config", default=DEFAULT_CONFIG, help="path to config.json")
     parser.add_argument("--state", default=DEFAULT_STATE, help="path to seen.json")
+    parser.add_argument(
+        "--emit-json",
+        metavar="PATH",
+        help="write all currently-matched jobs to PATH as JSON (for the public jobs page)",
+    )
     return parser.parse_args(argv)
 
 
@@ -83,6 +88,49 @@ def send_notifications(new_jobs):
         print(f"sent {len(new_jobs)} jobs to Slack")
 
 
+def emit_jobs_json(path, matched):
+    """Write the full current matched-job list (plus a first-seen date per
+    posting, kept in a sidecar file) for the static jobs page."""
+    import json
+    from datetime import date, datetime, timezone
+
+    sidecar = os.path.join(os.path.dirname(os.path.abspath(path)), "first_seen.json")
+    try:
+        with open(sidecar) as f:
+            first_seen = json.load(f)
+    except (OSError, ValueError):
+        first_seen = {}
+    today = date.today().isoformat()
+    for job in matched:
+        first_seen.setdefault(job.uid, today)
+
+    jobs = sorted(
+        matched,
+        key=lambda j: (first_seen.get(j.uid, today), j.company, j.title),
+        reverse=True,
+    )
+    payload = {
+        "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "count": len(jobs),
+        "jobs": [
+            {
+                "company": j.company,
+                "title": j.title,
+                "location": j.location,
+                "url": j.url,
+                "first_seen": first_seen.get(j.uid, today),
+            }
+            for j in jobs
+        ],
+    }
+    os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
+    with open(path, "w") as f:
+        json.dump(payload, f, indent=1, ensure_ascii=False)
+    with open(sidecar, "w") as f:
+        json.dump(first_seen, f, indent=0, sort_keys=True)
+    print(f"emitted {len(jobs)} jobs to {path}")
+
+
 def main(argv=None):
     args = parse_args(argv)
 
@@ -91,6 +139,9 @@ def main(argv=None):
 
     matched, errors = collect_matches(args.config)
     new_jobs = [job for job in matched if job.uid not in seen]
+
+    if args.emit_json:
+        emit_jobs_json(args.emit_json, matched)
 
     print(f"total matched: {len(matched)}, new since last run: {len(new_jobs)}")
     for job in new_jobs:
