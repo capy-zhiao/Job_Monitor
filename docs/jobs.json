@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01 05:10 UTC",
- "count": 214,
+ "generated_at": "2026-09-01 10:08 UTC",
+ "count": 209,
  "jobs": [
   {
    "company": "eBay",
@@ -325,27 +325,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
-   "first_seen": "2026-09-01"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -434,6 +413,13 @@
    "title": "Android Software Engineer, Lyft Urban Solutions",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "IXL Learning",
+   "title": "Software Developer New Grad - Integrations",
+   "location": "Toronto, ON, Canada",
+   "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
    "first_seen": "2026-09-01"
   },
   {
@@ -914,13 +900,6 @@
   },
   {
    "company": "Google",
-   "title": "Software Developer - Campus",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
    "title": "Graphics Software Developer, Chrome",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/133520462125638342-graphics-software-developer-chrome",
@@ -1183,20 +1162,6 @@
    "title": "DevOps Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Cenovus Energy",
-   "title": "Geophysicist-in-Training New Grad",
-   "location": "Calgary, AB, Canada",
-   "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Geophysicist-in-Training--June-2027--Calgary-_R-410991",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Cenovus Energy",
-   "title": "Geologist-in-Training New Grad",
-   "location": "Calgary, AB, Canada",
-   "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Geologist-in-Training--June-2027--Calgary-_R-410988",
    "first_seen": "2026-09-01"
   },
   {
