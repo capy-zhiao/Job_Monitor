@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01 10:08 UTC",
- "count": 209,
+ "generated_at": "2026-09-01 14:55 UTC",
+ "count": 211,
  "jobs": [
   {
    "company": "eBay",
@@ -322,6 +322,27 @@
    "title": "Entry Level Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1330,13 +1351,6 @@
    "title": "Applied Scientist, Sales AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/3180095/applied-scientist-sales-ai",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Amazon (Science)",
-   "title": "Applied Scientist, Ring AI",
-   "location": "CA, ON, Toronto",
-   "url": "https://www.amazon.jobs/en/jobs/10460559/applied-scientist-ring-ai",
    "first_seen": "2026-09-01"
   },
   {
