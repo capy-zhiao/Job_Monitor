@@ -5,6 +5,9 @@ the moment something matches. It polls company career APIs on a schedule and onl
 sends postings that are new and match my keywords and locations. No third-party
 dependencies; Python 3.8+ standard library only.
 
+**Live jobs page:** all currently-open matches, refreshed every ~15 minutes —
+[capy-zhiao.github.io/Job_Monitor](https://capy-zhiao.github.io/Job_Monitor/)
+
 ![example Discord notification](example.png)
 
 ## Why
@@ -218,6 +221,15 @@ platform's response parsing.
 your own GitHub repository, add `DISCORD_WEBHOOK_URL` as a repository secret, and
 the included `.github/workflows/monitor.yml` runs every 15 minutes and commits
 `seen.json` back to persist state.
+
+## Public jobs page
+
+The Actions run also emits every currently-matched posting to `docs/jobs.json`
+(via `run.py --emit-json`), which `docs/index.html` renders as a static,
+searchable page served by GitHub Pages: search box, per-company filter, and a
+NEW badge for postings first seen in the last 48 hours. Discord stays the
+real-time channel; the page is the browsable full picture. A `first_seen.json`
+sidecar keeps stable discovery dates across runs.
 
 ## How state works
 
