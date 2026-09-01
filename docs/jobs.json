@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-01 18:14 UTC",
- "count": 209,
+ "generated_at": "2026-09-01 21:07 UTC",
+ "count": 213,
  "jobs": [
   {
    "company": "eBay",
@@ -119,6 +119,13 @@
    "title": "Software Engineer, AI Product (Canada)",
    "location": "Remote - Canada",
    "url": "https://jobs.ashbyhq.com/vanta/581791d7-c63d-45fe-b6a7-f2d8f6532af7",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Software Engineer Development Program",
+   "location": "Toronto, ON, Canada",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25014533",
    "first_seen": "2026-09-01"
   },
   {
@@ -241,6 +248,13 @@
    "first_seen": "2026-09-01"
   },
   {
+   "company": "TD",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1506253",
+   "first_seen": "2026-09-01"
+  },
+  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
@@ -336,6 +350,27 @@
    "title": "Entry Level Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1358,13 +1393,6 @@
    "title": "Applied Scientist, Conversational AI ModEling and Learning",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10460071/applied-scientist-conversational-ai-modeling-and-learning",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Amazon (Science)",
-   "title": "Applied Scientist, Alexa Smart Home",
-   "location": "CA, BC, Vancouver",
-   "url": "https://www.amazon.jobs/en/jobs/10512939/applied-scientist-alexa-smart-home",
    "first_seen": "2026-09-01"
   },
   {
