@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02 15:00 UTC",
- "count": 208,
+ "generated_at": "2026-09-02 18:36 UTC",
+ "count": 212,
  "jobs": [
   {
    "company": "Huawei",
@@ -28,6 +28,20 @@
    "title": "Software Developer, Build Infrastructure",
    "location": "Kitchener, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/81358941161693894-software-developer-build-infrastructure",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Blackberry",
+   "title": "Open Source Software Developer New Grad - QNX Everywhere",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Blackberry",
+   "title": "Open Source Software Developer New Grad - QNX Everywhere",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289",
    "first_seen": "2026-09-02"
   },
   {
@@ -381,6 +395,27 @@
    "first_seen": "2026-09-01"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -476,13 +511,6 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01"
   },
   {
