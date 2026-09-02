@@ -8,6 +8,8 @@ dependencies; Python 3.8+ standard library only.
 **Live jobs page:** all currently-open matches, refreshed every ~15 minutes —
 [capy-zhiao.github.io/Job_Monitor](https://capy-zhiao.github.io/Job_Monitor/)
 
+[![live jobs page](site.png)](https://capy-zhiao.github.io/Job_Monitor/)
+
 ![example Discord notification](example.png)
 
 ## Why
