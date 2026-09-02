@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-09-02 05:55 UTC",
- "count": 211,
+ "generated_at": "2026-09-02 10:51 UTC",
+ "count": 210,
  "jobs": [
+  {
+   "company": "Google",
+   "title": "Software Developer, Full Stack, reCAPTCHA Product Experience",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/129994738504737478-software-developer-full-stack-recaptcha-product-experience",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Build Infrastructure",
+   "location": "Kitchener, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/81358941161693894-software-developer-build-infrastructure",
+   "first_seen": "2026-09-02"
+  },
   {
    "company": "eBay",
    "title": "MTS 1, Software Engineer, Full Stack",
@@ -362,15 +376,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -886,23 +900,9 @@
   },
   {
    "company": "Google",
-   "title": "Software Developer, Fighting Ad Fraud",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/120286571059389126-software-developer-fighting-ad-fraud",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
    "title": "Software Developer, Enterprise Chat, Google Cloud",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/83242688047915718-software-developer-enterprise-chat-google-cloud",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, Embedded Systems/Firmware, DNN Frameworks",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/137385541850014406-software-developer-embedded-systems-firmware-dnn-frameworks",
    "first_seen": "2026-09-01"
   },
   {
@@ -924,13 +924,6 @@
    "title": "Software Developer, Agent Endpoint Control Plane",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/122833097434505926-software-developer-agent-endpoint-control-plane",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, Ads Safety Enablement and Prevention",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/104468285428245190-software-developer-ads-safety-enablement-and-prevention",
    "first_seen": "2026-09-01"
   },
   {
