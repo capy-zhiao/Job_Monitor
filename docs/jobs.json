@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-09-02 10:51 UTC",
- "count": 210,
+ "generated_at": "2026-09-02 15:00 UTC",
+ "count": 208,
  "jobs": [
+  {
+   "company": "Huawei",
+   "title": "Engineer - RF & Antenna",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/engineer-rf-antenna",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, XR System Interaction Frameworks",
+   "location": "Kitchener, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/101217083232002758-software-developer-xr-system-interaction-frameworks",
+   "first_seen": "2026-09-02"
+  },
   {
    "company": "Google",
    "title": "Software Developer, Full Stack, reCAPTCHA Product Experience",
@@ -14,6 +28,13 @@
    "title": "Software Developer, Build Infrastructure",
    "location": "Kitchener, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/81358941161693894-software-developer-build-infrastructure",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "BlackBerry",
+   "title": "QNX Open Source Software Developer (New Graduate/Graduate)",
+   "location": "Ottawa, Ontario",
+   "url": "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
    "first_seen": "2026-09-02"
   },
   {
@@ -262,13 +283,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1506253",
-   "first_seen": "2026-09-01"
-  },
-  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
@@ -364,27 +378,6 @@
    "title": "Entry Level Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1463,13 +1456,6 @@
    "title": "AI and Automation Software Engineer",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/88614",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "AMD",
-   "title": "AI Model, Framework, and GPU Software Engineer – Agentic AI",
-   "location": "MARKHAM, Ontario, Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/88870",
    "first_seen": "2026-09-01"
   }
  ]
