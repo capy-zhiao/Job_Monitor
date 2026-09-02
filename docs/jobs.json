@@ -1,12 +1,40 @@
 {
- "generated_at": "2026-09-02 21:21 UTC",
- "count": 201,
+ "generated_at": "2026-09-02 23:30 UTC",
+ "count": 210,
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Data Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1506329",
+   "first_seen": "2026-09-02"
+  },
   {
    "company": "Huawei",
    "title": "Engineer - RF & Antenna",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-rf-antenna",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, XR System Interaction Frameworks",
+   "location": "Kitchener, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/101217083232002758-software-developer-xr-system-interaction-frameworks",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Full Stack, reCAPTCHA Product Experience",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/129994738504737478-software-developer-full-stack-recaptcha-product-experience",
+   "first_seen": "2026-09-02"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Build Infrastructure",
+   "location": "Kitchener, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/81358941161693894-software-developer-build-infrastructure",
    "first_seen": "2026-09-02"
   },
   {
@@ -871,17 +899,52 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Google (Security)",
+   "company": "Google",
+   "title": "Software Developer, iOS, Glasses System UI",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/102417720401633990-software-developer-ios-glasses-system-ui",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Google Chat iOS",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134734443221787334-software-developer-google-chat-ios",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Enterprise Chat, Google Cloud",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/83242688047915718-software-developer-enterprise-chat-google-cloud",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Early Career, Campus",
+   "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Google",
    "title": "Software Developer, Developer Connect Insights",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/119053139666969286-software-developer-developer-connect-insights",
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Google (Security)",
+   "company": "Google",
    "title": "Software Developer, Agent Endpoint Control Plane",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/122833097434505926-software-developer-agent-endpoint-control-plane",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Google",
+   "title": "Graphics Software Developer, Chrome",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/133520462125638342-graphics-software-developer-chrome",
    "first_seen": "2026-09-01"
   },
   {
