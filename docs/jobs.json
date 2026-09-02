@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02 01:15 UTC",
- "count": 209,
+ "generated_at": "2026-09-02 05:55 UTC",
+ "count": 211,
  "jobs": [
   {
    "company": "eBay",
@@ -353,6 +353,27 @@
    "first_seen": "2026-09-01"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -413,13 +434,6 @@
    "title": "Software Engineer, Fulfillment",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, Community Safety",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8755550002?gh_jid=8755550002",
    "first_seen": "2026-09-01"
   },
   {
