@@ -1,7 +1,28 @@
 {
- "generated_at": "2026-09-03 06:16 UTC",
- "count": 208,
+ "generated_at": "2026-09-03 11:33 UTC",
+ "count": 206,
  "jobs": [
+  {
+   "company": "Mastercard",
+   "title": "Software Engineer - Launch Program",
+   "location": "Vancouver, BC, Canada",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Mastercard",
+   "title": "Software Engineer - Launch Program",
+   "location": "Toronto, ON, Canada",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "General Motors",
+   "title": "Software Developer Embedded Software",
+   "location": "Markham, ON, Canada; Oshawa, ON, Canada",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer--Embedded-Software_JR-202618368",
+   "first_seen": "2026-09-03"
+  },
   {
    "company": "TD",
    "title": "Data Engineer I",
@@ -385,34 +406,6 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "NAV CANADA",
-   "title": "Entry Level Developer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -966,13 +959,6 @@
    "title": "Software Developer - Euse - Access Control Embedded",
    "location": "Montreal, QC, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/1ECCB83458/apply",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Genetec",
-   "title": ".NET Software Developer - Multiple Teams",
-   "location": "Montreal, QC, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/145492924C/apply",
    "first_seen": "2026-09-01"
   },
   {
