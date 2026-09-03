@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-03 18:42 UTC",
- "count": 214,
+ "generated_at": "2026-09-03 21:23 UTC",
+ "count": 212,
  "jobs": [
   {
    "company": "TD",
@@ -42,6 +42,13 @@
    "title": "Software Developer Embedded Software",
    "location": "Markham, ON, Canada; Oshawa, ON, Canada",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer--Embedded-Software_JR-202618368",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Faire",
+   "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
+   "location": "Kitchener-Waterloo, ON; Toronto, ON",
+   "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002",
    "first_seen": "2026-09-03"
   },
   {
@@ -451,27 +458,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -651,13 +637,6 @@
    "title": "Researcher – AI/ML Engineering",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-aiml-engineering",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Huawei",
-   "title": "Researcher – AI/ML",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/researcher-aiml-3",
    "first_seen": "2026-09-01"
   },
   {
@@ -928,6 +907,13 @@
   },
   {
    "company": "Huawei",
+   "title": "Applied AI Researcher – Multimodal Intelligence",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/applied-ai-researcher-multimodal-intelligence",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Huawei",
    "title": "Agentic RL Researcher – Distributed Computing",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/agentic-rl-researcher-distributed-computing",
@@ -1174,8 +1160,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01"
   },
   {
@@ -1188,8 +1174,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
