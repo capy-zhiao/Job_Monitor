@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-03 21:23 UTC",
- "count": 212,
+ "generated_at": "2026-09-03 23:27 UTC",
+ "count": 214,
  "jobs": [
   {
    "company": "TD",
@@ -455,6 +455,27 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -991,13 +1012,6 @@
   },
   {
    "company": "Genetec",
-   "title": "Software Developer - Multiple Teams",
-   "location": "Montreal, QC, Canada; Sherbrooke, QC, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/9DC9768E16/apply",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Genetec",
    "title": "Software Developer - Euse - Access Control Embedded",
    "location": "Montreal, QC, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/1ECCB83458/apply",
@@ -1160,8 +1174,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
@@ -1174,8 +1188,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01"
   },
   {
