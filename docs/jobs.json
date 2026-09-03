@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-03 15:12 UTC",
- "count": 208,
+ "generated_at": "2026-09-03 18:42 UTC",
+ "count": 214,
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1497015",
+   "first_seen": "2026-09-03"
+  },
   {
    "company": "Mastercard",
    "title": "Software Engineer - Launch Program",
@@ -17,10 +24,52 @@
    "first_seen": "2026-09-03"
   },
   {
+   "company": "Huawei",
+   "title": "Researcher – 3D Computer Vision and Generative Modeling",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-3d-computer-vision-and-generative-modeling",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Huawei",
+   "title": "Researcher - Video Generation & 3D Computer Vision",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-video-generation-3d-computer-vision-1",
+   "first_seen": "2026-09-03"
+  },
+  {
    "company": "General Motors",
    "title": "Software Developer Embedded Software",
    "location": "Markham, ON, Canada; Oshawa, ON, Canada",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer--Embedded-Software_JR-202618368",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Ericsson",
+   "title": "Cloud Native Software Developer",
+   "location": "Ottawa,Ontario,Canada",
+   "url": "https://jobs.ericsson.com/careers/job/563121776830967",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022030",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Bank of Montreal",
+   "title": "Machine Learning Developer New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Bank of Montreal",
+   "title": "Machine Learning Developer New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1",
    "first_seen": "2026-09-03"
   },
   {
@@ -280,13 +329,6 @@
    "title": "Software Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1505519",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "TD",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
    "first_seen": "2026-09-01"
   },
   {
