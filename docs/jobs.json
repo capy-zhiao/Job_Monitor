@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02 23:30 UTC",
- "count": 210,
+ "generated_at": "2026-09-03 01:24 UTC",
+ "count": 208,
  "jobs": [
   {
    "company": "TD",
@@ -411,15 +411,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1077,14 +1077,14 @@
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22745",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22745",
    "first_seen": "2026-09-01"
   },
   {
@@ -1239,20 +1239,6 @@
    "title": "2027 Winter Student Opportunities RBC Borealis - AI Business Analyst - 8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Business-Analyst---8-Months_R-0000184502-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Blackberry",
-   "title": "Systems Software Developer 2 - Middleware",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260265-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Blackberry",
-   "title": "Systems Software Developer 2 - Middleware",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Systems-Software-Developer-II_20260265",
    "first_seen": "2026-09-01"
   },
   {
