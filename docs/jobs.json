@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-04 20:57 UTC",
- "count": 196,
+ "generated_at": "2026-09-04 22:54 UTC",
+ "count": 200,
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1496579",
+   "first_seen": "2026-09-04"
+  },
   {
    "company": "Sun Life",
    "title": "Solution Architect Student - Winter 2027",
@@ -14,6 +21,20 @@
    "title": "Software Engineer - Multiple Teams",
    "location": "Toronto, ON, Canada",
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
+   "first_seen": "2026-09-04"
+  },
+  {
+   "company": "Canadian Tire",
+   "title": "Data Science Associate New Grad - Finance Rotational Program",
+   "location": "Calgary, AB, Canada",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Quarry-Park/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164990",
+   "first_seen": "2026-09-04"
+  },
+  {
+   "company": "Canadian Tire",
+   "title": "Data Science Associate New Grad - Finance Rotational Program",
+   "location": "Toronto, ON, Canada",
+   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
    "first_seen": "2026-09-04"
   },
   {
@@ -409,6 +430,27 @@
    "first_seen": "2026-09-01"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -578,13 +620,6 @@
   },
   {
    "company": "Huawei",
-   "title": "Researcher – AI/ML Engineering",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/researcher-aiml-engineering",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Huawei",
    "title": "Researcher – AI for Scientific Algorithm Discovery",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-for-scientific-algorithm-discovery",
@@ -700,6 +735,13 @@
    "title": "Researcher - AI",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-erc",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Huawei",
+   "title": "Research Engineer – Multimodal AI & Interaction",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/research-engineer-multimodal-ai-interaction",
    "first_seen": "2026-09-01"
   },
   {
@@ -875,13 +917,6 @@
    "title": "AI Software Developer - Smart Grid",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/ai-software-developer-smart-grid",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Hexagon AB ",
-   "title": "Software Engineer - Algorithms",
-   "location": "Calgary, AB, Canada",
-   "url": "https://careers-hexagonpositioning.icims.com/jobs/3050/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-09-01"
   },
   {
@@ -1197,13 +1232,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Developer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100579",
    "first_seen": "2026-09-01"
   },
   {
