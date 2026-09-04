@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-04 01:14 UTC",
- "count": 214,
+ "generated_at": "2026-09-04 05:59 UTC",
+ "count": 211,
  "jobs": [
+  {
+   "company": "Sun Life",
+   "title": "Solution Architect Student - Winter 2027",
+   "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
+   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Solution-Architect--Winter-2027-_JR00127360",
+   "first_seen": "2026-09-04"
+  },
   {
    "company": "TD",
    "title": "Associate Software Engineer",
@@ -333,9 +340,9 @@
   },
   {
    "company": "TD",
-   "title": "Software Engineer I",
+   "title": "Global Transaction Banking (GTB), Engineer I",
    "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1505519",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
    "first_seen": "2026-09-01"
   },
   {
@@ -350,20 +357,6 @@
    "title": "Associate Software Engineer (Fullstack)",
    "location": "2 Locations",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--Fullstack-_R_1508672",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1500104",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1507379",
    "first_seen": "2026-09-01"
   },
   {
@@ -467,15 +460,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -567,13 +560,6 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01"
   },
   {
@@ -1175,14 +1161,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
@@ -1281,13 +1267,6 @@
    "title": "2027 Winter Student Opportunities RBC Borealis - AI Business Analyst - 8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Business-Analyst---8-Months_R-0000184502-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Bank of Montreal",
-   "title": "Commercial Risk Data Analyst New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Commercial-Risk-Data--New-or-Recent-Graduate-Opportunity-_R260023422-1",
    "first_seen": "2026-09-01"
   },
   {
