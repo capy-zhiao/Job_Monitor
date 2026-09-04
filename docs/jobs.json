@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-04 18:17 UTC",
- "count": 197,
+ "generated_at": "2026-09-04 20:57 UTC",
+ "count": 196,
  "jobs": [
   {
    "company": "Sun Life",
@@ -1028,13 +1028,6 @@
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/21900",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Fortinet",
-   "title": "Embedded Software Developer",
-   "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22958",
    "first_seen": "2026-09-01"
   },
@@ -1098,14 +1091,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
@@ -1159,13 +1152,6 @@
   },
   {
    "company": "Borealis AI (RBC)",
-   "title": "Software Developer, Metadata",
-   "location": "CALGARY, Alberta, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Software-Developer--Metadata_R-0000184826-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Borealis AI (RBC)",
    "title": "Machine Learning Software Engineer",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer_R-0000182038-1",
@@ -1211,6 +1197,13 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Developer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100579",
    "first_seen": "2026-09-01"
   },
   {
