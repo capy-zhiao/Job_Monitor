@@ -1,12 +1,19 @@
 {
- "generated_at": "2026-09-04 14:58 UTC",
- "count": 204,
+ "generated_at": "2026-09-04 18:17 UTC",
+ "count": 197,
  "jobs": [
   {
    "company": "Sun Life",
    "title": "Solution Architect Student - Winter 2027",
    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Solution-Architect--Winter-2027-_JR00127360",
+   "first_seen": "2026-09-04"
+  },
+  {
+   "company": "DoorDash",
+   "title": "Software Engineer - Multiple Teams",
+   "location": "Toronto, ON, Canada",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
    "first_seen": "2026-09-04"
   },
   {
@@ -63,13 +70,6 @@
    "title": "Cloud Native Software Developer",
    "location": "Ottawa,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121776830967",
-   "first_seen": "2026-09-03"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022030",
    "first_seen": "2026-09-03"
   },
   {
@@ -312,13 +312,6 @@
   },
   {
    "company": "TD",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "TD",
    "title": "Associate Software Engineer - Mainframe",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer---Mainframe_R_1503472-1",
@@ -413,27 +406,6 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -1137,13 +1109,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
-   "first_seen": "2026-09-01"
-  },
-  {
    "company": "Ciena",
    "title": "Embedded Software Engineer New Grad",
    "location": "Ottawa, ON, Canada",
@@ -1194,6 +1159,13 @@
   },
   {
    "company": "Borealis AI (RBC)",
+   "title": "Software Developer, Metadata",
+   "location": "CALGARY, Alberta, Canada",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Software-Developer--Metadata_R-0000184826-1",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Borealis AI (RBC)",
    "title": "Machine Learning Software Engineer",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer_R-0000182038-1",
@@ -1239,20 +1211,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Developer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100579",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Developer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100821-1",
    "first_seen": "2026-09-01"
   },
   {
@@ -1386,13 +1344,6 @@
    "title": "Software Engineer II (Money Movement & Card Ledger)",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "AMD",
-   "title": "Software Engineer - FPGA Physical Implementation",
-   "location": "Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/86532",
    "first_seen": "2026-09-01"
   },
   {
