@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-04 22:54 UTC",
- "count": 200,
+ "generated_at": "2026-09-05 00:42 UTC",
+ "count": 202,
  "jobs": [
+  {
+   "company": "Procter & Gamble",
+   "title": "IT Software Engineer - Warehouse Systems - Solution Expert",
+   "location": "Toronto, ON, Canada",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/IT-Warehouse-Systems-Solution-Expert_R000156588",
+   "first_seen": "2026-09-05"
+  },
   {
    "company": "TD",
    "title": "Associate Software Engineer",
@@ -439,15 +446,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1232,6 +1239,13 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Developer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100579",
    "first_seen": "2026-09-01"
   },
   {
