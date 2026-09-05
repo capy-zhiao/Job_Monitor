@@ -1,12 +1,19 @@
 {
- "generated_at": "2026-09-05 00:42 UTC",
- "count": 202,
+ "generated_at": "2026-09-05 04:58 UTC",
+ "count": 201,
  "jobs": [
   {
    "company": "Procter & Gamble",
    "title": "IT Software Engineer - Warehouse Systems - Solution Expert",
    "location": "Toronto, ON, Canada",
    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/IT-Warehouse-Systems-Solution-Expert_R000156588",
+   "first_seen": "2026-09-05"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Developer",
+   "location": "Toronto, ON, Canada; Remote in Canada",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
    "first_seen": "2026-09-05"
   },
   {
@@ -24,13 +31,6 @@
    "first_seen": "2026-09-04"
   },
   {
-   "company": "DoorDash",
-   "title": "Software Engineer - Multiple Teams",
-   "location": "Toronto, ON, Canada",
-   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
-   "first_seen": "2026-09-04"
-  },
-  {
    "company": "Canadian Tire",
    "title": "Data Science Associate New Grad - Finance Rotational Program",
    "location": "Calgary, AB, Canada",
@@ -43,13 +43,6 @@
    "location": "Toronto, ON, Canada",
    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
    "first_seen": "2026-09-04"
-  },
-  {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1497015",
-   "first_seen": "2026-09-03"
   },
   {
    "company": "Mastercard",
@@ -446,15 +439,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -1133,14 +1126,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
