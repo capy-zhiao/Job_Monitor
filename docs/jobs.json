@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-09-07 11:52 UTC",
- "count": 202,
+ "generated_at": "2026-09-07 17:29 UTC",
+ "count": 199,
  "jobs": [
-  {
-   "company": "Royal Bank of Canada",
-   "title": "Product Engineer New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Product-Engineer--New-Grad-_R-0000187092",
-   "first_seen": "2026-09-06"
-  },
   {
    "company": "Procter & Gamble",
    "title": "IT Software Engineer - Warehouse Systems - Solution Expert",
@@ -446,15 +439,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -546,13 +539,6 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01"
   },
   {
@@ -931,13 +917,6 @@
    "title": "AI Software Developer - Smart Grid",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/ai-software-developer-smart-grid",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, iOS, Glasses System UI",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/102417720401633990-software-developer-ios-glasses-system-ui",
    "first_seen": "2026-09-01"
   },
   {
