@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-07 05:48 UTC",
- "count": 203,
+ "generated_at": "2026-09-07 11:52 UTC",
+ "count": 202,
  "jobs": [
   {
    "company": "Royal Bank of Canada",
@@ -446,15 +446,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -963,13 +963,6 @@
   },
   {
    "company": "Google",
-   "title": "Software Developer, Agent Endpoint Control Plane",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/122833097434505926-software-developer-agent-endpoint-control-plane",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
    "title": "Graphics Software Developer, Chrome",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/133520462125638342-graphics-software-developer-chrome",
@@ -1140,14 +1133,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
