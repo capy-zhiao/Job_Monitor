@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08 18:53 UTC",
+ "generated_at": "2026-09-08 21:39 UTC",
  "count": 201,
  "jobs": [
   {
@@ -28,6 +28,13 @@
    "title": "Software Developer",
    "location": "Mississauga,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121776965518",
+   "first_seen": "2026-09-08"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer Embedded Systems II (Full Time) – Canada",
+   "location": "Kanata, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139",
    "first_seen": "2026-09-08"
   },
   {
@@ -306,7 +313,7 @@
   {
    "company": "Tenstorrent",
    "title": "Software Engineer, TT-Distributed",
-   "location": "Toronto, Ontario, Canada",
+   "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007",
    "first_seen": "2026-09-01"
   },
@@ -546,13 +553,6 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01"
   },
   {
