@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-07 23:20 UTC",
- "count": 199,
+ "generated_at": "2026-09-08 01:20 UTC",
+ "count": 200,
  "jobs": [
   {
    "company": "Procter & Gamble",
@@ -439,15 +439,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1112,14 +1112,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
@@ -1225,6 +1225,13 @@
    "title": "Software Developer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100579",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Developer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100821-1",
    "first_seen": "2026-09-01"
   },
   {
