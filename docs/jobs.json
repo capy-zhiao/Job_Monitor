@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-08 15:20 UTC",
- "count": 198,
+ "generated_at": "2026-09-08 18:53 UTC",
+ "count": 201,
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
+   "first_seen": "2026-09-08"
+  },
   {
    "company": "TD",
    "title": "AI2 Applied Machine Learning Scientist (Graduate)",
@@ -14,6 +21,20 @@
    "title": "AI2 Applied Machine Learning Scientist (Graduate)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
+   "first_seen": "2026-09-08"
+  },
+  {
+   "company": "Ericsson",
+   "title": "Software Developer",
+   "location": "Mississauga,Ontario,Canada",
+   "url": "https://jobs.ericsson.com/careers/job/563121776965518",
+   "first_seen": "2026-09-08"
+  },
+  {
+   "company": "Cerebras",
+   "title": "Distributed Software Engineer",
+   "location": "Toronto, CAN",
+   "url": "https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
    "first_seen": "2026-09-08"
   },
   {
@@ -525,6 +546,13 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01"
   },
   {
@@ -1253,13 +1281,6 @@
    "title": "Software Development Engineer in Test, Creativity Apps (SDET)",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680212/software-development-engineer-in-test-creativity-apps-sdet?team=SFTWR",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Aon",
-   "title": "Data & Analytics Associate - Early Careers",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.aon.com/jobs/105952?icims=1",
    "first_seen": "2026-09-01"
   },
   {
