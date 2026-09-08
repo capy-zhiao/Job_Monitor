@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08 06:21 UTC",
- "count": 200,
+ "generated_at": "2026-09-08 11:37 UTC",
+ "count": 198,
  "jobs": [
   {
    "company": "TD",
@@ -439,15 +439,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -462,13 +462,6 @@
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, Routing",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8688776002?gh_jid=8688776002",
    "first_seen": "2026-09-01"
   },
   {
@@ -490,13 +483,6 @@
    "title": "Software Engineer, Observability",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8716220002?gh_jid=8716220002",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, MapXP",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002",
    "first_seen": "2026-09-01"
   },
   {
@@ -1112,14 +1098,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
