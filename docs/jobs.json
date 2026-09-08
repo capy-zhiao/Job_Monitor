@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-09-08 21:39 UTC",
- "count": 201,
+ "generated_at": "2026-09-08 23:40 UTC",
+ "count": 206,
  "jobs": [
+  {
+   "company": "Trane Technologies",
+   "title": "Accelerated Development Program New Grad",
+   "location": "Montreal, QC, Canada; Minneapolis, MN; Davidson, NC",
+   "url": "https://careers.tranetechnologies.com/global/en/job/JR-7611",
+   "first_seen": "2026-09-08"
+  },
+  {
+   "company": "TD Bank",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, ON, Canada",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
+   "first_seen": "2026-09-08"
+  },
   {
    "company": "TD",
    "title": "Associate Software Engineer",
@@ -31,6 +45,13 @@
    "first_seen": "2026-09-08"
   },
   {
+   "company": "Coinbase",
+   "title": "Software Engineer- Money Movement ",
+   "location": "Remote - Canada",
+   "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
+   "first_seen": "2026-09-08"
+  },
+  {
    "company": "Cisco",
    "title": "Software Developer Embedded Systems II (Full Time) – Canada",
    "location": "Kanata, Ontario, Canada",
@@ -42,6 +63,20 @@
    "title": "Distributed Software Engineer",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
+   "first_seen": "2026-09-08"
+  },
+  {
+   "company": "Capital One",
+   "title": "Data Analyst New Grad - Data Analyst",
+   "location": "Toronto, ON, Canada",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
+   "first_seen": "2026-09-08"
+  },
+  {
+   "company": "AECOM",
+   "title": "Electrical Engineer New Grad",
+   "location": "Markham, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000148322240",
    "first_seen": "2026-09-08"
   },
   {
@@ -1126,14 +1161,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01"
   },
   {
