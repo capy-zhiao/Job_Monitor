@@ -1,12 +1,19 @@
 {
- "generated_at": "2026-09-09 11:57 UTC",
- "count": 206,
+ "generated_at": "2026-09-09 16:19 UTC",
+ "count": 200,
  "jobs": [
   {
    "company": "Apple",
    "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200682548/software-development-engineer-in-test-full-stack-creativity-apps?team=SFTWR",
+   "first_seen": "2026-09-09"
+  },
+  {
+   "company": "AMD",
+   "title": "AI Models Software Development Engineer",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/91575",
    "first_seen": "2026-09-09"
   },
   {
@@ -245,48 +252,6 @@
    "title": "Software Engineer New Grad",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application?embed=true",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Xanadu",
-   "title": "Systems Software Engineer",
-   "location": "Toronto, ON, Canada",
-   "url": "https://xanadu.applytojob.com/apply/LxwHAxMdlE/Systems-Software-Engineer",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Xanadu",
-   "title": "System Software Developer - Performance",
-   "location": "Toronto, ON, Canada",
-   "url": "https://xanadu.applytojob.com/apply/Mkn88RXtBv/System-Software-Developer-Performance",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Xanadu",
-   "title": "Quantum Software Developer - Performance",
-   "location": "Toronto, ON, Canada",
-   "url": "https://xanadu.applytojob.com/apply/jV9YEhopsf/Quantum-Software-Developer-Performance",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Xanadu",
-   "title": "Quantum Software Developer - PennyLane Core",
-   "location": "Toronto, ON, Canada",
-   "url": "https://xanadu.applytojob.com/apply/0glmWNMBAM/Quantum-Software-Developer-PennyLane-Core",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Xanadu",
-   "title": "Quantum Software Developer - Compilation",
-   "location": "Toronto, ON, Canada",
-   "url": "https://xanadu.applytojob.com/apply/VlVUdA7FPp/Quantum-Software-Developer-Compilation",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Xanadu",
-   "title": "Quantum Architecture Research Software Developer",
-   "location": "Toronto, ON, Canada",
-   "url": "https://xanadu.applytojob.com/apply/aAxuVWmr99/Quantum-Architecture-Research-Software-Developer",
    "first_seen": "2026-09-01"
   },
   {
@@ -1134,13 +1099,6 @@
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23594",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Coinbase",
-   "title": "Software Engineer, CDP - Stablecoin",
-   "location": "Remote - Canada",
-   "url": "https://www.coinbase.com/careers/positions/8092485?gh_jid=8092485",
    "first_seen": "2026-09-01"
   },
   {
