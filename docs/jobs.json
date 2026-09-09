@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-09-09 16:19 UTC",
- "count": 200,
+ "generated_at": "2026-09-09 19:22 UTC",
+ "count": 201,
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Data Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1509878",
+   "first_seen": "2026-09-09"
+  },
+  {
+   "company": "Huawei",
+   "title": "Researcher-AI Agents",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-ai-agents-3",
+   "first_seen": "2026-09-09"
+  },
   {
    "company": "Apple",
    "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
@@ -101,13 +115,6 @@
    "first_seen": "2026-09-05"
   },
   {
-   "company": "Autodesk",
-   "title": "Software Developer",
-   "location": "Toronto, ON, Canada; Remote in Canada",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
-   "first_seen": "2026-09-05"
-  },
-  {
    "company": "TD",
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
@@ -182,6 +189,13 @@
    "title": "Cloud Native Software Developer",
    "location": "Ottawa,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121776830967",
+   "first_seen": "2026-09-03"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022030",
    "first_seen": "2026-09-03"
   },
   {
@@ -1119,14 +1133,21 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01"
   },
   {
@@ -1299,13 +1320,6 @@
   },
   {
    "company": "Amazon (Science)",
-   "title": "Applied Scientist, Sales AI",
-   "location": "CA, ON, Toronto",
-   "url": "https://www.amazon.jobs/en/jobs/3180095/applied-scientist-sales-ai",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Amazon (Science)",
    "title": "Applied Scientist, Demand Tech Planning",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10477908/applied-scientist-demand-tech-planning",
@@ -1365,13 +1379,6 @@
    "title": "Software Engineer II (Money Movement & Card Ledger)",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "AMD",
-   "title": "Security Diagnostics Software Engineer",
-   "location": "MARKHAM, Ontario, Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/90129",
    "first_seen": "2026-09-01"
   },
   {
