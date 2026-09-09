@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09 06:43 UTC",
- "count": 207,
+ "generated_at": "2026-09-09 11:57 UTC",
+ "count": 206,
  "jobs": [
   {
    "company": "Apple",
@@ -509,15 +509,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -987,13 +987,6 @@
    "title": "Software Developer, Early Career, Campus",
    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, Developer Connect Insights",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/119053139666969286-software-developer-developer-connect-insights",
    "first_seen": "2026-09-01"
   },
   {
