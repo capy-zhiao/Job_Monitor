@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09 19:22 UTC",
- "count": 201,
+ "generated_at": "2026-09-09 21:51 UTC",
+ "count": 202,
  "jobs": [
   {
    "company": "TD",
@@ -21,6 +21,13 @@
    "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200682548/software-development-engineer-in-test-full-stack-creativity-apps?team=SFTWR",
+   "first_seen": "2026-09-09"
+  },
+  {
+   "company": "AMD",
+   "title": "Cloud Infrastructure Software Engineer – Semiconductor Design",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/87270",
    "first_seen": "2026-09-09"
   },
   {
