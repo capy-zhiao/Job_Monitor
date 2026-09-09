@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-09 01:34 UTC",
- "count": 203,
+ "generated_at": "2026-09-09 06:43 UTC",
+ "count": 207,
  "jobs": [
+  {
+   "company": "Apple",
+   "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
+   "location": "Vancouver, Canada",
+   "url": "https://jobs.apple.com/en-ca/details/200682548/software-development-engineer-in-test-full-stack-creativity-apps?team=SFTWR",
+   "first_seen": "2026-09-09"
+  },
   {
    "company": "Trane Technologies",
    "title": "Accelerated Development Program New Grad",
@@ -490,6 +497,27 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
