@@ -792,6 +792,44 @@
       "query": "software engineer",
       "location": "Canada",
       "pages": 2
+    },
+    {
+      "type": "workday",
+      "name": "Capital One",
+      "host": "capitalone.wd12.myworkdayjobs.com",
+      "tenant": "capitalone",
+      "site": "Capital_One",
+      "search": "software engineer",
+      "country": "CAN",
+      "pages": 2
+    },
+    {
+      "type": "workday",
+      "name": "Salesforce",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site",
+      "search": "software engineer canada",
+      "pages": 2
+    },
+    {
+      "type": "workday",
+      "name": "Mastercard",
+      "host": "mastercard.wd1.myworkdayjobs.com",
+      "tenant": "mastercard",
+      "site": "CorporateCareers",
+      "search": "software engineer toronto",
+      "pages": 2
+    },
+    {
+      "type": "ashby",
+      "name": "Zip",
+      "board": "zip"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Tailscale",
+      "board": "tailscale"
     }
   ]
 }
