@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-09-10 13:03 UTC",
- "count": 206,
+ "generated_at": "2026-09-10 17:01 UTC",
+ "count": 205,
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1486593",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509910-1",
+   "first_seen": "2026-09-10"
+  },
   {
    "company": "Robinhood",
    "title": "Software Engineer, Tokenization",
@@ -11,9 +25,16 @@
   },
   {
    "company": "Lyft",
-   "title": "Software Engineer",
+   "title": "Software Engineer, Telematics",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Huawei",
+   "title": "Researcher - Physical AI",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-physical-ai",
    "first_seen": "2026-09-10"
   },
   {
@@ -28,13 +49,6 @@
    "title": "Global Security Analyst ll, IRC - Bilingual (French/English)",
    "location": "Mississauga, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375",
-   "first_seen": "2026-09-09"
-  },
-  {
-   "company": "TD",
-   "title": "Data Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1509878",
    "first_seen": "2026-09-09"
   },
   {
@@ -511,27 +525,6 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
