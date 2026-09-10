@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10 17:01 UTC",
- "count": 205,
+ "generated_at": "2026-09-10 19:34 UTC",
+ "count": 207,
  "jobs": [
   {
    "company": "TD",
@@ -525,6 +525,27 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1218,13 +1239,6 @@
    "title": "DevOps Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "Software Developer, Metadata",
-   "location": "CALGARY, Alberta, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Software-Developer--Metadata_R-0000184826-1",
    "first_seen": "2026-09-01"
   },
   {
