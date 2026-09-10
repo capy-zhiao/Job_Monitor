@@ -1,7 +1,49 @@
 {
- "generated_at": "2026-09-10 19:34 UTC",
- "count": 207,
+ "generated_at": "2026-09-10 21:56 UTC",
+ "count": 212,
  "jobs": [
+  {
+   "company": "Zip",
+   "title": "Software Engineer, New Grad (2027 Start)",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Zip",
+   "title": "Software Engineer, Backend (All Levels)",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/zip/4f2ba8b4-144e-43c8-a83d-72ea40f70123",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Strategic Projects",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Networking (Dataplane)",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Security Software Engineer",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4648921005",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer (SQL, CI/CD))",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+   "first_seen": "2026-09-10"
+  },
   {
    "company": "TD",
    "title": "Associate Software Engineer",
@@ -126,13 +168,6 @@
    "title": "Software Developer",
    "location": "Mississauga,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121776965518",
-   "first_seen": "2026-09-08"
-  },
-  {
-   "company": "Coinbase",
-   "title": "Software Engineer- Money Movement ",
-   "location": "Remote - Canada",
-   "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
    "first_seen": "2026-09-08"
   },
   {
