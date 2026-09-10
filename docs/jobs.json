@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-10 21:56 UTC",
- "count": 212,
+ "generated_at": "2026-09-10 23:49 UTC",
+ "count": 211,
  "jobs": [
   {
    "company": "Zip",
@@ -56,6 +56,13 @@
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509910-1",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Sun Life",
+   "title": "Junior Security Data Analyst",
+   "location": "Toronto, ON, Canada",
+   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983",
    "first_seen": "2026-09-10"
   },
   {
@@ -572,15 +579,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
@@ -1057,20 +1064,6 @@
    "title": "Graphics Software Developer, Chrome",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/133520462125638342-graphics-software-developer-chrome",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Genetec",
-   "title": "Software Developer - Physical Access Control - SaaS",
-   "location": "Montreal, QC, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/46C9414CC4/apply",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Genetec",
-   "title": "Software Developer - Euse - Access Control Embedded",
-   "location": "Montreal, QC, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/1ECCB83458/apply",
    "first_seen": "2026-09-01"
   },
   {
