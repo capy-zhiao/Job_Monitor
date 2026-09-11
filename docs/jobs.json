@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11 03:36 UTC",
- "count": 206,
+ "generated_at": "2026-09-11 08:20 UTC",
+ "count": 209,
  "jobs": [
   {
    "company": "Zip",
@@ -311,6 +311,13 @@
    "first_seen": "2026-09-03"
   },
   {
+   "company": "TD",
+   "title": "Data Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1506329",
+   "first_seen": "2026-09-02"
+  },
+  {
    "company": "Huawei",
    "title": "Engineer - RF & Antenna",
    "location": "Ottawa, Ontario, Canada",
@@ -466,13 +473,6 @@
   },
   {
    "company": "TD",
-   "title": "Associate Software Engineer - Mainframe",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer---Mainframe_R_1503472-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "TD",
    "title": "Associate Software Engineer (Fullstack)",
    "location": "2 Locations",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--Fullstack-_R_1508672",
@@ -553,6 +553,27 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
