@@ -1,12 +1,47 @@
 {
- "generated_at": "2026-09-11 12:58 UTC",
- "count": 208,
+ "generated_at": "2026-09-11 17:00 UTC",
+ "count": 212,
  "jobs": [
+  {
+   "company": "Waabi",
+   "title": "Research Engineer, Sensor Signal Processing",
+   "location": "Toronto, ON",
+   "url": "https://jobs.lever.co/waabi/4a22f57b-cd17-4533-a22b-e927acef834e",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Networking (Edge)",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733094005",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Lyft",
+   "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Lyft",
+   "title": "Développeur Logiciels (Stagiaire), Automatisation des tests (l'été 2027)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
+   "first_seen": "2026-09-11"
+  },
   {
    "company": "Huawei",
    "title": "Engineer - 6G RF Packaging",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Ericsson",
+   "title": "Early Career RF Specialist (RAN Optimization)",
+   "location": "Toronto,Ontario,Canada",
+   "url": "https://jobs.ericsson.com/careers/job/563121777164021",
    "first_seen": "2026-09-11"
   },
   {
@@ -316,13 +351,6 @@
    "location": "Toronto, ON, Canada",
    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1",
    "first_seen": "2026-09-03"
-  },
-  {
-   "company": "TD",
-   "title": "Data Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1506329",
-   "first_seen": "2026-09-02"
   },
   {
    "company": "Huawei",
