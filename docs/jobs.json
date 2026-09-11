@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-11 08:20 UTC",
- "count": 209,
+ "generated_at": "2026-09-11 12:58 UTC",
+ "count": 208,
  "jobs": [
+  {
+   "company": "Huawei",
+   "title": "Engineer - 6G RF Packaging",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
+   "first_seen": "2026-09-11"
+  },
   {
    "company": "Zip",
    "title": "Software Engineer, New Grad (2027 Start)",
@@ -332,20 +339,6 @@
    "first_seen": "2026-09-02"
   },
   {
-   "company": "Google",
-   "title": "Software Developer, Full Stack, reCAPTCHA Product Experience",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/129994738504737478-software-developer-full-stack-recaptcha-product-experience",
-   "first_seen": "2026-09-02"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, Build Infrastructure",
-   "location": "Kitchener, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/81358941161693894-software-developer-build-infrastructure",
-   "first_seen": "2026-09-02"
-  },
-  {
    "company": "eBay",
    "title": "MTS 1, Software Engineer, Full Stack",
    "location": "Toronto, Canada",
@@ -565,15 +558,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
