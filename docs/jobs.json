@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11 17:00 UTC",
- "count": 212,
+ "generated_at": "2026-09-11 19:35 UTC",
+ "count": 213,
  "jobs": [
   {
    "company": "Waabi",
@@ -648,6 +648,13 @@
   },
   {
    "company": "Lyft",
+   "title": "Software Engineer in Test, LUS",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Lyft",
    "title": "Android Software Engineer, Lyft Urban Solutions",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
@@ -1216,6 +1223,13 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
@@ -1225,13 +1239,6 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01"
   },
   {
