@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-12 00:06 UTC",
- "count": 216,
+ "generated_at": "2026-09-12 04:36 UTC",
+ "count": 218,
  "jobs": [
+  {
+   "company": "Qualcomm",
+   "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
+   "location": "Markham, ON, Canada",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
+   "first_seen": "2026-09-12"
+  },
   {
    "company": "Meta",
    "title": "Research Engineer - AI",
@@ -21,6 +28,13 @@
    "title": "Data Scientist New Grad",
    "location": "Toronto, ON, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer 1 - Frontend - Upfunnel",
+   "location": "Remote in Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
    "first_seen": "2026-09-12"
   },
   {
@@ -283,13 +297,6 @@
    "first_seen": "2026-09-05"
   },
   {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1496579",
-   "first_seen": "2026-09-04"
-  },
-  {
    "company": "Sun Life",
    "title": "Solution Architect Student - Winter 2027",
    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
@@ -372,6 +379,13 @@
    "location": "Toronto, ON, Canada",
    "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1",
    "first_seen": "2026-09-03"
+  },
+  {
+   "company": "TD",
+   "title": "Data Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1506329",
+   "first_seen": "2026-09-02"
   },
   {
    "company": "Huawei",
@@ -1244,13 +1258,6 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
@@ -1260,6 +1267,13 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01"
   },
   {
