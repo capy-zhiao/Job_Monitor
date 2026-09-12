@@ -1,7 +1,28 @@
 {
- "generated_at": "2026-09-11 21:58 UTC",
- "count": 213,
+ "generated_at": "2026-09-12 00:06 UTC",
+ "count": 216,
  "jobs": [
+  {
+   "company": "Meta",
+   "title": "Research Engineer - AI",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.metacareers.com/jobs/1395718268613427",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Eaton",
+   "title": "Software Developer - Software C++ - Research & Development Engineering",
+   "location": "Brossard, QC, Canada",
+   "url": "https://eaton.eightfold.ai/careers/job/687239106601",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Capital One",
+   "title": "Data Scientist New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+   "first_seen": "2026-09-12"
+  },
   {
    "company": "Waabi",
    "title": "Research Engineer, Sensor Signal Processing",
