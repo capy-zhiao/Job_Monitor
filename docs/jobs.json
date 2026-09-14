@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14 10:41 UTC",
- "count": 214,
+ "generated_at": "2026-09-14 16:36 UTC",
+ "count": 213,
  "jobs": [
   {
    "company": "Qualcomm",
@@ -123,7 +123,7 @@
   },
   {
    "company": "TD",
-   "title": "Associate Software Engineer (SQL, CI/CD))",
+   "title": "Associate Software Engineer (nCino/Salesforce)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
    "first_seen": "2026-09-10"
@@ -600,15 +600,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1225,13 +1225,6 @@
    "title": "Software Engineer, Adoption",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Cohere",
-   "title": "Data Annotation Specialist, Software Engineering",
-   "location": "Canada",
-   "url": "https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e",
    "first_seen": "2026-09-01"
   },
   {
