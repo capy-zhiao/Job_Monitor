@@ -1,7 +1,35 @@
 {
- "generated_at": "2026-09-14 16:36 UTC",
- "count": 213,
+ "generated_at": "2026-09-14 20:37 UTC",
+ "count": 216,
  "jobs": [
+  {
+   "company": "eBay",
+   "title": "Software Engineer – Engineering Systems",
+   "location": "Toronto, Canada",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Software-Engineer---Engineering-Systems_R0076541",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "company": "L3Harris Technologies",
+   "title": "Software Engineer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "company": "BDO Canada",
+   "title": "Business Analyst New Grad - Data & Analytics",
+   "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Edmonton, AB, Canada; Ottawa, ON, Canada; Halifax Regional Municipality, NS, Canada",
+   "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "company": "AMD",
+   "title": "NPU Diagnostics Software Engineer",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/92305",
+   "first_seen": "2026-09-14"
+  },
   {
    "company": "Qualcomm",
    "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
@@ -1470,13 +1498,6 @@
    "title": "Platform Emulation Software Engineer - DC GPU",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/89892",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "AMD",
-   "title": "Platform Emulation Software Engineer - DC GPU",
-   "location": "MARKHAM, Ontario, Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/89890",
    "first_seen": "2026-09-01"
   },
   {
