@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14 20:37 UTC",
+ "generated_at": "2026-09-14 23:31 UTC",
  "count": 216,
  "jobs": [
   {
@@ -10,10 +10,24 @@
    "first_seen": "2026-09-14"
   },
   {
+   "company": "Nexthop.ai",
+   "title": "Software Engineer New Grad",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://nexthopai.bamboohr.com/careers/62/",
+   "first_seen": "2026-09-14"
+  },
+  {
    "company": "L3Harris Technologies",
    "title": "Software Engineer",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
+   "first_seen": "2026-09-14"
+  },
+  {
+   "company": "Ericsson",
+   "title": "Services Professional (Early Career)",
+   "location": "Toronto,Ontario,Canada",
+   "url": "https://jobs.ericsson.com/careers/job/563121775279366",
    "first_seen": "2026-09-14"
   },
   {
@@ -501,13 +515,6 @@
   },
   {
    "company": "Tenstorrent",
-   "title": "Software Engineer, Metal Runtime (Core Systems)",
-   "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
-   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5023673007",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Tenstorrent",
    "title": "Software Engineer, Acceleration Kernel Development",
    "location": "Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4155609007",
@@ -553,13 +560,6 @@
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=7737237",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Stripe",
-   "title": "Software Engineer, Machine Learning Infrastructure",
-   "location": "Toronto, Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=8084476",
    "first_seen": "2026-09-01"
   },
   {
@@ -628,15 +628,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
