@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15 20:39 UTC",
- "count": 245,
+ "generated_at": "2026-09-15 23:08 UTC",
+ "count": 247,
  "stats": {
   "sources": 92,
   "ats": 21
@@ -279,6 +279,14 @@
    "category": "SDE"
   },
   {
+   "company": "Cerebras",
+   "title": "Software Engineer - Kernel Reliability",
+   "location": "Canada; United States",
+   "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
    "location": "CA, ON, Toronto",
@@ -303,6 +311,14 @@
    "category": "SDE"
   },
   {
+   "company": "Nexthop.ai",
+   "title": "Software Engineer New Grad",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://nexthopai.bamboohr.com/careers/62/",
+   "first_seen": "2026-09-14",
+   "category": "SDE"
+  },
+  {
    "company": "L3Harris Technologies",
    "title": "Software Engineer",
    "location": "Montreal, QC, Canada",
@@ -315,6 +331,14 @@
    "title": "Services Professional (Early Career)",
    "location": "Toronto,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121775279366",
+   "first_seen": "2026-09-14",
+   "category": "Other"
+  },
+  {
+   "company": "BDO Canada",
+   "title": "Business Analyst New Grad - Data & Analytics",
+   "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Edmonton, AB, Canada; Ottawa, ON, Canada; Halifax Regional Municipality, NS, Canada",
+   "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065",
    "first_seen": "2026-09-14",
    "category": "Other"
   },
@@ -639,6 +663,14 @@
    "category": "Other"
   },
   {
+   "company": "DoorDash",
+   "title": "Software Engineer - Multiple Teams",
+   "location": "Toronto, ON, Canada",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
+   "first_seen": "2026-09-04",
+   "category": "SDE"
+  },
+  {
    "company": "Canadian Tire",
    "title": "Data Science Associate New Grad - Finance Rotational Program",
    "location": "Calgary, AB, Canada",
@@ -743,14 +775,6 @@
    "category": "SDE"
   },
   {
-   "company": "eBay",
-   "title": "Applied Researcher",
-   "location": "Toronto, Canada",
-   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/ML-Scientist---Machine-Learning-Engineer_R0076361",
-   "first_seen": "2026-09-01",
-   "category": "Research"
-  },
-  {
    "company": "Zip",
    "title": "Software Engineer New Grad",
    "location": "Toronto, ON, Canada",
@@ -845,14 +869,6 @@
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4155609007",
    "first_seen": "2026-09-01",
    "category": "SDE"
-  },
-  {
-   "company": "Tenstorrent",
-   "title": "Machine Learning Research Engineer (LLMs & AI Systems)",
-   "location": "Boston, Massachusetts, United States; Toronto, Ontario, Canada",
-   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5163484007",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
   },
   {
    "company": "TD (Security)",
