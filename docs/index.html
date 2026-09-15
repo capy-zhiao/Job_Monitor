@@ -12,9 +12,24 @@
   }
   * { box-sizing: border-box; }
   body {
-    margin: 0 auto; max-width: 900px; padding: 24px 16px 64px;
+    margin: 0 auto; max-width: 1080px; padding: 24px 16px 64px;
     background: var(--bg); color: var(--fg);
     font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .layout { display: flex; gap: 24px; align-items: flex-start; }
+  .filters {
+    width: 210px; flex-shrink: 0; position: sticky; top: 16px;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .filters .ftitle { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin-bottom: 2px; }
+  .filters input, .filters select { width: 100%; }
+  .main { flex: 1; min-width: 0; }
+  @media (max-width: 720px) {
+    .layout { flex-direction: column; }
+    .filters { width: auto; position: static; flex-direction: row; flex-wrap: wrap; }
+    .filters .ftitle { display: none; }
+    .filters input { flex: 1; min-width: 180px; }
+    .filters select { width: auto; }
   }
   h1 { font-size: 22px; margin: 0 0 4px; }
   .sub { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
@@ -70,20 +85,10 @@
   · <a href="https://discord.gg/aF94kfHeJ">Join Discord for real-time alerts</a>
 </div>
 
-<div class="stats" id="stats"></div>
-
-<div id="trend" hidden style="position:relative;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
-  <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px">
-    <div style="font-weight:600;font-size:15px">Open roles over time</div>
-    <div style="font-size:12px;color:var(--muted)" id="trend-sub"></div>
-  </div>
-  <svg id="trend-svg" width="100%" viewBox="0 0 640 180" preserveAspectRatio="none" style="display:block"></svg>
-  <div style="display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:6px" id="trend-axis"></div>
-  <div id="trend-tip" hidden style="position:absolute;pointer-events:none;transform:translate(-50%,-115%);background:#1a1a1a;color:#fff;font-size:12px;padding:4px 8px;border-radius:6px;white-space:nowrap;z-index:5"></div>
-</div>
-
-<div class="controls">
-  <input id="q" type="search" placeholder="Search title, company, location…">
+<div class="layout">
+<aside class="filters">
+  <div class="ftitle">Filters</div>
+  <input id="q" type="search" placeholder="Search…">
   <select id="category"><option value="">All roles</option></select>
   <select id="city"><option value="">All locations</option></select>
   <select id="company"><option value="">All companies</option></select>
@@ -99,10 +104,25 @@
     <option value="applied">✓ Applied</option>
     <option value="unapplied">Hide applied</option>
   </select>
+</aside>
+
+<main class="main">
+<div class="stats" id="stats"></div>
+
+<div id="trend" hidden style="position:relative;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
+  <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px">
+    <div style="font-weight:600;font-size:15px">Open roles over time</div>
+    <div style="font-size:12px;color:var(--muted)" id="trend-sub"></div>
+  </div>
+  <svg id="trend-svg" width="100%" viewBox="0 0 640 180" preserveAspectRatio="none" style="display:block"></svg>
+  <div style="display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:6px" id="trend-axis"></div>
+  <div id="trend-tip" hidden style="position:absolute;pointer-events:none;transform:translate(-50%,-115%);background:#1a1a1a;color:#fff;font-size:12px;padding:4px 8px;border-radius:6px;white-space:nowrap;z-index:5"></div>
 </div>
 
 <div class="sub" id="meta">loading…</div>
 <div id="list"></div>
+</main>
+</div>
 
 <footer>
   Auto-collected every ~15 minutes from company career APIs and community
