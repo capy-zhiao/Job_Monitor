@@ -8,6 +8,7 @@
   :root {
     --bg: #ffffff; --fg: #1a1a1a; --muted: #6b7280; --border: #e5e7eb;
     --card: #f9fafb; --accent: #2563eb; --new-bg: #dcfce7; --new-fg: #166534;
+    --star: #d69e2e;
   }
   * { box-sizing: border-box; }
   body {
@@ -16,25 +17,45 @@
     font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
   h1 { font-size: 22px; margin: 0 0 4px; }
-  .sub { color: var(--muted); font-size: 13px; margin-bottom: 20px; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
+  .sub a { color: var(--accent); }
+  .stats { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  .stat {
+    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+    padding: 8px 14px; min-width: 92px;
+  }
+  .stat .n { font-size: 20px; font-weight: 600; }
+  .stat .l { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
   .controls { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
   input, select {
     padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
     background: var(--bg); color: var(--fg); font-size: 14px;
   }
-  input { flex: 1; min-width: 200px; }
+  input { flex: 1; min-width: 180px; }
   .job {
-    display: block; padding: 12px 14px; margin-bottom: 8px;
+    padding: 12px 14px; margin-bottom: 8px;
     background: var(--card); border: 1px solid var(--border); border-radius: 10px;
-    text-decoration: none; color: inherit;
   }
-  .job:hover { border-color: var(--accent); }
-  .job .t { font-weight: 600; }
-  .job .m { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .job.applied { opacity: .55; }
+  .job .row { display: flex; align-items: flex-start; gap: 8px; }
+  .job .t { font-weight: 600; text-decoration: none; color: inherit; flex: 1; }
+  .job .t:hover { color: var(--accent); text-decoration: underline; }
+  .job .m { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .btn {
+    background: none; border: none; cursor: pointer; font-size: 16px; line-height: 1;
+    padding: 2px 4px; color: var(--muted); border-radius: 6px;
+  }
+  .btn:hover { background: var(--border); }
+  .btn.on-star { color: var(--star); }
+  .btn.on-applied { color: var(--new-fg); }
+  .chip {
+    display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 8px;
+    border-radius: 999px; margin-right: 6px; vertical-align: 1px;
+  }
   .badge {
     display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 8px;
     border-radius: 999px; background: var(--new-bg); color: var(--new-fg);
-    margin-left: 8px; vertical-align: 1px;
+    margin-right: 6px; vertical-align: 1px;
   }
   .empty { color: var(--muted); text-align: center; padding: 40px 0; }
   footer { margin-top: 32px; color: var(--muted); font-size: 12px; }
@@ -44,13 +65,17 @@
 <body>
 <h1>Canada new-grad tech jobs</h1>
 <div class="sub">
-  Built by <a href="https://github.com/capy-zhiao" style="color:var(--accent)">Zhiao Wei (@capy-zhiao)</a>
-  · <a href="https://github.com/capy-zhiao/Job_Monitor" style="color:var(--accent)">Job_Monitor on GitHub</a>
-  · <a href="https://discord.gg/aF94kfHeJ" style="color:var(--accent)">Join Discord for real-time alerts</a>
+  Built by <a href="https://github.com/capy-zhiao">Zhiao Wei (@capy-zhiao)</a>
+  · <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor on GitHub</a>
+  · <a href="https://discord.gg/aF94kfHeJ">Join Discord for real-time alerts</a>
 </div>
-<div class="sub" id="meta">loading…</div>
+
+<div class="stats" id="stats"></div>
+
 <div class="controls">
   <input id="q" type="search" placeholder="Search title, company, location…">
+  <select id="category"><option value="">All roles</option></select>
+  <select id="city"><option value="">All locations</option></select>
   <select id="company"><option value="">All companies</option></select>
   <select id="age">
     <option value="">Any age</option>
@@ -58,52 +83,141 @@
     <option value="7">Last 7 days</option>
     <option value="30">Last 30 days</option>
   </select>
+  <select id="view">
+    <option value="">All</option>
+    <option value="saved">★ Saved</option>
+    <option value="applied">✓ Applied</option>
+    <option value="unapplied">Hide applied</option>
+  </select>
 </div>
+
+<div class="sub" id="meta">loading…</div>
 <div id="list"></div>
+
 <footer>
   Auto-collected every ~15 minutes from company career APIs and community
   new-grad lists by <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor</a>.
   Filters: Canada locations, entry-level software / security / research titles.
+  Saved &amp; applied marks are stored only in your browser.
 </footer>
+
 <script>
-let DATA = { jobs: [] };
+let DATA = { jobs: [], stats: {} };
 const $ = id => document.getElementById(id);
 const daysAgo = iso => (Date.now() - new Date(iso + "T00:00:00Z")) / 86400000;
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const CAT_COLORS = {
+  "Security": ["#fbeaea", "#a32d2d"], "AI/ML": ["#eeedfe", "#3c3489"],
+  "SDE": ["#e6f1fb", "#0c447c"], "Research": ["#e1f5ee", "#0f6e56"],
+  "Other": ["#f1efe8", "#5f5e5a"],
+};
+const CITIES = ["Toronto", "Waterloo", "Kitchener", "Ottawa", "Vancouver", "Montreal", "Calgary", "Mississauga", "Remote"];
+
+// per-viewer marks, browser-local only
+const load = k => { try { return new Set(JSON.parse(localStorage.getItem(k) || "[]")); } catch { return new Set(); } };
+const save = (k, set) => { try { localStorage.setItem(k, JSON.stringify([...set])); } catch {} };
+let SAVED = load("jm_saved"), APPLIED = load("jm_applied");
+
+// filter state <-> URL query params (shareable/bookmarkable)
+const FILTERS = ["q", "category", "city", "company", "age", "view"];
+function readURL() {
+  const p = new URLSearchParams(location.search);
+  FILTERS.forEach(f => { const v = p.get(f); if (v != null) $(f).value = v; });
+}
+function writeURL() {
+  const p = new URLSearchParams();
+  FILTERS.forEach(f => { if ($(f).value) p.set(f, $(f).value); });
+  const qs = p.toString();
+  history.replaceState(null, "", qs ? "?" + qs : location.pathname);
+}
+
+function toggle(set, key, url) {
+  if (set.has(url)) set.delete(url); else set.add(url);
+  save(key, set); render();
+}
 
 function render() {
   const q = $("q").value.trim().toLowerCase();
-  const company = $("company").value;
+  const cat = $("category").value, city = $("city").value.toLowerCase();
+  const company = $("company").value, view = $("view").value;
   const maxAge = $("age").value ? parseFloat($("age").value) : Infinity;
+
   const rows = DATA.jobs.filter(j => {
+    if (cat && (j.category || "Other") !== cat) return false;
     if (company && j.company !== company) return false;
+    if (city && !(j.location || "").toLowerCase().includes(city)) return false;
     if (daysAgo(j.first_seen) > maxAge) return false;
-    if (!q) return true;
-    return (j.title + " " + j.company + " " + j.location).toLowerCase().includes(q);
+    if (view === "saved" && !SAVED.has(j.url)) return false;
+    if (view === "applied" && !APPLIED.has(j.url)) return false;
+    if (view === "unapplied" && APPLIED.has(j.url)) return false;
+    if (q && !(j.title + " " + j.company + " " + j.location).toLowerCase().includes(q)) return false;
+    return true;
   });
-  $("list").innerHTML = rows.length ? rows.map(j => `
-    <a class="job" href="${j.url}" target="_blank" rel="noopener">
-      <span class="t">${esc(j.company)}: ${esc(j.title)}</span>
-      ${daysAgo(j.first_seen) <= 2 ? '<span class="badge">NEW</span>' : ""}
-      <div class="m">${esc(j.location || "—")} · first seen ${j.first_seen}</div>
-    </a>`).join("") : '<div class="empty">No jobs match.</div>';
-  $("meta").textContent =
-    `${rows.length} of ${DATA.count} openings · updated ${DATA.generated_at}`;
+
+  $("list").innerHTML = rows.length ? rows.map(j => {
+    const c = j.category || "Other", col = CAT_COLORS[c] || CAT_COLORS.Other;
+    const isNew = daysAgo(j.first_seen) <= 2, sv = SAVED.has(j.url), ap = APPLIED.has(j.url);
+    return `<div class="job${ap ? " applied" : ""}">
+      <div class="row">
+        <a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.company)}: ${esc(j.title)}</a>
+        <button class="btn ${sv ? "on-star" : ""}" data-save="${esc(j.url)}" aria-label="Save" title="Save">${sv ? "★" : "☆"}</button>
+        <button class="btn ${ap ? "on-applied" : ""}" data-applied="${esc(j.url)}" aria-label="Mark applied" title="Mark applied">✓</button>
+      </div>
+      <div class="m">
+        <span class="chip" style="background:${col[0]};color:${col[1]}">${esc(c)}</span>
+        ${isNew ? '<span class="badge">NEW</span>' : ""}
+        ${esc(j.location || "—")} · first seen ${j.first_seen}
+      </div>
+    </div>`;
+  }).join("") : '<div class="empty">No jobs match.</div>';
+
+  $("list").querySelectorAll("[data-save]").forEach(b =>
+    b.onclick = () => toggle(SAVED, "jm_saved", b.dataset.save));
+  $("list").querySelectorAll("[data-applied]").forEach(b =>
+    b.onclick = () => toggle(APPLIED, "jm_applied", b.dataset.applied));
+
+  $("meta").textContent = `${rows.length} of ${DATA.count} openings · updated ${DATA.generated_at}`;
+  writeURL();
 }
-const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function renderStats() {
+  const jobs = DATA.jobs, newToday = jobs.filter(j => daysAgo(j.first_seen) <= 2).length;
+  const companies = new Set(jobs.map(j => j.company)).size;
+  const s = DATA.stats || {};
+  const tiles = [
+    [DATA.count || jobs.length, "openings"],
+    [newToday, "new (48h)"],
+    [companies, "companies"],
+    [SAVED.size, "★ saved"],
+    [APPLIED.size, "✓ applied"],
+  ];
+  if (s.sources) tiles.push([s.sources, "sources"]);
+  if (s.ats) tiles.push([s.ats, "ATS integrations"]);
+  $("stats").innerHTML = tiles.map(t =>
+    `<div class="stat"><div class="n">${t[0]}</div><div class="l">${t[1]}</div></div>`).join("");
+}
 
 fetch("jobs.json?" + Date.now())
   .then(r => r.json())
   .then(d => {
     DATA = d;
-    [...new Set(d.jobs.map(j => j.company))].sort().forEach(c => {
-      const o = document.createElement("option");
-      o.value = o.textContent = c;
-      $("company").appendChild(o);
+    // populate dropdowns from data
+    [...new Set(d.jobs.map(j => j.category || "Other"))].sort().forEach(c => {
+      const o = document.createElement("option"); o.value = o.textContent = c; $("category").appendChild(o);
     });
+    CITIES.filter(city => d.jobs.some(j => (j.location || "").toLowerCase().includes(city.toLowerCase())))
+      .forEach(city => { const o = document.createElement("option"); o.value = o.textContent = city; $("city").appendChild(o); });
+    [...new Set(d.jobs.map(j => j.company))].sort().forEach(c => {
+      const o = document.createElement("option"); o.value = o.textContent = c; $("company").appendChild(o);
+    });
+    readURL();
+    renderStats();
     render();
   })
   .catch(() => { $("meta").textContent = "failed to load jobs.json"; });
-["q", "company", "age"].forEach(id => $(id).addEventListener("input", render));
+
+FILTERS.forEach(f => $(f).addEventListener("input", render));
 </script>
 </body>
 </html>

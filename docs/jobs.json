@@ -28,21 +28,32 @@
    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bs-ms-winter-summer-2027",
-   "first_seen": "2026-09-15"
+   "first_seen": "2026-09-15",
+   "category": "Research"
   },
   {
    "company": "Google DeepMind",
    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bs-ms-winter-summer-2027",
-   "first_seen": "2026-09-15"
+   "first_seen": "2026-09-15",
+   "category": "Research"
   },
   {
    "company": "Google DeepMind",
    "title": "Student Researcher, BS/MS, Fall 2026",
    "location": "Waterloo, ON, Canada; Toronto, ON, Canada; Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
-   "first_seen": "2026-09-15"
+   "first_seen": "2026-09-15",
+   "category": "Research"
+  },
+  {
+   "company": "Cerebras",
+   "title": "Software Engineer, Kernel Reliability",
+   "location": "United States and Canada",
+   "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
   },
   {
    "company": "Cerebras",
@@ -63,7 +74,8 @@
    "title": "Software Engineer",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
-   "first_seen": "2026-09-14"
+   "first_seen": "2026-09-14",
+   "category": "SDE"
   },
   {
    "company": "Ericsson",
@@ -77,126 +89,144 @@
    "title": "NPU Diagnostics Software Engineer",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92305",
-   "first_seen": "2026-09-14"
+   "first_seen": "2026-09-14",
+   "category": "SDE"
   },
   {
    "company": "Qualcomm",
    "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
    "location": "Markham, ON, Canada",
    "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
-   "first_seen": "2026-09-12"
+   "first_seen": "2026-09-12",
+   "category": "AI/ML"
   },
   {
    "company": "Meta",
    "title": "Research Engineer - AI",
    "location": "Montreal, QC, Canada",
    "url": "https://www.metacareers.com/jobs/1395718268613427",
-   "first_seen": "2026-09-12"
+   "first_seen": "2026-09-12",
+   "category": "Research"
   },
   {
    "company": "Eaton",
    "title": "Software Developer - Software C++ - Research & Development Engineering",
    "location": "Brossard, QC, Canada",
    "url": "https://eaton.eightfold.ai/careers/job/687239106601",
-   "first_seen": "2026-09-12"
+   "first_seen": "2026-09-12",
+   "category": "SDE"
   },
   {
    "company": "Capital One",
    "title": "Data Scientist New Grad",
    "location": "Toronto, ON, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-   "first_seen": "2026-09-12"
+   "first_seen": "2026-09-12",
+   "category": "AI/ML"
   },
   {
    "company": "Affirm",
    "title": "Software Engineer 1 - Frontend - Upfunnel",
    "location": "Remote in Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
-   "first_seen": "2026-09-12"
+   "first_seen": "2026-09-12",
+   "category": "SDE"
   },
   {
    "company": "Waabi",
    "title": "Research Engineer, Sensor Signal Processing",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/4a22f57b-cd17-4533-a22b-e927acef834e",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "Research"
   },
   {
    "company": "Tailscale",
    "title": "Software Engineer, Networking (Edge)",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733094005",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Développeur Logiciels (Stagiaire), Automatisation des tests (l'été 2027)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "Other"
   },
   {
    "company": "Huawei",
    "title": "Engineer - 6G RF Packaging",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "SDE"
   },
   {
    "company": "Ericsson",
    "title": "Early Career RF Specialist (RAN Optimization)",
    "location": "Toronto,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121777164021",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "Other"
   },
   {
    "company": "Affirm",
    "title": "Software Engineer I, Frontend (Upfunnel)",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
-   "first_seen": "2026-09-11"
+   "first_seen": "2026-09-11",
+   "category": "SDE"
   },
   {
    "company": "Zip",
    "title": "Software Engineer, New Grad (2027 Start)",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Zip",
    "title": "Software Engineer, Backend (All Levels)",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/zip/4f2ba8b4-144e-43c8-a83d-72ea40f70123",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Tailscale",
    "title": "Software Engineer, Strategic Projects",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Tailscale",
    "title": "Software Engineer, Networking (Dataplane)",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Tailscale",
    "title": "Security Software Engineer",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4648921005",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "Security"
   },
   {
    "company": "TD",
@@ -210,105 +240,120 @@
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509910-1",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Sun Life",
    "title": "Junior Security Data Analyst",
    "location": "Toronto, ON, Canada",
    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "Security"
   },
   {
    "company": "Robinhood",
    "title": "Software Engineer, Tokenization",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8189007?t=gh_src=&gh_jid=8189007",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer, Telematics",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Physical AI",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-physical-ai",
-   "first_seen": "2026-09-10"
+   "first_seen": "2026-09-10",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher-AI Agents",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-agents-3",
-   "first_seen": "2026-09-09"
+   "first_seen": "2026-09-09",
+   "category": "Research"
   },
   {
    "company": "Atlassian",
    "title": "Software Engineer New Grad - 2027 Graduate",
    "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
    "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
-   "first_seen": "2026-09-09"
+   "first_seen": "2026-09-09",
+   "category": "SDE"
   },
   {
    "company": "Apple",
    "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200682548/software-development-engineer-in-test-full-stack-creativity-apps?team=SFTWR",
-   "first_seen": "2026-09-09"
+   "first_seen": "2026-09-09",
+   "category": "SDE"
   },
   {
    "company": "AMD",
    "title": "Cloud Infrastructure Software Engineer – Semiconductor Design",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/87270",
-   "first_seen": "2026-09-09"
+   "first_seen": "2026-09-09",
+   "category": "SDE"
   },
   {
    "company": "AMD",
    "title": "AI Models Software Development Engineer",
    "location": "Markham, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/91575",
-   "first_seen": "2026-09-09"
+   "first_seen": "2026-09-09",
+   "category": "SDE"
   },
   {
    "company": "Trane Technologies",
    "title": "Accelerated Development Program New Grad",
    "location": "Montreal, QC, Canada; Minneapolis, MN; Davidson, NC",
    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7611",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "Other"
   },
   {
    "company": "TD Bank",
    "title": "Associate Software Engineer",
    "location": "Toronto, ON, Canada",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "SDE"
   },
   {
    "company": "TD",
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "SDE"
   },
   {
    "company": "TD",
    "title": "AI2 Applied Machine Learning Scientist (Graduate)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "AI/ML"
   },
   {
    "company": "TD",
    "title": "AI2 Applied Machine Learning Scientist (Graduate)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "AI/ML"
   },
   {
    "company": "Ericsson",
@@ -322,252 +367,288 @@
    "title": "Distributed Software Engineer",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "SDE"
   },
   {
    "company": "Capital One",
    "title": "Data Analyst New Grad - Data Analyst",
    "location": "Toronto, ON, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "Other"
   },
   {
    "company": "AECOM",
    "title": "Electrical Engineer New Grad",
    "location": "Markham, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000148322240",
-   "first_seen": "2026-09-08"
+   "first_seen": "2026-09-08",
+   "category": "SDE"
   },
   {
    "company": "Procter & Gamble",
    "title": "IT Software Engineer - Warehouse Systems - Solution Expert",
    "location": "Toronto, ON, Canada",
    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/IT-Warehouse-Systems-Solution-Expert_R000156588",
-   "first_seen": "2026-09-05"
+   "first_seen": "2026-09-05",
+   "category": "SDE"
   },
   {
    "company": "Sun Life",
    "title": "Solution Architect Student - Winter 2027",
    "location": "Toronto, ON, Canada; Waterloo, ON, Canada",
    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Solution-Architect--Winter-2027-_JR00127360",
-   "first_seen": "2026-09-04"
+   "first_seen": "2026-09-04",
+   "category": "Other"
   },
   {
    "company": "Canadian Tire",
    "title": "Data Science Associate New Grad - Finance Rotational Program",
    "location": "Calgary, AB, Canada",
    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Quarry-Park/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164990",
-   "first_seen": "2026-09-04"
+   "first_seen": "2026-09-04",
+   "category": "Other"
   },
   {
    "company": "Canadian Tire",
    "title": "Data Science Associate New Grad - Finance Rotational Program",
    "location": "Toronto, ON, Canada",
    "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
-   "first_seen": "2026-09-04"
+   "first_seen": "2026-09-04",
+   "category": "Other"
   },
   {
    "company": "Mastercard",
    "title": "Software Engineer - Launch Program",
    "location": "Vancouver, BC, Canada",
    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "SDE"
   },
   {
    "company": "Mastercard",
    "title": "Software Engineer - Launch Program",
    "location": "Toronto, ON, Canada",
    "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Researcher – 3D Computer Vision and Generative Modeling",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-3d-computer-vision-and-generative-modeling",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Video Generation & 3D Computer Vision",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-video-generation-3d-computer-vision-1",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "Research"
   },
   {
    "company": "General Motors",
    "title": "Software Developer Embedded Software",
    "location": "Markham, ON, Canada; Oshawa, ON, Canada",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer--Embedded-Software_JR-202618368",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "SDE"
   },
   {
    "company": "Faire",
    "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
    "location": "Kitchener-Waterloo, ON; Toronto, ON",
    "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "SDE"
   },
   {
    "company": "Ericsson",
    "title": "Cloud Native Software Developer",
    "location": "Ottawa,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121776830967",
-   "first_seen": "2026-09-03"
+   "first_seen": "2026-09-03",
+   "category": "SDE"
   },
   {
    "company": "TD",
    "title": "Data Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1506329",
-   "first_seen": "2026-09-02"
+   "first_seen": "2026-09-02",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Engineer - RF & Antenna",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-rf-antenna",
-   "first_seen": "2026-09-02"
+   "first_seen": "2026-09-02",
+   "category": "SDE"
   },
   {
    "company": "eBay",
    "title": "MTS 1, Software Engineer, Full Stack",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/MTS-1--Software-Engineer--Full-Stack_R0075838",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "eBay",
    "title": "Applied Researcher",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/ML-Scientist---Machine-Learning-Engineer_R0076361",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Zip",
    "title": "Software Engineer New Grad",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792/application?embed=true",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Waabi",
    "title": "Software Engineer, Labelling, Data & Automation",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/09e213fd-70fb-4715-949a-891576309002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Waabi",
    "title": "Research Engineer, World Models",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/ef8b9a24-a010-4ef6-814c-3503e268e9a3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Waabi",
    "title": "Research Engineer, Neural Rendering",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/99147e5e-c589-452b-87c1-789cbc4f3de8",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Waabi",
    "title": "Research Engineer, Learnable Planner (Integration)",
    "location": "Remote US & Canada",
    "url": "https://jobs.lever.co/waabi/30f77194-6f1c-4ee2-8bb9-0eb9763250af",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Waabi",
    "title": "Research Engineer",
    "location": "Remote US & Canada",
    "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Waabi",
    "title": "Applied Scientist",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/df57aa7f-9ce4-46f7-93a5-f8e06c3ae0f3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Vanta",
    "title": "Software Engineer, AI Product (Canada)",
    "location": "Remote - Canada",
    "url": "https://jobs.ashbyhq.com/vanta/581791d7-c63d-45fe-b6a7-f2d8f6532af7",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Tenstorrent",
    "title": "Software Engineer, TT-Fabric ",
    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4645584007",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Tenstorrent",
    "title": "Software Engineer, TT-Distributed",
    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Tenstorrent",
    "title": "Software Engineer, Scale Out",
    "location": "Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4484179007",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Tenstorrent",
    "title": "Software Engineer, Acceleration Kernel Development",
    "location": "Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4155609007",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Tenstorrent",
    "title": "Machine Learning Research Engineer (LLMs & AI Systems)",
    "location": "Boston, Massachusetts, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5163484007",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "TD (Security)",
    "title": "Information Security Specialist (Security Posture Insights, Reporting and Remediation)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Security-Posture-Insights--Reporting-and-Remediation-_R_1507913",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "TD (Security)",
    "title": "Information Security Specialist ( Attack Surface Reduction)",
    "location": "2 Locations",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Attack-Surface-Reduction-_R_1502609",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "TD",
    "title": "Associate Software Engineer (Fullstack)",
    "location": "2 Locations",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--Fullstack-_R_1508672",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=7737237",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Snap",
@@ -581,42 +662,48 @@
    "title": "Software Developer, Ops Platform and Fraud Investigations",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Reddit",
    "title": "Software Engineer, Ads",
    "location": "Remote - Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "RBC (Security)",
    "title": "Information & Data Security Analyst - Halifax",
    "location": "HALIFAX, Nova Scotia, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Information---Data-Security-Analyst---Halifax_R-0000174371-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "RBC (Security)",
    "title": "2027 Winter Student Opportunities Technology & Operations - Cyber Security Analyst, 4-8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/16-YORK-STTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Cyber-Security-Analyst--4-8-Months_R-0000184797-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "Pinterest",
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "NVIDIA",
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Microsoft",
@@ -644,469 +731,536 @@
    "title": "Software Engineer, GKOS",
    "location": "Canada",
    "url": "https://jobs.lever.co/magnetforensics/8d402b0c-12b6-4114-bfc9-4ef95f4742e1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Magnet Forensics",
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer, Pricing - Rider Engagement",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743259002?gh_jid=8743259002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer, Pricing - Price Orchestration",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8396751002?gh_jid=8396751002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer, Observability",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8716220002?gh_jid=8716220002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer, Fulfillment",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer, Async Platform",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8691539002?gh_jid=8691539002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer in Test, LUS",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Android Software Engineer, Lyft Urban Solutions",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "IXL Learning",
    "title": "Software Developer New Grad - Integrations",
    "location": "Toronto, ON, Canada",
    "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "IBM Canada",
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121183",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "IBM Canada",
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "System Security Research Engineer – OS and Device Protection",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/system-security-research-engineer-os-and-device-protection-3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "Huawei",
    "title": "Software Engineer - Windowing & Graphics",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/software-engineer-windowing-graphics",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Software Developer - Real-time Operating System",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/software-developer-realtime-operating-system",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Security Researcher - Authentication and Authorization",
    "location": "Waterloo, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/security-researcher-authentication-and-authorization",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "Huawei",
    "title": "Researcher – Parallel Computing",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-parallel-computing-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher – Human-Computer Interaction",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-human-computer-interaction",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher – Computer Vision and Multimodal Foundation Models",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-computer-vision-and-multimodal-foundation-models",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher – Computer Vision and Autonomous Driving",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-3d-vision-and-autonomous-driving-2-3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher – Computer Vision & Human-Centered AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-computer-vision-human-centered-ai",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher – Agentic Interaction Engineering",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-agentic-interaction-engineering",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher – AI/ML Real-Time Embedded OS",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-real-time-embedded-os-2",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher – AI for Scientific Algorithm Discovery",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-for-scientific-algorithm-discovery",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher – AI Security",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-security",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "Huawei",
    "title": "Researcher – 3D Vision and Autonomous Driving",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-3d-vision-and-autonomous-driving-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Technology Strategist",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/intern-technology-researcher-2-4",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Technical Insight and Planning (AI/ML)",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/technical-planning",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Supercharging Converter",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-supercharging-converter-3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Speech & Acoustic AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-speech-acoustic-ai",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Reinforcement Learning",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-reinforcement-learning-3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Real-Time Embedded OS",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-realtime-embedded-os",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Procedural Graphics",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-procedural-graphics",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Power System and Grid Interconnection",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-power-system-and-grid-interconnection-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - LLMs",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-llms-2",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Graphic Rendering",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-graphic-rendering-2-3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Researcher - Efficient Architecture for LLMs",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-efficient-architecture-for-llms",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher - AI Computing System",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-computing-system-4",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher - AI Computing System",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-computing-system-3",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Researcher - AI",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-erc",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Research Engineer – Multimodal AI & Interaction",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-multimodal-ai-interaction",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Research Engineer - LLM Training & Alignment Systems",
    "location": "Kingston, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-llm-training-alignment-systems",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Research Engineer - Agentic Software Systems Engineering",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-agentic-software-systems-engineering",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "Research Engineer - AI Workload & Systems",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-ai-workload-systems",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Research Engineer - AI Data Security",
    "location": "Waterloo, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-ai-data-security",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "Huawei",
    "title": "Power System Analyst",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/power-system-analyst-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Other"
   },
   {
    "company": "Huawei",
    "title": "Power Communication Protocol Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/power-communication-protocol-developer",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Microgrid System Developer – Protection and Control",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/microgrid-system-developer-protection-and-control",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Microgrid System Developer - Energy Management & Control",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/microgrid-system-developer-energy-management-control",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Machine Learning Researcher -LLM Agents & Efficient Deep Learning",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/machine-learning-researcher-llm-agents-efficient-deep-learning",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Junior Software Developer - Real-time Operating System",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/junior-software-developer-realtime-operating-system",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Graphics Engineer - 3D",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/graphics-engineer-3d",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Engineer – Agent R&D",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-agent-rd",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Engineer - Optical Systems",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-optical-systems-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Engineer - Optical Communication Systems (Test, Modeling & Sensing)",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-optical-communication-systems-test-modeling-sensing",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Engineer - ML & RL",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-ml-rl",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Engineer - KHRONOS Standard",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-khronos-standard",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Engineer - Advanced Network",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-advanced-network",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Embedded Engineer – AI System Architecture",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/embedded-engineer-ai-system-architecture",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Developer - Power System Simulation Model",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/developer-power-system-simulation-model-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Computer Network for AI Infrastructure Researcher – Distributed Computing",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/computer-network-for-ai-infrastructure-researcher-distributed-computing",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Compiler Engineer",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/compiler-engineer-2-16",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "Applied AI Researcher – Multimodal Intelligence",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/applied-ai-researcher-multimodal-intelligence",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
    "title": "Agentic RL Researcher – Distributed Computing",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/agentic-rl-researcher-distributed-computing",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Research"
   },
   {
    "company": "Huawei",
    "title": "AI Systems Engineer – Serverless Distributed Computing",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/ai-systems-engineer-serverless-distributed-computing",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
    "title": "AI Software Developer - Smart Grid",
    "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/ai-software-developer-smart-grid",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet (Security)",
    "title": "Security Researcher",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22879",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Security"
   },
   {
    "company": "Fortinet (Security)",
@@ -1120,105 +1274,120 @@
    "title": "Software Developer (C/C++)",
    "location": "Ottawa, ON, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22476",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Software Developer (Android)",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20284",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19866",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22074",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Software Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19614",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22633",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22743",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "New Grad 2026 (Canada)",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "Other"
   },
   {
    "company": "Fortinet",
    "title": "Full Stack Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22399",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22958",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22745",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22746",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23300",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23594",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Cohere",
@@ -1232,14 +1401,24 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Cisco",
@@ -1253,238 +1432,272 @@
    "title": "Embedded Software Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Ciena",
    "title": "Embedded Software Developer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Ciena",
    "title": "ASIC Synthesis and STA Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Cerebras",
    "title": "Software Engineer, GPU Inference",
    "location": "United States and Canada",
    "url": "https://jobs.ashbyhq.com/cerebras/1c8cdbc4-bd74-46df-9645-bb910eaa7a37",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Cerebras",
    "title": "Software Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Cerebras",
    "title": "DevOps Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Borealis AI (RBC)",
    "title": "Machine Learning Software Engineer",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer_R-0000182038-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Borealis AI (RBC)",
    "title": "2027 Winter Student Opportunities RBC Borealis -Machine Learning Software Engineer, 4 Months - Montreal",
    "location": "MONTRÉAL, Quebec, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Borealis AI (RBC)",
    "title": "2027 Winter Student Opportunities RBC Borealis - Software Developer, 4-8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Borealis AI (RBC)",
    "title": "2027 Winter Student Opportunities RBC Borealis - Machine Learning Software Engineer, 4-8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Borealis AI (RBC)",
    "title": "2027 Winter Student Opportunities RBC Borealis - AI Data Analyst - 8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Borealis AI (RBC)",
    "title": "2027 Winter Student Opportunities RBC Borealis - AI Business Analyst - 8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Business-Analyst---8-Months_R-0000184502-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Autodesk",
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Autodesk",
    "title": "Software Developer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100579",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Autodesk",
    "title": "Software Developer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100821-1",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Asana",
    "title": "Software Engineer, Product",
    "location": "Vancouver, BC",
    "url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Apple",
    "title": "iOS Software Engineer - Creative Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200678787/ios-software-engineer-creative-apps?team=SFTWR",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Apple",
    "title": "Xcode Cloud Distributed Systems Software Engineer",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680206/xcode-cloud-distributed-systems-software-engineer?team=SFTWR",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Apple",
    "title": "Software Engineer, Productivity Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200674176/software-engineer-productivity-apps?team=SFTWR",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Apple",
    "title": "Software Development Engineer in Test, Creativity Apps (SDET)",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680212/software-development-engineer-in-test-creativity-apps-sdet?team=SFTWR",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Sales AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/3188595/applied-scientist-sales-ai",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Sales AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/3188585/applied-scientist-sales-ai",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Sales AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/3188587/applied-scientist-sales-ai",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Demand Tech Planning",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10477908/applied-scientist-demand-tech-planning",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Conversational AI ModEling and Learning",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10460071/applied-scientist-conversational-ai-modeling-and-learning",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Alexa Smart Home",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10444145/applied-scientist-alexa-smart-home",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Alexa Connections",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10490771/applied-scientist-alexa-connections",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, AICE - AI Center of Excellence",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10458264/applied-scientist-aice-ai-center-of-excellence",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist,  Tax Engine",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10512573/applied-scientist-tax-engine",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
    "title": "Software Development Engineer, Early Career - 2026",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Affirm",
    "title": "Software Engineer II (Money Movement & Card Ledger)",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "AMD",
    "title": "Platform Emulation Software Engineer - DC GPU",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/89892",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "AMD",
    "title": "AI and Automation Software Engineer",
    "location": "VANCOUVER, British Columbia, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/91625",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "AMD",
    "title": "AI and Automation Software Engineer",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/88614",
-   "first_seen": "2026-09-01"
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   }
  ]
 }

@@ -88,11 +88,28 @@ def send_notifications(new_jobs):
         print(f"sent {len(new_jobs)} jobs to Slack")
 
 
-def emit_jobs_json(path, matched):
+def emit_jobs_json(path, matched, config_path=None):
     """Write the full current matched-job list (plus a first-seen date per
     posting, kept in a sidecar file) for the static jobs page."""
     import json
     from datetime import date, datetime, timezone
+
+    def categorize(title):
+        t = (title or "").lower()
+        if any(k in t for k in ("security", "vulnerabilit", "appsec", "soc ", "soc analyst",
+                                 "threat", "grc", "penetration", "infosec", "cryptograph")):
+            return "Security"
+        if any(k in t for k in ("machine learning", " ml ", "ml ", " ai ", "ai/", "llm",
+                                 "deep learning", "applied scientist", "nlp", "data scientist")):
+            return "AI/ML"
+        if any(k in t for k in ("research engineer", "research scientist", "applied researcher",
+                                 "researcher")):
+            return "Research"
+        if any(k in t for k in ("software", "developer", "sde", "full stack", "full-stack",
+                                 "backend", "back end", "frontend", "front end", "systems engineer",
+                                 "engineer")):
+            return "SDE"
+        return "Other"
 
     sidecar = os.path.join(os.path.dirname(os.path.abspath(path)), "first_seen.json")
     try:
@@ -109,9 +126,19 @@ def emit_jobs_json(path, matched):
         key=lambda j: (first_seen.get(j.uid, today), j.company, j.title),
         reverse=True,
     )
+    stats = {}
+    if config_path:
+        try:
+            with open(config_path) as f:
+                srcs = json.load(f)["sources"]
+            stats = {"sources": len(srcs), "ats": len({s["type"] for s in srcs})}
+        except (OSError, ValueError, KeyError):
+            stats = {}
+
     payload = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "count": len(jobs),
+        "stats": stats,
         "jobs": [
             {
                 "company": j.company,
@@ -119,6 +146,7 @@ def emit_jobs_json(path, matched):
                 "location": j.location,
                 "url": j.url,
                 "first_seen": first_seen.get(j.uid, today),
+                "category": categorize(j.title),
             }
             for j in jobs
         ],
@@ -141,7 +169,7 @@ def main(argv=None):
     new_jobs = [job for job in matched if job.uid not in seen]
 
     if args.emit_json:
-        emit_jobs_json(args.emit_json, matched)
+        emit_jobs_json(args.emit_json, matched, args.config)
 
     print(f"total matched: {len(matched)}, new since last run: {len(new_jobs)}")
     for job in new_jobs:
