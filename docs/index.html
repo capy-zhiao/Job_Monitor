@@ -72,13 +72,14 @@
 
 <div class="stats" id="stats"></div>
 
-<div id="trend" hidden style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
+<div id="trend" hidden style="position:relative;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
   <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px">
     <div style="font-weight:600;font-size:15px">Open roles over time</div>
     <div style="font-size:12px;color:var(--muted)" id="trend-sub"></div>
   </div>
   <svg id="trend-svg" width="100%" viewBox="0 0 640 180" preserveAspectRatio="none" style="display:block"></svg>
   <div style="display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:6px" id="trend-axis"></div>
+  <div id="trend-tip" hidden style="position:absolute;pointer-events:none;transform:translate(-50%,-115%);background:#1a1a1a;color:#fff;font-size:12px;padding:4px 8px;border-radius:6px;white-space:nowrap;z-index:5"></div>
 </div>
 
 <div class="controls">
@@ -244,7 +245,10 @@ function renderTrend(history) {
   const line = `<polyline points="${pts.join(" ")}" fill="none" stroke="var(--accent)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>`;
   const last = pts[pts.length - 1].split(",");
   const dot = `<circle cx="${last[0]}" cy="${last[1]}" r="3.5" fill="var(--accent)"/>`;
-  $("trend-svg").innerHTML = grid + area + line + dot;
+  // hover guide (updated on pointermove)
+  const guide = `<line id="trend-guide" x1="0" y1="0" x2="0" y2="${H}" stroke="var(--accent)" stroke-width="1" stroke-dasharray="3 3" visibility="hidden"/>`
+    + `<circle id="trend-hot" r="4" fill="var(--accent)" stroke="#fff" stroke-width="1.5" visibility="hidden"/>`;
+  $("trend-svg").innerHTML = grid + area + line + dot + guide;
 
   const first = history[0].total, cur = history[history.length - 1].total;
   const pct = first ? Math.round(((cur - first) / first) * 100) : 0;
@@ -253,6 +257,25 @@ function renderTrend(history) {
   $("trend-sub").innerHTML = `${history.length} days · <span style="color:${col}">${arrow} ${Math.abs(pct)}%</span>`;
   $("trend-axis").innerHTML = `<span>${history[0].date}</span><span>${history[history.length - 1].date}</span>`;
   $("trend").hidden = false;
+
+  // interactive hover: nearest data point → tooltip + guide line + hot dot
+  const svg = $("trend-svg"), tip = $("trend-tip"), cont = $("trend");
+  const guideEl = document.getElementById("trend-guide"), hot = document.getElementById("trend-hot");
+  const coords = history.map((h, i) => ({ vx: x(i), vy: y(h.total), h }));
+  svg.onpointermove = e => {
+    const r = svg.getBoundingClientRect();
+    const frac = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
+    const idx = Math.round(frac * (history.length - 1));
+    const p = coords[idx];
+    guideEl.setAttribute("x1", p.vx); guideEl.setAttribute("x2", p.vx); guideEl.setAttribute("visibility", "visible");
+    hot.setAttribute("cx", p.vx); hot.setAttribute("cy", p.vy); hot.setAttribute("visibility", "visible");
+    const cr = cont.getBoundingClientRect();
+    tip.style.left = ((r.left - cr.left) + (p.vx / 640) * r.width) + "px";
+    tip.style.top = ((r.top - cr.top) + (p.vy / 180) * r.height) + "px";
+    tip.innerHTML = `<b>${p.h.total}</b> open · ${p.h.date}`;
+    tip.hidden = false;
+  };
+  svg.onpointerleave = () => { tip.hidden = true; guideEl.setAttribute("visibility", "hidden"); hot.setAttribute("visibility", "hidden"); };
 }
 
 fetch("history.json?" + Date.now())
