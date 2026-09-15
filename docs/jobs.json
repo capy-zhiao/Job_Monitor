@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-09-15 07:23 UTC",
- "count": 216,
+ "generated_at": "2026-09-15 12:50 UTC",
+ "count": 217,
  "jobs": [
+  {
+   "company": "Lyft",
+   "title": "Software Engineer, Identity",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "company": "Huawei",
+   "title": "Engineer - Physical Layer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/engineer-physical-layer",
+   "first_seen": "2026-09-15"
+  },
   {
    "company": "Google DeepMind",
    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
@@ -28,13 +42,6 @@
    "title": "Software Engineer – Engineering Systems",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Software-Engineer---Engineering-Systems_R0076541",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Nexthop.ai",
-   "title": "Software Engineer New Grad",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://nexthopai.bamboohr.com/careers/62/",
    "first_seen": "2026-09-14"
   },
   {
@@ -628,15 +635,15 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01"
   },
   {
