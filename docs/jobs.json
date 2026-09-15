@@ -1,7 +1,14 @@
 {
- "generated_at": "2026-09-15 12:50 UTC",
- "count": 217,
+ "generated_at": "2026-09-15 17:32 UTC",
+ "count": 212,
  "jobs": [
+  {
+   "company": "Waabi",
+   "title": "Software Engineer, Commercial Software",
+   "location": "Toronto, ON",
+   "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
+   "first_seen": "2026-09-15"
+  },
   {
    "company": "Lyft",
    "title": "Software Engineer, Identity",
@@ -35,6 +42,13 @@
    "title": "Student Researcher, BS/MS, Fall 2026",
    "location": "Waterloo, ON, Canada; Toronto, ON, Canada; Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "company": "Cerebras",
+   "title": "Software Engineer, Kernel Reliability",
+   "location": "United States and Canada",
+   "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f",
    "first_seen": "2026-09-15"
   },
   {
@@ -227,13 +241,6 @@
    "first_seen": "2026-09-10"
   },
   {
-   "company": "Google",
-   "title": "Software Developer, Android, XR System UI",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/122205785248670406-software-developer-android-xr-system-ui",
-   "first_seen": "2026-09-10"
-  },
-  {
    "company": "Huawei",
    "title": "Researcher-AI Agents",
    "location": "Markham, Ontario, Canada",
@@ -423,13 +430,6 @@
    "first_seen": "2026-09-02"
   },
   {
-   "company": "Google",
-   "title": "Software Developer, XR System Interaction Frameworks",
-   "location": "Kitchener, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/101217083232002758-software-developer-xr-system-interaction-frameworks",
-   "first_seen": "2026-09-02"
-  },
-  {
    "company": "eBay",
    "title": "MTS 1, Software Engineer, Full Stack",
    "location": "Toronto, Canada",
@@ -574,13 +574,6 @@
    "title": "Software Engineer, C++, Level 5 (Fixed Term)",
    "location": "Toronto, Canada",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Software Engineer, Wallet",
-   "location": "Toronto, Canada",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8088446?t=gh_src=&gh_jid=8088446",
    "first_seen": "2026-09-01"
   },
   {
@@ -1109,27 +1102,6 @@
    "first_seen": "2026-09-01"
   },
   {
-   "company": "Google",
-   "title": "Software Developer, Enterprise Chat, Google Cloud",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/83242688047915718-software-developer-enterprise-chat-google-cloud",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, Early Career, Campus",
-   "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Google",
-   "title": "Graphics Software Developer, Chrome",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/133520462125638342-graphics-software-developer-chrome",
-   "first_seen": "2026-09-01"
-  },
-  {
    "company": "Fortinet (Security)",
    "title": "Security Researcher",
    "location": "Burnaby, BC, Canada",
@@ -1141,13 +1113,6 @@
    "title": "SOC Analyst",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23426",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Fortinet (Security)",
-   "title": "Information Security Analyst",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23410",
    "first_seen": "2026-09-01"
   },
   {
