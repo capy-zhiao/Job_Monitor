@@ -8,6 +8,11 @@ dependencies; Python 3.8+ standard library only.
 **Live jobs page:** all currently-open matches, refreshed every ~15 minutes —
 [capy-zhiao.github.io/Job_Monitor](https://capy-zhiao.github.io/Job_Monitor/)
 
+Search across every source, filter by role category (Security / AI-ML / SDE /
+Research), city, and recency, and star / mark-applied any posting (kept in your
+browser). A stats strip and an "open roles over time" trend chart summarize the
+whole feed. Same data as the Discord alerts, browsable.
+
 [![live jobs page](site.png)](https://capy-zhiao.github.io/Job_Monitor/)
 
 ![example Discord notification](example.png)
