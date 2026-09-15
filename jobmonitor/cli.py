@@ -156,6 +156,25 @@ def emit_jobs_json(path, matched, config_path=None):
         json.dump(payload, f, indent=1, ensure_ascii=False)
     with open(sidecar, "w") as f:
         json.dump(first_seen, f, indent=0, sort_keys=True)
+
+    # Daily history snapshot for the trend chart: one entry per day, upserted
+    # so multiple same-day runs keep only the latest count. Kept to ~90 days.
+    hist_path = os.path.join(os.path.dirname(os.path.abspath(path)), "history.json")
+    by_cat = {}
+    for j in jobs:
+        c = categorize(j.title)
+        by_cat[c] = by_cat.get(c, 0) + 1
+    try:
+        with open(hist_path) as f:
+            history = json.load(f)
+    except (OSError, ValueError):
+        history = []
+    history = [h for h in history if h.get("date") != today]
+    history.append({"date": today, "total": len(jobs), "by": by_cat})
+    history = sorted(history, key=lambda h: h["date"])[-90:]
+    with open(hist_path, "w") as f:
+        json.dump(history, f, indent=0, ensure_ascii=False)
+
     print(f"emitted {len(jobs)} jobs to {path}")
 
 

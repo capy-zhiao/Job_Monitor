@@ -72,6 +72,15 @@
 
 <div class="stats" id="stats"></div>
 
+<div id="trend" hidden style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
+  <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px">
+    <div style="font-weight:600;font-size:15px">Open roles over time</div>
+    <div style="font-size:12px;color:var(--muted)" id="trend-sub"></div>
+  </div>
+  <svg id="trend-svg" width="100%" viewBox="0 0 640 180" preserveAspectRatio="none" style="display:block"></svg>
+  <div style="display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:6px" id="trend-axis"></div>
+</div>
+
 <div class="controls">
   <input id="q" type="search" placeholder="Search title, company, location…">
   <select id="category"><option value="">All roles</option></select>
@@ -218,6 +227,38 @@ fetch("jobs.json?" + Date.now())
   .catch(() => { $("meta").textContent = "failed to load jobs.json"; });
 
 FILTERS.forEach(f => $(f).addEventListener("input", render));
+
+// Trend chart — built from the daily history.json snapshots (cold-starts as a
+// short line and fills in as days accrue).
+function renderTrend(history) {
+  if (!Array.isArray(history) || history.length < 2) return;  // need ≥2 days
+  const W = 640, H = 180, pad = 10;
+  const vals = history.map(h => h.total);
+  const min = Math.min(...vals), max = Math.max(...vals), span = max - min || 1;
+  const x = i => (history.length === 1 ? W : (i / (history.length - 1)) * W);
+  const y = v => pad + (1 - (v - min) / span) * (H - 2 * pad);
+  const pts = history.map((h, i) => `${x(i).toFixed(1)},${y(h.total).toFixed(1)}`);
+  const grid = [pad, H / 2, H - pad].map(gy =>
+    `<line x1="0" y1="${gy}" x2="${W}" y2="${gy}" stroke="var(--border)" stroke-width="1"/>`).join("");
+  const area = `<polygon points="0,${H} ${pts.join(" ")} ${W},${H}" fill="var(--accent)" fill-opacity="0.10"/>`;
+  const line = `<polyline points="${pts.join(" ")}" fill="none" stroke="var(--accent)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>`;
+  const last = pts[pts.length - 1].split(",");
+  const dot = `<circle cx="${last[0]}" cy="${last[1]}" r="3.5" fill="var(--accent)"/>`;
+  $("trend-svg").innerHTML = grid + area + line + dot;
+
+  const first = history[0].total, cur = history[history.length - 1].total;
+  const pct = first ? Math.round(((cur - first) / first) * 100) : 0;
+  const arrow = pct > 0 ? "▲" : pct < 0 ? "▼" : "▬";
+  const col = pct > 0 ? "var(--new-fg)" : pct < 0 ? "#a32d2d" : "var(--muted)";
+  $("trend-sub").innerHTML = `${history.length} days · <span style="color:${col}">${arrow} ${Math.abs(pct)}%</span>`;
+  $("trend-axis").innerHTML = `<span>${history[0].date}</span><span>${history[history.length - 1].date}</span>`;
+  $("trend").hidden = false;
+}
+
+fetch("history.json?" + Date.now())
+  .then(r => r.ok ? r.json() : [])
+  .then(renderTrend)
+  .catch(() => {});
 </script>
 </body>
 </html>

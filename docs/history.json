@@ -1,0 +1,167 @@
+[
+{
+"date": "2026-09-01",
+"total": 154,
+"by": {
+"SDE": 85,
+"Research": 23,
+"AI/ML": 34,
+"Security": 10,
+"Other": 2
+}
+},
+{
+"date": "2026-09-02",
+"total": 157,
+"by": {
+"SDE": 88,
+"Research": 23,
+"AI/ML": 34,
+"Security": 10,
+"Other": 2
+}
+},
+{
+"date": "2026-09-03",
+"total": 164,
+"by": {
+"SDE": 93,
+"Research": 25,
+"AI/ML": 34,
+"Security": 10,
+"Other": 2
+}
+},
+{
+"date": "2026-09-04",
+"total": 167,
+"by": {
+"Other": 5,
+"SDE": 93,
+"Research": 25,
+"AI/ML": 34,
+"Security": 10
+}
+},
+{
+"date": "2026-09-05",
+"total": 168,
+"by": {
+"SDE": 94,
+"Other": 5,
+"Research": 25,
+"AI/ML": 34,
+"Security": 10
+}
+},
+{
+"date": "2026-09-06",
+"total": 168,
+"by": {
+"SDE": 94,
+"Other": 5,
+"Research": 25,
+"AI/ML": 34,
+"Security": 10
+}
+},
+{
+"date": "2026-09-07",
+"total": 168,
+"by": {
+"SDE": 94,
+"Other": 5,
+"Research": 25,
+"AI/ML": 34,
+"Security": 10
+}
+},
+{
+"date": "2026-09-08",
+"total": 177,
+"by": {
+"Other": 7,
+"SDE": 99,
+"AI/ML": 36,
+"Research": 25,
+"Security": 10
+}
+},
+{
+"date": "2026-09-09",
+"total": 182,
+"by": {
+"Research": 26,
+"SDE": 103,
+"Other": 7,
+"AI/ML": 36,
+"Security": 10
+}
+},
+{
+"date": "2026-09-10",
+"total": 194,
+"by": {
+"SDE": 112,
+"Security": 12,
+"Research": 27,
+"Other": 7,
+"AI/ML": 36
+}
+},
+{
+"date": "2026-09-11",
+"total": 201,
+"by": {
+"Research": 28,
+"SDE": 116,
+"Other": 9,
+"Security": 12,
+"AI/ML": 36
+}
+},
+{
+"date": "2026-09-12",
+"total": 206,
+"by": {
+"AI/ML": 38,
+"Research": 29,
+"SDE": 118,
+"Other": 9,
+"Security": 12
+}
+},
+{
+"date": "2026-09-13",
+"total": 206,
+"by": {
+"AI/ML": 38,
+"Research": 29,
+"SDE": 118,
+"Other": 9,
+"Security": 12
+}
+},
+{
+"date": "2026-09-14",
+"total": 210,
+"by": {
+"SDE": 121,
+"Other": 10,
+"AI/ML": 38,
+"Research": 29,
+"Security": 12
+}
+},
+{
+"date": "2026-09-15",
+"total": 217,
+"by": {
+"SDE": 125,
+"Research": 32,
+"Other": 10,
+"AI/ML": 38,
+"Security": 12
+}
+}
+]
