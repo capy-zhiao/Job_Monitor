@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15 19:29 UTC",
- "count": 217,
+ "generated_at": "2026-09-15 20:28 UTC",
+ "count": 216,
  "stats": {
   "sources": 92,
   "ats": 21
@@ -277,14 +277,6 @@
    "url": "https://huaweicanada.recruitee.com/o/researcher-physical-ai",
    "first_seen": "2026-09-10",
    "category": "Research"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, Android, XR System UI",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/122205785248670406-software-developer-android-xr-system-ui",
-   "first_seen": "2026-09-10",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
