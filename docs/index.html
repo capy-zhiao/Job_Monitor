@@ -99,7 +99,7 @@
     <option value="30">Last 30 days</option>
   </select>
   <select id="view">
-    <option value="">All</option>
+    <option value="">Any status</option>
     <option value="saved">★ Saved</option>
     <option value="applied">✓ Applied</option>
     <option value="unapplied">Hide applied</option>
@@ -142,6 +142,8 @@ const CAT_COLORS = {
   "SDE": ["#e6f1fb", "#0c447c"], "Research": ["#e1f5ee", "#0f6e56"],
   "Other": ["#f1efe8", "#5f5e5a"],
 };
+// grad-year chip: green for 2027 and later, amber for years already past
+const YEAR_COLORS = { "2026": ["#fdf0e3", "#8a5a12"] };
 const CITIES = ["Toronto", "Waterloo", "Kitchener", "Ottawa", "Vancouver", "Montreal", "Calgary", "Mississauga", "Remote"];
 
 // per-viewer marks, browser-local only
@@ -188,6 +190,8 @@ function render() {
   $("list").innerHTML = rows.length ? rows.map(j => {
     const c = j.category || "Other", col = CAT_COLORS[c] || CAT_COLORS.Other;
     const isNew = daysAgo(j.first_seen) <= 2, sv = SAVED.has(j.url), ap = APPLIED.has(j.url);
+    const yr = (j.title.match(/\b(20[2-9]\d)\b/) || [])[1];
+    const ycol = YEAR_COLORS[yr] || ["#e1f5ee", "#0f6e56"];
     return `<div class="job${ap ? " applied" : ""}">
       <div class="row">
         <a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.company)}: ${esc(j.title)}</a>
@@ -197,6 +201,7 @@ function render() {
       <div class="m">
         <span class="chip" style="background:${col[0]};color:${col[1]}">${esc(c)}</span>
         ${isNew ? '<span class="badge">NEW</span>' : ""}
+        ${yr ? `<span class="chip" style="background:${ycol[0]};color:${ycol[1]}" title="Year mentioned in the job title">${yr}</span>` : ""}
         ${esc(j.location || "—")} · first seen ${j.first_seen}
       </div>
     </div>`;
