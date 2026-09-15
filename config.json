@@ -550,11 +550,6 @@
     },
     {
       "type": "greenhouse",
-      "name": "Google DeepMind",
-      "board": "deepmind"
-    },
-    {
-      "type": "greenhouse",
       "name": "Wing",
       "board": "wing"
     },
@@ -830,6 +825,13 @@
       "type": "greenhouse",
       "name": "Tailscale",
       "board": "tailscale"
+    },
+    {
+      "type": "google",
+      "name": "Google DeepMind",
+      "query": "DeepMind",
+      "location": "Canada",
+      "pages": 2
     }
   ]
 }
