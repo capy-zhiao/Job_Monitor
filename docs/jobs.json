@@ -1,11 +1,43 @@
 {
- "generated_at": "2026-09-15 20:28 UTC",
- "count": 216,
+ "generated_at": "2026-09-15 20:39 UTC",
+ "count": 245,
  "stats": {
   "sources": 92,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Zip",
+   "title": "Software Engineer Intern (Winter 2027)",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Wealthsimple",
+   "title": "Software Development and Data Science Internships (Winter 2027)",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Wealthsimple",
+   "title": "Design Intern (Winter 2027)",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.ashbyhq.com/wealthsimple/272ea39d-c94e-4400-956a-bbe8d40461b3",
+   "first_seen": "2026-09-15",
+   "category": "Other"
+  },
+  {
+   "company": "Wealthsimple",
+   "title": "Credit & Fraud Analytics Intern (Winter 2027)",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
+   "first_seen": "2026-09-15",
+   "category": "Other"
+  },
   {
    "company": "Waabi",
    "title": "Software Engineer, Commercial Software",
@@ -15,12 +47,156 @@
    "category": "SDE"
   },
   {
+   "company": "Stripe",
+   "title": "Software Engineer, Intern (Summer or Winter)",
+   "location": "Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Robinhood",
+   "title": "Software Developer Intern, iOS (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Robinhood",
+   "title": "Software Developer Intern, Web (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Robinhood",
+   "title": "Software Developer Intern, Backend (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer Internship Opportunities",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "UX Research Intern (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
+   "first_seen": "2026-09-15",
+   "category": "Other"
+  },
+  {
    "company": "Lyft",
    "title": "Software Engineer, Identity",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002",
    "first_seen": "2026-09-15",
    "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+   "first_seen": "2026-09-15",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Backend (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer Intern, Backend (Summer 2027)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Data Science Intern, Algorithms (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+   "first_seen": "2026-09-15",
+   "category": "Other"
+  },
+  {
+   "company": "Lyft",
+   "title": "Data Engineer Intern (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Salesforce & GTM Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130067",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)",
+   "location": "Ottawa, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130115",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Data Services Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130142",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Agentic AI Engineer Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130076",
+   "first_seen": "2026-09-15",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Huawei",
+   "title": "Intern Researcher - AI Agent Evaluation",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agent-evaluation",
+   "first_seen": "2026-09-15",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
@@ -55,12 +231,68 @@
    "category": "Research"
   },
   {
+   "company": "Google (Security)",
+   "title": "Security Consultant Intern, BS/MS, Summer 2027",
+   "location": "Toronto, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027",
+   "first_seen": "2026-09-15",
+   "category": "Security"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer Intern, MS, Summer 2027",
+   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer Intern, BS, Summer 2027",
+   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Cohere",
+   "title": "Software Engineer Intern (Winter 2027)",
+   "location": "Canada",
+   "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Cohere",
+   "title": "Research Internship (Winter 2027)",
+   "location": "Canada",
+   "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+   "first_seen": "2026-09-15",
+   "category": "Other"
+  },
+  {
    "company": "Cerebras",
    "title": "Software Engineer, Kernel Reliability",
    "location": "United States and Canada",
    "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f",
    "first_seen": "2026-09-15",
    "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+   "location": "CA, ON, Toronto",
+   "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+   "location": "CA, ON, Toronto",
+   "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+   "first_seen": "2026-09-15",
+   "category": "AI/ML"
   },
   {
    "company": "eBay",

@@ -92,6 +92,11 @@
   <select id="category"><option value="">All roles</option></select>
   <select id="city"><option value="">All locations</option></select>
   <select id="company"><option value="">All companies</option></select>
+  <select id="worktype">
+    <option value="">All work types</option>
+    <option value="fulltime">Full-time</option>
+    <option value="intern">Intern / student</option>
+  </select>
   <select id="age">
     <option value="">Any age</option>
     <option value="2">New (48h)</option>
@@ -144,6 +149,11 @@ const CAT_COLORS = {
 };
 // grad-year chip: green for 2027 and later, amber for years already past
 const YEAR_COLORS = { "2026": ["#fdf0e3", "#8a5a12"] };
+// Work type is read off the title. Internships, co-op terms and student
+// positions are all term roles; anything else is treated as full-time.
+// The word boundary keeps "Internal" and "International" out of the match.
+const INTERN_RE = /\b(interns?|internships?|co-?ops?|student)\b/i;
+const workType = title => (INTERN_RE.test(title) ? "intern" : "fulltime");
 const CITIES = ["Toronto", "Waterloo", "Kitchener", "Ottawa", "Vancouver", "Montreal", "Calgary", "Mississauga", "Remote"];
 
 // per-viewer marks, browser-local only
@@ -152,7 +162,7 @@ const save = (k, set) => { try { localStorage.setItem(k, JSON.stringify([...set]
 let SAVED = load("jm_saved"), APPLIED = load("jm_applied");
 
 // filter state <-> URL query params (shareable/bookmarkable)
-const FILTERS = ["q", "category", "city", "company", "age", "view"];
+const FILTERS = ["q", "category", "city", "company", "worktype", "age", "view"];
 function readURL() {
   const p = new URLSearchParams(location.search);
   FILTERS.forEach(f => { const v = p.get(f); if (v != null) $(f).value = v; });
@@ -172,11 +182,12 @@ function toggle(set, key, url) {
 function render() {
   const q = $("q").value.trim().toLowerCase();
   const cat = $("category").value, city = $("city").value.toLowerCase();
-  const company = $("company").value, view = $("view").value;
+  const company = $("company").value, view = $("view").value, wt = $("worktype").value;
   const maxAge = $("age").value ? parseFloat($("age").value) : Infinity;
 
   const rows = DATA.jobs.filter(j => {
     if (cat && (j.category || "Other") !== cat) return false;
+    if (wt && workType(j.title) !== wt) return false;
     if (company && j.company !== company) return false;
     if (city && !(j.location || "").toLowerCase().includes(city)) return false;
     if (daysAgo(j.first_seen) > maxAge) return false;
@@ -192,6 +203,7 @@ function render() {
     const isNew = daysAgo(j.first_seen) <= 2, sv = SAVED.has(j.url), ap = APPLIED.has(j.url);
     const yr = (j.title.match(/\b(20[2-9]\d)\b/) || [])[1];
     const ycol = YEAR_COLORS[yr] || ["#e1f5ee", "#0f6e56"];
+    const isIntern = workType(j.title) === "intern";
     return `<div class="job${ap ? " applied" : ""}">
       <div class="row">
         <a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.company)}: ${esc(j.title)}</a>
@@ -202,6 +214,7 @@ function render() {
         <span class="chip" style="background:${col[0]};color:${col[1]}">${esc(c)}</span>
         ${isNew ? '<span class="badge">NEW</span>' : ""}
         ${yr ? `<span class="chip" style="background:${ycol[0]};color:${ycol[1]}" title="Year mentioned in the job title">${yr}</span>` : ""}
+        ${isIntern ? '<span class="chip" style="background:#eef2f7;color:#41618a">Intern</span>' : ""}
         ${esc(j.location || "—")} · first seen ${j.first_seen}
       </div>
     </div>`;
