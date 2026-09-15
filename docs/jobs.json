@@ -1,82 +1,33 @@
 {
- "generated_at": "2026-09-14 23:38 UTC",
- "count": 213,
+ "generated_at": "2026-09-15 00:38 UTC",
+ "count": 219,
  "jobs": [
+  {
+   "company": "Google DeepMind",
+   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bs-ms-winter-summer-2027",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "company": "Google DeepMind",
+   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bs-ms-winter-summer-2027",
+   "first_seen": "2026-09-15"
+  },
+  {
+   "company": "Google DeepMind",
+   "title": "Student Researcher, BS/MS, Fall 2026",
+   "location": "Waterloo, ON, Canada; Toronto, ON, Canada; Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
+   "first_seen": "2026-09-15"
+  },
   {
    "company": "eBay",
    "title": "Software Engineer – Engineering Systems",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Software-Engineer---Engineering-Systems_R0076541",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Zip",
-   "title": "Software Engineer, New Grad (2027 Start)",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Zip",
-   "title": "Software Engineer, Backend (All Levels)",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/zip/4f2ba8b4-144e-43c8-a83d-72ea40f70123",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Waabi",
-   "title": "Research Engineer, Sensor Signal Processing",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/4a22f57b-cd17-4533-a22b-e927acef834e",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Tailscale",
-   "title": "Software Engineer, Strategic Projects",
-   "location": "Remote (Canada)",
-   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Tailscale",
-   "title": "Software Engineer, Networking (Edge)",
-   "location": "Remote (Canada)",
-   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733094005",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Tailscale",
-   "title": "Software Engineer, Networking (Dataplane)",
-   "location": "Remote (Canada)",
-   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Tailscale",
-   "title": "Security Software Engineer",
-   "location": "Remote (Canada)",
-   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4648921005",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "TD",
-   "title": "Associate Software Engineer (nCino/Salesforce)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Sun Life",
-   "title": "Junior Security Data Analyst",
-   "location": "Toronto, ON, Canada",
-   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Qualcomm",
-   "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
-   "location": "Markham, ON, Canada",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
    "first_seen": "2026-09-14"
   },
   {
@@ -87,38 +38,10 @@
    "first_seen": "2026-09-14"
   },
   {
-   "company": "Meta",
-   "title": "Research Engineer - AI",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.metacareers.com/jobs/1395718268613427",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Lyft",
-   "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
-   "location": "Montreal, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Lyft",
-   "title": "Développeur Logiciels (Stagiaire), Automatisation des tests (l'été 2027)",
-   "location": "Montreal, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
-   "first_seen": "2026-09-14"
-  },
-  {
    "company": "L3Harris Technologies",
    "title": "Software Engineer",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Huawei",
-   "title": "Engineer - 6G RF Packaging",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
    "first_seen": "2026-09-14"
   },
   {
@@ -129,45 +52,10 @@
    "first_seen": "2026-09-14"
   },
   {
-   "company": "Ericsson",
-   "title": "Early Career RF Specialist (RAN Optimization)",
-   "location": "Toronto,Ontario,Canada",
-   "url": "https://jobs.ericsson.com/careers/job/563121777164021",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Eaton",
-   "title": "Software Developer - Software C++ - Research & Development Engineering",
-   "location": "Brossard, QC, Canada",
-   "url": "https://eaton.eightfold.ai/careers/job/687239106601",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Capital One",
-   "title": "Data Scientist New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-   "first_seen": "2026-09-14"
-  },
-  {
    "company": "BDO Canada",
    "title": "Business Analyst New Grad - Data & Analytics",
    "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Edmonton, AB, Canada; Ottawa, ON, Canada; Halifax Regional Municipality, NS, Canada",
    "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Affirm",
-   "title": "Software Engineer I, Frontend (Upfunnel)",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
-   "first_seen": "2026-09-14"
-  },
-  {
-   "company": "Affirm",
-   "title": "Software Engineer 1 - Frontend - Upfunnel",
-   "location": "Remote in Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
    "first_seen": "2026-09-14"
   },
   {
@@ -176,6 +64,132 @@
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92305",
    "first_seen": "2026-09-14"
+  },
+  {
+   "company": "Qualcomm",
+   "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
+   "location": "Markham, ON, Canada",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Meta",
+   "title": "Research Engineer - AI",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.metacareers.com/jobs/1395718268613427",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Eaton",
+   "title": "Software Developer - Software C++ - Research & Development Engineering",
+   "location": "Brossard, QC, Canada",
+   "url": "https://eaton.eightfold.ai/careers/job/687239106601",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Capital One",
+   "title": "Data Scientist New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer 1 - Frontend - Upfunnel",
+   "location": "Remote in Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
+   "first_seen": "2026-09-12"
+  },
+  {
+   "company": "Waabi",
+   "title": "Research Engineer, Sensor Signal Processing",
+   "location": "Toronto, ON",
+   "url": "https://jobs.lever.co/waabi/4a22f57b-cd17-4533-a22b-e927acef834e",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Networking (Edge)",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733094005",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Lyft",
+   "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Lyft",
+   "title": "Développeur Logiciels (Stagiaire), Automatisation des tests (l'été 2027)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Huawei",
+   "title": "Engineer - 6G RF Packaging",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Ericsson",
+   "title": "Early Career RF Specialist (RAN Optimization)",
+   "location": "Toronto,Ontario,Canada",
+   "url": "https://jobs.ericsson.com/careers/job/563121777164021",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer I, Frontend (Upfunnel)",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
+   "first_seen": "2026-09-11"
+  },
+  {
+   "company": "Zip",
+   "title": "Software Engineer, New Grad (2027 Start)",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Zip",
+   "title": "Software Engineer, Backend (All Levels)",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/zip/4f2ba8b4-144e-43c8-a83d-72ea40f70123",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Strategic Projects",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Networking (Dataplane)",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Security Software Engineer",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4648921005",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer (nCino/Salesforce)",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
+   "first_seen": "2026-09-10"
   },
   {
    "company": "TD",
@@ -189,6 +203,13 @@
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509910-1",
+   "first_seen": "2026-09-10"
+  },
+  {
+   "company": "Sun Life",
+   "title": "Junior Security Data Analyst",
+   "location": "Toronto, ON, Canada",
+   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983",
    "first_seen": "2026-09-10"
   },
   {
@@ -616,6 +637,27 @@
    "title": "DL Performance Software Engineer - LLM Inference",
    "location": "Canada, Toronto",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01"
   },
   {
@@ -1237,6 +1279,13 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "first_seen": "2026-09-01"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01"
@@ -1246,13 +1295,6 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01"
   },
   {
