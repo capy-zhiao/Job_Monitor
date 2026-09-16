@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15 23:08 UTC",
- "count": 247,
+ "generated_at": "2026-09-16 01:27 UTC",
+ "count": 244,
  "stats": {
   "sources": 92,
   "ats": 21
@@ -157,38 +157,6 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
    "first_seen": "2026-09-15",
    "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Salesforce & GTM Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130067",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)",
-   "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130115",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Data Services Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130142",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Agentic AI Engineer Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130076",
-   "first_seen": "2026-09-15",
-   "category": "AI/ML"
   },
   {
    "company": "Huawei",
@@ -775,6 +743,14 @@
    "category": "SDE"
   },
   {
+   "company": "eBay",
+   "title": "Applied Researcher - Depop",
+   "location": "Toronto, Canada",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/ML-Scientist---Machine-Learning-Engineer_R0076361",
+   "first_seen": "2026-09-01",
+   "category": "Research"
+  },
+  {
    "company": "Zip",
    "title": "Software Engineer New Grad",
    "location": "Toronto, ON, Canada",
@@ -977,16 +953,16 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
   {
    "company": "Microsoft",
    "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1689,6 +1665,14 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
@@ -1699,14 +1683,6 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
