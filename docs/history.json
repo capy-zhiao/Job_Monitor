@@ -166,11 +166,11 @@
 },
 {
 "date": "2026-09-16",
-"total": 244,
+"total": 247,
 "by": {
-"SDE": 143,
+"SDE": 145,
 "Other": 16,
-"AI/ML": 40,
+"AI/ML": 41,
 "Research": 32,
 "Security": 13
 }
