@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16 16:58 UTC",
+ "generated_at": "2026-09-16 19:58 UTC",
  "count": 248,
  "stats": {
   "sources": 92,
@@ -11,6 +11,14 @@
    "title": "Software Engineer II - Slack Developer Experience AI",
    "location": "Canada - Toronto",
    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineer-II--Machine-Learning---Slack_JR358348-1",
+   "first_seen": "2026-09-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556866289",
    "first_seen": "2026-09-16",
    "category": "SDE"
   },
@@ -751,6 +759,14 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022030",
+   "first_seen": "2026-09-03",
+   "category": "SDE"
+  },
+  {
    "company": "TD",
    "title": "Data Engineer I",
    "location": "Toronto, Ontario",
@@ -981,22 +997,6 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556751263",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556750546",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
   },
   {
    "company": "Microsoft",
