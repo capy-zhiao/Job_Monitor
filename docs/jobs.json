@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16 19:58 UTC",
- "count": 248,
+ "generated_at": "2026-09-16 22:51 UTC",
+ "count": 247,
  "stats": {
   "sources": 92,
   "ats": 21
@@ -27,6 +27,14 @@
    "title": "Software Engineer",
    "location": "Remote - Canada",
    "url": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
+   "first_seen": "2026-09-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer Embedded Systems I (Full Time) - Canada",
+   "location": "Kanata, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
    "first_seen": "2026-09-16",
    "category": "SDE"
   },
@@ -339,14 +347,6 @@
    "title": "Software Engineer New Grad",
    "location": "Burnaby, BC, Canada",
    "url": "https://nexthopai.bamboohr.com/careers/62/",
-   "first_seen": "2026-09-14",
-   "category": "SDE"
-  },
-  {
-   "company": "L3Harris Technologies",
-   "title": "Software Engineer",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
    "first_seen": "2026-09-14",
    "category": "SDE"
   },
@@ -913,18 +913,10 @@
   {
    "company": "TD (Security)",
    "title": "Information Security Specialist ( Attack Surface Reduction)",
-   "location": "2 Locations",
+   "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Attack-Surface-Reduction-_R_1502609",
    "first_seen": "2026-09-01",
    "category": "Security"
-  },
-  {
-   "company": "TD",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
   },
   {
    "company": "Stripe",
