@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-09-17 01:08 UTC",
- "count": 250,
+ "generated_at": "2026-09-17 06:09 UTC",
+ "count": 255,
  "stats": {
-  "sources": 92,
+  "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TD Bank",
+   "title": "Associate Software Engineer",
+   "location": "Montreal, QC, Canada; Toronto, ON, Canada",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
+  },
   {
    "company": "TD",
    "title": "Associate Software Engineer-15",
@@ -21,6 +29,38 @@
    "url": "https://qualcomm.eightfold.ai/careers/job/446721129106",
    "first_seen": "2026-09-17",
    "category": "AI/ML"
+  },
+  {
+   "company": "DoorDash Canada",
+   "title": "Software Engineer, Intern (Summer 2027) - TOR",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
+  },
+  {
+   "company": "DoorDash Canada",
+   "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
+  },
+  {
+   "company": "DoorDash Canada",
+   "title": "Software Engineer, Backend",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/5704481",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
+  },
+  {
+   "company": "DoorDash Canada",
+   "title": "Software Engineer — Notification Hub & Experience",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8174363",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
   },
   {
    "company": "Ciena",
