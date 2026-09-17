@@ -177,12 +177,12 @@
 },
 {
 "date": "2026-09-17",
-"total": 253,
+"total": 245,
 "by": {
-"SDE": 151,
-"AI/ML": 40,
+"SDE": 146,
+"AI/ML": 38,
 "Other": 16,
-"Research": 32,
+"Research": 31,
 "Security": 14
 }
 }

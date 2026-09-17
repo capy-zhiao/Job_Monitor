@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17 15:41 UTC",
- "count": 253,
+ "generated_at": "2026-09-17 19:18 UTC",
+ "count": 245,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -11,6 +11,14 @@
    "title": "Associate Software Engineer",
    "location": "Montreal, QC, Canada; Toronto, ON, Canada",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
+  },
+  {
+   "company": "TD",
+   "title": "Data Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1509874-1",
    "first_seen": "2026-09-17",
    "category": "SDE"
   },
@@ -225,16 +233,16 @@
   {
    "company": "Lyft",
    "title": "Software Engineer Intern, Backend (Summer 2027)",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
   {
    "company": "Lyft",
    "title": "Software Engineer Intern, Backend (Summer 2027)",
-   "location": "Montreal, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -253,38 +261,6 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
    "first_seen": "2026-09-15",
    "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Salesforce & GTM Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130067",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)",
-   "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130115",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Data Services Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130142",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Agentic AI Engineer Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130076",
-   "first_seen": "2026-09-15",
-   "category": "AI/ML"
   },
   {
    "company": "Huawei",
@@ -397,14 +373,6 @@
    "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
    "first_seen": "2026-09-15",
    "category": "AI/ML"
-  },
-  {
-   "company": "eBay",
-   "title": "Software Engineer – Engineering Systems",
-   "location": "Toronto, Canada",
-   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Software-Engineer---Engineering-Systems_R0076541",
-   "first_seen": "2026-09-14",
-   "category": "SDE"
   },
   {
    "company": "Nexthop.ai",
@@ -1480,14 +1448,6 @@
   },
   {
    "company": "Huawei",
-   "title": "Engineer – Agent R&D",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/engineer-agent-rd",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Huawei",
    "title": "Engineer - Optical Systems",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-optical-systems-1",
@@ -1544,14 +1504,6 @@
   },
   {
    "company": "Huawei",
-   "title": "Computer Network for AI Infrastructure Researcher – Distributed Computing",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/computer-network-for-ai-infrastructure-researcher-distributed-computing",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Huawei",
    "title": "Compiler Engineer",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/compiler-engineer-2-16",
@@ -1565,22 +1517,6 @@
    "url": "https://huaweicanada.recruitee.com/o/applied-ai-researcher-multimodal-intelligence",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
-  },
-  {
-   "company": "Huawei",
-   "title": "Agentic RL Researcher – Distributed Computing",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/agentic-rl-researcher-distributed-computing",
-   "first_seen": "2026-09-01",
-   "category": "Research"
-  },
-  {
-   "company": "Huawei",
-   "title": "AI Systems Engineer – Serverless Distributed Computing",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/ai-systems-engineer-serverless-distributed-computing",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
