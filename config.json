@@ -263,6 +263,11 @@
     },
     {
       "type": "greenhouse",
+      "name": "DoorDash Canada",
+      "board": "doordashcanada"
+    },
+    {
+      "type": "greenhouse",
       "name": "Carta",
       "board": "carta"
     },
