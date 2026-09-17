@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-16 22:51 UTC",
- "count": 247,
+ "generated_at": "2026-09-17 01:08 UTC",
+ "count": 250,
  "stats": {
   "sources": 92,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Associate Software Engineer-15",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
+   "first_seen": "2026-09-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Qualcomm",
+   "title": "System AI Engineer New Grad - Display - ASICS Engineering",
+   "location": "Markham, ON, Canada",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446721129106",
+   "first_seen": "2026-09-17",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Ciena",
+   "title": "ASIC Development Methodology and Automation New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639",
+   "first_seen": "2026-09-17",
+   "category": "Other"
+  },
   {
    "company": "Salesforce",
    "title": "Software Engineer II - Slack Developer Experience AI",

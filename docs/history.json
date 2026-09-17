@@ -174,5 +174,16 @@
 "Research": 32,
 "Security": 13
 }
+},
+{
+"date": "2026-09-17",
+"total": 250,
+"by": {
+"SDE": 146,
+"AI/ML": 42,
+"Other": 17,
+"Research": 32,
+"Security": 13
+}
 }
 ]
