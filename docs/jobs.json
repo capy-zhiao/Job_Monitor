@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17 19:18 UTC",
- "count": 245,
+ "generated_at": "2026-09-17 22:22 UTC",
+ "count": 249,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -69,6 +69,14 @@
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8174363",
    "first_seen": "2026-09-17",
    "category": "SDE"
+  },
+  {
+   "company": "Cohere",
+   "title": "Software Engineer, Security",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
+   "first_seen": "2026-09-17",
+   "category": "Security"
   },
   {
    "company": "Ciena",
@@ -216,7 +224,7 @@
   },
   {
    "company": "Lyft",
-   "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+   "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
    "first_seen": "2026-09-15",
@@ -224,7 +232,7 @@
   },
   {
    "company": "Lyft",
-   "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+   "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
    "first_seen": "2026-09-15",
@@ -232,15 +240,7 @@
   },
   {
    "company": "Lyft",
-   "title": "Software Engineer Intern, Backend (Summer 2027)",
-   "location": "Montreal, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer Intern, Backend (Summer 2027)",
+   "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
    "first_seen": "2026-09-15",
@@ -248,7 +248,15 @@
   },
   {
    "company": "Lyft",
-   "title": "Data Science Intern, Algorithms (Summer 2027)",
+   "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
    "first_seen": "2026-09-15",
@@ -261,6 +269,38 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
    "first_seen": "2026-09-15",
    "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Salesforce & GTM Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130067",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)",
+   "location": "Ottawa, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130115",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Data Services Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130142",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Agentic AI Engineer Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130076",
+   "first_seen": "2026-09-15",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
@@ -464,7 +504,7 @@
   },
   {
    "company": "Lyft",
-   "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
+   "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027 - Montreal)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
    "first_seen": "2026-09-11",
@@ -533,14 +573,6 @@
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005",
    "first_seen": "2026-09-10",
    "category": "SDE"
-  },
-  {
-   "company": "Tailscale",
-   "title": "Security Software Engineer",
-   "location": "Remote (Canada)",
-   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4648921005",
-   "first_seen": "2026-09-10",
-   "category": "Security"
   },
   {
    "company": "TD",
