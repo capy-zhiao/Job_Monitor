@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18 09:52 UTC",
- "count": 248,
+ "generated_at": "2026-09-18 14:11 UTC",
+ "count": 249,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -19,6 +19,14 @@
    "title": "Software Developer 1 - Android",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.intuit.com/job/toronto/software-developer-1-android-dynamic-experiences/27595/99861569040",
+   "first_seen": "2026-09-18",
+   "category": "SDE"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Functional Validation, Apps, Video and Display",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/94515515837293254-software-developer-functional-validation-apps-video-and-display",
    "first_seen": "2026-09-18",
    "category": "SDE"
   },
