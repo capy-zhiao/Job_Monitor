@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18 20:00 UTC",
- "count": 250,
+ "generated_at": "2026-09-18 22:30 UTC",
+ "count": 246,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -23,14 +23,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
-  },
-  {
    "company": "Intuit",
    "title": "Software Developer 1 - Android",
    "location": "Toronto, ON, Canada",
@@ -43,6 +35,22 @@
    "title": "Software Developer, Functional Validation, Apps, Video and Display",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/94515515837293254-software-developer-functional-validation-apps-video-and-display",
+   "first_seen": "2026-09-18",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer Full Stack / Backend II (Full Time) - Canada",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer-Full-Stack---Backend-II--Full-Time----Canada_2025999",
+   "first_seen": "2026-09-18",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
+   "location": "CA, BC, Vancouver",
+   "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
    "first_seen": "2026-09-18",
    "category": "SDE"
   },
@@ -107,14 +115,6 @@
    "title": "Software Engineer II - Slack Developer Experience AI",
    "location": "Canada - Toronto",
    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineer-II--Machine-Learning---Slack_JR358348-1",
-   "first_seen": "2026-09-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556866289",
    "first_seen": "2026-09-16",
    "category": "SDE"
   },
@@ -203,14 +203,6 @@
    "title": "Software Developer Intern, Backend (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer Internship Opportunities",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -912,14 +904,6 @@
   },
   {
    "company": "Waabi",
-   "title": "Research Engineer, Learnable Planner (Integration)",
-   "location": "Remote US & Canada",
-   "url": "https://jobs.lever.co/waabi/30f77194-6f1c-4ee2-8bb9-0eb9763250af",
-   "first_seen": "2026-09-01",
-   "category": "Research"
-  },
-  {
-   "company": "Waabi",
    "title": "Research Engineer",
    "location": "Remote US & Canada",
    "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
@@ -1069,14 +1053,6 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
   },
   {
    "company": "Magnet Forensics",
@@ -1899,14 +1875,6 @@
    "title": "Xcode Cloud Distributed Systems Software Engineer",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680206/xcode-cloud-distributed-systems-software-engineer?team=SFTWR",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Apple",
-   "title": "Software Engineer, Productivity Apps",
-   "location": "Vancouver, Canada",
-   "url": "https://jobs.apple.com/en-ca/details/200674176/software-engineer-productivity-apps?team=SFTWR",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
