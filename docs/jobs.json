@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18 00:40 UTC",
- "count": 250,
+ "generated_at": "2026-09-18 05:15 UTC",
+ "count": 249,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -35,14 +35,6 @@
    "title": "Data Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1509874-1",
-   "first_seen": "2026-09-17",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "title": "Associate Software Engineer-15",
-   "location": "2 Locations",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
    "first_seen": "2026-09-17",
    "category": "SDE"
   },
@@ -584,14 +576,6 @@
   },
   {
    "company": "TD",
-   "title": "Associate Software Engineer (nCino/Salesforce)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer--SQL--CI-CD--_R_1508918",
-   "first_seen": "2026-09-10",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
    "title": "Associate Software Engineer",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509910-1",
@@ -989,6 +973,14 @@
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Attack-Surface-Reduction-_R_1502609",
    "first_seen": "2026-09-01",
    "category": "Security"
+  },
+  {
+   "company": "TD",
+   "title": "Global Transaction Banking (GTB), Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Stripe",
