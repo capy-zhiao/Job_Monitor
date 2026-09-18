@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18 05:15 UTC",
- "count": 249,
+ "generated_at": "2026-09-18 09:52 UTC",
+ "count": 248,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -20,14 +20,6 @@
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.intuit.com/job/toronto/software-developer-1-android-dynamic-experiences/27595/99861569040",
    "first_seen": "2026-09-18",
-   "category": "SDE"
-  },
-  {
-   "company": "TD Bank",
-   "title": "Associate Software Engineer",
-   "location": "Montreal, QC, Canada; Toronto, ON, Canada",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648",
-   "first_seen": "2026-09-17",
    "category": "SDE"
   },
   {
