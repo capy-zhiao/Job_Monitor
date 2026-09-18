@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-09-17 22:22 UTC",
- "count": 249,
+ "generated_at": "2026-09-18 00:40 UTC",
+ "count": 250,
  "stats": {
   "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Stripe",
+   "title": "Software Engineer, Early Career — Immediate Start",
+   "location": "Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=8212517",
+   "first_seen": "2026-09-18",
+   "category": "SDE"
+  },
+  {
+   "company": "Intuit",
+   "title": "Software Developer 1 - Android",
+   "location": "Toronto, ON, Canada",
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-android-dynamic-experiences/27595/99861569040",
+   "first_seen": "2026-09-18",
+   "category": "SDE"
+  },
   {
    "company": "TD Bank",
    "title": "Associate Software Engineer",
@@ -77,14 +93,6 @@
    "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
    "first_seen": "2026-09-17",
    "category": "Security"
-  },
-  {
-   "company": "Ciena",
-   "title": "ASIC Development Methodology and Automation New Grad",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639",
-   "first_seen": "2026-09-17",
-   "category": "Other"
   },
   {
    "company": "Salesforce",
