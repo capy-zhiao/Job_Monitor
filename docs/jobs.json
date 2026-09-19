@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-09-19 00:34 UTC",
- "count": 244,
+ "generated_at": "2026-09-19 05:07 UTC",
+ "count": 246,
  "stats": {
   "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Intuit",
+   "title": "Software Developer 1 - Canada Tax Content",
+   "location": "Toronto, ON, Canada",
+   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
+   "first_seen": "2026-09-19",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
+   "first_seen": "2026-09-19",
+   "category": "SDE"
+  },
   {
    "company": "TD",
    "title": "Quality Engineer I",
@@ -21,6 +37,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -52,14 +76,6 @@
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
    "first_seen": "2026-09-18",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "title": "Data Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1509874-1",
-   "first_seen": "2026-09-17",
    "category": "SDE"
   },
   {
@@ -119,6 +135,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Full Stack",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556866289",
+   "first_seen": "2026-09-16",
+   "category": "SDE"
+  },
+  {
    "company": "Coinbase",
    "title": "Software Engineer",
    "location": "Remote - Canada",
@@ -141,30 +165,6 @@
    "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
    "first_seen": "2026-09-15",
    "category": "SDE"
-  },
-  {
-   "company": "Wealthsimple",
-   "title": "Software Development and Data Science Internships (Winter 2027)",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Wealthsimple",
-   "title": "Design Intern (Winter 2027)",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.ashbyhq.com/wealthsimple/272ea39d-c94e-4400-956a-bbe8d40461b3",
-   "first_seen": "2026-09-15",
-   "category": "Other"
-  },
-  {
-   "company": "Wealthsimple",
-   "title": "Credit & Fraud Analytics Intern (Winter 2027)",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28",
-   "first_seen": "2026-09-15",
-   "category": "Other"
   },
   {
    "company": "Waabi",
@@ -203,6 +203,14 @@
    "title": "Software Developer Intern, Backend (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer Internship Opportunities",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -533,14 +541,6 @@
    "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
    "first_seen": "2026-09-11",
    "category": "SDE"
-  },
-  {
-   "company": "Ericsson",
-   "title": "Early Career RF Specialist (RAN Optimization)",
-   "location": "Toronto,Ontario,Canada",
-   "url": "https://jobs.ericsson.com/careers/job/563121777164021",
-   "first_seen": "2026-09-11",
-   "category": "Other"
   },
   {
    "company": "Affirm",
@@ -975,6 +975,14 @@
    "category": "Security"
   },
   {
+   "company": "TD",
+   "title": "Global Transaction Banking (GTB), Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
@@ -1045,6 +1053,14 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
   },
   {
    "company": "Magnet Forensics",
