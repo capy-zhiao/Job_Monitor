@@ -1,5 +1,15 @@
 # job-monitor
 
+## Why
+
+I got tired of refreshing a pile of careers pages, so I wanted a job notifier
+that does the filtering for me. Most companies serve their open roles from a
+public JSON API (the same one their careers page calls). This subscribes to
+those feeds, keeps only the roles that match my filters, remembers what it has
+already seen, and pings me on Discord when a new one shows up.
+
+## Description
+
 A job notifier I built to filter openings the way I want and get a Discord ping
 the moment something matches. It polls company career APIs on a schedule and only
 sends postings that are new and match my keywords and locations. No third-party
@@ -14,16 +24,6 @@ mark-applied any posting (kept in your browser). A stats strip and an "open role
 whole feed. Same data as the Discord alerts, browsable.
 
 [![live jobs page](site.png)](https://capy-zhiao.github.io/Job_Monitor/)
-
-![example Discord notification](example.png)
-
-## Why
-
-I got tired of refreshing a pile of careers pages, so I wanted a job notifier
-that does the filtering for me. Most companies serve their open roles from a
-public JSON API (the same one their careers page calls). This subscribes to
-those feeds, keeps only the roles that match my filters, remembers what it has
-already seen, and pings me on Discord when a new one shows up.
 
 ## Supported platforms
 
@@ -87,6 +87,8 @@ python3 run.py --notify-first
 Create a Discord webhook via: channel settings, Integrations, Webhooks, New
 Webhook, Copy URL. For Slack, create an Incoming Webhook and set
 `SLACK_WEBHOOK_URL`. If both are set, both receive notifications.
+
+![example Discord notification](example.png)
 
 ## Configuration (`config.json`)
 
