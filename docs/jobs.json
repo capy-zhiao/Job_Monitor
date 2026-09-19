@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18 22:30 UTC",
- "count": 246,
+ "generated_at": "2026-09-19 00:34 UTC",
+ "count": 244,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -975,14 +975,6 @@
    "category": "Security"
   },
   {
-   "company": "TD",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
@@ -1747,14 +1739,6 @@
    "title": "Embedded Software Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "title": "Embedded Software Developer New Grad",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
