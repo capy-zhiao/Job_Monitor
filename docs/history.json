@@ -199,11 +199,11 @@
 },
 {
 "date": "2026-09-19",
-"total": 246,
+"total": 248,
 "by": {
-"SDE": 150,
-"AI/ML": 40,
-"Security": 14,
+"SDE": 152,
+"AI/ML": 41,
+"Security": 13,
 "Other": 12,
 "Research": 30
 }

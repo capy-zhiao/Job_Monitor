@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-19 05:07 UTC",
- "count": 246,
+ "generated_at": "2026-09-19 09:33 UTC",
+ "count": 248,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -16,9 +16,25 @@
   },
   {
    "company": "IBM Canada",
+   "title": "IPC AI/ML Developer Intern (January 2027 - 12 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
+   "first_seen": "2026-09-19",
+   "category": "AI/ML"
+  },
+  {
+   "company": "IBM Canada",
    "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
    "location": "Toronto, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
+   "first_seen": "2026-09-19",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Application Developer Intern - Full Stack / Cloud / Modern Engineering (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130144",
    "first_seen": "2026-09-19",
    "category": "SDE"
   },
@@ -1024,14 +1040,6 @@
   },
   {
    "company": "RBC (Security)",
-   "title": "Information & Data Security Analyst - Halifax",
-   "location": "HALIFAX, Nova Scotia, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/HALIFAX-Nova-Scotia-Canada/Information---Data-Security-Analyst---Halifax_R-0000174371-1",
-   "first_seen": "2026-09-01",
-   "category": "Security"
-  },
-  {
-   "company": "RBC (Security)",
    "title": "2027 Winter Student Opportunities Technology & Operations - Cyber Security Analyst, 4-8 Months",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/16-YORK-STTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Cyber-Security-Analyst--4-8-Months_R-0000184797-1",
@@ -1155,6 +1163,14 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
