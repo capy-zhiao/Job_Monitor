@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21 18:55 UTC",
+ "generated_at": "2026-09-21 22:30 UTC",
  "count": 239,
  "stats": {
   "sources": 93,
@@ -11,6 +11,14 @@
    "title": "Software Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+   "first_seen": "2026-09-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Fortinet",
+   "title": "Software Developer (FortiClient)",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22865",
    "first_seen": "2026-09-21",
    "category": "SDE"
   },
@@ -40,11 +48,11 @@
   },
   {
    "company": "IBM Canada",
-   "title": "IPC AI/ML Developer Intern (January 2027 - 12 Months - Toronto)",
+   "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
    "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
    "first_seen": "2026-09-19",
-   "category": "AI/ML"
+   "category": "SDE"
   },
   {
    "company": "TD",
@@ -149,14 +157,6 @@
    "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
    "first_seen": "2026-09-17",
    "category": "Security"
-  },
-  {
-   "company": "Salesforce",
-   "title": "Software Engineer II - Slack Developer Experience AI",
-   "location": "Canada - Toronto",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineer-II--Machine-Learning---Slack_JR358348-1",
-   "first_seen": "2026-09-16",
-   "category": "SDE"
   },
   {
    "company": "Coinbase",
