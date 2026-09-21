@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-21 13:44 UTC",
+ "generated_at": "2026-09-21 18:55 UTC",
  "count": 239,
  "stats": {
   "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Software Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+   "first_seen": "2026-09-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Blackberry",
+   "title": "Graduate Systems Software Developer - Sensor Framework",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300",
+   "first_seen": "2026-09-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Blackberry",
+   "title": "Graduate Systems Software Developer - Sensor Framework",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300-1",
+   "first_seen": "2026-09-21",
+   "category": "SDE"
+  },
   {
    "company": "Intuit",
    "title": "Software Developer 1 - Canada Tax Content",
@@ -21,22 +45,6 @@
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
    "first_seen": "2026-09-19",
    "category": "AI/ML"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
-   "first_seen": "2026-09-19",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Application Developer Intern - Full Stack / Cloud / Modern Engineering (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130144",
-   "first_seen": "2026-09-19",
-   "category": "SDE"
   },
   {
    "company": "TD",
@@ -1135,14 +1143,6 @@
    "category": "SDE"
   },
   {
-   "company": "IBM Canada",
-   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Huawei",
    "title": "System Security Research Engineer – OS and Device Protection",
    "location": "Markham, Ontario, Canada",
@@ -1714,7 +1714,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1722,7 +1722,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
