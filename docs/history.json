@@ -221,11 +221,11 @@
 },
 {
 "date": "2026-09-21",
-"total": 248,
+"total": 239,
 "by": {
-"SDE": 152,
-"AI/ML": 41,
-"Security": 13,
+"SDE": 150,
+"AI/ML": 37,
+"Security": 10,
 "Other": 12,
 "Research": 30
 }

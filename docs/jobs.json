@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21 01:24 UTC",
- "count": 248,
+ "generated_at": "2026-09-21 06:51 UTC",
+ "count": 239,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -147,14 +147,6 @@
    "title": "Software Engineer II - Slack Developer Experience AI",
    "location": "Canada - Toronto",
    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineer-II--Machine-Learning---Slack_JR358348-1",
-   "first_seen": "2026-09-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Full Stack",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556866289",
    "first_seen": "2026-09-16",
    "category": "SDE"
   },
@@ -607,14 +599,6 @@
    "category": "SDE"
   },
   {
-   "company": "Sun Life",
-   "title": "Junior Security Data Analyst",
-   "location": "Toronto, ON, Canada",
-   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983",
-   "first_seen": "2026-09-10",
-   "category": "Security"
-  },
-  {
    "company": "Robinhood",
    "title": "Software Engineer, Tokenization",
    "location": "Toronto, Canada",
@@ -637,14 +621,6 @@
    "url": "https://huaweicanada.recruitee.com/o/researcher-physical-ai",
    "first_seen": "2026-09-10",
    "category": "Research"
-  },
-  {
-   "company": "TD (Security)",
-   "title": "Global Security Analyst ll, IRC - Bilingual (French/English)",
-   "location": "Mississauga, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375",
-   "first_seen": "2026-09-09",
-   "category": "Security"
   },
   {
    "company": "Huawei",
@@ -1037,14 +1013,6 @@
    "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
    "first_seen": "2026-09-01",
    "category": "SDE"
-  },
-  {
-   "company": "RBC (Security)",
-   "title": "2027 Winter Student Opportunities Technology & Operations - Cyber Security Analyst, 4-8 Months",
-   "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/16-YORK-STTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Cyber-Security-Analyst--4-8-Months_R-0000184797-1",
-   "first_seen": "2026-09-01",
-   "category": "Security"
   },
   {
    "company": "Pinterest",
@@ -1811,46 +1779,6 @@
    "title": "Machine Learning Software Engineer",
    "location": "TORONTO, Ontario, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer_R-0000182038-1",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "2027 Winter Student Opportunities RBC Borealis -Machine Learning Software Engineer, 4 Months - Montreal",
-   "location": "MONTRÉAL, Quebec, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000184599-1",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "2027 Winter Student Opportunities RBC Borealis - Software Developer, 4-8 Months",
-   "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "2027 Winter Student Opportunities RBC Borealis - Machine Learning Software Engineer, 4-8 Months",
-   "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499-1",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "2027 Winter Student Opportunities RBC Borealis - AI Data Analyst - 8 Months",
-   "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Data-Analyst---8-Months_R-0000184505",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "2027 Winter Student Opportunities RBC Borealis - AI Business Analyst - 8 Months",
-   "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---AI-Business-Analyst---8-Months_R-0000184502-1",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
   },
