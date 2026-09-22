@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22 01:06 UTC",
- "count": 243,
+ "generated_at": "2026-09-22 06:16 UTC",
+ "count": 238,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -101,14 +101,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -251,14 +243,6 @@
    "title": "Software Developer Intern, Backend (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer Internship Opportunities",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -631,14 +615,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509910-1",
-   "first_seen": "2026-09-10",
-   "category": "SDE"
-  },
-  {
    "company": "Robinhood",
    "title": "Software Engineer, Tokenization",
    "location": "Toronto, Canada",
@@ -715,14 +691,6 @@
    "title": "Associate Software Engineer",
    "location": "Toronto, ON, Canada",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
-   "first_seen": "2026-09-08",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806",
    "first_seen": "2026-09-08",
    "category": "SDE"
   },
@@ -1071,14 +1039,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -1162,7 +1122,7 @@
    "company": "IBM Canada",
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121183",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1170,7 +1130,7 @@
    "company": "IBM Canada",
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121183",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1745,8 +1705,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1761,8 +1721,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
