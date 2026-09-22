@@ -1,11 +1,43 @@
 {
- "generated_at": "2026-09-21 22:30 UTC",
- "count": 239,
+ "generated_at": "2026-09-22 01:06 UTC",
+ "count": 243,
  "stats": {
   "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Sun Life",
+   "title": "Junior Analytics and Automation Developer Student - Winter 2027",
+   "location": "North York, ON, Canada; Waterloo, ON, Canada",
+   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514",
+   "first_seen": "2026-09-22",
+   "category": "SDE"
+  },
+  {
+   "company": "Slice (slicelife.com)",
+   "title": "Software Developer - Deploy & Run",
+   "location": "Remote in Canada",
+   "url": "https://slice.careers/careers-listing?gh_jid=8220121",
+   "first_seen": "2026-09-22",
+   "category": "SDE"
+  },
+  {
+   "company": "Okta",
+   "title": "Associate Program Analyst (New Grad)",
+   "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+   "url": "https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584",
+   "first_seen": "2026-09-22",
+   "category": "Other"
+  },
+  {
+   "company": "Ciena",
+   "title": "Mixed Signal IP Integration Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688",
+   "first_seen": "2026-09-22",
+   "category": "SDE"
+  },
   {
    "company": "TD",
    "title": "Software Engineer I",
@@ -1130,7 +1162,7 @@
    "company": "IBM Canada",
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121183",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1138,7 +1170,7 @@
    "company": "IBM Canada",
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=121183",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1714,7 +1746,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1722,7 +1754,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
