@@ -232,11 +232,11 @@
 },
 {
 "date": "2026-09-22",
-"total": 240,
+"total": 234,
 "by": {
-"SDE": 150,
+"SDE": 147,
 "Other": 13,
-"AI/ML": 37,
+"AI/ML": 34,
 "Security": 10,
 "Research": 30
 }
