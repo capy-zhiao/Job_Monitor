@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22 11:58 UTC",
- "count": 240,
+ "generated_at": "2026-09-22 16:46 UTC",
+ "count": 234,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -11,14 +11,6 @@
    "title": "Junior Analytics and Automation Developer Student - Winter 2027",
    "location": "North York, ON, Canada; Waterloo, ON, Canada",
    "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514",
-   "first_seen": "2026-09-22",
-   "category": "SDE"
-  },
-  {
-   "company": "Slice (slicelife.com)",
-   "title": "Software Developer - Deploy & Run",
-   "location": "Remote in Canada",
-   "url": "https://slice.careers/careers-listing?gh_jid=8220121",
    "first_seen": "2026-09-22",
    "category": "SDE"
   },
@@ -80,14 +72,6 @@
   },
   {
    "company": "IBM Canada",
-   "title": "IPC AI/ML Developer Intern (January 2027 - 12 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
-   "first_seen": "2026-09-19",
-   "category": "AI/ML"
-  },
-  {
-   "company": "IBM Canada",
    "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
    "location": "Toronto, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
@@ -109,14 +93,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -251,14 +227,6 @@
    "title": "Software Developer Intern, Backend (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer Internship Opportunities",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -1047,14 +1015,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -1721,8 +1681,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1737,8 +1697,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1867,14 +1827,6 @@
    "title": "Applied Scientist, Alexa Smart Home",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10444145/applied-scientist-alexa-smart-home",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Amazon (Science)",
-   "title": "Applied Scientist, Alexa Connections",
-   "location": "CA, BC, Vancouver",
-   "url": "https://www.amazon.jobs/en/jobs/10490771/applied-scientist-alexa-connections",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
   },
