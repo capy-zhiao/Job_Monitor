@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22 16:46 UTC",
- "count": 234,
+ "generated_at": "2026-09-22 19:55 UTC",
+ "count": 236,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -21,6 +21,14 @@
    "url": "https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584",
    "first_seen": "2026-09-22",
    "category": "Other"
+  },
+  {
+   "company": "Fortinet",
+   "title": "Embedded Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24441",
+   "first_seen": "2026-09-22",
+   "category": "SDE"
   },
   {
    "company": "Ciena",
@@ -93,6 +101,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -227,6 +243,14 @@
    "title": "Software Developer Intern, Backend (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
+   "first_seen": "2026-09-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer Internship Opportunities",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -655,14 +679,6 @@
    "category": "SDE"
   },
   {
-   "company": "AMD",
-   "title": "AI Models Software Development Engineer",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/91575",
-   "first_seen": "2026-09-09",
-   "category": "SDE"
-  },
-  {
    "company": "Trane Technologies",
    "title": "Accelerated Development Program New Grad",
    "location": "Montreal, QC, Canada; Minneapolis, MN; Davidson, NC",
@@ -1007,12 +1023,12 @@
    "category": "SDE"
   },
   {
-   "company": "NVIDIA",
-   "title": "DL Performance Software Engineer - LLM Inference",
-   "location": "Canada, Toronto",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Toronto/DL-Performance-Software-Engineer---LLM-Inference_JR2022713",
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
-   "category": "AI/ML"
+   "category": "SDE"
   },
   {
    "company": "Magnet Forensics",
@@ -1681,8 +1697,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1697,8 +1713,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
