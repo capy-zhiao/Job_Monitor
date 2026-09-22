@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22 19:55 UTC",
- "count": 236,
+ "generated_at": "2026-09-22 22:48 UTC",
+ "count": 235,
  "stats": {
   "sources": 93,
   "ats": 21
@@ -58,14 +58,6 @@
    "company": "Blackberry",
    "title": "Graduate Systems Software Developer - Sensor Framework",
    "location": "Ottawa, ON, Canada",
-   "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300",
-   "first_seen": "2026-09-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Blackberry",
-   "title": "Graduate Systems Software Developer - Sensor Framework",
-   "location": "Ottawa, ON, Canada",
    "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300-1",
    "first_seen": "2026-09-21",
    "category": "SDE"
@@ -80,11 +72,11 @@
   },
   {
    "company": "IBM Canada",
-   "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
+   "title": "IPC AI/ML Developer Intern (January 2027 - 12 Months - Toronto)",
    "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
    "first_seen": "2026-09-19",
-   "category": "SDE"
+   "category": "AI/ML"
   },
   {
    "company": "TD",
@@ -820,14 +812,6 @@
    "location": "Montreal, Quebec, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022030",
    "first_seen": "2026-09-03",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "title": "Data Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Data-Engineer-I_R_1506329",
-   "first_seen": "2026-09-02",
    "category": "SDE"
   },
   {
@@ -1755,6 +1739,14 @@
    "title": "DevOps Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Borealis AI (RBC)",
+   "title": "Software Developer, Metadata",
+   "location": "CALGARY, Alberta, Canada",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Software-Developer--Metadata_R-0000184826-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
