@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23 11:59 UTC",
+ "generated_at": "2026-09-23 16:46 UTC",
  "count": 235,
  "stats": {
   "sources": 93,
@@ -7,12 +7,28 @@
  },
  "jobs": [
   {
+   "company": "Zebra Technologies",
+   "title": "Firmware/Software Engineer Professional 1",
+   "location": "Montreal, QC, Canada",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Montreal-Canada/Firmware-Software-Engineer--Professional-I---Ingnieur-e--en-micrologiciel---logiciel--professionnel-le--I_JR103049",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
    "company": "Nutanix",
    "title": "Software Developer - Software Defined Security - Nutanix Flow",
    "location": "Vancouver, BC, Canada",
    "url": "https://jobs.jobvite.com/nutanix/job/o2lOAfwv?nl=1&nl=1&fr=false",
    "first_seen": "2026-09-23",
    "category": "Security"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer I (Full Time) - Canada",
+   "location": "Kanata, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2023599-1",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
   },
   {
    "company": "Amazon (Science)",
@@ -91,22 +107,6 @@
    "title": "Software Developer 1 - Canada Tax Content",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-   "first_seen": "2026-09-19",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "IPC AI/ML Developer Intern (January 2027 - 12 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
-   "first_seen": "2026-09-19",
-   "category": "AI/ML"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
    "first_seen": "2026-09-19",
    "category": "SDE"
   },
