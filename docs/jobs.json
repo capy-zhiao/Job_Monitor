@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-22 22:48 UTC",
- "count": 235,
+ "generated_at": "2026-09-23 01:19 UTC",
+ "count": 238,
  "stats": {
   "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Amazon (Science)",
+   "title": "Applied Scientist, Alexa Connections",
+   "location": "CA, BC, Vancouver",
+   "url": "https://www.amazon.jobs/en/jobs/10557195/applied-scientist-alexa-connections",
+   "first_seen": "2026-09-23",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Amazon (Science)",
+   "title": "Applied Scientist, Alexa Connections",
+   "location": "CA, BC, Vancouver",
+   "url": "https://www.amazon.jobs/en/jobs/10557194/applied-scientist-alexa-connections",
+   "first_seen": "2026-09-23",
+   "category": "AI/ML"
+  },
+  {
+   "company": "AMD",
+   "title": "Software Development Engineer (Chip Product Security)",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/92300",
+   "first_seen": "2026-09-23",
+   "category": "Security"
+  },
   {
    "company": "Sun Life",
    "title": "Junior Analytics and Automation Developer Student - Winter 2027",
@@ -77,6 +101,14 @@
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
    "first_seen": "2026-09-19",
    "category": "AI/ML"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "IBM Payment Center Developer Intern (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130085",
+   "first_seen": "2026-09-19",
+   "category": "SDE"
   },
   {
    "company": "TD",
@@ -1699,14 +1731,6 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "title": "Embedded Software Engineer New Grad",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
