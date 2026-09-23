@@ -833,6 +833,113 @@
       "query": "DeepMind",
       "location": "Canada",
       "pages": 2
+    },
+    {
+      "type": "greenhouse",
+      "name": "D2L",
+      "board": "d2l"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Auvik",
+      "board": "auviknetworks"
+    },
+    {
+      "type": "greenhouse",
+      "name": "Geotab",
+      "board": "geotab"
+    },
+    {
+      "type": "ashby",
+      "name": "Miovision",
+      "board": "miovision"
+    },
+    {
+      "type": "ashby",
+      "name": "Ideogram",
+      "board": "ideogram"
+    },
+    {
+      "type": "phenom",
+      "name": "Adobe",
+      "host": "careers.adobe.com",
+      "search": "software engineer",
+      "country": "Canada",
+      "size": 30
+    },
+    {
+      "type": "workday",
+      "name": "Thomson Reuters",
+      "host": "thomsonreuters.wd5.myworkdayjobs.com",
+      "tenant": "thomsonreuters",
+      "site": "External_Career_Site",
+      "search": "software engineer",
+      "pages": 2,
+      "facets": {
+        "Location_Country": [
+          "a30a87ed25634629aa6c3958aa2b91ea"
+        ]
+      }
+    },
+    {
+      "type": "workday",
+      "name": "Ciena",
+      "host": "ciena.wd5.myworkdayjobs.com",
+      "tenant": "ciena",
+      "site": "Careers",
+      "search": "software",
+      "pages": 2
+    },
+    {
+      "type": "successfactors",
+      "name": "Descartes",
+      "host": "jobs.descartes.com",
+      "search": "software",
+      "location_search": "Canada"
+    },
+    {
+      "type": "oracle",
+      "name": "Nokia",
+      "host": "fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com",
+      "site_number": "CX_1",
+      "search": "software",
+      "location": "Canada",
+      "pages": 2
+    },
+    {
+      "type": "workday",
+      "name": "BMO",
+      "host": "bmo.wd3.myworkdayjobs.com",
+      "tenant": "bmo",
+      "site": "External",
+      "search": "software",
+      "facets": {
+        "Country": [
+          "a30a87ed25634629aa6c3958aa2b91ea"
+        ]
+      },
+      "pages": 2
+    },
+    {
+      "type": "workday",
+      "name": "CIBC",
+      "host": "cibc.wd3.myworkdayjobs.com",
+      "tenant": "cibc",
+      "site": "search",
+      "search": "software",
+      "facets": {
+        "Country": [
+          "a30a87ed25634629aa6c3958aa2b91ea"
+        ]
+      },
+      "pages": 2
+    },
+    {
+      "type": "successfactors",
+      "name": "Scotiabank",
+      "host": "jobs.scotiabank.com",
+      "search": "software",
+      "location_search": "Canada"
     }
   ]
 }
