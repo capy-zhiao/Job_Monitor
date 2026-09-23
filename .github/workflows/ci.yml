@@ -5,7 +5,10 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  workflow_dispatch: {}   # "Run workflow" button on the Actions tab
 # The monitor bot's own commits carry [skip ci], so they never trigger this workflow.
+# Careful: GitHub honours that marker ANYWHERE in a commit message, body included, so a
+# human commit that merely mentions it will silently skip CI too.
 
 permissions:
   contents: read
