@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-23 16:46 UTC",
- "count": 235,
+ "generated_at": "2026-09-23 20:00 UTC",
+ "count": 257,
  "stats": {
-  "sources": 93,
+  "sources": 106,
   "ats": 21
  },
  "jobs": [
@@ -15,6 +15,14 @@
    "category": "SDE"
   },
   {
+   "company": "Scotiabank",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON/600354317/",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
    "company": "Nutanix",
    "title": "Software Developer - Software Defined Security - Nutanix Flow",
    "location": "Vancouver, BC, Canada",
@@ -23,10 +31,170 @@
    "category": "Security"
   },
   {
+   "company": "Nokia",
+   "title": "Software Development Engineer",
+   "location": "Canada",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40631",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Nokia",
+   "title": "Embedded Platform Software Developer",
+   "location": "Canada",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31360",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Miovision",
+   "title": "Software Developer, Device Platform",
+   "location": "Kitchener",
+   "url": "https://jobs.ashbyhq.com/miovision/daac9fa8-0aac-4e06-8e0b-3ff327feb928",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Miovision",
+   "title": "Full Stack Software Developer",
+   "location": "Canada Remote",
+   "url": "https://jobs.ashbyhq.com/miovision/9f7b5969-c3fa-40b6-8d4f-e8f48d888c5c",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, iOS, Glasses System UI",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Geotab",
+   "title": "Software Developer ",
+   "location": "Oakville, Ontario - Canada",
+   "url": "https://job-boards.greenhouse.io/geotab/jobs/5386820008",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Geotab",
+   "title": "Software Developer",
+   "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
+   "url": "https://job-boards.greenhouse.io/geotab/jobs/5363388008",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "D2L",
+   "title": "Software Test Developer - New Graduate",
+   "location": "Kitchener, Remote Canada",
+   "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "D2L",
+   "title": "Software Developer - New Graduate",
+   "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
+   "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "D2L",
+   "title": "Software Developer",
+   "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
+   "url": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
    "company": "Cisco",
    "title": "Software Developer I (Full Time) - Canada",
    "location": "Kanata, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2023599-1",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Test Tools & Automation Full Stack Software Engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Software Engineering, Optical Transport and IP Networking Intern",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "SVT/PV Engineer 1 - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Quality Assurance Routing & Switching Intern (Winter 2027)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Quality-Assurance-Routing---Switching-Intern--Winter-2027-_R031448",
+   "first_seen": "2026-09-23",
+   "category": "Other"
+  },
+  {
+   "company": "Ciena",
+   "title": "Layout Design Intern (Fall 2026)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587",
+   "first_seen": "2026-09-23",
+   "category": "Other"
+  },
+  {
+   "company": "Ciena",
+   "title": "Experienced Photonic Card Software Developer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Embedded software engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Embedded Software Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Embedded Software Developer (New Grad)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "AI Engineer Intern (Winter 2027)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -125,6 +293,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -1023,6 +1199,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -1528,14 +1712,6 @@
   },
   {
    "company": "Google",
-   "title": "Graphics Software Developer, Chrome",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/133520462125638342-graphics-software-developer-chrome",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Google",
    "title": "Andrioid Software Developer, Enterprise Chat, Google Cloud",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/83242688047915718-andrioid-software-developer-enterprise-chat-google-cloud",
@@ -1689,14 +1865,6 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
@@ -1707,6 +1875,14 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
