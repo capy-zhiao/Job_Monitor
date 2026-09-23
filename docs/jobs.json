@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-09-23 01:19 UTC",
- "count": 238,
+ "generated_at": "2026-09-23 06:25 UTC",
+ "count": 237,
  "stats": {
   "sources": 93,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Nutanix",
+   "title": "Software Developer - Software Defined Security - Nutanix Flow",
+   "location": "Vancouver, BC, Canada",
+   "url": "https://jobs.jobvite.com/nutanix/job/o2lOAfwv?nl=1&nl=1&fr=false",
+   "first_seen": "2026-09-23",
+   "category": "Security"
+  },
   {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Alexa Connections",
@@ -79,28 +87,12 @@
    "category": "SDE"
   },
   {
-   "company": "Blackberry",
-   "title": "Graduate Systems Software Developer - Sensor Framework",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300-1",
-   "first_seen": "2026-09-21",
-   "category": "SDE"
-  },
-  {
    "company": "Intuit",
    "title": "Software Developer 1 - Canada Tax Content",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
    "first_seen": "2026-09-19",
    "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "IPC AI/ML Developer Intern (January 2027 - 12 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130354",
-   "first_seen": "2026-09-19",
-   "category": "AI/ML"
   },
   {
    "company": "IBM Canada",
@@ -1713,14 +1705,6 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
@@ -1731,6 +1715,14 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
