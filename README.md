@@ -1,5 +1,10 @@
 # job-monitor
 
+[![CI](https://github.com/capy-zhiao/Job_Monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/capy-zhiao/Job_Monitor/actions/workflows/ci.yml)
+[![job-monitor](https://github.com/capy-zhiao/Job_Monitor/actions/workflows/monitor.yml/badge.svg)](https://github.com/capy-zhiao/Job_Monitor/actions/workflows/monitor.yml)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Dependencies](https://img.shields.io/badge/dependencies-none%20(stdlib%20only)-brightgreen)
+
 ## Why
 
 I got tired of refreshing a pile of careers pages, so I wanted a job notifier
