@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+# The monitor bot's own commits carry [skip ci], so they never trigger this workflow.
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Tests (Python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        # 3.8: the floor pyproject.toml promises.
+        # 3.12: what the scheduled monitor actually runs on (ubuntu-latest's python3).
+        # 3.13: latest.
+        python: ['3.8', '3.12', '3.13']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # uv fetches any CPython version on demand, independent of which ones the runner
+      # image still ships — 3.8 is no longer preinstalled on current Ubuntu images.
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Run tests (includes config.json integrity checks)
+        run: uv run --no-project --python ${{ matrix.python }} python -m unittest discover -s tests -v
