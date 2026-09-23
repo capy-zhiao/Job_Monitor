@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23 20:00 UTC",
- "count": 257,
+ "generated_at": "2026-09-23 22:54 UTC",
+ "count": 254,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -63,6 +63,14 @@
    "category": "SDE"
   },
   {
+   "company": "Lyft",
+   "title": "Software Engineer, Driver Experience",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
    "company": "Google",
    "title": "Software Developer, iOS, Glasses System UI",
    "location": "Waterloo, ON, Canada",
@@ -75,14 +83,6 @@
    "title": "Software Developer ",
    "location": "Oakville, Ontario - Canada",
    "url": "https://job-boards.greenhouse.io/geotab/jobs/5386820008",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Geotab",
-   "title": "Software Developer",
-   "location": "Oakville, Ontario - Canada; Waterloo, Ontario - Canada",
-   "url": "https://job-boards.greenhouse.io/geotab/jobs/5363388008",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -512,14 +512,6 @@
   },
   {
    "company": "IBM Canada",
-   "title": "Salesforce & GTM Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130067",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
    "title": "Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=130115",
@@ -533,14 +525,6 @@
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=130142",
    "first_seen": "2026-09-15",
    "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Agentic AI Engineer Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130076",
-   "first_seen": "2026-09-15",
-   "category": "AI/ML"
   },
   {
    "company": "Huawei",
@@ -1819,14 +1803,6 @@
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Fortinet",
-   "title": "Embedded Software Developer",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22745",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
