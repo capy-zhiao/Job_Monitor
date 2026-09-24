@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24 06:13 UTC",
+ "generated_at": "2026-09-24 11:52 UTC",
  "count": 254,
  "stats": {
   "sources": 106,
@@ -565,14 +565,6 @@
    "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
    "first_seen": "2026-09-15",
    "category": "Research"
-  },
-  {
-   "company": "Google (Security)",
-   "title": "Security Consultant Intern, BS/MS, Summer 2027",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027",
-   "first_seen": "2026-09-15",
-   "category": "Security"
   },
   {
    "company": "Google",
@@ -1287,6 +1279,14 @@
    "category": "SDE"
   },
   {
+   "company": "IBM Canada",
+   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "title": "System Security Research Engineer – OS and Device Protection",
    "location": "Markham, Ontario, Canada",
@@ -1842,7 +1842,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1850,7 +1850,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
