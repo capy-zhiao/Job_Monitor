@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-24 16:43 UTC",
- "count": 258,
+ "generated_at": "2026-09-24 20:11 UTC",
+ "count": 255,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -29,6 +29,46 @@
    "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/606423617/",
    "first_seen": "2026-09-24",
    "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "title": "Software Engineering LMTS",
+   "location": "Canada - Vancouver",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR356646",
+   "first_seen": "2026-09-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Magnet Forensics",
+   "title": "Software Development Engineer in Test",
+   "location": "Canada",
+   "url": "https://jobs.lever.co/magnetforensics/450d6c28-ac1d-4411-a176-3eb5655c5545",
+   "first_seen": "2026-09-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Content Systems Intern (Summer 2027)",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
+   "first_seen": "2026-09-24",
+   "category": "Other"
+  },
+  {
+   "company": "Huawei",
+   "title": "Researcher – Agent Platform R&D",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-agent-platform-rd",
+   "first_seen": "2026-09-24",
+   "category": "Research"
+  },
+  {
+   "company": "Huawei",
+   "title": "Researcher - Computer Network for AI",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-computer-network-for-ai-1",
+   "first_seen": "2026-09-24",
+   "category": "Research"
   },
   {
    "company": "Zebra Technologies",
@@ -176,14 +216,6 @@
   },
   {
    "company": "Ciena",
-   "title": "Layout Design Intern (Fall 2026)",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Layout-Design-Intern--Fall-2026-_R031587",
-   "first_seen": "2026-09-23",
-   "category": "Other"
-  },
-  {
-   "company": "Ciena",
    "title": "Experienced Photonic Card Software Developer",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
@@ -255,14 +287,6 @@
    "category": "SDE"
   },
   {
-   "company": "Okta",
-   "title": "Associate Program Analyst (New Grad)",
-   "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
-   "url": "https://www.okta.com/company/careers/opportunity/8220584?gh_jid=8220584",
-   "first_seen": "2026-09-22",
-   "category": "Other"
-  },
-  {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
@@ -303,6 +327,14 @@
    "category": "SDE"
   },
   {
+   "company": "IBM Canada",
+   "title": "Application Developer Intern - Full Stack / Cloud / Modern Engineering (January 2027 - 4 Months - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130144",
+   "first_seen": "2026-09-19",
+   "category": "SDE"
+  },
+  {
    "company": "TD",
    "title": "Quality Engineer I",
    "location": "Toronto, Ontario",
@@ -317,14 +349,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -531,22 +555,6 @@
    "title": "Data Engineer Intern (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Federal Developer Intern, Software Engineering (January 2027 - 4 Months - Ottawa)",
-   "location": "Ottawa, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130115",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Data Services Developer Intern (January 2027 - 4 Months - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130142",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -1151,26 +1159,10 @@
    "category": "Security"
   },
   {
-   "company": "TD",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Stripe",
-   "title": "Software Engineer, Metronome Infrastructure",
-   "location": "Toronto, Vancouver, Canada-Remote",
-   "url": "https://stripe.com/jobs/search?gh_jid=7737237",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1207,14 +1199,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -1227,14 +1211,6 @@
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, Pricing - Rider Engagement",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8743259002?gh_jid=8743259002",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1873,8 +1849,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1889,8 +1865,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
