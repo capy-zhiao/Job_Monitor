@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23 22:54 UTC",
+ "generated_at": "2026-09-24 01:12 UTC",
  "count": 254,
  "stats": {
   "sources": 106,
@@ -1127,14 +1127,6 @@
    "category": "Security"
   },
   {
-   "company": "TD",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
@@ -1283,6 +1275,14 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "IBM Canada",
+   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
+   "location": "Toronto, CA",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1842,7 +1842,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1850,7 +1850,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
