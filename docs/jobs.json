@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25 01:36 UTC",
- "count": 251,
+ "generated_at": "2026-09-25 06:39 UTC",
+ "count": 249,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -75,14 +75,6 @@
    "title": "Firmware/Software Engineer Professional 1",
    "location": "Montreal, QC, Canada",
    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Montreal-Canada/Firmware-Software-Engineer--Professional-I---Ingnieur-e--en-micrologiciel---logiciel--professionnel-le--I_JR103049",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON/600354317/",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -343,6 +335,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
+  },
+  {
    "company": "Intuit",
    "title": "Software Developer 1 - Android",
    "location": "Toronto, ON, Canada",
@@ -419,14 +419,6 @@
    "title": "Software Engineer",
    "location": "Remote - Canada",
    "url": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
-   "first_seen": "2026-09-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer Embedded Systems I (Full Time) - Canada",
-   "location": "Kanata, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
    "first_seen": "2026-09-16",
    "category": "SDE"
   },
@@ -879,22 +871,6 @@
    "category": "Other"
   },
   {
-   "company": "TD",
-   "title": "AI2 Applied Machine Learning Scientist (Graduate)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1",
-   "first_seen": "2026-09-08",
-   "category": "AI/ML"
-  },
-  {
-   "company": "TD",
-   "title": "AI2 Applied Machine Learning Scientist (Graduate)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
-   "first_seen": "2026-09-08",
-   "category": "AI/ML"
-  },
-  {
    "company": "Cerebras",
    "title": "Distributed Software Engineer",
    "location": "Toronto, CAN",
@@ -1135,6 +1111,14 @@
    "category": "Security"
   },
   {
+   "company": "TD",
+   "title": "Global Transaction Banking (GTB), Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Stripe",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
@@ -1171,6 +1155,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1251,14 +1243,6 @@
    "title": "Junior Software Developer",
    "location": "Ottawa, CA",
    "url": "https://careers.ibm.com/careers/JobDetail?jobId=121179",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "IBM Canada",
-   "title": "Digital Product Engineering - Application Developer Associate (May or September 2027 - Toronto)",
-   "location": "Toronto, CA",
-   "url": "https://careers.ibm.com/careers/JobDetail?jobId=130331",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1817,6 +1801,14 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
@@ -1827,14 +1819,6 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
