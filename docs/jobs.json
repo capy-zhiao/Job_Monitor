@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-09-25 20:42 UTC",
- "count": 245,
+ "generated_at": "2026-09-25 23:36 UTC",
+ "count": 246,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TD",
+   "title": "Software Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
+   "first_seen": "2026-09-25",
+   "category": "SDE"
+  },
   {
    "company": "Ciena",
    "title": "Hardware (PCBA) Design and Verification Intern (Winter 2027 - 4 months)",
@@ -13,14 +21,6 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
    "first_seen": "2026-09-25",
    "category": "Other"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer-\tGlobal Payments Engineering",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/",
-   "first_seen": "2026-09-24",
-   "category": "SDE"
   },
   {
    "company": "Scotiabank",
@@ -341,14 +341,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -1143,14 +1135,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -1377,7 +1361,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - Reinforcement Learning",
-   "location": "Edmonton, Alberta, Canada",
+   "location": "Montreal, Quebec, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-reinforcement-learning-3",
    "first_seen": "2026-09-01",
    "category": "Research"
@@ -1855,6 +1839,22 @@
    "category": "AI/ML"
   },
   {
+   "company": "Autodesk",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Developer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100821-1",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Asana",
    "title": "Software Engineer, Product",
    "location": "Vancouver, BC",
@@ -1875,6 +1875,14 @@
    "title": "Xcode Cloud Distributed Systems Software Engineer",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680206/xcode-cloud-distributed-systems-software-engineer?team=SFTWR",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Apple",
+   "title": "Software Engineer, Productivity Apps",
+   "location": "Vancouver, Canada",
+   "url": "https://jobs.apple.com/en-ca/details/200674176/software-engineer-productivity-apps?team=SFTWR",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
