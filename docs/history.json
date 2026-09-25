@@ -265,12 +265,12 @@
 },
 {
 "date": "2026-09-25",
-"total": 251,
+"total": 249,
 "by": {
-"SDE": 160,
+"SDE": 159,
 "Other": 14,
 "Research": 32,
-"AI/ML": 34,
+"AI/ML": 33,
 "Security": 11
 }
 }
