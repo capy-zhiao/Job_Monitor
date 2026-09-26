@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-26 02:02 UTC",
- "count": 248,
+ "generated_at": "2026-09-26 07:44 UTC",
+ "count": 241,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -29,22 +29,6 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
    "first_seen": "2026-09-25",
    "category": "Other"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer-\tGlobal Payments Engineering",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/",
-   "first_seen": "2026-09-24",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Junior Software Engineer",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/606423617/",
-   "first_seen": "2026-09-24",
-   "category": "SDE"
   },
   {
    "company": "Salesforce",
@@ -332,14 +316,6 @@
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
    "first_seen": "2026-09-19",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "title": "Quality Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I_R_1501547",
-   "first_seen": "2026-09-18",
    "category": "SDE"
   },
   {
@@ -871,22 +847,6 @@
    "category": "Other"
   },
   {
-   "company": "TD",
-   "title": "AI2 Applied Machine Learning Scientist (Graduate)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1",
-   "first_seen": "2026-09-08",
-   "category": "AI/ML"
-  },
-  {
-   "company": "TD",
-   "title": "AI2 Applied Machine Learning Scientist (Graduate)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
-   "first_seen": "2026-09-08",
-   "category": "AI/ML"
-  },
-  {
    "company": "Cerebras",
    "title": "Distributed Software Engineer",
    "location": "Toronto, CAN",
@@ -1111,18 +1071,18 @@
    "category": "Security"
   },
   {
-   "company": "Stripe",
-   "title": "Software Engineer, New Grad",
-   "location": "Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
+   "company": "TD",
+   "title": "Global Transaction Banking (GTB), Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
   {
-   "company": "Snap",
-   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
+   "company": "Stripe",
+   "title": "Software Engineer, New Grad",
+   "location": "Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=8157838",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1853,22 +1813,6 @@
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer_R-0000182038-1",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Developer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100821-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
   },
   {
    "company": "Asana",
