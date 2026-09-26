@@ -276,10 +276,10 @@
 },
 {
 "date": "2026-09-26",
-"total": 241,
+"total": 244,
 "by": {
 "AI/ML": 34,
-"SDE": 149,
+"SDE": 152,
 "Other": 15,
 "Research": 32,
 "Security": 11
