@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-09-25 23:36 UTC",
- "count": 246,
+ "generated_at": "2026-09-26 02:02 UTC",
+ "count": 248,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Quora",
+   "title": "Software Engineer New Grad - Machine Learning Platform",
+   "location": "Remote in USA; Remote in Canada",
+   "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true",
+   "first_seen": "2026-09-26",
+   "category": "AI/ML"
+  },
   {
    "company": "TD",
    "title": "Software Engineer I",
@@ -24,9 +32,9 @@
   },
   {
    "company": "Scotiabank",
-   "title": "Junior Software Engineer",
+   "title": "Software Engineer-\tGlobal Payments Engineering",
    "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/606423617/",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/",
    "first_seen": "2026-09-24",
    "category": "SDE"
   },
@@ -34,7 +42,7 @@
    "company": "Scotiabank",
    "title": "Junior Software Engineer",
    "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/606420417/",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/606423617/",
    "first_seen": "2026-09-24",
    "category": "SDE"
   },
@@ -341,6 +349,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Intuit",
@@ -1135,6 +1151,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -1769,8 +1793,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -1785,16 +1809,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "title": "ASIC Synthesis and STA Engineer New Grad",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Synthesis-and-STA-Engineer---New-Grad_R030893",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
