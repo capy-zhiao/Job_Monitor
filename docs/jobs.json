@@ -1,11 +1,851 @@
 {
- "generated_at": "2026-09-28 01:13 UTC",
- "count": 240,
+ "generated_at": "2026-09-28 07:00 UTC",
+ "count": 346,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "WhatNot",
+   "title": "Software Engineer New Grad",
+   "location": "Seattle, WA; SF; LA; NYC",
+   "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Voyager Technologies",
+   "title": "Software Engineer - AI Automation - Internal Tools",
+   "location": "Seattle, WA; Washington, DC; LA",
+   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4251267009",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Vestwell",
+   "title": "Associate Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://job-boards.greenhouse.io/vestwell/jobs/7983915003",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Valon",
+   "title": "Software Engineer New Grad",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Two Sigma",
+   "title": "Software Engineer",
+   "location": "NYC",
+   "url": "https://twosigma.avature.net/careers/JobDetail/14014",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Truveta",
+   "title": "Software Engineer - Analytical Platform Services",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Together AI",
+   "title": "Software Engineer New Grad",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Tebra",
+   "title": "Software Engineer 1 - Back-End",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/tebra/jobs/4726985005",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Superhuman",
+   "title": "Software Engineer - Early Career",
+   "location": "Seattle, WA; SF",
+   "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Study.com",
+   "title": "Software Engineer New Grad - AI-Native",
+   "location": "Mountain View, CA",
+   "url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Stripe",
+   "title": "Software Engineer New Grad",
+   "location": "Seattle, WA; SF; NYC",
+   "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Silicon Laboratories",
+   "title": "Software Engineer 1 - RAIL team",
+   "location": "Austin, TX",
+   "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Silicon Laboratories",
+   "title": "RFIC Design Engineer 1 - RFIC Design Team",
+   "location": "Austin, TX",
+   "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/RFIC-Design-Engineer-I_20918-1",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Sierra",
+   "title": "Software Engineer New Grad - Agent",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Sierra",
+   "title": "New Grad - APX",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "Other"
+  },
+  {
+   "company": "Self Financial",
+   "title": "Associate Software Engineer - UI",
+   "location": "Austin, TX",
+   "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6181750004",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "SeatGeek",
+   "title": "Software Engineer New Grad",
+   "location": "NYC",
+   "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer (Java)",
+   "location": "Toronto, ON, CA, M5H1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java%29-ON-M5H1H1/600463717/",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Scale AI",
+   "title": "Software Engineer New Grad - Public Sector",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Scale AI",
+   "title": "Software Engineer New Grad",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Rover",
+   "title": "Software Engineer - Recommendations",
+   "location": "Seattle, WA",
+   "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "RoadRunner",
+   "title": "Forward Deployed Engineer New Grad",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Retell AI",
+   "title": "Forward Deployed Engineer New Grad",
+   "location": "Redwood City, CA",
+   "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Remitly",
+   "title": "AI Native Software Engineer",
+   "location": "Seattle, WA",
+   "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Qumulo",
+   "title": "Software Development Engineer New Grad",
+   "location": "Seattle, WA",
+   "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "PricewaterhouseCoopers (PwC)",
+   "title": "Software Engineering Associate - Assurance Innovation and Technology",
+   "location": "Boston, MA; Tampa, FL; Rosemont, IL; NYC",
+   "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Innovation---Technology--AIT----Software-Engineering---Asspciate---Summer-Fall-2027_52926149EIB",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Prelim",
+   "title": "Software Engineer - Product",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Point",
+   "title": "Associate Software Engineer - Customer Operations",
+   "location": "Palo Alto, CA",
+   "url": "https://point.com/hiring?gh_jid=8829278002",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "PlanetScale",
+   "title": "Software Engineer - Internal Tools",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "OpenAI",
+   "title": "Software Engineer - Applied Emerging Talent",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Nexthop.ai",
+   "title": "Software Engineer New Grad - Hardware Diagnostics",
+   "location": "Santa Clara, CA",
+   "url": "https://nexthopai.bamboohr.com/careers/107/",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "title": "Systems & Applications Engineer - Entry Level",
+   "location": "San Jose, CA",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Systems---Applications-Engineer--Entry-Level_R-10066402-1",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "title": "Entry Level NVM Reliability Lab Engineer",
+   "location": "Austin, TX",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "title": "Entry Level Digital Design Engineer",
+   "location": "Austin, TX",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065555",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "title": "Entry Level Digital Design Engineer",
+   "location": "Austin, TX",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065542",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "title": "Entry Level DFT Design Engineer",
+   "location": "Austin, TX",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Applied Systems Engineering Rotation Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "ASIC Floorplan Design Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "MintMCP",
+   "title": "Software Engineer",
+   "location": "SF; San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/mintmcp/4f5bf102-6aae-4ccb-8e8d-af39082e68af/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Microchip Technology",
+   "title": "Product/Test Engineer 1 - Networking & Connectivity Solutions",
+   "location": "Austin, TX",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4032-26",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Meow",
+   "title": "Software Engineer New Grad",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Kikoff",
+   "title": "Software Engineer New Grad",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Intuitive Surgical",
+   "title": "Software Engineer - RISE",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000150746589",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "ID.me",
+   "title": "Software Development Engineer New Grad",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "ID.me",
+   "title": "Data Scientist New Grad",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Greenboard",
+   "title": "Software Engineer",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "General Motors",
+   "title": "Software Engineer Early Career - AV Launch",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/oftware-Engineer--AV-Launch---Early-Career_JR-202619888",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "General Motors",
+   "title": "Software Engineer - Early Careers",
+   "location": "Seattle, WA; Austin, TX; Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "General Motors",
+   "title": "Software Engineer - AV Frameworks",
+   "location": "Sunnyvale, CA",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems",
+   "title": "Software Engineer",
+   "location": "Pittsfield, MA",
+   "url": "https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Garner Health",
+   "title": "Associate Software Engineer",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Garner Health",
+   "title": "Associate Applied Scientist",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Fortinet",
+   "title": "Software Development Engineer - Gui",
+   "location": "Sunnyvale, CA",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "FiscalNote",
+   "title": "Associate Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "F5",
+   "title": "Software Engineer 2 - Digital",
+   "location": "Seattle, WA",
+   "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-II_RP1038820",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "DoorDash",
+   "title": "Software Engineer 1 - Entry-Level",
+   "location": "Seattle, WA; SF; LA; NYC; Sunnyvale, CA",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Domino Data Lab",
+   "title": "Software Engineer New Grad",
+   "location": "NYC",
+   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Domino Data Lab",
+   "title": "Forward Deployed Engineer New Grad",
+   "location": "NYC",
+   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "DiDi Global",
+   "title": "Software Engineer - Planning Selection Autonomy",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/didi/jobs/8198298",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Demiurge Studios",
+   "title": "Associate Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "DecisionPoint",
+   "title": "Entry-level Software Developer",
+   "location": "Remote in USA",
+   "url": "https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Coram AI",
+   "title": "Graduate Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Commure",
+   "title": "Software Engineer - Scribe AI",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Engineer Compiler 1",
+   "location": "Austin, TX",
+   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
+   "location": "Austin, TX",
+   "url": "https://careers.cisco.com/global/en/job/2025313",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cirrus Logic",
+   "title": "Post-Silicon Validation Engineer New Grad - Mixed IC Validation",
+   "location": "Austin, TX",
+   "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Charles Schwab",
+   "title": "Java Software Engineer",
+   "location": "Austin, TX; Southlake, TX; Jersey City, NJ",
+   "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer New Grad",
+   "location": "San Jose, CA",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer New Grad",
+   "location": "San Jose, CA",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer",
+   "location": "San Jose, CA",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "CACI",
+   "title": "Software Engineer Early Career - Cloud",
+   "location": "Remote in USA; Hanover, MD",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "C3.ai",
+   "title": "Platform Full-Stack Engineer New Grad",
+   "location": "Redwood City, CA",
+   "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "C3.ai",
+   "title": "Forward Deployed Engineer New Grad - 2027",
+   "location": "Redwood City, CA",
+   "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "Software Engineer - AI Compute",
+   "location": "San Jose, CA",
+   "url": "https://jobs.bytedance.com/en/position/7686733097398290693/detail",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "Graduate Software Engineer - AI Compute",
+   "location": "Seattle, WA",
+   "url": "https://jobs.bytedance.com/en/position/7686732729746950405/detail",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Software Development Engineer 1 - Early Career - 2027 Starts",
+   "location": "Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Avionics / Embedded Software Engineer 1 - 2027 Starts",
+   "location": "Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL; Van Horn, TX",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "BNY",
+   "title": "Software Engineer Analyst - Engineering - Developer",
+   "location": "NYC",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Authentic",
+   "title": "Software Engineer New Grad",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Atlassian",
+   "title": "Software Engineer",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Atlassian",
+   "title": "Machine Learning Engineer - 2027 Graduate",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Arch",
+   "title": "Software Engineer - Early Careers",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Arch",
+   "title": "Operations Engineer - Early Careers",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Product Line Management New Grad - Master's",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412",
+   "first_seen": "2026-09-28",
+   "category": "Other"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Product Line Management New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626625",
+   "first_seen": "2026-09-28",
+   "category": "Other"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Logistics Automation New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Logistics-Automation-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627714",
+   "first_seen": "2026-09-28",
+   "category": "Other"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Data Scientist New Grad - Bachelor's/Master's",
+   "location": "Austin, TX",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Applied Intuition",
+   "title": "Forward Deployed Engineer New Grad",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Applied Intuition",
+   "title": "Electrical Systems Integration Engineer New Grad - December 2026",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Apple",
+   "title": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.apple.com/en-us/details/200681316",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Anysphere",
+   "title": "Software Engineer New Grad - 2027",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Analog Devices",
+   "title": "Associate Embedded Software Engineer",
+   "location": "San Jose, CA; Wilmington, MA; Durham, NC",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "Software Engineer 2 - Enterprise Technology Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "Software Engineer 1 - Enterprise Technology Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "AI Engineer 1 - Enterprise Technology Services",
+   "location": "Palo Alto, CA",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "AI Engineer 1 - Enterprise Technology Services",
+   "location": "Palo Alto, CA",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "AI Engineer 1 - Enterprise Technology Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "AI Engineer 1 - Enterprise Technology Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Alation",
+   "title": "UX Software Engineer 1 - Contractor",
+   "location": "Redwood City, CA",
+   "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "AeroVironment",
+   "title": "Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET)",
+   "location": "Austin, TX",
+   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Adobe",
+   "title": "Software Engineer New Grad",
+   "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; NYC; Lehi, UT",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Adobe",
+   "title": "Machine Learning Engineer New Grad",
+   "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; Waltham, MA; NYC; Lehi, UT",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Adobe",
+   "title": "Applied Scientist",
+   "location": "San Jose, CA",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817",
+   "first_seen": "2026-09-28",
+   "category": "AI/ML"
+  },
   {
    "company": "Quora",
    "title": "Software Engineer New Grad - Machine Learning Platform",
@@ -295,14 +1135,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "title": "Software Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
-   "first_seen": "2026-09-21",
-   "category": "SDE"
-  },
-  {
    "company": "Fortinet",
    "title": "Software Developer (FortiClient)",
    "location": "Burnaby, BC, Canada",
@@ -325,6 +1157,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1091,6 +1931,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
