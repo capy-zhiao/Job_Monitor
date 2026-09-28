@@ -126,12 +126,14 @@ def emit_jobs_json(path, matched, config_path=None):
         key=lambda j: (first_seen.get(j.uid, today), j.company, j.title),
         reverse=True,
     )
-    stats = {}
+    stats, ca_terms = {}, []
     if config_path:
         try:
             with open(config_path) as f:
-                srcs = json.load(f)["sources"]
+                cfg = json.load(f)
+            srcs = cfg["sources"]
             stats = {"sources": len(srcs), "ats": len({s["type"] for s in srcs})}
+            ca_terms = [t.lower() for t in cfg.get("locations", [])]
         except (OSError, ValueError, KeyError):
             stats = {}
 
@@ -169,8 +171,14 @@ def emit_jobs_json(path, matched, config_path=None):
             history = json.load(f)
     except (OSError, ValueError):
         history = []
+    # "ca" keeps the trend chart on one continuous series: the feed was
+    # Canada-only until US new-grad roles were added on 2026-09-28, so earlier
+    # snapshots' totals are Canadian counts.
+    ca_count = sum(1 for j in jobs if any(t in (j.location or "").lower() for t in ca_terms))
+    for h in history:
+        h.setdefault("ca", h["total"])
     history = [h for h in history if h.get("date") != today]
-    history.append({"date": today, "total": len(jobs), "by": by_cat})
+    history.append({"date": today, "total": len(jobs), "ca": ca_count, "by": by_cat})
     history = sorted(history, key=lambda h: h["date"])[-90:]
     with open(hist_path, "w") as f:
         json.dump(history, f, indent=0, ensure_ascii=False)

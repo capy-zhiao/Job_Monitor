@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Canada new-grad tech jobs</title>
+<title>New-grad tech jobs · Canada &amp; US</title>
 <style>
   :root {
     --bg: #ffffff; --fg: #1a1a1a; --muted: #6b7280; --border: #e5e7eb;
@@ -78,7 +78,7 @@
 </style>
 </head>
 <body>
-<h1>Canada new-grad tech jobs</h1>
+<h1>New-grad tech jobs · Canada &amp; US</h1>
 <div class="sub">
   Built by <a href="https://github.com/capy-zhiao">Zhiao Wei (@capy-zhiao)</a>
   · <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor on GitHub</a>
@@ -90,6 +90,11 @@
   <div class="ftitle">Filters</div>
   <input id="q" type="search" placeholder="Search…">
   <select id="category"><option value="">All roles</option></select>
+  <select id="country">
+    <option value="">Canada &amp; US</option>
+    <option value="ca">Canada</option>
+    <option value="us">United States</option>
+  </select>
   <select id="city"><option value="">All locations</option></select>
   <select id="company"><option value="">All companies</option></select>
   <select id="worktype">
@@ -116,7 +121,7 @@
 
 <div id="trend" hidden style="position:relative;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
   <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px">
-    <div style="font-weight:600;font-size:15px">Open roles over time</div>
+    <div style="font-weight:600;font-size:15px">Open roles in Canada over time</div>
     <div style="font-size:12px;color:var(--muted)" id="trend-sub"></div>
   </div>
   <svg id="trend-svg" width="100%" viewBox="0 0 640 180" preserveAspectRatio="none" style="display:block"></svg>
@@ -132,7 +137,9 @@
 <footer>
   Auto-collected every ~15 minutes from company career APIs and community
   new-grad lists by <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor</a>.
-  Filters: Canada locations, entry-level software / security / research titles.
+  Canadian roles come from company career sites; US roles come from the community new-grad lists
+  (roles requiring US citizenship or explicitly not offering sponsorship are dropped).
+  Entry-level software / security / research titles only.
   Saved &amp; applied marks are stored only in your browser.
 </footer>
 
@@ -154,7 +161,25 @@ const YEAR_COLORS = { "2026": ["#fdf0e3", "#8a5a12"] };
 // The word boundary keeps "Internal" and "International" out of the match.
 const INTERN_RE = /\b(interns?|internships?|co-?ops?|student)\b/i;
 const workType = title => (INTERN_RE.test(title) ? "intern" : "fulltime");
-const CITIES = ["Toronto", "Waterloo", "Kitchener", "Ottawa", "Vancouver", "Montreal", "Calgary", "Mississauga", "Remote"];
+// Location strings mix full names and abbreviations ("SF", "NYC"), so each
+// city is a pattern rather than a plain substring.
+const CITIES = {
+  "Toronto": /toronto/i, "Waterloo": /waterloo/i, "Kitchener": /kitchener/i, "Ottawa": /ottawa/i,
+  "Vancouver": /vancouver|burnaby/i, "Montreal": /montr[eé]al/i, "Calgary": /calgary/i,
+  "Mississauga": /mississauga/i,
+  "San Francisco": /san francisco|\bsf\b/i, "San Jose / South Bay": /san jose|sunnyvale|santa clara|mountain view|palo alto|cupertino|menlo park/i,
+  "Seattle": /seattle|bellevue|redmond|kirkland/i, "New York": /new york|\bnyc\b/i, "Austin": /austin/i,
+  "Remote": /remote/i,
+};
+// Canadian postings name a Canadian city or province; everything else in the
+// feed is a US role from the community new-grad lists. ", CA" is California.
+const CA_RE = /canada|toronto|waterloo|kitchener|ottawa|vancouver|burnaby|montr[eé]al|calgary|edmonton|mississauga|markham|oakville|ontario|british columbia|quebec|alberta/i;
+const US_RE = /\busa\b|united states|,\s*(CA|WA|TX|NY|MA)\b|\bsf\b|\bnyc\b/i;
+// A posting listing both a Canadian and a US office shows under either country.
+const inCountry = (loc, c) => {
+  const isCA = CA_RE.test(loc || "");
+  return c === "ca" ? isCA : !isCA || US_RE.test(loc || "");
+};
 
 // per-viewer marks, browser-local only
 const load = k => { try { return new Set(JSON.parse(localStorage.getItem(k) || "[]")); } catch { return new Set(); } };
@@ -162,7 +187,7 @@ const save = (k, set) => { try { localStorage.setItem(k, JSON.stringify([...set]
 let SAVED = load("jm_saved"), APPLIED = load("jm_applied");
 
 // filter state <-> URL query params (shareable/bookmarkable)
-const FILTERS = ["q", "category", "city", "company", "worktype", "age", "view"];
+const FILTERS = ["q", "category", "country", "city", "company", "worktype", "age", "view"];
 function readURL() {
   const p = new URLSearchParams(location.search);
   FILTERS.forEach(f => { const v = p.get(f); if (v != null) $(f).value = v; });
@@ -181,7 +206,7 @@ function toggle(set, key, url) {
 
 function render() {
   const q = $("q").value.trim().toLowerCase();
-  const cat = $("category").value, city = $("city").value.toLowerCase();
+  const cat = $("category").value, city = $("city").value, country = $("country").value;
   const company = $("company").value, view = $("view").value, wt = $("worktype").value;
   const maxAge = $("age").value ? parseFloat($("age").value) : Infinity;
 
@@ -189,7 +214,8 @@ function render() {
     if (cat && (j.category || "Other") !== cat) return false;
     if (wt && workType(j.title) !== wt) return false;
     if (company && j.company !== company) return false;
-    if (city && !(j.location || "").toLowerCase().includes(city)) return false;
+    if (country && !inCountry(j.location, country)) return false;
+    if (city && !(CITIES[city] && CITIES[city].test(j.location || ""))) return false;
     if (daysAgo(j.first_seen) > maxAge) return false;
     if (view === "saved" && !SAVED.has(j.url)) return false;
     if (view === "applied" && !APPLIED.has(j.url)) return false;
@@ -254,7 +280,7 @@ fetch("jobs.json?" + Date.now())
     [...new Set(d.jobs.map(j => j.category || "Other"))].sort().forEach(c => {
       const o = document.createElement("option"); o.value = o.textContent = c; $("category").appendChild(o);
     });
-    CITIES.filter(city => d.jobs.some(j => (j.location || "").toLowerCase().includes(city.toLowerCase())))
+    Object.keys(CITIES).filter(city => d.jobs.some(j => CITIES[city].test(j.location || "")))
       .forEach(city => { const o = document.createElement("option"); o.value = o.textContent = city; $("city").appendChild(o); });
     [...new Set(d.jobs.map(j => j.company))].sort().forEach(c => {
       const o = document.createElement("option"); o.value = o.textContent = c; $("company").appendChild(o);
@@ -272,11 +298,12 @@ FILTERS.forEach(f => $(f).addEventListener("input", render));
 function renderTrend(history) {
   if (!Array.isArray(history) || history.length < 2) return;  // need ≥2 days
   const W = 640, H = 180, pad = 10;
-  const vals = history.map(h => h.total);
+  const val = h => (h.ca ?? h.total);
+  const vals = history.map(val);
   const min = Math.min(...vals), max = Math.max(...vals), span = max - min || 1;
   const x = i => (history.length === 1 ? W : (i / (history.length - 1)) * W);
   const y = v => pad + (1 - (v - min) / span) * (H - 2 * pad);
-  const pts = history.map((h, i) => `${x(i).toFixed(1)},${y(h.total).toFixed(1)}`);
+  const pts = history.map((h, i) => `${x(i).toFixed(1)},${y(val(h)).toFixed(1)}`);
   const grid = [pad, H / 2, H - pad].map(gy =>
     `<line x1="0" y1="${gy}" x2="${W}" y2="${gy}" stroke="var(--border)" stroke-width="1"/>`).join("");
   const area = `<polygon points="0,${H} ${pts.join(" ")} ${W},${H}" fill="var(--accent)" fill-opacity="0.10"/>`;
@@ -288,7 +315,7 @@ function renderTrend(history) {
     + `<circle id="trend-hot" r="4" fill="var(--accent)" stroke="#fff" stroke-width="1.5" visibility="hidden"/>`;
   $("trend-svg").innerHTML = grid + area + line + dot + guide;
 
-  const first = history[0].total, cur = history[history.length - 1].total;
+  const first = val(history[0]), cur = val(history[history.length - 1]);
   const pct = first ? Math.round(((cur - first) / first) * 100) : 0;
   const arrow = pct > 0 ? "▲" : pct < 0 ? "▼" : "▬";
   const col = pct > 0 ? "var(--new-fg)" : pct < 0 ? "#a32d2d" : "var(--muted)";
@@ -299,7 +326,7 @@ function renderTrend(history) {
   // interactive hover: nearest data point → tooltip + guide line + hot dot
   const svg = $("trend-svg"), tip = $("trend-tip"), cont = $("trend");
   const guideEl = document.getElementById("trend-guide"), hot = document.getElementById("trend-hot");
-  const coords = history.map((h, i) => ({ vx: x(i), vy: y(h.total), h }));
+  const coords = history.map((h, i) => ({ vx: x(i), vy: y(val(h)), h }));
   svg.onpointermove = e => {
     const r = svg.getBoundingClientRect();
     const frac = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
@@ -310,7 +337,7 @@ function renderTrend(history) {
     const cr = cont.getBoundingClientRect();
     tip.style.left = ((r.left - cr.left) + (p.vx / 640) * r.width) + "px";
     tip.style.top = ((r.top - cr.top) + (p.vy / 180) * r.height) + "px";
-    tip.innerHTML = `<b>${p.h.total}</b> open · ${p.h.date}`;
+    tip.innerHTML = `<b>${val(p.h)}</b> open in Canada · ${p.h.date}`;
     tip.hidden = false;
   };
   svg.onpointerleave = () => { tip.hidden = true; guideEl.setAttribute("visibility", "hidden"); hot.setAttribute("visibility", "hidden"); };

@@ -24,7 +24,7 @@ dependencies; Python 3.8+ standard library only.
 [capy-zhiao.github.io/Job_Monitor](https://capy-zhiao.github.io/Job_Monitor/)
 
 Search across every source, filter by role category (Security / AI-ML / SDE /
-Research), work type (full-time / intern), city, and recency, and star /
+Research), country (Canada / US), work type (full-time / intern), city, and recency, and star /
 mark-applied any posting (kept in your browser). A stats strip and an "open roles over time" trend chart summarize the
 whole feed. Same data as the Discord alerts, browsable.
 

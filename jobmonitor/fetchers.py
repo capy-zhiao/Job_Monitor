@@ -432,11 +432,14 @@ def fetch_github_listings(source):
     """Community-maintained GitHub new-grad list repos (Simplify-lineage
     listings.json, e.g. SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027).
 
-    source: urls (list of raw listings.json URLs), max_age_days (optional, default 30)
+    source: urls (list of raw listings.json URLs), max_age_days (optional, default 30),
+    skip_no_sponsorship_outside_canada (optional bool)
 
     Listings marked citizenship-required are dropped at the source. The uid is
     keyed on the normalized apply URL so the same posting appearing in several
-    list repos alerts only once.
+    list repos alerts only once. With skip_no_sponsorship_outside_canada, roles
+    flagged "Does Not Offer Sponsorship" are also dropped unless they include a
+    Canadian location — Canadian roles are workable on a PGWP without sponsorship.
     """
     cutoff = time.time() - source.get("max_age_days", 30) * 86400
     jobs, seen_urls = [], set()
@@ -445,6 +448,10 @@ def fetch_github_listings(source):
             if not j.get("active") or not j.get("is_visible"):
                 continue
             if j.get("sponsorship") == "U.S. Citizenship is Required":
+                continue
+            if (source.get("skip_no_sponsorship_outside_canada")
+                    and j.get("sponsorship") == "Does Not Offer Sponsorship"
+                    and not any("canada" in loc.lower() for loc in (j.get("locations") or []))):
                 continue
             posted = j.get("date_posted") or j.get("date_updated") or 0
             if posted < cutoff:
