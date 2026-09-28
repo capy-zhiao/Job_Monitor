@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-28 15:19 UTC",
- "count": 343,
+ "generated_at": "2026-09-28 21:21 UTC",
+ "count": 340,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -207,14 +207,6 @@
    "category": "SDE"
   },
   {
-   "company": "PricewaterhouseCoopers (PwC)",
-   "title": "Software Engineering Associate - Assurance Innovation and Technology",
-   "location": "Boston, MA; Tampa, FL; Rosemont, IL; NYC",
-   "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Assurance-Innovation---Technology--AIT----Software-Engineering---Asspciate---Summer-Fall-2027_52926149EIB",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Prelim",
    "title": "Software Engineer - Product",
    "location": "NYC",
@@ -280,14 +272,6 @@
   },
   {
    "company": "NXP Semiconductors",
-   "title": "Entry Level Digital Design Engineer",
-   "location": "Austin, TX",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065542",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "NXP Semiconductors",
    "title": "Entry Level DFT Design Engineer",
    "location": "Austin, TX",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554",
@@ -307,14 +291,6 @@
    "title": "ASIC Floorplan Design Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "MintMCP",
-   "title": "Software Engineer",
-   "location": "SF; San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/mintmcp/4f5bf102-6aae-4ccb-8e8d-af39082e68af/application?embed=true",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -347,14 +323,6 @@
    "title": "Software Engineer New Grad",
    "location": "SF",
    "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Intuitive Surgical",
-   "title": "Software Engineer - RISE",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000150746589",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1048,14 +1016,6 @@
   },
   {
    "company": "Ciena",
-   "title": "Quality Assurance Routing & Switching Intern (Winter 2027)",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Quality-Assurance-Routing---Switching-Intern--Winter-2027-_R031448",
-   "first_seen": "2026-09-23",
-   "category": "Other"
-  },
-  {
-   "company": "Ciena",
    "title": "Experienced Photonic Card Software Developer",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
@@ -1173,6 +1133,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1923,6 +1891,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
