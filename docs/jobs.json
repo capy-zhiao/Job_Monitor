@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-28 07:00 UTC",
- "count": 346,
+ "generated_at": "2026-09-28 15:19 UTC",
+ "count": 343,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -331,6 +331,14 @@
    "title": "Software Engineer New Grad",
    "location": "NYC",
    "url": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer, Driver Earnings",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -847,6 +855,14 @@
    "category": "AI/ML"
   },
   {
+   "company": "AMD",
+   "title": "Silicon Design Infrastructure Hardware/Software Engineer",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/87268",
+   "first_seen": "2026-09-28",
+   "category": "SDE"
+  },
+  {
    "company": "Quora",
    "title": "Software Engineer New Grad - Machine Learning Platform",
    "location": "Remote in USA; Remote in Canada",
@@ -1159,14 +1175,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
-  },
-  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -1397,22 +1405,6 @@
    "url": "https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027",
    "first_seen": "2026-09-15",
    "category": "Security"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer Intern, MS, Summer 2027",
-   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer Intern, BS, Summer 2027",
-   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
   },
   {
    "company": "Cohere",
@@ -1935,14 +1927,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2427,14 +2411,6 @@
    "title": "Software Developer, Early Career, Campus",
    "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Google",
-   "title": "Andrioid Software Developer, Enterprise Chat, Google Cloud",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/83242688047915718-andrioid-software-developer-enterprise-chat-google-cloud",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
