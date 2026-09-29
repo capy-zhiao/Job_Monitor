@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-09-29 19:11 UTC",
- "count": 341,
+ "generated_at": "2026-09-29 23:00 UTC",
+ "count": 346,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "eBay (Research)",
+   "title": "Applied Researcher 3 - Multimodal AI",
+   "location": "Toronto, Canada",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-3---Multimodal-AI_R0076764",
+   "first_seen": "2026-09-29",
+   "category": "Research"
+  },
+  {
+   "company": "eBay (Research)",
+   "title": "Applied Researcher 2 - Multimodal AI",
+   "location": "Toronto, Canada",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-2---Multimodal-AI_R0076706",
+   "first_seen": "2026-09-29",
+   "category": "Research"
+  },
   {
    "company": "TD (Security)",
    "title": "Information Security Analyst",
@@ -13,6 +29,14 @@
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mississauga-Ontario/Information-Security-Analyst_R_1512065",
    "first_seen": "2026-09-29",
    "category": "Security"
+  },
+  {
+   "company": "Snowflake",
+   "title": "Software Engineer, Notebooks",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobs.ashbyhq.com/snowflake/ea0df7ad-11c5-41e6-8789-1af6068fc8f6",
+   "first_seen": "2026-09-29",
+   "category": "SDE"
   },
   {
    "company": "Lyft",
@@ -39,10 +63,26 @@
    "category": "SDE"
   },
   {
+   "company": "Intuitive Surgical",
+   "title": "Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000152472854",
+   "first_seen": "2026-09-29",
+   "category": "SDE"
+  },
+  {
    "company": "Interac",
    "title": "Software Developer",
    "location": "Toronto",
    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer_REQ-2373",
+   "first_seen": "2026-09-29",
+   "category": "SDE"
+  },
+  {
+   "company": "Early Warning",
+   "title": "Software Engineer - Java - Paze",
+   "location": "SF; Chicago, IL; Scottsdale, AZ",
+   "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
    "first_seen": "2026-09-29",
    "category": "SDE"
   },
@@ -61,6 +101,14 @@
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Physicist-Scientist-III---PhD--2027-Summer-Cohort-_R2627969",
    "first_seen": "2026-09-29",
    "category": "Other"
+  },
+  {
+   "company": "Amazon (Science)",
+   "title": "Applied Scientist, Ring AI",
+   "location": "CA, ON, Toronto",
+   "url": "https://www.amazon.jobs/en/jobs/10564406/applied-scientist-ring-ai",
+   "first_seen": "2026-09-29",
+   "category": "AI/ML"
   },
   {
    "company": "WhatNot",
@@ -107,14 +155,6 @@
    "title": "Software Engineer New Grad",
    "location": "SF",
    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Tebra",
-   "title": "Software Engineer 1 - Back-End",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/tebra/jobs/4726985005",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -727,14 +767,6 @@
    "category": "SDE"
   },
   {
-   "company": "Applied Intuition",
-   "title": "Electrical Systems Integration Engineer New Grad - December 2026",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Apple",
    "title": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems",
    "location": "Sunnyvale, CA",
@@ -1159,20 +1191,20 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Qualcomm",
-   "title": "System AI Engineer New Grad - Display - ASICS Engineering",
-   "location": "Markham, ON, Canada",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721129106",
-   "first_seen": "2026-09-17",
-   "category": "AI/ML"
   },
   {
    "company": "DoorDash Canada",
@@ -1911,6 +1943,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2545,16 +2585,16 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
