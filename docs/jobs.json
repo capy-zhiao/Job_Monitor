@@ -1,18 +1,18 @@
 {
- "generated_at": "2026-09-29 13:52 UTC",
- "count": 342,
+ "generated_at": "2026-09-29 19:11 UTC",
+ "count": 341,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
   {
-   "company": "MintMCP",
-   "title": "Software Engineer",
-   "location": "SF; San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/mintmcp/83584770-dd7c-499d-973f-36829bed51ad/application?embed=true",
+   "company": "TD (Security)",
+   "title": "Information Security Analyst",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mississauga-Ontario/Information-Security-Analyst_R_1512065",
    "first_seen": "2026-09-29",
-   "category": "SDE"
+   "category": "Security"
   },
   {
    "company": "Lyft",
@@ -37,6 +37,30 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
    "first_seen": "2026-09-29",
    "category": "SDE"
+  },
+  {
+   "company": "Interac",
+   "title": "Software Developer",
+   "location": "Toronto",
+   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer_REQ-2373",
+   "first_seen": "2026-09-29",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Hardware (PCBA) Design and Verification Intern (Winter 2027 - 4 Months)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
+   "first_seen": "2026-09-29",
+   "category": "Other"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Physicist/Scientist New Grad - 2027 Summer Cohort",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Physicist-Scientist-III---PhD--2027-Summer-Cohort-_R2627969",
+   "first_seen": "2026-09-29",
+   "category": "Other"
   },
   {
    "company": "WhatNot",
@@ -203,14 +227,6 @@
    "title": "Forward Deployed Engineer New Grad",
    "location": "SF",
    "url": "https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Retell AI",
-   "title": "Forward Deployed Engineer New Grad",
-   "location": "Redwood City, CA",
-   "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -927,14 +943,6 @@
    "category": "SDE"
   },
   {
-   "company": "Nokia",
-   "title": "Embedded Platform Software Developer",
-   "location": "Canada",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31360",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
    "company": "Miovision",
    "title": "Software Developer, Device Platform",
    "location": "Kitchener",
@@ -1149,14 +1157,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1911,14 +1911,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2545,8 +2537,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2561,8 +2553,8 @@
   {
    "company": "Cisco",
    "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },

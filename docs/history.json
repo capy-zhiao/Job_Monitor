@@ -337,14 +337,14 @@
 },
 {
 "date": "2026-09-29",
-"total": 342,
-"ca": 243,
+"total": 341,
+"ca": 242,
 "by": {
-"SDE": 237,
-"Other": 19,
-"AI/ML": 43,
-"Research": 32,
-"Security": 11
+"Security": 12,
+"Other": 21,
+"SDE": 234,
+"AI/ML": 42,
+"Research": 32
 }
 }
 ]
