@@ -1,16 +1,32 @@
 {
- "generated_at": "2026-09-30 15:10 UTC",
- "count": 337,
+ "generated_at": "2026-09-30 20:03 UTC",
+ "count": 342,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
   {
+   "company": "eBay (Research)",
+   "title": "Applied Researcher 1 - Multimodal AI",
+   "location": "Toronto, Canada",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-1---Multimodal-AI_R0076692",
+   "first_seen": "2026-09-30",
+   "category": "Research"
+  },
+  {
    "company": "Superhuman",
    "title": "Software Engineer - Full-Stack - Agents Cross-FA",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490/application?embed=true",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Stripe",
+   "title": "Software Engineer, Metronome Infrastructure",
+   "location": "Toronto, Vancouver, Canada-Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8231439",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -61,6 +77,14 @@
    "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
    "first_seen": "2026-09-30",
    "category": "AI/ML"
+  },
+  {
+   "company": "Ciena",
+   "title": "Hardware Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
   },
   {
    "company": "Applied Materials",
@@ -967,14 +991,6 @@
    "category": "SDE"
   },
   {
-   "company": "Miovision",
-   "title": "Full Stack Software Developer",
-   "location": "Canada Remote",
-   "url": "https://jobs.ashbyhq.com/miovision/9f7b5969-c3fa-40b6-8d4f-e8f48d888c5c",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "title": "Software Engineer, Driver Experience",
    "location": "Toronto, Canada",
@@ -1157,6 +1173,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1903,6 +1927,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2530,7 +2562,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2538,7 +2570,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2587,6 +2619,14 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Asana",
+   "title": "Software Engineer, Product",
+   "location": "Vancouver, BC",
+   "url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
