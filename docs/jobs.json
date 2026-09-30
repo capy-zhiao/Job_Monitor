@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-30 08:22 UTC",
- "count": 341,
+ "generated_at": "2026-09-30 15:10 UTC",
+ "count": 337,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -53,6 +53,14 @@
    "url": "https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
    "first_seen": "2026-09-30",
    "category": "SDE"
+  },
+  {
+   "company": "EvenUp",
+   "title": "Software Engineer New Grad - AI Entities",
+   "location": "Toronto, ON, Canada; SF",
+   "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
+   "first_seen": "2026-09-30",
+   "category": "AI/ML"
   },
   {
    "company": "Applied Materials",
@@ -595,22 +603,6 @@
    "title": "Software Engineer - Scribe AI",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Engineer Compiler 1",
-   "location": "Austin, TX",
-   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
-   "location": "Austin, TX",
-   "url": "https://careers.cisco.com/global/en/job/2025313",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1165,14 +1157,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1919,14 +1903,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2611,14 +2587,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Asana",
-   "title": "Software Engineer, Product",
-   "location": "Vancouver, BC",
-   "url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
