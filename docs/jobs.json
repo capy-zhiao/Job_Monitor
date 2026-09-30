@@ -1,11 +1,59 @@
 {
- "generated_at": "2026-09-29 23:00 UTC",
- "count": 346,
+ "generated_at": "2026-09-30 02:01 UTC",
+ "count": 344,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Superhuman",
+   "title": "Software Engineer - Full-Stack - Agents Cross-FA",
+   "location": "Toronto, ON, Canada",
+   "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490/application?embed=true",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Neuralink",
+   "title": "Software Engineer - Hil",
+   "location": "Austin, TX; South SF",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/8005730003",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
+   "location": "Washington; Oregon; Austin, TX; Redmond, WA; Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
+   "first_seen": "2026-09-30",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Motorola",
+   "title": "Junior Software Engineer - Emergency Call Handling",
+   "location": "Gatineau, QC, Canada; Ottawa, ON, Canada",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "ITC Defense",
+   "title": "Software Developer - NAVSUP Programs",
+   "location": "Remote in USA",
+   "url": "https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "System Engineer New Grad - Material Characterization",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
   {
    "company": "eBay (Research)",
    "title": "Applied Researcher 3 - Multimodal AI",
@@ -328,22 +376,6 @@
   },
   {
    "company": "NXP Semiconductors",
-   "title": "Systems & Applications Engineer - Entry Level",
-   "location": "San Jose, CA",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Systems---Applications-Engineer--Entry-Level_R-10066402-1",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "NXP Semiconductors",
-   "title": "Entry Level NVM Reliability Lab Engineer",
-   "location": "Austin, TX",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "NXP Semiconductors",
    "title": "Entry Level Digital Design Engineer",
    "location": "Austin, TX",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065555",
@@ -363,14 +395,6 @@
    "title": "Applied Systems Engineering Rotation Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "NVIDIA",
-   "title": "ASIC Floorplan Design Engineer New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Floorplan-Design-Engineer---New-College-Grad-2026_JR2024651",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -663,22 +687,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Blue Origin",
-   "title": "Software Development Engineer 1 - Early Career - 2027 Starts",
-   "location": "Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Avionics / Embedded Software Engineer 1 - 2027 Starts",
-   "location": "Seattle, WA; LA; Cape Canaveral, FL; Kent, WA; Denver, CO; Huntsville, AL; Van Horn, TX",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "BNY",
    "title": "Software Engineer Analyst - Engineering - Developer",
    "location": "NYC",
@@ -847,14 +855,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Alation",
-   "title": "UX Software Engineer 1 - Contractor",
-   "location": "Redwood City, CA",
-   "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "AeroVironment",
    "title": "Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET)",
    "location": "Austin, TX",
@@ -957,14 +957,6 @@
    "url": "https://huaweicanada.recruitee.com/o/researcher-computer-network-for-ai-1",
    "first_seen": "2026-09-24",
    "category": "Research"
-  },
-  {
-   "company": "Zebra Technologies",
-   "title": "Firmware/Software Engineer Professional 1",
-   "location": "Montreal, QC, Canada",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Montreal-Canada/Firmware-Software-Engineer--Professional-I---Ingnieur-e--en-micrologiciel---logiciel--professionnel-le--I_JR103049",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
   },
   {
    "company": "Nokia",
@@ -2578,6 +2570,14 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2587,14 +2587,6 @@
    "title": "Software Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2643,14 +2635,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Developer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100821-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
