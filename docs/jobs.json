@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-30 02:01 UTC",
- "count": 344,
+ "generated_at": "2026-09-30 08:22 UTC",
+ "count": 341,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -11,6 +11,14 @@
    "title": "Software Engineer - Full-Stack - Agents Cross-FA",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490/application?embed=true",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer, Java, Global Payments Engineering (Future Opportunities)",
+   "location": "Toronto, ON, CA",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Java%2C-Global-Payments-Engineering-%28Future-Opportunities%29-ON/605706517/",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -615,14 +623,6 @@
    "category": "SDE"
   },
   {
-   "company": "Charles Schwab",
-   "title": "Java Software Engineer",
-   "location": "Austin, TX; Southlake, TX; Jersey City, NJ",
-   "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Cadence Design Systems",
    "title": "Software Engineer New Grad",
    "location": "San Jose, CA",
@@ -1031,14 +1031,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
-   "title": "Software Developer I (Full Time) - Canada",
-   "location": "Kanata, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2023599-1",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
    "company": "Ciena",
    "title": "Test Tools & Automation Full Stack Software Engineer",
    "location": "Ottawa",
@@ -1125,14 +1117,6 @@
    "url": "https://careers.amd.com/careers-home/jobs/92300",
    "first_seen": "2026-09-23",
    "category": "Security"
-  },
-  {
-   "company": "Sun Life",
-   "title": "Junior Analytics and Automation Developer Student - Winter 2027",
-   "location": "North York, ON, Canada; Waterloo, ON, Canada",
-   "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514",
-   "first_seen": "2026-09-22",
-   "category": "SDE"
   },
   {
    "company": "Slice (slicelife.com)",
@@ -2621,14 +2605,6 @@
    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Software-Developer--Metadata_R-0000184826-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "Machine Learning Software Engineer",
-   "location": "TORONTO, Ontario, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Machine-Learning-Software-Engineer_R-0000182038-1",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
   },
   {
    "company": "Autodesk",
