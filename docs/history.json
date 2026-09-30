@@ -349,11 +349,11 @@
 },
 {
 "date": "2026-09-30",
-"total": 342,
+"total": 341,
 "ca": 248,
 "by": {
 "Research": 35,
-"SDE": 230,
+"SDE": 229,
 "AI/ML": 44,
 "Security": 12,
 "Other": 21

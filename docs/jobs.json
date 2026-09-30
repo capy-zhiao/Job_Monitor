@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-30 20:03 UTC",
- "count": 342,
+ "generated_at": "2026-09-30 23:51 UTC",
+ "count": 341,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -387,14 +387,6 @@
    "title": "Associate Software Engineer - Customer Operations",
    "location": "Palo Alto, CA",
    "url": "https://point.com/hiring?gh_jid=8829278002",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "PlanetScale",
-   "title": "Software Engineer - Internal Tools",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -2562,7 +2554,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2570,7 +2562,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
