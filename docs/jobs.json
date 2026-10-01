@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-30 23:51 UTC",
- "count": 341,
+ "generated_at": "2026-10-01 04:46 UTC",
+ "count": 340,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Texas Sports Academy",
+   "title": "Junior AI Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+   "first_seen": "2026-10-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "Software Engineer Graduate",
+   "location": "San Jose, CA",
+   "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Cloud Hardware Development Engineer 1 – Early Career",
+   "location": "Austin, TX; Cupertino, CA",
+   "url": "https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
   {
    "company": "eBay (Research)",
    "title": "Applied Researcher 1 - Multimodal AI",
@@ -199,14 +223,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "WhatNot",
-   "title": "Software Engineer New Grad",
-   "location": "Seattle, WA; SF; LA; NYC",
-   "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Vestwell",
    "title": "Associate Software Engineer",
    "location": "Austin, TX",
@@ -319,14 +335,6 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer (Java)",
-   "location": "Toronto, ON, CA, M5H1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java%29-ON-M5H1H1/600463717/",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Scale AI",
    "title": "Software Engineer New Grad - Public Sector",
    "location": "SF",
@@ -419,14 +427,6 @@
    "title": "Entry Level DFT Design Engineer",
    "location": "Austin, TX",
    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "NVIDIA",
-   "title": "Applied Systems Engineering Rotation Engineer New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -861,14 +861,6 @@
    "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
    "first_seen": "2026-09-28",
    "category": "AI/ML"
-  },
-  {
-   "company": "AeroVironment",
-   "title": "Entry-Level Software Engineer - Specialized Exploitation & Targeting (SET)",
-   "location": "Austin, TX",
-   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
   },
   {
    "company": "Adobe",
