@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01 04:46 UTC",
- "count": 340,
+ "generated_at": "2026-10-01 11:26 UTC",
+ "count": 339,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -11,6 +11,30 @@
    "title": "Junior AI Software Engineer",
    "location": "Austin, TX",
    "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+   "first_seen": "2026-10-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - CoreAI",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Google",
+   "title": "Android Infrastructure Software Developer",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/142151738999087814-android-infrastructure-software-developer",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Software Engineer - AI Enablement & Engineering Productivity",
+   "location": "Austin, TX",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
    "first_seen": "2026-10-01",
    "category": "AI/ML"
   },
@@ -29,6 +53,14 @@
    "url": "https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
    "first_seen": "2026-10-01",
    "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Applied Scientist - International Seller Services",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
+   "first_seen": "2026-10-01",
+   "category": "AI/ML"
   },
   {
    "company": "eBay (Research)",
@@ -101,14 +133,6 @@
    "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
    "first_seen": "2026-09-30",
    "category": "AI/ML"
-  },
-  {
-   "company": "Ciena",
-   "title": "Hardware Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
   },
   {
    "company": "Applied Materials",
@@ -280,9 +304,9 @@
   },
   {
    "company": "Stripe",
-   "title": "Software Engineer New Grad",
-   "location": "Seattle, WA; SF; NYC",
-   "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -301,22 +325,6 @@
    "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/RFIC-Design-Engineer-I_20918-1",
    "first_seen": "2026-09-28",
    "category": "SDE"
-  },
-  {
-   "company": "Sierra",
-   "title": "Software Engineer New Grad - Agent",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/Sierra/149f368c-52d5-408f-ba26-ad888f318a00/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Sierra",
-   "title": "New Grad - APX",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "Other"
   },
   {
    "company": "Self Financial",
@@ -379,14 +387,6 @@
    "title": "Software Development Engineer New Grad",
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Prelim",
-   "title": "Software Engineer - Product",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409/application?embed=true",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1971,14 +1971,6 @@
    "title": "Android Software Engineer, Lyft Urban Solutions",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "IXL Learning",
-   "title": "Software Developer New Grad - Integrations",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.ixl.com/company/jobs?gh_jid=8765751002",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
