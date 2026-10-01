@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-01 17:28 UTC",
- "count": 343,
+ "generated_at": "2026-10-01 21:58 UTC",
+ "count": 341,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Tower Research Capital",
+   "title": "C++ Software Developer New Grad - Rotational Program",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8126667",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
   {
    "company": "Texas Sports Academy",
    "title": "Junior AI Software Engineer",
@@ -51,6 +59,22 @@
    "title": "Software Engineer - CoreAI",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Software Engineer, Planned Pricing",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8860779002?gh_jid=8860779002",
    "first_seen": "2026-10-01",
    "category": "SDE"
   },
@@ -111,6 +135,14 @@
    "category": "AI/ML"
   },
   {
+   "company": "AMD",
+   "title": "AI Model, Framework, and GPU Software Engineer – Agentic AI",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/92925",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
    "company": "eBay (Research)",
    "title": "Applied Researcher 1 - Multimodal AI",
    "location": "Toronto, Canada",
@@ -131,14 +163,6 @@
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer, Java, Global Payments Engineering (Future Opportunities)",
-   "location": "Toronto, ON, CA",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Java%2C-Global-Payments-Engineering-%28Future-Opportunities%29-ON/605706517/",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -247,26 +271,10 @@
    "category": "SDE"
   },
   {
-   "company": "Intuitive Surgical",
-   "title": "Software Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000152472854",
-   "first_seen": "2026-09-29",
-   "category": "SDE"
-  },
-  {
    "company": "Interac",
    "title": "Software Developer",
    "location": "Toronto",
    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer_REQ-2373",
-   "first_seen": "2026-09-29",
-   "category": "SDE"
-  },
-  {
-   "company": "Early Warning",
-   "title": "Software Engineer - Java - Paze",
-   "location": "SF; Chicago, IL; Scottsdale, AZ",
-   "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
    "first_seen": "2026-09-29",
    "category": "SDE"
   },
@@ -555,14 +563,6 @@
    "title": "Software Engineer - AV Frameworks",
    "location": "Sunnyvale, CA",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer",
-   "location": "Pittsfield, MA",
-   "url": "https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -867,22 +867,6 @@
    "title": "Software Engineer 1 - Enterprise Technology Services",
    "location": "NYC",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "AI Engineer 1 - Enterprise Technology Services",
-   "location": "Palo Alto, CA",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "AI Engineer 1 - Enterprise Technology Services",
-   "location": "Palo Alto, CA",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1215,6 +1199,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -1499,14 +1491,6 @@
    "title": "Services Professional (Early Career)",
    "location": "Toronto,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121775279366",
-   "first_seen": "2026-09-14",
-   "category": "Other"
-  },
-  {
-   "company": "BDO Canada",
-   "title": "Business Analyst New Grad - Data & Analytics",
-   "location": "Montreal, QC, Canada; Toronto, ON, Canada; Calgary, AB, Canada; Oakville, ON, Canada; Edmonton, AB, Canada; Ottawa, ON, Canada; Halifax Regional Municipality, NS, Canada",
-   "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065",
    "first_seen": "2026-09-14",
    "category": "Other"
   },
@@ -1895,14 +1879,6 @@
    "category": "SDE"
   },
   {
-   "company": "Tenstorrent",
-   "title": "Software Engineer, Acceleration Kernel Development",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4155609007",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "TD (Security)",
    "title": "Information Security Specialist (Security Posture Insights, Reporting and Remediation)",
    "location": "Toronto, Ontario",
@@ -1955,6 +1931,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2570,7 +2554,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2578,7 +2562,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
