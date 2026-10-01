@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01 11:26 UTC",
- "count": 339,
+ "generated_at": "2026-10-01 17:28 UTC",
+ "count": 343,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -11,6 +11,38 @@
    "title": "Junior AI Software Engineer",
    "location": "Austin, TX",
    "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
+   "first_seen": "2026-10-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Pinterest",
+   "title": "University Grad Software Engineer (Toronto)",
+   "location": "Toronto, ON, CA",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Pinterest",
+   "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138065",
+   "first_seen": "2026-10-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Pinterest",
+   "title": "Software Engineering Intern 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Pinterest",
+   "title": "Machine Learning Intern 2027 (Toronto)",
+   "location": "Toronto, ON, CA",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
    "first_seen": "2026-10-01",
    "category": "AI/ML"
   },
@@ -43,6 +75,22 @@
    "title": "Software Engineer Graduate",
    "location": "San Jose, CA",
    "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Development Internship (Winter 2027)",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Software Development Internship (Summer 2027)",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
    "first_seen": "2026-10-01",
    "category": "SDE"
   },
@@ -1135,6 +1183,14 @@
    "category": "SDE"
   },
   {
+   "company": "TD",
+   "title": "Software Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+   "first_seen": "2026-09-21",
+   "category": "SDE"
+  },
+  {
    "company": "Fortinet",
    "title": "Software Developer (FortiClient)",
    "location": "Burnaby, BC, Canada",
@@ -1157,14 +1213,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1911,14 +1959,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2391,14 +2431,6 @@
    "category": "SDE"
   },
   {
-   "company": "Google",
-   "title": "Software Developer, Early Career, Campus",
-   "location": "Waterloo, ON, Canada; Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Fortinet (Security)",
    "title": "Security Researcher",
    "location": "Burnaby, BC, Canada",
@@ -2538,7 +2570,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2546,7 +2578,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
