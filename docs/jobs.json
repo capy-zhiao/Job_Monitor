@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-10-02 14:10 UTC",
- "count": 338,
+ "generated_at": "2026-10-02 19:20 UTC",
+ "count": 339,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, Networking (Features)",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4739666005",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "TD (Security)",
+   "title": "Information Security Specialist - Issue Management Governance and Reporting",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Issue-Management-Governance-and-Reporting_R_1512607",
+   "first_seen": "2026-10-02",
+   "category": "Security"
+  },
   {
    "company": "SeatGeek",
    "title": "Data Analyst New Grad",
@@ -47,6 +63,14 @@
    "category": "SDE"
   },
   {
+   "company": "Expedia Group",
+   "title": "Software Development Engineer 1",
+   "location": "Vancouver, BC, Canada",
+   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
    "company": "CoStar Group",
    "title": "Associate Software Engineer",
    "location": "Sunnyvale, CA",
@@ -71,6 +95,22 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco",
+   "title": "Software Developer, Hosted Platform Services",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Toronto-Ontario-Canada/Software-Developer--Hosted-Platform-Services_2026131",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "title": "Associate, Software Engineer, New Grad Card Expansion",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
    "location": "Seattle, WA; Jessup, MD; Arlington County, Arlington, VA; Denver, CO; Herndon, VA",
@@ -85,6 +125,14 @@
    "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
    "first_seen": "2026-10-02",
    "category": "SDE"
+  },
+  {
+   "company": "AMD",
+   "title": "Software Engineer, AI & Engineering Productivity Tools",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/93156",
+   "first_seen": "2026-10-02",
+   "category": "AI/ML"
   },
   {
    "company": "AIG",
@@ -115,22 +163,6 @@
    "title": "Junior AI Software Engineer",
    "location": "Austin, TX",
    "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
-   "first_seen": "2026-10-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Pinterest",
-   "title": "University Grad Software Engineer (Toronto)",
-   "location": "Toronto, ON, CA",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Pinterest",
-   "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
-   "location": "Toronto, ON, CA",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138065",
    "first_seen": "2026-10-01",
    "category": "AI/ML"
   },
@@ -1671,14 +1703,6 @@
    "category": "SDE"
   },
   {
-   "company": "AMD",
-   "title": "Cloud Infrastructure Software Engineer – Semiconductor Design",
-   "location": "MARKHAM, Ontario, Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/87270",
-   "first_seen": "2026-09-09",
-   "category": "SDE"
-  },
-  {
    "company": "Trane Technologies",
    "title": "Accelerated Development Program New Grad",
    "location": "Montreal, QC, Canada; Minneapolis, MN; Davidson, NC",
@@ -2530,7 +2554,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2538,7 +2562,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2571,22 +2595,6 @@
    "title": "DevOps Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Borealis AI (RBC)",
-   "title": "Software Developer, Metadata",
-   "location": "CALGARY, Alberta, Canada",
-   "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Software-Developer--Metadata_R-0000184826-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Engineer_26WD100762-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
