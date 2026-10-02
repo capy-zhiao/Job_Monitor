@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02 19:20 UTC",
- "count": 339,
+ "generated_at": "2026-10-02 23:10 UTC",
+ "count": 342,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -47,6 +47,22 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "Stagiaire en ingénierie de la qualité terrain, matériel (été 2027)",
+   "location": "Longueuil, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8862007002?gh_jid=8862007002",
+   "first_seen": "2026-10-02",
+   "category": "Other"
+  },
+  {
    "company": "Lyft",
    "title": "Software Engineer, Pricing",
    "location": "Toronto, Canada",
@@ -55,10 +71,34 @@
    "category": "SDE"
   },
   {
+   "company": "Lyft",
+   "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
+   "location": "Longueuil, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "title": "Technology Planning Engineer",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/technology-planning-engineer",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Harvey",
+   "title": "Software Engineer New Grad",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Harvey",
+   "title": "Software Engineer New Grad",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -1559,14 +1599,6 @@
    "category": "Research"
   },
   {
-   "company": "Eaton",
-   "title": "Software Developer - Software C++ - Research & Development Engineering",
-   "location": "Brossard, QC, Canada",
-   "url": "https://eaton.eightfold.ai/careers/job/687239106601",
-   "first_seen": "2026-09-12",
-   "category": "SDE"
-  },
-  {
    "company": "Capital One",
    "title": "Data Scientist New Grad",
    "location": "Toronto, ON, Canada",
@@ -2667,14 +2699,6 @@
    "title": "Applied Scientist, Alexa Smart Home",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10444145/applied-scientist-alexa-smart-home",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Amazon (Science)",
-   "title": "Applied Scientist, AICE - AI Center of Excellence",
-   "location": "CA, BC, Vancouver",
-   "url": "https://www.amazon.jobs/en/jobs/10458264/applied-scientist-aice-ai-center-of-excellence",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
   },
