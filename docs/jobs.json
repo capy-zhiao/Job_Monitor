@@ -1,11 +1,83 @@
 {
- "generated_at": "2026-10-01 21:58 UTC",
- "count": 341,
+ "generated_at": "2026-10-02 01:33 UTC",
+ "count": 343,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "SeatGeek",
+   "title": "Data Analyst New Grad",
+   "location": "NYC",
+   "url": "https://seatgeek.com/jobs/8247550?gh_jid=8247550",
+   "first_seen": "2026-10-02",
+   "category": "Other"
+  },
+  {
+   "company": "Pinterest",
+   "title": "Master's University Graduate Data Scientist",
+   "location": "Palo Alto, CA; Seattle, WA; SF; NYC",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+   "first_seen": "2026-10-02",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Nutanix",
+   "title": "Software Engineer New Grad - Master’s - Bachelor’s + 2",
+   "location": "Vancouver, BC, Canada",
+   "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Associate Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Associate Embedded Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Clay",
+   "title": "Early Career Software Engineer",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Software Development Engineer - Robotics",
+   "location": "Seattle, WA; Nashville, TN; Austin, TX; North Reading, MA; Arlington County, Arlington, VA; Bellevue, WA; Westborough, MA",
+   "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "AIG",
+   "title": "Early Careers Analyst - Data Office: Data Engineering",
+   "location": "Charlotte, NC; Jersey City, NJ; NYC; Atlanta, GA",
+   "url": "https://aig.wd1.myworkdayjobs.com/aig/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249-1",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "AIG",
+   "title": "Early Careers Analyst - Data Office: Data Engineering",
+   "location": "Charlotte, NC; Jersey City, NJ; NYC; Atlanta, GA",
+   "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
   {
    "company": "Tower Research Capital",
    "title": "C++ Software Developer New Grad - Rotational Program",
@@ -167,6 +239,14 @@
    "category": "SDE"
   },
   {
+   "company": "Scotiabank",
+   "title": "Software Engineer, Java, Global Payments Engineering (Future Opportunities)",
+   "location": "Toronto, ON, CA",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Java%2C-Global-Payments-Engineering-%28Future-Opportunities%29-ON/605706517/",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
    "company": "Neuralink",
    "title": "Software Engineer - Hil",
    "location": "Austin, TX; South SF",
@@ -307,14 +387,6 @@
    "title": "Associate Software Engineer",
    "location": "Austin, TX",
    "url": "https://job-boards.greenhouse.io/vestwell/jobs/7983915003",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Valon",
-   "title": "Software Engineer New Grad",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -831,14 +903,6 @@
    "category": "SDE"
   },
   {
-   "company": "Apple",
-   "title": "Cellular Layer-1 Control Software Development Engineer - Wireless Technologies & Ecosystems",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.apple.com/en-us/details/200681316",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Anysphere",
    "title": "Software Engineer New Grad - 2027",
    "location": "SF; NYC",
@@ -851,38 +915,6 @@
    "title": "Associate Embedded Software Engineer",
    "location": "San Jose, CA; Wilmington, MA; Durham, NC",
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "Software Engineer 2 - Enterprise Technology Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "Software Engineer 1 - Enterprise Technology Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "AI Engineer 1 - Enterprise Technology Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012987",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "AI Engineer 1 - Enterprise Technology Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012982",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1735,22 +1767,6 @@
    "category": "Other"
   },
   {
-   "company": "Mastercard",
-   "title": "Software Engineer - Launch Program",
-   "location": "Vancouver, BC, Canada",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622",
-   "first_seen": "2026-09-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Mastercard",
-   "title": "Software Engineer - Launch Program",
-   "location": "Toronto, ON, Canada",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621",
-   "first_seen": "2026-09-03",
-   "category": "SDE"
-  },
-  {
    "company": "Huawei",
    "title": "Researcher – 3D Computer Vision and Generative Modeling",
    "location": "Markham, Ontario, Canada",
@@ -2554,7 +2570,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2562,7 +2578,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
