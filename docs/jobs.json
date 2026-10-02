@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02 01:33 UTC",
- "count": 343,
+ "generated_at": "2026-10-02 07:32 UTC",
+ "count": 342,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -31,6 +31,14 @@
    "category": "SDE"
   },
   {
+   "company": "Lyft",
+   "title": "Software Engineer, Pricing",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8860861002?gh_jid=8860861002",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
    "company": "CoStar Group",
    "title": "Associate Software Engineer",
    "location": "Sunnyvale, CA",
@@ -51,6 +59,14 @@
    "title": "Early Career Software Engineer",
    "location": "NYC",
    "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
+   "location": "Seattle, WA; Jessup, MD; Arlington County, Arlington, VA; Denver, CO; Herndon, VA",
+   "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -239,14 +255,6 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer, Java, Global Payments Engineering (Future Opportunities)",
-   "location": "Toronto, ON, CA",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Java%2C-Global-Payments-Engineering-%28Future-Opportunities%29-ON/605706517/",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
-  },
-  {
    "company": "Neuralink",
    "title": "Software Engineer - Hil",
    "location": "Austin, TX; South SF",
@@ -267,14 +275,6 @@
    "title": "Junior Software Engineer - Emergency Call Handling",
    "location": "Gatineau, QC, Canada; Ottawa, ON, Canada",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "ITC Defense",
-   "title": "Software Developer - NAVSUP Programs",
-   "location": "Remote in USA",
-   "url": "https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -1791,14 +1791,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ericsson",
-   "title": "Cloud Native Software Developer",
-   "location": "Ottawa,Ontario,Canada",
-   "url": "https://jobs.ericsson.com/careers/job/563121776830967",
-   "first_seen": "2026-09-03",
-   "category": "SDE"
-  },
-  {
    "company": "Huawei",
    "title": "Engineer - RF & Antenna",
    "location": "Ottawa, Ontario, Canada",
@@ -2570,7 +2562,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2578,7 +2570,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
