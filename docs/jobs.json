@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03 20:13 UTC",
- "count": 336,
+ "generated_at": "2026-10-03 23:08 UTC",
+ "count": 339,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -23,10 +23,42 @@
    "category": "SDE"
   },
   {
+   "company": "Nissan Global",
+   "title": "Researcher 1",
+   "location": "Santa Clara, CA",
+   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Researcher-1_R00212854-2",
+   "first_seen": "2026-10-03",
+   "category": "Research"
+  },
+  {
+   "company": "Neuralink",
+   "title": "Software Engineer - Simulation",
+   "location": "Austin, TX; South SF",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
+   "first_seen": "2026-10-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Lightmatter",
+   "title": "Silicon Packaging Engineer Intern & New Grad",
+   "location": "Mountain View, CA",
+   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008",
+   "first_seen": "2026-10-03",
+   "category": "SDE"
+  },
+  {
    "company": "Intact",
    "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
    "location": "Montreal, QC, Canada; Toronto, ON, Canada",
    "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
+   "first_seen": "2026-10-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Astranis",
+   "title": "Software Developer - Network Software Associate",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
    "first_seen": "2026-10-03",
    "category": "SDE"
   },
@@ -255,6 +287,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
    "company": "Lyft",
    "title": "Software Engineer, Planned Pricing",
    "location": "Toronto, Canada",
@@ -347,14 +387,6 @@
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Neuralink",
-   "title": "Software Engineer - Hil",
-   "location": "Austin, TX; South SF",
-   "url": "https://boards.greenhouse.io/neuralink/jobs/8005730003",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -547,14 +579,6 @@
    "title": "RFIC Design Engineer 1 - RFIC Design Team",
    "location": "Austin, TX",
    "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/RFIC-Design-Engineer-I_20918-1",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Self Financial",
-   "title": "Associate Software Engineer - UI",
-   "location": "Austin, TX",
-   "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6181750004",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -771,14 +795,6 @@
    "title": "Forward Deployed Engineer New Grad",
    "location": "NYC",
    "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "DiDi Global",
-   "title": "Software Engineer - Planning Selection Autonomy",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/didi/jobs/8198298",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1915,6 +1931,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
