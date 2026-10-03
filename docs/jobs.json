@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03 01:59 UTC",
- "count": 343,
+ "generated_at": "2026-10-03 07:58 UTC",
+ "count": 335,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -235,14 +235,6 @@
    "title": "Software Engineer - CoreAI",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
    "first_seen": "2026-10-01",
    "category": "SDE"
   },
@@ -655,14 +647,6 @@
    "category": "SDE"
   },
   {
-   "company": "Kikoff",
-   "title": "Software Engineer New Grad",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "ID.me",
    "title": "Software Development Engineer New Grad",
    "location": "Mountain View, CA",
@@ -895,22 +879,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Arch",
-   "title": "Software Engineer - Early Careers",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Arch",
-   "title": "Operations Engineer - Early Careers",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Applied Materials",
    "title": "Product Line Management New Grad - Master's",
    "location": "Santa Clara, CA",
@@ -943,14 +911,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Applied Intuition",
-   "title": "Forward Deployed Engineer New Grad",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Anysphere",
    "title": "Software Engineer New Grad - 2027",
    "location": "SF; NYC",
@@ -965,14 +925,6 @@
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
    "first_seen": "2026-09-28",
    "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "title": "Applied Scientist - Global Risk Intelligence and Prevention - Seller Abuse Prevention",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10528088/applied-scientist-global-risk-intelligence-and-prevention-seller-abuse-prevention",
-   "first_seen": "2026-09-28",
-   "category": "AI/ML"
   },
   {
    "company": "Adobe",
@@ -1277,14 +1229,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1967,14 +1911,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2594,7 +2530,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2602,7 +2538,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },

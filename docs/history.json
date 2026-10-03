@@ -385,13 +385,13 @@
 },
 {
 "date": "2026-10-03",
-"total": 343,
-"ca": 255,
+"total": 335,
+"ca": 252,
 "by": {
-"SDE": 226,
+"SDE": 220,
 "Security": 13,
 "Other": 20,
-"AI/ML": 49,
+"AI/ML": 47,
 "Research": 35
 }
 }
