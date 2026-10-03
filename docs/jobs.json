@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-02 23:10 UTC",
- "count": 342,
+ "generated_at": "2026-10-03 01:59 UTC",
+ "count": 343,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Parasail",
+   "title": "Software Engineer New Grad - Forward Deploy",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
+   "first_seen": "2026-10-03",
+   "category": "SDE"
+  },
   {
    "company": "Tailscale",
    "title": "Software Engineer, Networking (Features)",
@@ -227,6 +235,14 @@
    "title": "Software Engineer - CoreAI",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
    "first_seen": "2026-10-01",
    "category": "SDE"
   },
@@ -807,30 +823,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cadence Design Systems",
-   "title": "Software Engineer New Grad",
-   "location": "San Jose, CA",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "title": "Software Engineer New Grad",
-   "location": "San Jose, CA",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-1",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "title": "Software Engineer",
-   "location": "San Jose, CA",
-   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "CACI",
    "title": "Software Engineer Early Career - Cloud",
    "location": "Remote in USA; Hanover, MD",
@@ -1285,6 +1277,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -1963,6 +1963,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
