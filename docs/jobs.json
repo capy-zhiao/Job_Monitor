@@ -1,16 +1,32 @@
 {
- "generated_at": "2026-10-03 07:58 UTC",
- "count": 335,
+ "generated_at": "2026-10-03 13:17 UTC",
+ "count": 336,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
   {
+   "company": "TD Bank",
+   "title": "Software Engineer 1",
+   "location": "Toronto, ON, Canada",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
+   "first_seen": "2026-10-03",
+   "category": "SDE"
+  },
+  {
    "company": "Parasail",
    "title": "Software Engineer New Grad - Forward Deploy",
    "location": "San Mateo, CA",
    "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
+   "first_seen": "2026-10-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Intact",
+   "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
+   "location": "Montreal, QC, Canada; Toronto, ON, Canada",
+   "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
    "first_seen": "2026-10-03",
    "category": "SDE"
   },
@@ -1727,14 +1743,6 @@
    "category": "SDE"
   },
   {
-   "company": "Canadian Tire",
-   "title": "Data Science Associate New Grad - Finance Rotational Program",
-   "location": "Toronto, ON, Canada",
-   "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/New-Graduate-Program---2027-Data-Science-Associate--Finance-Rotational-Program_JR164983",
-   "first_seen": "2026-09-04",
-   "category": "Other"
-  },
-  {
    "company": "Huawei",
    "title": "Researcher – 3D Computer Vision and Generative Modeling",
    "location": "Markham, Ontario, Canada",
@@ -2530,7 +2538,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2538,7 +2546,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
