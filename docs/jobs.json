@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04 02:41 UTC",
- "count": 337,
+ "generated_at": "2026-10-04 08:50 UTC",
+ "count": 339,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -19,6 +19,14 @@
    "title": "Junior Software Engineer-Global Payments Engineering",
    "location": "Toronto, ON, CA, M1L4S2",
    "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Annapolis Junction, MD; Redmond, WA; Reston, VA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -303,6 +311,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
    "company": "Lyft",
    "title": "Software Engineer, Planned Pricing",
    "location": "Toronto, Canada",
@@ -421,14 +437,6 @@
    "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
    "first_seen": "2026-09-30",
    "category": "AI/ML"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "System Engineer New Grad - Material Characterization",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
   },
   {
    "company": "eBay (Research)",
@@ -1927,6 +1935,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Magnet Forensics",
    "title": "Software Engineer, GKOS",
    "location": "Canada",
@@ -2546,7 +2562,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2554,7 +2570,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
