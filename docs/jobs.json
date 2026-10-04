@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-04 08:50 UTC",
- "count": 339,
+ "generated_at": "2026-10-04 14:41 UTC",
+ "count": 346,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TD Bank",
+   "title": "Software Engineer 1",
+   "location": "Toronto, ON, Canada",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
   {
    "company": "Scotiabank",
    "title": "Software Engineer, Payments Integration & Modernization",
@@ -23,10 +31,74 @@
    "category": "SDE"
   },
   {
+   "company": "RoviSys",
+   "title": "Software Engineer/Developer",
+   "location": "Thousand Oaks, CA",
+   "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Pangram Labs",
+   "title": "Software Engineer - Customer Solutions",
+   "location": "NYC; Brooklyn, NY",
+   "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+   "first_seen": "2026-10-04",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Intune",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Forward Deployed Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
    "company": "Microsoft",
    "title": "Software Engineer",
    "location": "Annapolis Junction, MD; Redmond, WA; Reston, VA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "AiPrise",
+   "title": "Software Engineer 1",
+   "location": "San Jose, CA",
+   "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -192,14 +264,6 @@
   },
   {
    "company": "CoStar Group",
-   "title": "Associate Software Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "CoStar Group",
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
@@ -277,14 +341,6 @@
    "url": "https://www.tower-research.com/open-positions/?gh_jid=8126667",
    "first_seen": "2026-10-01",
    "category": "SDE"
-  },
-  {
-   "company": "Texas Sports Academy",
-   "title": "Junior AI Software Engineer",
-   "location": "Austin, TX",
-   "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply",
-   "first_seen": "2026-10-01",
-   "category": "AI/ML"
   },
   {
    "company": "Pinterest",
@@ -651,14 +707,6 @@
    "title": "Software Development Engineer New Grad",
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Point",
-   "title": "Associate Software Engineer - Customer Operations",
-   "location": "Palo Alto, CA",
-   "url": "https://point.com/hiring?gh_jid=8829278002",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1547,6 +1595,14 @@
    "title": "Software Engineer New Grad",
    "location": "Burnaby, BC, Canada",
    "url": "https://nexthopai.bamboohr.com/careers/62/",
+   "first_seen": "2026-09-14",
+   "category": "SDE"
+  },
+  {
+   "company": "L3Harris Technologies",
+   "title": "Software Engineer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
    "first_seen": "2026-09-14",
    "category": "SDE"
   },
