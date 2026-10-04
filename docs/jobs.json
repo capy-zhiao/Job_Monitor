@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-10-03 23:08 UTC",
- "count": 339,
+ "generated_at": "2026-10-04 02:41 UTC",
+ "count": 337,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer, Payments Integration & Modernization",
+   "location": "Toronto, ON, CA, M1L4S2",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Payments-Integration-&-Modernization-ON-M1L4S2/604174617/",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Junior Software Engineer-Global Payments Engineering",
+   "location": "Toronto, ON, CA, M1L4S2",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
+   "first_seen": "2026-10-04",
+   "category": "SDE"
+  },
   {
    "company": "TD Bank",
    "title": "Software Engineer 1",
@@ -283,14 +299,6 @@
    "title": "Software Engineer - CoreAI",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
    "first_seen": "2026-10-01",
    "category": "SDE"
   },
@@ -971,14 +979,6 @@
    "title": "Machine Learning Engineer New Grad",
    "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; Waltham, MA; NYC; Lehi, UT",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
-   "first_seen": "2026-09-28",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Adobe",
-   "title": "Applied Scientist",
-   "location": "San Jose, CA",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817",
    "first_seen": "2026-09-28",
    "category": "AI/ML"
   },
@@ -1743,14 +1743,6 @@
    "category": "SDE"
   },
   {
-   "company": "Procter & Gamble",
-   "title": "IT Software Engineer - Warehouse Systems - Solution Expert",
-   "location": "Toronto, ON, Canada",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/IT-Warehouse-Systems-Solution-Expert_R000156588",
-   "first_seen": "2026-09-05",
-   "category": "SDE"
-  },
-  {
    "company": "DoorDash",
    "title": "Software Engineer - Multiple Teams",
    "location": "Toronto, ON, Canada",
@@ -1931,14 +1923,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
