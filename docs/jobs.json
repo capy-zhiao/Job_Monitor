@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-10-05 14:56 UTC",
- "count": 337,
+ "generated_at": "2026-10-05 21:54 UTC",
+ "count": 329,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA, M5H4A6",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H4A6/606726317/",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
+  },
   {
    "company": "BMO",
    "title": "GenAI Software Developer",
@@ -267,14 +283,6 @@
    "title": "Early Career Software Engineer",
    "location": "NYC",
    "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Capital One",
-   "title": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -735,14 +743,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Greenboard",
-   "title": "Software Engineer",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "General Motors",
    "title": "Software Engineer Early Career - AV Launch",
    "location": "Sunnyvale, CA",
@@ -783,14 +783,6 @@
    "category": "SDE"
   },
   {
-   "company": "FiscalNote",
-   "title": "Associate Software Engineer",
-   "location": "Remote in USA",
-   "url": "https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Emerson Electric",
    "title": "Software Engineer",
    "location": "Austin, TX",
@@ -827,14 +819,6 @@
    "title": "Entry-level Software Developer",
    "location": "Remote in USA",
    "url": "https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Coram AI",
-   "title": "Graduate Software Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application?embed=true",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1091,14 +1075,6 @@
    "title": "Software Developer ",
    "location": "Oakville, Ontario - Canada",
    "url": "https://job-boards.greenhouse.io/geotab/jobs/5386820008",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "D2L",
-   "title": "Software Test Developer - New Graduate",
-   "location": "Kitchener, Remote Canada",
-   "url": "https://www.d2l.com/careers/jobs/?job_id=6297078&gh_jid=6297078",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -1453,30 +1429,6 @@
    "url": "https://huaweicanada.recruitee.com/o/engineer-physical-layer",
    "first_seen": "2026-09-15",
    "category": "SDE"
-  },
-  {
-   "company": "Google DeepMind",
-   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bs-ms-winter-summer-2027",
-   "first_seen": "2026-09-15",
-   "category": "Research"
-  },
-  {
-   "company": "Google DeepMind",
-   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
-   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bs-ms-winter-summer-2027",
-   "first_seen": "2026-09-15",
-   "category": "Research"
-  },
-  {
-   "company": "Google DeepMind",
-   "title": "Student Researcher, BS/MS, Fall 2026",
-   "location": "Waterloo, ON, Canada; Toronto, ON, Canada; Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
-   "first_seen": "2026-09-15",
-   "category": "Research"
   },
   {
    "company": "Google (Security)",
@@ -2016,14 +1968,6 @@
   },
   {
    "company": "Huawei",
-   "title": "Software Engineer - Windowing & Graphics",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/software-engineer-windowing-graphics",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Huawei",
    "title": "Software Developer - Real-time Operating System",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/software-developer-realtime-operating-system",
@@ -2543,7 +2487,7 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
+   "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
@@ -2551,7 +2495,7 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
+   "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
@@ -2675,14 +2619,6 @@
    "title": "Software Development Engineer, Early Career - 2026",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Affirm",
-   "title": "Software Engineer II (Money Movement & Card Ledger)",
-   "location": "Remote Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7779962003",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
