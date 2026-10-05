@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05 00:32 UTC",
- "count": 341,
+ "generated_at": "2026-10-05 06:16 UTC",
+ "count": 340,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -115,14 +115,6 @@
    "title": "Software Engineer 1",
    "location": "Toronto, ON, Canada",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
-   "first_seen": "2026-10-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Parasail",
-   "title": "Software Engineer New Grad - Forward Deploy",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
    "first_seen": "2026-10-03",
    "category": "SDE"
   },
@@ -501,6 +493,14 @@
    "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
    "first_seen": "2026-09-30",
    "category": "AI/ML"
+  },
+  {
+   "company": "Ciena",
+   "title": "Hardware Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
   },
   {
    "company": "eBay (Research)",
@@ -1559,14 +1559,6 @@
    "category": "SDE"
   },
   {
-   "company": "L3Harris Technologies",
-   "title": "Software Engineer",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
-   "first_seen": "2026-09-14",
-   "category": "SDE"
-  },
-  {
    "company": "Ericsson",
    "title": "Services Professional (Early Career)",
    "location": "Toronto,Ontario,Canada",
@@ -2578,7 +2570,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2586,7 +2578,7 @@
    "company": "Cisco",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
