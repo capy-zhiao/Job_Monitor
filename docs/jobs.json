@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-05 06:16 UTC",
- "count": 340,
+ "generated_at": "2026-10-05 14:56 UTC",
+ "count": 337,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "BMO",
+   "title": "GenAI Software Developer",
+   "location": "Calgary, AB, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
+  },
   {
    "company": "TD Bank",
    "title": "Software Engineer 1",
@@ -45,14 +53,6 @@
    "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true",
    "first_seen": "2026-10-04",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-   "first_seen": "2026-10-04",
-   "category": "AI/ML"
   },
   {
    "company": "Microsoft",
@@ -99,14 +99,6 @@
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "AiPrise",
-   "title": "Software Engineer 1",
-   "location": "San Jose, CA",
-   "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -275,14 +267,6 @@
    "title": "Early Career Software Engineer",
    "location": "NYC",
    "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "title": "Software Developer, Hosted Platform Services",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Toronto-Ontario-Canada/Software-Developer--Hosted-Platform-Services_2026131",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -1795,14 +1779,6 @@
    "title": "Engineer - RF & Antenna",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-rf-antenna",
-   "first_seen": "2026-09-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, XR System Interaction Frameworks",
-   "location": "Kitchener, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/101217083232002758-software-developer-xr-system-interaction-frameworks",
    "first_seen": "2026-09-02",
    "category": "SDE"
   },
