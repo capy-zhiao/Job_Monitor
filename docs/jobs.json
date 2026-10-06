@@ -1,11 +1,67 @@
 {
- "generated_at": "2026-10-05 21:54 UTC",
- "count": 329,
+ "generated_at": "2026-10-06 02:07 UTC",
+ "count": 338,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Truveta",
+   "title": "Software Engineer - Clinical Analytics",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Nuro",
+   "title": "Software Engineer New Grad - Routing",
+   "location": "Mountain View, CA",
+   "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Motorola",
+   "title": "Junior Software Engineer - AI Agent Platform",
+   "location": "Remote in Canada",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
+   "first_seen": "2026-10-06",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ID.me",
+   "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "HCSC",
+   "title": "Early Careers New Grad - Analytics Development Program",
+   "location": "Remote in USA",
+   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520",
+   "first_seen": "2026-10-06",
+   "category": "Other"
+  },
+  {
+   "company": "Atlassian",
+   "title": "Data Engineer New Grad",
+   "location": "Seattle, WA",
+   "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Apple",
+   "title": "Software Engineer - Apple, Inc.",
+   "location": "Vancouver, Canada",
+   "url": "https://jobs.apple.com/en-ca/details/200673477/software-engineer-apple-inc?team=SFTWR",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
   {
    "company": "Scotiabank",
    "title": "Software Engineer",
@@ -83,14 +139,6 @@
    "title": "Software Engineer - Forward Deployed Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Remote in USA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -1429,6 +1477,30 @@
    "url": "https://huaweicanada.recruitee.com/o/engineer-physical-layer",
    "first_seen": "2026-09-15",
    "category": "SDE"
+  },
+  {
+   "company": "Google DeepMind",
+   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bs-ms-winter-summer-2027",
+   "first_seen": "2026-09-15",
+   "category": "Research"
+  },
+  {
+   "company": "Google DeepMind",
+   "title": "Student Researcher, BS/MS, Winter-Summer 2027",
+   "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bs-ms-winter-summer-2027",
+   "first_seen": "2026-09-15",
+   "category": "Research"
+  },
+  {
+   "company": "Google DeepMind",
+   "title": "Student Researcher, BS/MS, Fall 2026",
+   "location": "Waterloo, ON, Canada; Toronto, ON, Canada; Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
+   "first_seen": "2026-09-15",
+   "category": "Research"
   },
   {
    "company": "Google (Security)",
