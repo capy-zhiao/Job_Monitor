@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06 09:00 UTC",
- "count": 344,
+ "generated_at": "2026-10-06 15:51 UTC",
+ "count": 343,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -63,6 +63,14 @@
    "category": "SDE"
   },
   {
+   "company": "Huawei",
+   "title": "Researcher – Web Agent",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/researcher-web-agent",
+   "first_seen": "2026-10-06",
+   "category": "Research"
+  },
+  {
    "company": "Hewlett Packard Enterprise",
    "title": "VLSI Engineer 2 New Grad",
    "location": "Sunnyvale, CA",
@@ -85,6 +93,14 @@
    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520",
    "first_seen": "2026-10-06",
    "category": "Other"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, Google Chat iOS",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214-software-developer-google-chat-ios",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
   },
   {
    "company": "Aurora Innovation",
@@ -135,14 +151,6 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5H4A6",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H4A6/606726317/",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
-  },
-  {
    "company": "Microsoft",
    "title": "Software Engineer - Front End",
    "location": "Canada, British Columbia, Vancouver",
@@ -187,14 +195,6 @@
    "title": "Software Engineer - Intune",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Forward Deployed Engineer",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -589,14 +589,6 @@
    "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
    "first_seen": "2026-09-30",
    "category": "AI/ML"
-  },
-  {
-   "company": "Ciena",
-   "title": "Hardware Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
   },
   {
    "company": "eBay (Research)",
@@ -2610,7 +2602,7 @@
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2618,7 +2610,7 @@
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
