@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06 02:07 UTC",
- "count": 338,
+ "generated_at": "2026-10-06 09:00 UTC",
+ "count": 344,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -13,6 +13,22 @@
    "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004",
    "first_seen": "2026-10-06",
    "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer (Python/PL-SQL)",
+   "location": "Toronto, ON, CA, M5H4A6",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28PythonPL-SQL%29-ON-M5H4A6/600728617/",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Roku",
+   "title": "Software Engineer - AI/UI",
+   "location": "San Jose, CA",
+   "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
+   "first_seen": "2026-10-06",
+   "category": "AI/ML"
   },
   {
    "company": "Nuro",
@@ -32,9 +48,33 @@
   },
   {
    "company": "ID.me",
+   "title": "Software Engineer 2 New Grad - Developer Portal",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "ID.me",
    "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
    "location": "Mountain View, CA",
    "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Engineer 2 New Grad",
+   "location": "Sunnyvale, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-II-Graduate_1214955",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "VLSI Engineer 1 Graduate",
+   "location": "Sunnyvale, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I-Graduate_1214995",
    "first_seen": "2026-10-06",
    "category": "SDE"
   },
@@ -47,12 +87,44 @@
    "category": "Other"
   },
   {
+   "company": "Aurora Innovation",
+   "title": "Applied Researcher",
+   "location": "Seattle, WA; SF; Pittsburgh, PA; Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb7ed3f2-a8f5-416d-b880-4ed7c930f9c3/application?embed=true",
+   "first_seen": "2026-10-06",
+   "category": "Research"
+  },
+  {
    "company": "Atlassian",
    "title": "Data Engineer New Grad",
    "location": "Seattle, WA",
    "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
    "first_seen": "2026-10-06",
    "category": "SDE"
+  },
+  {
+   "company": "Astera Labs",
+   "title": "Product Quality Engineer New Grad",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733438005",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Astera Labs",
+   "title": "Data Analyst New Grad",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
+   "first_seen": "2026-10-06",
+   "category": "Other"
+  },
+  {
+   "company": "Astera Labs",
+   "title": "Applied AI New Grad - Non Silicon",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
+   "first_seen": "2026-10-06",
+   "category": "AI/ML"
   },
   {
    "company": "Apple",
@@ -91,22 +163,6 @@
    "title": "Software Engineer 1",
    "location": "Toronto, ON, Canada",
    "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer, Payments Integration & Modernization",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Payments-Integration-&-Modernization-ON-M1L4S2/604174617/",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Junior Software Engineer-Global Payments Engineering",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -557,14 +613,6 @@
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-2---Multimodal-AI_R0076706",
    "first_seen": "2026-09-29",
    "category": "Research"
-  },
-  {
-   "company": "TD (Security)",
-   "title": "Information Security Analyst",
-   "location": "2 Locations",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mississauga-Ontario/Information-Security-Analyst_R_1512065",
-   "first_seen": "2026-09-29",
-   "category": "Security"
   },
   {
    "company": "Snowflake",
