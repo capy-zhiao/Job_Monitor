@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06 15:51 UTC",
- "count": 343,
+ "generated_at": "2026-10-06 20:50 UTC",
+ "count": 342,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -11,6 +11,14 @@
    "title": "Software Engineer - Clinical Analytics",
    "location": "Seattle, WA",
    "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Snap",
+   "title": "Software Engineer, Android, Level 4",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
    "first_seen": "2026-10-06",
    "category": "SDE"
   },
@@ -29,6 +37,14 @@
    "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
+  },
+  {
+   "company": "OpenText",
+   "title": "Software Developer- RPA / UiPath Specialist",
+   "location": "Mississauga, Ontario, CAN, L5K 2N6",
+   "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53810EXTERNALENUS",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
   },
   {
    "company": "Nuro",
@@ -103,6 +119,30 @@
    "category": "SDE"
   },
   {
+   "company": "Capital One",
+   "title": "Intern, Full Stack Software Engineer - Summer 2027",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "title": "Associate, Software Engineer, New Grad",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "title": "Associate, Software Engineer, New Grad",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
    "company": "Aurora Innovation",
    "title": "Applied Researcher",
    "location": "Seattle, WA; SF; Pittsburgh, PA; Mountain View, CA",
@@ -148,14 +188,6 @@
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200673477/software-engineer-apple-inc?team=SFTWR",
    "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
    "category": "SDE"
   },
   {
@@ -463,14 +495,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Canada, British Columbia, Burnaby; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008753",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "title": "Software Engineer, Planned Pricing",
    "location": "Toronto, Canada",
@@ -565,14 +589,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
    "first_seen": "2026-09-30",
    "category": "SDE"
-  },
-  {
-   "company": "NVIDIA",
-   "title": "Software Engineer New Grad - DGX Cloud AI Infrastructure",
-   "location": "Washington; Oregon; Austin, TX; Redmond, WA; Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477",
-   "first_seen": "2026-09-30",
-   "category": "AI/ML"
   },
   {
    "company": "Motorola",
@@ -1615,14 +1631,6 @@
    "category": "Other"
   },
   {
-   "company": "AMD",
-   "title": "NPU Diagnostics Software Engineer",
-   "location": "MARKHAM, Ontario, Canada",
-   "url": "https://careers.amd.com/careers-home/jobs/92305",
-   "first_seen": "2026-09-14",
-   "category": "SDE"
-  },
-  {
    "company": "Qualcomm",
    "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
    "location": "Markham, ON, Canada",
@@ -1979,14 +1987,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2602,7 +2602,7 @@
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2610,7 +2610,7 @@
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2707,14 +2707,6 @@
    "title": "Applied Scientist, Demand Tech Planning",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10477908/applied-scientist-demand-tech-planning",
-   "first_seen": "2026-09-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Amazon (Science)",
-   "title": "Applied Scientist, Alexa Smart Home",
-   "location": "CA, BC, Vancouver",
-   "url": "https://www.amazon.jobs/en/jobs/10444145/applied-scientist-alexa-smart-home",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
   },
