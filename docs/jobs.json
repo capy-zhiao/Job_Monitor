@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07 19:35 UTC",
- "count": 353,
+ "generated_at": "2026-10-07 23:51 UTC",
+ "count": 364,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -24,6 +24,14 @@
   },
   {
    "company": "TD (Security)",
+   "title": "Information Security Analyst II ( Social Engineer Threat Analyst)",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Analyst-II---Social-Engineer-Threat-Analyst-_R_1514138",
+   "first_seen": "2026-10-07",
+   "category": "Security"
+  },
+  {
+   "company": "TD (Security)",
    "title": "Information Security Analyst (Detection Engineer)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Analyst--Detection-Engineer-_R_1513985",
@@ -35,6 +43,14 @@
    "title": "Software Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1514704-1",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "SpruceID",
+   "title": "Full-Stack Software Engineer New Grad",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -63,6 +79,22 @@
    "category": "SDE"
   },
   {
+   "company": "Scotiabank",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/606845617/",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/606849817/",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Robinhood",
    "title": "Software Engineer, Web3 Backend",
    "location": "Toronto, Canada",
@@ -87,10 +119,26 @@
    "category": "SDE"
   },
   {
+   "company": "Otter.ai",
+   "title": "Software Engineer New Grad - Front-End",
+   "location": "Mountain View, CA",
+   "url": "https://otter.ai/careers?gh_jid=8016078003",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "OpenText",
    "title": "Software Developer",
    "location": "Waterloo, Ontario, CAN, N2L 0A1",
    "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53921EXTERNALENUS",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Nordstrom",
+   "title": "Engineer 1",
+   "location": "Seattle, WA",
+   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -111,6 +159,14 @@
    "category": "Other"
   },
   {
+   "company": "Monolithic Power Systems",
+   "title": "Software Engineer - Building Automation",
+   "location": "San Jose, CA",
+   "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Microsoft",
    "title": "Software Engineer",
    "location": "Redmond, WA; Reston, VA",
@@ -119,10 +175,34 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022926",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Emerson Electric",
    "title": "Digital Hardware Engineer 1",
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Ecolab",
+   "title": "Junior Quality Control Software Developer",
+   "location": "Calgary, AB, Canada",
+   "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CAN---Alberta---Calgary/Junior-Quality-Control-Software-Developer_R00307033",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer (Hybrid)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--Hybrid-_2024460",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -147,6 +227,14 @@
    "title": "Associate Software Development Engineer - Conversion",
    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "CVS Health",
+   "title": "Associate Software Development Engineer - Conversion",
+   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056490",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },

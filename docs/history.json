@@ -433,11 +433,11 @@
 },
 {
 "date": "2026-10-07",
-"total": 353,
-"ca": 260,
+"total": 364,
+"ca": 265,
 "by": {
-"SDE": 233,
-"Security": 13,
+"SDE": 243,
+"Security": 14,
 "AI/ML": 48,
 "Other": 21,
 "Research": 38
