@@ -434,11 +434,11 @@
 {
 "date": "2026-10-07",
 "total": 349,
-"ca": 259,
+"ca": 257,
 "by": {
-"SDE": 231,
+"SDE": 230,
+"AI/ML": 48,
 "Other": 21,
-"AI/ML": 47,
 "Research": 38,
 "Security": 12
 }
