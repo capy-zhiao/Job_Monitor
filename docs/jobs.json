@@ -1,11 +1,75 @@
 {
- "generated_at": "2026-10-06 20:50 UTC",
- "count": 342,
+ "generated_at": "2026-10-07 00:27 UTC",
+ "count": 346,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "RoadRunner",
+   "title": "Forward Deployed Engineer New Grad",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/Roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480/application?embed=true",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Pure Storage",
+   "title": "Software Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "GPU PCIe and Boot Architect New Grad",
+   "location": "Austin, TX; Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2027_JR2026276",
+   "first_seen": "2026-10-07",
+   "category": "Other"
+  },
+  {
+   "company": "Ciena",
+   "title": "Signal and Power Integrity Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "title": "Software Engineer New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "title": "Associate Software Engineer New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer 1 New Grad",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer 1 New Grad",
+   "location": "SF; NYC",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
   {
    "company": "Truveta",
    "title": "Software Engineer - Clinical Analytics",
@@ -67,14 +131,6 @@
    "title": "Software Engineer 2 New Grad - Developer Portal",
    "location": "Mountain View, CA",
    "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "ID.me",
-   "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
    "first_seen": "2026-10-06",
    "category": "SDE"
   },
@@ -160,14 +216,6 @@
   },
   {
    "company": "Astera Labs",
-   "title": "Product Quality Engineer New Grad",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733438005",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Astera Labs",
    "title": "Data Analyst New Grad",
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
@@ -221,6 +269,14 @@
    "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true",
    "first_seen": "2026-10-04",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+   "first_seen": "2026-10-04",
+   "category": "AI/ML"
   },
   {
    "company": "Microsoft",
@@ -775,14 +831,6 @@
    "category": "SDE"
   },
   {
-   "company": "RoadRunner",
-   "title": "Forward Deployed Engineer New Grad",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/Roadrunner/eeeb9757-78e0-4776-889e-507a013e1fcf/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Remitly",
    "title": "AI Native Software Engineer",
    "location": "Seattle, WA",
@@ -1171,14 +1219,6 @@
    "title": "Software Developer, iOS, Glasses System UI",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Geotab",
-   "title": "Software Developer ",
-   "location": "Oakville, Ontario - Canada",
-   "url": "https://job-boards.greenhouse.io/geotab/jobs/5386820008",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -2554,14 +2594,6 @@
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22958",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Fortinet",
-   "title": "Embedded Software Developer",
-   "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2602,7 +2634,7 @@
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2610,7 +2642,7 @@
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
