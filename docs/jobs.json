@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07 13:45 UTC",
- "count": 349,
+ "generated_at": "2026-10-07 19:35 UTC",
+ "count": 353,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -15,10 +15,50 @@
    "category": "SDE"
   },
   {
+   "company": "Tenstorrent",
+   "title": "Low-Level Software Engineer, LLK",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5260226007",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "TD (Security)",
+   "title": "Information Security Analyst (Detection Engineer)",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Analyst--Detection-Engineer-_R_1513985",
+   "first_seen": "2026-10-07",
+   "category": "Security"
+  },
+  {
    "company": "TD",
    "title": "Software Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1514704-1",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Snorkel AI",
+   "title": "Software Engineer",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA, M5A 3X5",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5A-3X5/606832617/",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA, M5H4A6",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H4A6/606840217/",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -47,6 +87,14 @@
    "category": "SDE"
   },
   {
+   "company": "OpenText",
+   "title": "Software Developer",
+   "location": "Waterloo, Ontario, CAN, N2L 0A1",
+   "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53921EXTERNALENUS",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "NVIDIA",
    "title": "Systems Software Engineer - AI and Cloud",
    "location": "Santa Clara, CA",
@@ -71,6 +119,22 @@
    "category": "SDE"
   },
   {
+   "company": "Emerson Electric",
+   "title": "Digital Hardware Engineer 1",
+   "location": "Austin, TX",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Ciena",
    "title": "Signal and Power Integrity Engineer New Grad",
    "location": "Ottawa, ON, Canada",
@@ -79,18 +143,18 @@
    "category": "SDE"
   },
   {
-   "company": "Capital One",
-   "title": "Associate Software Engineer New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "CVS Health",
    "title": "Associate Software Development Engineer - Conversion",
    "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "BMO",
+   "title": "Software Developer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer_R260019384",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -219,14 +283,6 @@
    "title": "Software Developer, Google Chat iOS",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214-software-developer-google-chat-ios",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Capital One",
-   "title": "Associate, Software Engineer, New Grad",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046",
    "first_seen": "2026-10-06",
    "category": "SDE"
   },
@@ -663,14 +719,6 @@
    "category": "SDE"
   },
   {
-   "company": "Motorola",
-   "title": "Junior Software Engineer - Emergency Call Handling",
-   "location": "Gatineau, QC, Canada; Ottawa, ON, Canada",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
-  },
-  {
    "company": "EvenUp",
    "title": "Software Engineer New Grad - AI Entities",
    "location": "Toronto, ON, Canada; SF",
@@ -1011,14 +1059,6 @@
    "title": "Post-Silicon Validation Engineer New Grad - Mixed IC Validation",
    "location": "Austin, TX",
    "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "CACI",
-   "title": "Software Engineer Early Career - Cloud",
-   "location": "Remote in USA; Hanover, MD",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -2659,14 +2699,6 @@
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco (Security)",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019427",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
