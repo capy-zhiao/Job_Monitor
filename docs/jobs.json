@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-07 00:27 UTC",
- "count": 346,
+ "generated_at": "2026-10-07 06:21 UTC",
+ "count": 349,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Visa",
+   "title": "Software Engineer Operations and Infrastructure",
+   "location": "Austin, TX",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
   {
    "company": "RoadRunner",
    "title": "Forward Deployed Engineer New Grad",
@@ -29,6 +37,14 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2027_JR2026276",
    "first_seen": "2026-10-07",
    "category": "Other"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA; Reston, VA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
   },
   {
    "company": "Ciena",
@@ -239,6 +255,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
+  },
+  {
    "company": "BMO",
    "title": "GenAI Software Developer",
    "location": "Calgary, AB, CAN",
@@ -395,14 +419,6 @@
    "title": "Software Engineer New Grad - Master’s - Bachelor’s + 2",
    "location": "Vancouver, BC, Canada",
    "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -2027,6 +2043,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
