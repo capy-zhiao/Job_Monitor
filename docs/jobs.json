@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-08 05:05 UTC",
- "count": 362,
+ "generated_at": "2026-10-08 12:03 UTC",
+ "count": 356,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -13,6 +13,14 @@
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist_R_1513259",
    "first_seen": "2026-10-08",
    "category": "Security"
+  },
+  {
+   "company": "Google",
+   "title": "Graphics Software Developer, Chrome",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/118958236995855046-graphics-software-developer-chrome",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
   },
   {
    "company": "Chalk",
@@ -99,14 +107,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CA, M5A 3X5",
    "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5A-3X5/606832617/",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Software Engineer, Web3 Backend",
-   "location": "Toronto, Canada",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -231,14 +231,6 @@
    "category": "SDE"
   },
   {
-   "company": "CVS Health",
-   "title": "Associate Software Development Engineer - Conversion",
-   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "BMO",
    "title": "Software Developer",
    "location": "Toronto, ON, CAN",
@@ -317,14 +309,6 @@
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
-  },
-  {
-   "company": "ID.me",
-   "title": "Software Engineer 2 New Grad - Developer Portal",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
@@ -423,14 +407,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD Bank",
-   "title": "Software Engineer 1",
-   "location": "Toronto, ON, Canada",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
    "company": "RoviSys",
    "title": "Software Engineer/Developer",
    "location": "Thousand Oaks, CA",
@@ -453,14 +429,6 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
    "first_seen": "2026-10-04",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Intune",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
   },
   {
    "company": "Microsoft",
@@ -701,14 +669,6 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
    "first_seen": "2026-10-01",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - CoreAI",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
   },
   {
    "company": "Lyft",
@@ -1011,14 +971,6 @@
    "title": "Software Engineer - Applied Emerging Talent",
    "location": "SF",
    "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Nexthop.ai",
-   "title": "Software Engineer New Grad - Hardware Diagnostics",
-   "location": "Santa Clara, CA",
-   "url": "https://nexthopai.bamboohr.com/careers/107/",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
