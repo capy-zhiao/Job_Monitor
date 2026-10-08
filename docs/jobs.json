@@ -1,11 +1,43 @@
 {
- "generated_at": "2026-10-07 23:51 UTC",
- "count": 364,
+ "generated_at": "2026-10-08 05:05 UTC",
+ "count": 362,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TD (Security)",
+   "title": "Information Security Specialist",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist_R_1513259",
+   "first_seen": "2026-10-08",
+   "category": "Security"
+  },
+  {
+   "company": "Chalk",
+   "title": "Software Engineer New Grad",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Software Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Software Engineer 1 New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
   {
    "company": "Visa",
    "title": "Software Engineer Operations and Infrastructure",
@@ -55,10 +87,10 @@
    "category": "SDE"
   },
   {
-   "company": "Snorkel AI",
+   "company": "Scotiabank",
    "title": "Software Engineer",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/606849817/",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -67,30 +99,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CA, M5A 3X5",
    "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5A-3X5/606832617/",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5H4A6",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H4A6/606840217/",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5H 1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/606845617/",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5H 1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/606849817/",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -231,14 +239,6 @@
    "category": "SDE"
   },
   {
-   "company": "CVS Health",
-   "title": "Associate Software Development Engineer - Conversion",
-   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056490",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "BMO",
    "title": "Software Developer",
    "location": "Toronto, ON, CAN",
@@ -283,14 +283,6 @@
    "title": "Software Engineer, Android, Level 4",
    "location": "Toronto, Canada",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer (Python/PL-SQL)",
-   "location": "Toronto, ON, CA, M5H4A6",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28PythonPL-SQL%29-ON-M5H4A6/600728617/",
    "first_seen": "2026-10-06",
    "category": "SDE"
   },
@@ -412,6 +404,14 @@
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200673477/software-engineer-apple-inc?team=SFTWR",
    "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
    "category": "SDE"
   },
   {
@@ -1231,14 +1231,6 @@
    "category": "Other"
   },
   {
-   "company": "Applied Materials",
-   "title": "Data Scientist New Grad - Bachelor's/Master's",
-   "location": "Austin, TX",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684",
-   "first_seen": "2026-09-28",
-   "category": "AI/ML"
-  },
-  {
    "company": "Anysphere",
    "title": "Software Engineer New Grad - 2027",
    "location": "SF; NYC",
@@ -1500,14 +1492,6 @@
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688",
    "first_seen": "2026-09-22",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "title": "Software Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1508757",
-   "first_seen": "2026-09-21",
    "category": "SDE"
   },
   {
@@ -1991,14 +1975,6 @@
    "category": "SDE"
   },
   {
-   "company": "Capital One",
-   "title": "Data Analyst New Grad - Data Analyst",
-   "location": "Toronto, ON, Canada",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Analyst---New-Grad--2027-Start_R999613-1",
-   "first_seen": "2026-09-08",
-   "category": "Other"
-  },
-  {
    "company": "AECOM",
    "title": "Electrical Engineer New Grad",
    "location": "Markham, ON, Canada",
@@ -2179,6 +2155,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
