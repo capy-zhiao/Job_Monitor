@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-08 12:03 UTC",
- "count": 356,
+ "generated_at": "2026-10-08 18:52 UTC",
+ "count": 354,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -15,10 +15,26 @@
    "category": "Security"
   },
   {
+   "company": "TD",
+   "title": "Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Mainframe-Engineer--TD-Securities_R_1501349-1",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
    "company": "Google",
    "title": "Graphics Software Developer, Chrome",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/118958236995855046-graphics-software-developer-chrome",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Ericsson",
+   "title": "Baseband software Developer",
+   "location": "Ottawa,Ontario,Canada",
+   "url": "https://jobs.ericsson.com/careers/job/563121775171898",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -103,10 +119,10 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5A 3X5",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5A-3X5/606832617/",
+   "company": "Robinhood",
+   "title": "Software Engineer, Web3 Backend",
+   "location": "Toronto, Canada",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -208,14 +224,6 @@
   },
   {
    "company": "Cisco (Security)",
-   "title": "Software Developer (Hybrid)",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--Hybrid-_2024460",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
@@ -227,14 +235,6 @@
    "title": "Signal and Power Integrity Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "BMO",
-   "title": "Software Developer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer_R260019384",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -435,14 +435,6 @@
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
    "first_seen": "2026-10-04",
    "category": "SDE"
   },
@@ -997,14 +989,6 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
    "first_seen": "2026-09-28",
    "category": "SDE"
-  },
-  {
-   "company": "ID.me",
-   "title": "Data Scientist New Grad",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003",
-   "first_seen": "2026-09-28",
-   "category": "AI/ML"
   },
   {
    "company": "General Motors",
