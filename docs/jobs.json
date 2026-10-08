@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-10-08 18:52 UTC",
- "count": 354,
+ "generated_at": "2026-10-08 23:41 UTC",
+ "count": 358,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Walmart",
+   "title": "Software Engineer 2 Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Sunnyvale_R-2630127",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7694352871949682997",
+   "first_seen": "2026-10-08",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Tailscale",
+   "title": "Software Engineer, AI Enablement ",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710703005",
+   "first_seen": "2026-10-08",
+   "category": "AI/ML"
+  },
   {
    "company": "TD (Security)",
    "title": "Information Security Specialist",
@@ -16,9 +40,33 @@
   },
   {
    "company": "TD",
+   "title": "Quality Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I_R_1501042-1",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "TD",
    "title": "Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Mainframe-Engineer--TD-Securities_R_1501349-1",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Microchip Technology",
+   "title": "Engineer 1 - Product/Test",
+   "location": "Austin, TX",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4288-26",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Konrad Group",
+   "title": "Mobile Developer Entry Level",
+   "location": "Toronto, ON, Canada",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=7976082003",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -35,6 +83,14 @@
    "title": "Baseband software Developer",
    "location": "Ottawa,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121775171898",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer I (Full Time) - Canada",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -59,6 +115,22 @@
    "title": "Software Engineer 1 New Grad",
    "location": "Santa Clara, CA",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "AMD",
+   "title": "Systems Design Engineer New Grad",
+   "location": "Markham, ON, Canada",
+   "url": "https://careers.amd.com/jobs/92338?icims=1",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "AMD",
+   "title": "Systems Design Engineer (New Grad)",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/92338",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -111,14 +183,6 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5H 1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/606849817/",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "Robinhood",
    "title": "Software Engineer, Web3 Backend",
    "location": "Toronto, Canada",
@@ -147,14 +211,6 @@
    "title": "Software Engineer New Grad - Front-End",
    "location": "Mountain View, CA",
    "url": "https://otter.ai/careers?gh_jid=8016078003",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "OpenText",
-   "title": "Software Developer",
-   "location": "Waterloo, Ontario, CAN, N2L 0A1",
-   "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53921EXTERNALENUS",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -855,14 +911,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Two Sigma",
-   "title": "Software Engineer",
-   "location": "NYC",
-   "url": "https://twosigma.avature.net/careers/JobDetail/14014",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Truveta",
    "title": "Software Engineer - Analytical Platform Services",
    "location": "Seattle, WA",
@@ -1051,14 +1099,6 @@
    "title": "Forward Deployed Engineer New Grad",
    "location": "NYC",
    "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Demiurge Studios",
-   "title": "Associate Software Engineer",
-   "location": "Remote in USA",
-   "url": "https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1511,6 +1551,14 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco (Security)",
+   "title": "Software Developer Embedded Systems I (Full Time) - Canada",
+   "location": "Kanata, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
+   "first_seen": "2026-09-16",
+   "category": "SDE"
+  },
+  {
    "company": "Zip",
    "title": "Software Engineer Intern (Winter 2027)",
    "location": "Toronto",
@@ -1895,26 +1943,10 @@
    "category": "SDE"
   },
   {
-   "company": "Trane Technologies",
-   "title": "Accelerated Development Program New Grad",
-   "location": "Montreal, QC, Canada; Minneapolis, MN; Davidson, NC",
-   "url": "https://careers.tranetechnologies.com/global/en/job/JR-7611",
-   "first_seen": "2026-09-08",
-   "category": "Other"
-  },
-  {
    "company": "Cerebras",
    "title": "Distributed Software Engineer",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
-   "first_seen": "2026-09-08",
-   "category": "SDE"
-  },
-  {
-   "company": "AECOM",
-   "title": "Electrical Engineer New Grad",
-   "location": "Markham, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000148322240",
    "first_seen": "2026-09-08",
    "category": "SDE"
   },
