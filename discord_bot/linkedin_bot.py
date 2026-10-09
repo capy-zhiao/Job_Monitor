@@ -154,6 +154,14 @@ async def on_ready():
     print("ready as %s in %d server(s)" % (client.user, len(client.guilds)), flush=True)
 
 
+@client.event
+async def on_guild_join(guild):
+    # on_ready only covers servers the bot was already in when it connected.
+    tree.copy_global_to(guild=guild)
+    await tree.sync(guild=guild)
+    print("joined %s, /linkedin registered" % guild.name, flush=True)
+
+
 def read_token():
     token = os.environ.get("LINKEDIN_BOT_TOKEN")
     if token:
