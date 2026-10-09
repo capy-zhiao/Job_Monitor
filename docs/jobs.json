@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09 03:06 UTC",
- "count": 355,
+ "generated_at": "2026-10-09 10:36 UTC",
+ "count": 351,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -36,14 +36,6 @@
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true",
    "first_seen": "2026-10-09",
-   "category": "SDE"
-  },
-  {
-   "company": "Walmart",
-   "title": "Software Engineer 2 Intern",
-   "location": "Sunnyvale, CA",
-   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Sunnyvale_R-2630127",
-   "first_seen": "2026-10-08",
    "category": "SDE"
   },
   {
@@ -583,14 +575,6 @@
    "category": "Security"
   },
   {
-   "company": "SeatGeek",
-   "title": "Data Analyst New Grad",
-   "location": "NYC",
-   "url": "https://seatgeek.com/jobs/8247550?gh_jid=8247550",
-   "first_seen": "2026-10-02",
-   "category": "Other"
-  },
-  {
    "company": "Pinterest",
    "title": "Master's University Graduate Data Scientist",
    "location": "Palo Alto, CA; Seattle, WA; SF; NYC",
@@ -667,14 +651,6 @@
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Clay",
-   "title": "Early Career Software Engineer",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -771,14 +747,6 @@
    "title": "Software Engineer Graduate",
    "location": "San Jose, CA",
    "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Autodesk",
-   "title": "Software Development Internship (Winter 2027)",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
    "first_seen": "2026-10-01",
    "category": "SDE"
   },
