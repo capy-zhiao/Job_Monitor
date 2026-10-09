@@ -4,3 +4,6 @@ __pycache__/
 *.log
 .venv/
 venv/
+
+# Local Discord bot (runs on the owner's Mac)
+discord_bot/.venv/

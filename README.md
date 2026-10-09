@@ -245,6 +245,15 @@ NEW badge for postings first seen in the last 48 hours. Discord stays the
 real-time channel; the page is the browsable full picture. A `first_seen.json`
 sidecar keeps stable discovery dates across runs.
 
+## On-demand LinkedIn search
+
+LinkedIn isn't one of the scheduled sources: it blocks datacenter IPs like
+GitHub's runners, and its terms don't allow automated scraping. Instead, a small
+Discord bot answers `/linkedin` in the alerts channel by searching LinkedIn on
+the spot from a home connection and posting the entry-level results the
+scheduled monitor isn't already reporting. It keeps no state and never writes to
+the repo. See [`discord_bot/`](discord_bot/README.md).
+
 ## How state works
 
 `seen.json` is a flat list of job identifiers. Ids are only ever added, so a

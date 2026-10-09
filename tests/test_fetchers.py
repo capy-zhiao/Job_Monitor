@@ -195,3 +195,23 @@ class GoogleTest(unittest.TestCase):
         self.assertEqual(job.title, "Software Developer II")
         self.assertEqual(job.location, "Waterloo, ON, Canada")
         self.assertEqual(job.url, "https://www.google.com/about/careers/applications/jobs/results/9001-software-developer-ii")
+
+
+class LinkedInParseTest(unittest.TestCase):
+    def test_parses_cards_and_skips_malformed_ones(self):
+        from jobmonitor import linkedin
+
+        body = (
+            '<li><div data-entity-urn="urn:li:jobPosting:111">'
+            '<h3 class="base-search-card__title">  Security Engineer &amp; AppSec </h3>'
+            '<h4 class="base-search-card__subtitle"><a href="x">Sentry</a></h4>'
+            '<span class="job-search-card__location">Toronto, Ontario, Canada</span></div></li>'
+            '<li><div data-entity-urn="urn:li:jobPosting:222">no title here</div></li>'
+        )
+        jobs = linkedin.parse_cards(body)
+        self.assertEqual(len(jobs), 1)
+        self.assertEqual(jobs[0].uid, "linkedin:111")
+        self.assertEqual(jobs[0].title, "Security Engineer & AppSec")
+        self.assertEqual(jobs[0].company, "Sentry")
+        self.assertEqual(jobs[0].location, "Toronto, Ontario, Canada")
+        self.assertEqual(jobs[0].url, "https://www.linkedin.com/jobs/view/111")
