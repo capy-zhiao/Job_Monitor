@@ -17,16 +17,17 @@ already seen, and pings me on Discord when a new one shows up.
 
 A job notifier I built to filter openings the way I want and get a Discord ping
 the moment something matches. It polls company career APIs on a schedule and only
-sends postings that are new and match my keywords and locations. No third-party
-dependencies; Python 3.8+ standard library only.
+sends postings that are new and match my keywords and locations. The monitor has no
+third-party dependencies; Python 3.8+ standard library only. A separate `/linkedin`
+Discord command searches LinkedIn on demand (see [below](#on-demand-linkedin-search)).
 
 **Live jobs page:** all currently-open matches, refreshed every ~15 minutes —
 [capy-zhiao.github.io/Job_Monitor](https://capy-zhiao.github.io/Job_Monitor/)
 
 Search across every source, filter by role category (Security / AI-ML / SDE /
 Research), country (Canada / US), work type (full-time / intern), city, and recency, and star /
-mark-applied any posting (kept in your browser). A stats strip and an "open roles over time" trend chart summarize the
-whole feed. Same data as the Discord alerts, browsable.
+mark-applied any posting (kept in your browser). A stats strip and an "open roles in Canada over time" trend chart
+summarize the whole feed. Same data as the Discord alerts, browsable.
 
 [![live jobs page](site.png)](https://capy-zhiao.github.io/Job_Monitor/)
 
@@ -252,7 +253,18 @@ GitHub's runners, and its terms don't allow automated scraping. Instead, a small
 Discord bot answers `/linkedin` in the alerts channel by searching LinkedIn on
 the spot from a home connection and posting the entry-level results the
 scheduled monitor isn't already reporting. It keeps no state and never writes to
-the repo. See [`discord_bot/`](discord_bot/README.md).
+the repo.
+
+```
+/linkedin                                   # preset security + new-grad SWE searches, Canada, last 7 days
+/linkedin keywords:"backend engineer"       # any search
+```
+
+![/linkedin results in Discord](discord_bot/linkedin.png)
+
+The reply header counts what was found: new results, ones the scheduled monitor
+already reports, and ones dropped as senior or posted by a staffing agency.
+Setup is in [`discord_bot/`](discord_bot/README.md).
 
 ## How state works
 

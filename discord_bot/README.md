@@ -5,6 +5,8 @@ searches LinkedIn's public job listings right then, drops senior titles and
 staffing agencies, skips anything the scheduled monitor already reports, and
 posts the rest in the channel.
 
+![/linkedin results in Discord](linkedin.png)
+
 ```
 /linkedin                                   # preset security + new-grad SWE searches, Canada, last 7 days
 /linkedin keywords:"backend engineer"       # your own search
