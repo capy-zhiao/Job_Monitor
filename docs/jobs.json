@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09 17:12 UTC",
- "count": 350,
+ "generated_at": "2026-10-09 21:43 UTC",
+ "count": 347,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -15,12 +15,20 @@
    "category": "SDE"
   },
   {
-   "company": "Snowflake",
-   "title": "Software Engineer - Customer Experience Engineering",
-   "location": "Menlo Park, CA",
-   "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true",
+   "company": "TD (Security)",
+   "title": "Information Security Specialist - Risk Management Transformation",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Risk-Management-Transformation_R_1513513",
    "first_seen": "2026-10-09",
-   "category": "SDE"
+   "category": "Security"
+  },
+  {
+   "company": "TD (Security)",
+   "title": "Information Security Analyst II - Asset Assessment & Governance",
+   "location": "2 Locations",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Analyst-II---Asset-Assessment---Governance_R_1512605",
+   "first_seen": "2026-10-09",
+   "category": "Security"
   },
   {
    "company": "Scotiabank",
@@ -253,14 +261,6 @@
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2027_JR2026276",
    "first_seen": "2026-10-07",
    "category": "Other"
-  },
-  {
-   "company": "Monolithic Power Systems",
-   "title": "Software Engineer - Building Automation",
-   "location": "San Jose, CA",
-   "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Software-Engineer--Building-Automation_R-2037",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
   },
   {
    "company": "Microsoft",
@@ -805,14 +805,6 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
    "first_seen": "2026-09-30",
    "category": "SDE"
-  },
-  {
-   "company": "EvenUp",
-   "title": "Software Engineer New Grad - AI Entities",
-   "location": "Toronto, ON, Canada; SF",
-   "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
-   "first_seen": "2026-09-30",
-   "category": "AI/ML"
   },
   {
    "company": "Ciena",
@@ -1951,14 +1943,6 @@
    "category": "SDE"
   },
   {
-   "company": "eBay",
-   "title": "Applied Researcher - Depop",
-   "location": "Toronto, Canada",
-   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/ML-Scientist---Machine-Learning-Engineer_R0076361",
-   "first_seen": "2026-09-01",
-   "category": "Research"
-  },
-  {
    "company": "Waabi",
    "title": "Software Engineer, Labelling, Data & Automation",
    "location": "Toronto, ON",
@@ -2091,14 +2075,6 @@
    "title": "Software Engineer II - Distributed Systems",
    "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Magnet Forensics",
-   "title": "Software Engineer, GKOS",
-   "location": "Canada",
-   "url": "https://jobs.lever.co/magnetforensics/8d402b0c-12b6-4114-bfc9-4ef95f4742e1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
