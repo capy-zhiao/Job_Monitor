@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09 10:36 UTC",
- "count": 351,
+ "generated_at": "2026-10-09 17:12 UTC",
+ "count": 350,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -29,6 +29,14 @@
    "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28C%2B%2B%29-ON-M5C2V9/600854117/",
    "first_seen": "2026-10-09",
    "category": "SDE"
+  },
+  {
+   "company": "LSEG",
+   "title": "Business New Grad - Data and Analytics",
+   "location": "NYC",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Business-Graduate-Programme--Data-and-Analytics-_R0123714-2",
+   "first_seen": "2026-10-09",
+   "category": "Other"
   },
   {
    "company": "Aurelian",
@@ -61,14 +69,6 @@
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist_R_1513259",
    "first_seen": "2026-10-08",
    "category": "Security"
-  },
-  {
-   "company": "TD",
-   "title": "Quality Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I_R_1501042-1",
-   "first_seen": "2026-10-08",
-   "category": "SDE"
   },
   {
    "company": "TD",
@@ -235,14 +235,6 @@
    "title": "Software Engineer New Grad - Front-End",
    "location": "Mountain View, CA",
    "url": "https://otter.ai/careers?gh_jid=8016078003",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Nordstrom",
-   "title": "Engineer 1",
-   "location": "Seattle, WA",
-   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -471,6 +463,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
+  },
+  {
    "company": "BMO",
    "title": "GenAI Software Developer",
    "location": "Calgary, AB, CAN",
@@ -639,18 +639,18 @@
    "category": "SDE"
   },
   {
-   "company": "Expedia Group",
-   "title": "Software Development Engineer 1",
-   "location": "Vancouver, BC, Canada",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
    "company": "CoStar Group",
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
+   "first_seen": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "title": "Associate, Software Engineer, New Grad Card Expansion",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
    "first_seen": "2026-10-02",
    "category": "SDE"
   },
@@ -1584,14 +1584,6 @@
   },
   {
    "company": "Lyft",
-   "title": "Software Engineer, Identity",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
    "title": "Software Engineer Intern, Test Automation (Summer 2027)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
@@ -2091,6 +2083,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -2691,14 +2691,6 @@
    "title": "Software Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cerebras",
-   "title": "Software Engineer, GPU Inference",
-   "location": "United States and Canada",
-   "url": "https://jobs.ashbyhq.com/cerebras/1c8cdbc4-bd74-46df-9645-bb910eaa7a37",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
