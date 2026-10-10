@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10 13:59 UTC",
- "count": 348,
+ "generated_at": "2026-10-10 18:27 UTC",
+ "count": 346,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -532,14 +532,6 @@
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200673477/software-engineer-apple-inc?team=SFTWR",
    "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
    "category": "SDE"
   },
   {
@@ -2083,14 +2075,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
