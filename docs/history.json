@@ -469,10 +469,10 @@
 },
 {
 "date": "2026-10-10",
-"total": 346,
-"ca": 251,
+"total": 348,
+"ca": 253,
 "by": {
-"SDE": 226,
+"SDE": 228,
 "Research": 38,
 "Security": 17,
 "Other": 18,
