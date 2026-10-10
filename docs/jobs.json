@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10 07:36 UTC",
- "count": 338,
+ "generated_at": "2026-10-10 13:59 UTC",
+ "count": 348,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -11,14 +11,6 @@
    "title": "Founding Software Engineer",
    "location": "Palo Alto, CA",
    "url": "https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f",
-   "first_seen": "2026-10-10",
-   "category": "SDE"
-  },
-  {
-   "company": "Triumph",
-   "title": "Software Engineer - Multiple Teams",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true",
    "first_seen": "2026-10-10",
    "category": "SDE"
   },
@@ -431,6 +423,14 @@
    "category": "SDE"
   },
   {
+   "company": "Snap",
+   "title": "Software Engineer, Android, Level 4",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
    "company": "Roku",
    "title": "Software Engineer - AI/UI",
    "location": "San Jose, CA",
@@ -485,14 +485,6 @@
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I-Graduate_1214995",
    "first_seen": "2026-10-06",
    "category": "SDE"
-  },
-  {
-   "company": "HCSC",
-   "title": "Early Careers New Grad - Analytics Development Program",
-   "location": "Remote in USA",
-   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520",
-   "first_seen": "2026-10-06",
-   "category": "Other"
   },
   {
    "company": "Google",
@@ -823,6 +815,14 @@
    "category": "SDE"
   },
   {
+   "company": "Autodesk",
+   "title": "Software Development Internship (Summer 2027)",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
    "company": "Amazon",
    "title": "Cloud Hardware Development Engineer 1 – Early Career",
    "location": "Austin, TX; Cupertino, CA",
@@ -925,6 +925,14 @@
    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer_REQ-2373",
    "first_seen": "2026-09-29",
    "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Hardware (PCBA) Design and Verification Intern (Winter 2027 - 4 Months)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
+   "first_seen": "2026-09-29",
+   "category": "Other"
   },
   {
    "company": "Applied Materials",
@@ -1239,6 +1247,14 @@
    "category": "AI/ML"
   },
   {
+   "company": "Ciena",
+   "title": "Hardware (PCBA) Design and Verification Intern (Winter 2027 - 4 months)",
+   "location": "Canada- Ottawa- 383 Terry Fox- Bldg C",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
+   "first_seen": "2026-09-25",
+   "category": "Other"
+  },
+  {
    "company": "Salesforce",
    "title": "Software Engineering LMTS",
    "location": "Canada - Vancouver",
@@ -1323,6 +1339,70 @@
    "title": "Software Developer",
    "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
    "url": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Test Tools & Automation Full Stack Software Engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Software Engineering, Optical Transport and IP Networking Intern",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "SVT/PV Engineer 1 - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Experienced Photonic Card Software Developer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Embedded software engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Embedded Software Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Embedded Software Developer (New Grad)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "AI Engineer Intern (Winter 2027)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-Engineer-Intern--Winter-2027-_R031667",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -1975,6 +2055,14 @@
    "category": "SDE"
   },
   {
+   "company": "Snap",
+   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
    "company": "Robinhood",
    "title": "Software Developer, Ops Platform and Fraud Investigations",
    "location": "Toronto, Canada",
@@ -2027,14 +2115,6 @@
    "title": "Software Engineer, Pricing - Price Orchestration",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8396751002?gh_jid=8396751002",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, Observability",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8716220002?gh_jid=8716220002",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
