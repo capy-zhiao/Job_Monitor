@@ -1,11 +1,75 @@
 {
- "generated_at": "2026-10-09 21:43 UTC",
- "count": 347,
+ "generated_at": "2026-10-10 01:19 UTC",
+ "count": 350,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Triumph",
+   "title": "Software Engineer - Multiple Teams",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "title": "Research Scientist New Grad - Conversational AI",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670685496821713205",
+   "first_seen": "2026-10-10",
+   "category": "Research"
+  },
+  {
+   "company": "Nordstrom",
+   "title": "Engineer 1 - Supply Chain",
+   "location": "Seattle, WA",
+   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Supply-Chain_R-885948",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Hardware Design Validation Engineer New Grad - Memory Subsystem",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027422",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
+  {
+   "company": "GlobalFoundries",
+   "title": "Software Engineer New Grad",
+   "location": "Austin, TX; Santa Clara, CA",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
+  {
+   "company": "CVS Health",
+   "title": "Associate Software Development Engineer - Conversion",
+   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056399",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
+  {
+   "company": "CIBC",
+   "title": "Software Development Engineer in Test",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Software-Development-Engineer-in-Test_2617661",
+   "first_seen": "2026-10-10",
+   "category": "SDE"
+  },
   {
    "company": "Uber",
    "title": "Graduate Software Engineer 2",
@@ -460,14 +524,6 @@
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200673477/software-engineer-apple-inc?team=SFTWR",
    "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
    "category": "SDE"
   },
   {
@@ -1043,22 +1099,6 @@
    "title": "Software Engineer",
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Domino Data Lab",
-   "title": "Software Engineer New Grad",
-   "location": "NYC",
-   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Domino Data Lab",
-   "title": "Forward Deployed Engineer New Grad",
-   "location": "NYC",
-   "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -1879,14 +1919,6 @@
    "category": "Research"
   },
   {
-   "company": "Atlassian",
-   "title": "Software Engineer New Grad - 2027 Graduate",
-   "location": "Burnaby, BC, Canada; Vancouver, BC, Canada; Richmond, BC, Canada",
-   "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job",
-   "first_seen": "2026-09-09",
-   "category": "SDE"
-  },
-  {
    "company": "Apple",
    "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
    "location": "Vancouver, Canada",
@@ -2067,14 +2099,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
