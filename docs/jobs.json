@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10 21:57 UTC",
- "count": 348,
+ "generated_at": "2026-10-11 00:46 UTC",
+ "count": 346,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -1015,14 +1015,6 @@
    "category": "SDE"
   },
   {
-   "company": "Rover",
-   "title": "Software Engineer - Recommendations",
-   "location": "Seattle, WA",
-   "url": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486/apply",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Remitly",
    "title": "AI Native Software Engineer",
    "location": "Seattle, WA",
@@ -1781,14 +1773,6 @@
    "url": "https://www.metacareers.com/jobs/1395718268613427",
    "first_seen": "2026-09-12",
    "category": "Research"
-  },
-  {
-   "company": "Capital One",
-   "title": "Data Scientist New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-   "first_seen": "2026-09-12",
-   "category": "AI/ML"
   },
   {
    "company": "Affirm",
