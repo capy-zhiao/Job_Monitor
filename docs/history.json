@@ -481,10 +481,10 @@
 },
 {
 "date": "2026-10-11",
-"total": 346,
-"ca": 252,
+"total": 344,
+"ca": 250,
 "by": {
-"SDE": 227,
+"SDE": 225,
 "Research": 38,
 "Security": 17,
 "Other": 18,
