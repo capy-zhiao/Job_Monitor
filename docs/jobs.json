@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12 08:03 UTC",
+ "generated_at": "2026-10-12 17:57 UTC",
  "count": 341,
  "stats": {
   "sources": 106,
@@ -19,6 +19,30 @@
    "title": "Software Engineer New Grad - DL Kernel Libraries",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+   "first_seen": "2026-10-12",
+   "category": "SDE"
+  },
+  {
+   "company": "Databricks",
+   "title": "Software Engineering Intern (2027)",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
+   "first_seen": "2026-10-12",
+   "category": "SDE"
+  },
+  {
+   "company": "Crown Innovations",
+   "title": "Systems Engineer 1",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144160949",
+   "first_seen": "2026-10-12",
+   "category": "SDE"
+  },
+  {
+   "company": "Crown Innovations",
+   "title": "R&D Engineer 1",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144158449",
    "first_seen": "2026-10-12",
    "category": "SDE"
   },
@@ -227,14 +251,6 @@
    "title": "Software Engineer New Grad",
    "location": "SF; NYC",
    "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true",
-   "first_seen": "2026-10-08",
-   "category": "SDE"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "Software Engineer New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -595,14 +611,6 @@
    "title": "Software Engineer - Simulation",
    "location": "Austin, TX; South SF",
    "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
-   "first_seen": "2026-10-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Intact",
-   "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
-   "location": "Montreal, QC, Canada; Toronto, ON, Canada",
-   "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
    "first_seen": "2026-10-03",
    "category": "SDE"
   },
@@ -1669,14 +1677,6 @@
    "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
    "first_seen": "2026-09-15",
    "category": "Research"
-  },
-  {
-   "company": "Google (Security)",
-   "title": "Security Consultant Intern, BS/MS, Summer 2027",
-   "location": "Toronto, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027",
-   "first_seen": "2026-09-15",
-   "category": "Security"
   },
   {
    "company": "Cohere",

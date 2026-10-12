@@ -494,11 +494,11 @@
 {
 "date": "2026-10-12",
 "total": 341,
-"ca": 249,
+"ca": 248,
 "by": {
-"SDE": 225,
+"SDE": 226,
 "Research": 37,
-"Security": 17,
+"Security": 16,
 "Other": 18,
 "AI/ML": 44
 }
