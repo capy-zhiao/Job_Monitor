@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-11 22:30 UTC",
- "count": 345,
+ "generated_at": "2026-10-12 01:41 UTC",
+ "count": 341,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "NVIDIA",
+   "title": "Software Engineer New Grad - DL Kernel Libraries",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+   "first_seen": "2026-10-12",
+   "category": "SDE"
+  },
   {
    "company": "Vigil Labs",
    "title": "Founding Software Engineer",
@@ -559,14 +567,6 @@
    "category": "SDE"
   },
   {
-   "company": "Pangram Labs",
-   "title": "Software Engineer - Customer Solutions",
-   "location": "NYC; Brooklyn, NY",
-   "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
    "company": "Microsoft",
    "title": "Software Engineering - Commercial Engineering & AI - Ceai",
    "location": "Redmond, WA",
@@ -595,14 +595,6 @@
    "title": "Software Engineer - Simulation",
    "location": "Austin, TX; South SF",
    "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
-   "first_seen": "2026-10-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Lightmatter",
-   "title": "Silicon Packaging Engineer Intern & New Grad",
-   "location": "Mountain View, CA",
-   "url": "https://boards.greenhouse.io/lightmatter/jobs/5422712008",
    "first_seen": "2026-10-03",
    "category": "SDE"
   },
@@ -1749,30 +1741,6 @@
    "url": "https://jobs.ericsson.com/careers/job/563121775279366",
    "first_seen": "2026-09-14",
    "category": "Other"
-  },
-  {
-   "company": "Qualcomm",
-   "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
-   "location": "Markham, ON, Canada",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
-   "first_seen": "2026-09-12",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Meta",
-   "title": "Research Engineer - AI",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.metacareers.com/jobs/1395718268613427",
-   "first_seen": "2026-09-12",
-   "category": "Research"
-  },
-  {
-   "company": "Affirm",
-   "title": "Software Engineer 1 - Frontend - Upfunnel",
-   "location": "Remote in Canada",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
-   "first_seen": "2026-09-12",
-   "category": "SDE"
   },
   {
    "company": "Waabi",
