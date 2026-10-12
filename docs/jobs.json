@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-12 01:41 UTC",
+ "generated_at": "2026-10-12 08:03 UTC",
  "count": 341,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer, (Cloud CICD Platforms)",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-%28Cloud-CICD-Platforms%29-ON-M5H-1H1/602664117/",
+   "first_seen": "2026-10-12",
+   "category": "SDE"
+  },
   {
    "company": "NVIDIA",
    "title": "Software Engineer New Grad - DL Kernel Libraries",
@@ -125,14 +133,6 @@
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Analyst-II---Asset-Assessment---Governance_R_1512605",
    "first_seen": "2026-10-09",
    "category": "Security"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer (C++)",
-   "location": "Toronto, ON, CA, M5C2V9",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28C%2B%2B%29-ON-M5C2V9/600854117/",
-   "first_seen": "2026-10-09",
-   "category": "SDE"
   },
   {
    "company": "LSEG",
