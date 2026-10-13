@@ -534,9 +534,85 @@ def _cell_text(cell):
     return html.unescape(re.sub(r"<[^>]+>", "", cell)).strip()
 
 
+def fetch_workable(source):
+    """Workable job boards (apply.workable.com/<account>), public widget feed.
+
+    source: account (the slug in the board URL)
+
+    The feed lists every published job in one response, one entry per location, so
+    entries are merged on the shortcode and their places joined with "; ". Remote
+    jobs get "Remote" added to the location.
+    """
+    account = source["account"]
+    data = http.get_json(f"https://apply.workable.com/api/v1/widget/accounts/{account}")
+    merged = {}
+    for j in data.get("jobs") or []:
+        code = j.get("shortcode")
+        if not code:
+            continue
+        entry = merged.setdefault(code, {"job": j, "places": []})
+        place = ", ".join(p for p in (j.get("city"), j.get("state"), j.get("country")) if p)
+        if place and place not in entry["places"]:
+            entry["places"].append(place)
+    jobs = []
+    for code, entry in merged.items():
+        j = entry["job"]
+        places = entry["places"]
+        if j.get("telecommuting"):
+            places = ["Remote"] + places
+        jobs.append(
+            Job(
+                uid=f"workable:{account}:{code}",
+                company=source.get("name", account),
+                title=j.get("title", ""),
+                location="; ".join(places),
+                url=f"https://apply.workable.com/{account}/j/{code}/",
+                employment_type=j.get("employment_type", ""),
+            )
+        )
+    return jobs
+
+
+def fetch_bamboohr(source):
+    """BambooHR career pages (<company>.bamboohr.com/careers), public JSON list.
+
+    source: company (the subdomain)
+
+    The location comes from two objects that are filled in differently from one
+    company to the next, so city, state and country are taken from both.
+    """
+    company = source["company"]
+    data = http.get_json(f"https://{company}.bamboohr.com/careers/list")
+    jobs = []
+    for j in data.get("result") or []:
+        if j.get("id") is None:
+            continue
+        parts = []
+        for place in (j.get("location") or {}, j.get("atsLocation") or {}):
+            for key in ("city", "state", "province", "country"):
+                value = place.get(key)
+                if value and value not in parts:
+                    parts.append(value)
+        if j.get("isRemote"):
+            parts.insert(0, "Remote")
+        jobs.append(
+            Job(
+                uid=f"bamboohr:{company}:{j['id']}",
+                company=source.get("name", company),
+                title=j.get("jobOpeningName", ""),
+                location=", ".join(parts),
+                url=f"https://{company}.bamboohr.com/careers/{j['id']}",
+                employment_type=j.get("employmentStatusLabel") or "",
+            )
+        )
+    return jobs
+
+
 FETCHERS = {
     "github_listings": fetch_github_listings,
     "github_tables": fetch_github_tables,
+    "workable": fetch_workable,
+    "bamboohr": fetch_bamboohr,
     "microsoft": fetch_microsoft,
     "apple": fetch_apple,
     "greenhouse": fetch_greenhouse,

@@ -20,6 +20,8 @@ CONFIG = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config.json")
 REQUIRED_KEYS = {
     "github_listings": ["urls"],
     "github_tables": ["urls"],
+    "workable": ["account"],
+    "bamboohr": ["company"],
     "microsoft": [],
     "apple": [],
     "greenhouse": ["board"],

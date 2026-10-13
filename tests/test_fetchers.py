@@ -297,3 +297,48 @@ class GithubTablesTest(unittest.TestCase):
                          ["Software Engineer New Grad", "Citizen Developer - Jr.", "Secret Management Engineer"])
         self.assertEqual(jobs[0].location, "Austin, TX")
 
+
+class WorkableTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.get_json")
+    def test_merges_one_entry_per_location(self, get_json):
+        base = {"title": "Developer", "shortcode": "AAA111", "employment_type": "Full-time", "telecommuting": False}
+        get_json.return_value = {"name": "Acme", "jobs": [
+            {**base, "city": "Toronto", "state": "Ontario", "country": "Canada"},
+            {**base, "city": "Montreal", "state": "Quebec", "country": "Canada"},
+            {**base, "city": "Toronto", "state": "Ontario", "country": "Canada"},  # repeated place
+            {"title": "Remote QA", "shortcode": "BBB222", "telecommuting": True,
+             "city": "", "state": "", "country": "Canada"},
+            {"title": "No code", "city": "Toronto"},
+        ]}
+        jobs = fetchers.fetch_workable({"account": "acme", "name": "Acme Inc"})
+        self.assertEqual(len(jobs), 2)
+        first, second = jobs
+        self.assertEqual(first.uid, "workable:acme:AAA111")
+        self.assertEqual(first.company, "Acme Inc")
+        self.assertEqual(first.location, "Toronto, Ontario, Canada; Montreal, Quebec, Canada")
+        self.assertEqual(first.url, "https://apply.workable.com/acme/j/AAA111/")
+        self.assertEqual(first.employment_type, "Full-time")
+        self.assertEqual(second.location, "Remote; Canada")
+
+
+class BambooHRTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.get_json")
+    def test_builds_location_from_both_objects(self, get_json):
+        get_json.return_value = {"result": [
+            {"id": "7", "jobOpeningName": "QA Analyst", "employmentStatusLabel": "Full-Time",
+             "location": {"city": "Vancouver", "state": "British Columbia"},
+             "atsLocation": {"country": None, "state": None, "province": None, "city": None}, "isRemote": None},
+            {"id": "8", "jobOpeningName": "Developer", "employmentStatusLabel": None,
+             "location": {"city": None, "state": None},
+             "atsLocation": {"country": "Canada", "state": "Quebec", "province": None, "city": "Quebec"}, "isRemote": True},
+            {"jobOpeningName": "No id"},
+        ]}
+        jobs = fetchers.fetch_bamboohr({"company": "acme"})
+        self.assertEqual(len(jobs), 2)
+        self.assertEqual(jobs[0].uid, "bamboohr:acme:7")
+        self.assertEqual(jobs[0].location, "Vancouver, British Columbia")
+        self.assertEqual(jobs[0].url, "https://acme.bamboohr.com/careers/7")
+        self.assertEqual(jobs[0].employment_type, "Full-Time")
+        self.assertEqual(jobs[1].location, "Remote, Quebec, Canada")
+        self.assertEqual(jobs[1].employment_type, "")
+
