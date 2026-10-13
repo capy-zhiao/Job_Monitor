@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13 14:58 UTC",
- "count": 356,
+ "generated_at": "2026-10-13 20:36 UTC",
+ "count": 350,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -71,14 +71,6 @@
    "category": "SDE"
   },
   {
-   "company": "Marigold",
-   "title": "Associate Software Engineer",
-   "location": "Remote in USA",
-   "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Liberty Mutual Canada",
    "title": "Associate Software Developer - Node.js & Python",
    "location": "Toronto, ON, Canada",
@@ -109,6 +101,14 @@
    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002",
    "first_seen": "2026-10-13",
    "category": "Research"
+  },
+  {
+   "company": "DoorDash Canada",
+   "title": "Software Engineering, Backend (All Teams)",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8131385",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
   },
   {
    "company": "Datacor",
@@ -487,14 +487,6 @@
    "category": "SDE"
   },
   {
-   "company": "Otter.ai",
-   "title": "Software Engineer New Grad - Front-End",
-   "location": "Mountain View, CA",
-   "url": "https://otter.ai/careers?gh_jid=8016078003",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "Nordstrom",
    "title": "Engineer 1",
    "location": "Seattle, WA",
@@ -855,14 +847,6 @@
    "category": "SDE"
   },
   {
-   "company": "Capital One",
-   "title": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
    "company": "Amazon",
    "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
    "location": "Seattle, WA; Jessup, MD; Arlington County, Arlington, VA; Denver, CO; Herndon, VA",
@@ -952,6 +936,14 @@
   },
   {
    "company": "Autodesk",
+   "title": "Software Development Internship (Winter 2027)",
+   "location": "Toronto, ON, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Autodesk",
    "title": "Software Development Internship (Summer 2027)",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
@@ -995,6 +987,14 @@
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
+   "first_seen": "2026-09-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "title": "Hardware Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -1456,14 +1456,6 @@
   },
   {
    "company": "Ciena",
-   "title": "Software Engineering, Optical Transport and IP Networking Intern",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
    "title": "SVT/PV Engineer 1 - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
@@ -1607,22 +1599,6 @@
    "category": "SDE"
   },
   {
-   "company": "DoorDash Canada",
-   "title": "Software Engineer, Backend",
-   "location": "Toronto, ON",
-   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/5704481",
-   "first_seen": "2026-09-17",
-   "category": "SDE"
-  },
-  {
-   "company": "DoorDash Canada",
-   "title": "Software Engineer — Notification Hub & Experience",
-   "location": "Toronto, ON",
-   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8174363",
-   "first_seen": "2026-09-17",
-   "category": "SDE"
-  },
-  {
    "company": "Cohere",
    "title": "Software Engineer, Security",
    "location": "Toronto",
@@ -1644,14 +1620,6 @@
    "location": "Kanata, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
    "first_seen": "2026-09-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Zip",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e",
-   "first_seen": "2026-09-15",
    "category": "SDE"
   },
   {
@@ -1904,14 +1872,6 @@
   },
   {
    "company": "Zip",
-   "title": "Software Engineer, New Grad (2027 Start)",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-   "first_seen": "2026-09-10",
-   "category": "SDE"
-  },
-  {
-   "company": "Zip",
    "title": "Software Engineer, Backend (All Levels)",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/zip/4f2ba8b4-144e-43c8-a83d-72ea40f70123",
@@ -1953,7 +1913,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - Physical AI",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-physical-ai",
    "first_seen": "2026-09-10",
    "category": "Research"
@@ -2289,7 +2249,7 @@
   {
    "company": "Huawei",
    "title": "Researcher – AI for Scientific Algorithm Discovery",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-for-scientific-algorithm-discovery",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
@@ -2329,7 +2289,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - Supercharging Converter",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-supercharging-converter-3",
    "first_seen": "2026-09-01",
    "category": "Research"
@@ -2345,7 +2305,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - Reinforcement Learning",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-reinforcement-learning-3",
    "first_seen": "2026-09-01",
    "category": "Research"
@@ -2369,7 +2329,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - Power System and Grid Interconnection",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-power-system-and-grid-interconnection-1",
    "first_seen": "2026-09-01",
    "category": "Research"
@@ -2377,7 +2337,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - LLMs",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-llms-2",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
@@ -2393,7 +2353,7 @@
   {
    "company": "Huawei",
    "title": "Researcher - Efficient Architecture for LLMs",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-efficient-architecture-for-llms",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
@@ -2465,7 +2425,7 @@
   {
    "company": "Huawei",
    "title": "Power System Analyst",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/power-system-analyst-1",
    "first_seen": "2026-09-01",
    "category": "Other"
@@ -2473,7 +2433,7 @@
   {
    "company": "Huawei",
    "title": "Power Communication Protocol Developer",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/power-communication-protocol-developer",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2481,7 +2441,7 @@
   {
    "company": "Huawei",
    "title": "Microgrid System Developer – Protection and Control",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/microgrid-system-developer-protection-and-control",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2489,7 +2449,7 @@
   {
    "company": "Huawei",
    "title": "Microgrid System Developer - Energy Management & Control",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/microgrid-system-developer-energy-management-control",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2497,7 +2457,7 @@
   {
    "company": "Huawei",
    "title": "Machine Learning Researcher -LLM Agents & Efficient Deep Learning",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/machine-learning-researcher-llm-agents-efficient-deep-learning",
    "first_seen": "2026-09-01",
    "category": "AI/ML"
@@ -2569,7 +2529,7 @@
   {
    "company": "Huawei",
    "title": "Developer - Power System Simulation Model",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/developer-power-system-simulation-model-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2593,7 +2553,7 @@
   {
    "company": "Huawei",
    "title": "AI Software Developer - Smart Grid",
-   "location": "Montreal, Quebec, Canada",
+   "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/ai-software-developer-smart-grid",
    "first_seen": "2026-09-01",
    "category": "SDE"
@@ -2677,14 +2637,6 @@
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817",
    "first_seen": "2026-09-01",
    "category": "Other"
-  },
-  {
-   "company": "Fortinet",
-   "title": "Full Stack Software Developer",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22399",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
   },
   {
    "company": "Fortinet",
