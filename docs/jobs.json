@@ -1,11 +1,115 @@
 {
- "generated_at": "2026-10-12 17:57 UTC",
- "count": 341,
+ "generated_at": "2026-10-13 00:23 UTC",
+ "count": 354,
  "stats": {
   "sources": 106,
   "ats": 21
  },
  "jobs": [
+  {
+   "company": "TriNet",
+   "title": "Software Engineer",
+   "location": "Remote in USA; Atlanta, GA",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Deep Learning Software Engineer New Grad - TensorRT Performance",
+   "location": "Remote in USA; Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
+   "first_seen": "2026-10-13",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineering",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Marigold",
+   "title": "Associate Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Duolingo",
+   "title": "AI Research Engineer New Grad",
+   "location": "Pittsburgh, PA; NYC",
+   "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
+   "first_seen": "2026-10-13",
+   "category": "Research"
+  },
+  {
+   "company": "Duolingo",
+   "title": "AI Research Engineer New Grad",
+   "location": "Pittsburgh, PA; NYC",
+   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002",
+   "first_seen": "2026-10-13",
+   "category": "Research"
+  },
+  {
+   "company": "Datacor",
+   "title": "Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer, Hybrid, Ottawa, Canada",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer--Hybrid--Ottawa--Canada_2025208-1",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "title": "Finance Intern - Technical Accounting & Treasury - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/75be57ce-1b7d-4e11-a105-69c1906ab320",
+   "first_seen": "2026-10-13",
+   "category": "Other"
+  },
+  {
+   "company": "1Password",
+   "title": "Finance Intern - Finance Operations - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/25a06bd3-2367-4cfc-8624-4c6d7c938459",
+   "first_seen": "2026-10-13",
+   "category": "Other"
+  },
+  {
+   "company": "1Password",
+   "title": "Finance Intern - Corporate Accounting & Tax - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/519a2f66-66ce-4903-9da9-56b8cf3aa4d8",
+   "first_seen": "2026-10-13",
+   "category": "Other"
+  },
+  {
+   "company": "1Password",
+   "title": "Data Intern  - Product Analytics - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48",
+   "first_seen": "2026-10-13",
+   "category": "Other"
+  },
   {
    "company": "Scotiabank",
    "title": "Software Engineer, (Cloud CICD Platforms)",
@@ -351,6 +455,14 @@
    "category": "SDE"
   },
   {
+   "company": "Nordstrom",
+   "title": "Engineer 1",
+   "location": "Seattle, WA",
+   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "NVIDIA",
    "title": "Systems Software Engineer - AI and Cloud",
    "location": "Santa Clara, CA",
@@ -487,20 +599,20 @@
    "category": "AI/ML"
   },
   {
+   "company": "ID.me",
+   "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "title": "Researcher – Web Agent",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-web-agent",
    "first_seen": "2026-10-06",
    "category": "Research"
-  },
-  {
-   "company": "Hewlett Packard Enterprise",
-   "title": "VLSI Engineer 2 New Grad",
-   "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-II-Graduate_1214955",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
   },
   {
    "company": "Hewlett Packard Enterprise",
@@ -829,14 +941,6 @@
    "url": "https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
    "first_seen": "2026-10-01",
    "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "title": "Applied Scientist - International Seller Services",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10566351/applied-scientist-international-seller-services",
-   "first_seen": "2026-10-01",
-   "category": "AI/ML"
   },
   {
    "company": "AMD",
