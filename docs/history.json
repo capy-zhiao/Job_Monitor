@@ -505,14 +505,14 @@
 },
 {
 "date": "2026-10-13",
-"total": 350,
-"ca": 251,
+"total": 693,
+"ca": 487,
 "by": {
-"SDE": 228,
-"Research": 40,
-"AI/ML": 44,
-"Other": 22,
-"Security": 16
+"Security": 27,
+"SDE": 529,
+"AI/ML": 65,
+"Other": 33,
+"Research": 39
 }
 }
 ]
