@@ -185,9 +185,11 @@ listings marked as requiring U.S. citizenship are dropped at the source, and
 Some lists publish only a markdown table. The `github_tables` type parses the
 `| Company | Position | Location | Posting | Age |` rows of
 [speedyapply/2027-SWE-College-Jobs](https://github.com/speedyapply/2027-SWE-College-Jobs)
-(`NEW_GRAD_INTL.md` and `INTERN_INTL.md`; its US lists are not subscribed). Rows that don't parse are
-skipped, and `max_age_days` is applied to the age column. Because the table has no
-sponsorship field, this source keeps the global Canada location filter.
+(`NEW_GRAD_INTL.md` and `INTERN_INTL.md`, filtered to Canada, plus `NEW_GRAD_USA.md`,
+filtered to the same US tech cities as the other list source). Rows that don't parse are
+skipped, as are roles that require a security clearance or U.S. citizenship, and
+`max_age_days` is applied to the age column. The tables have no sponsorship field, so
+unlike `github_listings` this source cannot drop U.S. roles that offer no sponsorship.
 
 Note the branch in each raw URL (Simplify uses `dev`, not `main`). If a list
 starts returning 404, check whether the repo moved the file or renamed its

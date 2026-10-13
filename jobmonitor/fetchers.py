@@ -481,8 +481,10 @@ def fetch_github_tables(source):
     source: urls (raw .md files), max_age_days (optional, default 30)
 
     Rows look like ``| Company | Position | Location | Posting | Age |`` with HTML
-    inside the cells and the age written as ``11d``. Rows that do not parse (other
-    cell counts, no apply link, no age) are skipped rather than failing the list.
+    inside the cells and the age written as ``11d``; some sections add a Salary
+    column before Posting. Rows that do not parse (other cell counts, no apply
+    link, no age) are skipped rather than failing the list, and so are roles that
+    require a security clearance or U.S. citizenship.
     The uid is the apply URL minus its fragment, so a repeat within or across
     files alerts once; the query string stays because some boards carry the job
     id there (``?gh_jid=...``).
@@ -494,12 +496,16 @@ def fetch_github_tables(source):
             if not line.startswith("| <a"):
                 continue
             cells = re.split(r"\s\|\s", line.strip().strip("|").strip())
+            if len(cells) == 6:  # a Salary column sits between Location and Posting
+                del cells[3]
             if len(cells) != 5:
                 continue
             company, title, location, posting, age = cells
             href = re.search(r'href="([^"]+)"', posting)
             days = re.fullmatch(r"(\d+)d", age.strip())
             if not href or not days or int(days.group(1)) > max_age:
+                continue
+            if _NEEDS_CLEARANCE.search(_cell_text(title)):
                 continue
             apply_url = html.unescape(href.group(1))
             key = apply_url.split("#")[0].rstrip("/")
@@ -516,6 +522,12 @@ def fetch_github_tables(source):
                 )
             )
     return jobs
+
+
+# Clearance and citizenship requirements in a position title. "Citizen Developer"
+# (a low-code role) is not one, so only "citizenship" is matched.
+_NEEDS_CLEARANCE = re.compile(
+    r"clearance|ts/sci|citizenship|polygraph|\bsecret\s*(?:-|required|or\b|$)", re.I)
 
 
 def _cell_text(cell):

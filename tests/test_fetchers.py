@@ -279,3 +279,21 @@ class GithubTablesTest(unittest.TestCase):
         self.assertEqual(fetchers.fetch_github_tables({"urls": ["u"]}), [])
         self.assertEqual(len(fetchers.fetch_github_tables({"urls": ["u"], "max_age_days": 60})), 1)
 
+    @mock.patch("jobmonitor.http.get_text")
+    def test_salary_column_and_clearance_roles(self, get_text):
+        def six(title, url):
+            return ('| <a href="https://example.com"><strong>Acme</strong></a> | %s | Austin, TX | $150k/yr | '
+                    '<a href="%s"><img src="x.png"/></a> | 2d |' % (title, url))
+        get_text.return_value = "\n".join([
+            six("Software Engineer New Grad", "https://example.com/j/1"),
+            six("Junior Developer - TS/SCI with Polygraph", "https://example.com/j/2"),
+            six("Cloud Analyst - Secret - 4495", "https://example.com/j/3"),
+            six("Security Engineer - U.S. Citizenship Required", "https://example.com/j/4"),
+            six("Citizen Developer - Jr.", "https://example.com/j/5"),
+            six("Secret Management Engineer", "https://example.com/j/6"),
+        ])
+        jobs = fetchers.fetch_github_tables({"urls": ["u"]})
+        self.assertEqual([j.title for j in jobs],
+                         ["Software Engineer New Grad", "Citizen Developer - Jr.", "Secret Management Engineer"])
+        self.assertEqual(jobs[0].location, "Austin, TX")
+

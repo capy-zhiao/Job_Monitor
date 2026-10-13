@@ -120,6 +120,47 @@
       "max_age_days": 30
     },
     {
+      "type": "github_tables",
+      "name": "SpeedyApply 2027 Lists (USA)",
+      "urls": [
+        "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md"
+      ],
+      "max_age_days": 30,
+      "locations": [
+        "canada",
+        "toronto",
+        "vancouver",
+        "montreal",
+        "montréal",
+        "ottawa",
+        "waterloo",
+        "kitchener",
+        "calgary",
+        "edmonton",
+        "mississauga",
+        "san francisco",
+        "sf",
+        "bay area",
+        "san jose",
+        "sunnyvale",
+        "mountain view",
+        "palo alto",
+        "menlo park",
+        "santa clara",
+        "cupertino",
+        "redwood city",
+        "san mateo",
+        "seattle",
+        "bellevue",
+        "redmond",
+        "kirkland",
+        "austin",
+        "new york",
+        "nyc",
+        "usa"
+      ]
+    },
+    {
       "type": "amazon",
       "name": "Amazon",
       "query": "software development engineer",
