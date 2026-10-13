@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13 07:00 UTC",
- "count": 355,
+ "generated_at": "2026-10-13 14:58 UTC",
+ "count": 356,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -63,10 +63,34 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
    "company": "Marigold",
    "title": "Associate Software Engineer",
    "location": "Remote in USA",
    "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Liberty Mutual Canada",
+   "title": "Associate Software Developer - Node.js & Python",
+   "location": "Toronto, ON, Canada",
+   "url": "https://apply.workable.com/liberty-mutual-canada/j/A60F74CB9D/apply",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "John Deere",
+   "title": "Software Engineer",
+   "location": "Waterloo, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483701899",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -163,14 +187,6 @@
    "title": "Systems Engineer 1",
    "location": "Mountain View, CA",
    "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144160949",
-   "first_seen": "2026-10-12",
-   "category": "SDE"
-  },
-  {
-   "company": "Crown Innovations",
-   "title": "R&D Engineer 1",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144158449",
    "first_seen": "2026-10-12",
    "category": "SDE"
   },
@@ -909,14 +925,6 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
    "first_seen": "2026-10-01",
    "category": "AI/ML"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, Planned Pricing",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8860779002?gh_jid=8860779002",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
   },
   {
    "company": "Google",
