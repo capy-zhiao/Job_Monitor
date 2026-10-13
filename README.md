@@ -48,6 +48,7 @@ summarize the whole feed. Same data as the Discord alerts, browsable.
 | `apple`     | `jobs.apple.com/api/v1/search`                               | Apple                                     |
 | `shopify`   | Shopify Careers page (HTML scrape)                           | Shopify                                   |
 | `github_listings` | `listings.json` from community new-grad list repos      | SimplifyJobs/New-Grad-Positions, vanshb03/New-Grad-2027 |
+| `github_tables` | markdown tables (no JSON) in community list repos       | speedyapply/2027-SWE-College-Jobs (international new-grad and internship lists) |
 | `successfactors` | `<host>/services/rss/job/` (jobs2web RSS)               | SAP                                       |
 | `icims`     | `<host>/api/jobs` (iCIMS Career Sites / Jibe)                | AMD                                       |
 | `oracle`    | Oracle Recruiting Cloud `recruitingCEJobRequisitions` REST   | Fortinet, Uber                            |
@@ -180,6 +181,13 @@ listings marked as requiring U.S. citizenship are dropped at the source, and
   "max_age_days": 30
 }
 ```
+
+Some lists publish only a markdown table. The `github_tables` type parses the
+`| Company | Position | Location | Posting | Age |` rows of
+[speedyapply/2027-SWE-College-Jobs](https://github.com/speedyapply/2027-SWE-College-Jobs)
+(`NEW_GRAD_INTL.md` and `INTERN_INTL.md`; its US lists are not subscribed). Rows that don't parse are
+skipped, and `max_age_days` is applied to the age column. Because the table has no
+sponsorship field, this source keeps the global Canada location filter.
 
 Note the branch in each raw URL (Simplify uses `dev`, not `main`). If a list
 starts returning 404, check whether the repo moved the file or renamed its

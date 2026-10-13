@@ -111,6 +111,15 @@
       "skip_no_sponsorship_outside_canada": true
     },
     {
+      "type": "github_tables",
+      "name": "SpeedyApply 2027 Lists (International)",
+      "urls": [
+        "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_INTL.md",
+        "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md"
+      ],
+      "max_age_days": 30
+    },
+    {
       "type": "amazon",
       "name": "Amazon",
       "query": "software development engineer",

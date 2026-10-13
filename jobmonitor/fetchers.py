@@ -4,6 +4,7 @@ Each fetcher takes a `source` config dict and returns a ``list[Job]``. New
 platforms are added by writing a function and registering it in ``FETCHERS``.
 """
 
+import html
 import re
 import time
 import urllib.parse
@@ -473,8 +474,57 @@ def fetch_github_listings(source):
     return jobs
 
 
+def fetch_github_tables(source):
+    """Community GitHub job lists that publish only a markdown table, no JSON
+    (speedyapply/2027-SWE-College-Jobs: NEW_GRAD_INTL.md, INTERN_INTL.md).
+
+    source: urls (raw .md files), max_age_days (optional, default 30)
+
+    Rows look like ``| Company | Position | Location | Posting | Age |`` with HTML
+    inside the cells and the age written as ``11d``. Rows that do not parse (other
+    cell counts, no apply link, no age) are skipped rather than failing the list.
+    The uid is the apply URL minus its fragment, so a repeat within or across
+    files alerts once; the query string stays because some boards carry the job
+    id there (``?gh_jid=...``).
+    """
+    max_age = source.get("max_age_days", 30)
+    jobs, seen_urls = [], set()
+    for url in source["urls"]:
+        for line in http.get_text(url).splitlines():
+            if not line.startswith("| <a"):
+                continue
+            cells = re.split(r"\s\|\s", line.strip().strip("|").strip())
+            if len(cells) != 5:
+                continue
+            company, title, location, posting, age = cells
+            href = re.search(r'href="([^"]+)"', posting)
+            days = re.fullmatch(r"(\d+)d", age.strip())
+            if not href or not days or int(days.group(1)) > max_age:
+                continue
+            apply_url = html.unescape(href.group(1))
+            key = apply_url.split("#")[0].rstrip("/")
+            if key in seen_urls:
+                continue
+            seen_urls.add(key)
+            jobs.append(
+                Job(
+                    uid=f"ghtable:{key}",
+                    company=_cell_text(company),
+                    title=_cell_text(title),
+                    location=_cell_text(location),
+                    url=apply_url,
+                )
+            )
+    return jobs
+
+
+def _cell_text(cell):
+    return html.unescape(re.sub(r"<[^>]+>", "", cell)).strip()
+
+
 FETCHERS = {
     "github_listings": fetch_github_listings,
+    "github_tables": fetch_github_tables,
     "microsoft": fetch_microsoft,
     "apple": fetch_apple,
     "greenhouse": fetch_greenhouse,

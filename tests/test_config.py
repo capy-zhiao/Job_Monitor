@@ -19,6 +19,7 @@ CONFIG = os.path.join(os.path.dirname(os.path.dirname(__file__)), "config.json")
 # test_required_keys_cover_every_fetcher forces an update when a fetcher is added.
 REQUIRED_KEYS = {
     "github_listings": ["urls"],
+    "github_tables": ["urls"],
     "microsoft": [],
     "apple": [],
     "greenhouse": ["board"],

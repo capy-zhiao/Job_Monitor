@@ -236,3 +236,46 @@ class LinkedInParseTest(unittest.TestCase):
         jobs, error = linkedin.search([("security", "Canada")], retry_wait=0)
         self.assertEqual(jobs, [])
         self.assertIn("429", error)
+
+
+class GithubTablesTest(unittest.TestCase):
+    ROW = ('| <a href="https://example.com"><strong>{company}</strong></a> | {title} | {location} | '
+           '<a href="{url}"><img src="https://i.imgur.com/x.png" alt="Apply" width="70"/></a> | {age} |')
+
+    def table(self, *rows):
+        head = "| Company | Position | Location | Posting | Age |\n|---|---|---|---|---|\n"
+        return head + "\n".join(rows)
+
+    @mock.patch("jobmonitor.http.get_text")
+    def test_parses_rows_and_skips_old_malformed_and_repeated(self, get_text):
+        good = self.ROW.format(company="Acme", title="Software Engineer &amp; Security",
+                               location="Toronto, Canada +1",
+                               url="https://example.com/jobs?gh_jid=42&amp;x=1#apply", age="3d")
+        old = self.ROW.format(company="Acme", title="Old", location="Toronto, Canada",
+                              url="https://example.com/jobs/old", age="45d")
+        no_age = self.ROW.format(company="Acme", title="No age", location="Toronto, Canada",
+                                 url="https://example.com/jobs/noage", age="new")
+        repeat = self.ROW.format(company="Acme", title="Same link again", location="Ottawa, Canada",
+                                 url="https://example.com/jobs?gh_jid=42&amp;x=1", age="5d")
+        four_cells = '| <a href="https://x.com"><strong>Acme</strong></a> | Title | Toronto | 3d |'
+        get_text.side_effect = [
+            self.table(good, old, no_age, four_cells, "not a table row"),
+            self.table(repeat),  # a second file repeating the same apply URL
+        ]
+        jobs = fetchers.fetch_github_tables({"urls": ["u1", "u2"]})
+        self.assertEqual(len(jobs), 1)
+        job = jobs[0]
+        self.assertEqual(job.uid, "ghtable:https://example.com/jobs?gh_jid=42&x=1")
+        self.assertEqual(job.company, "Acme")
+        self.assertEqual(job.title, "Software Engineer & Security")
+        self.assertEqual(job.location, "Toronto, Canada +1")
+        self.assertEqual(job.url, "https://example.com/jobs?gh_jid=42&x=1#apply")
+
+    @mock.patch("jobmonitor.http.get_text")
+    def test_max_age_days_is_configurable(self, get_text):
+        row = self.ROW.format(company="Acme", title="Dev", location="Toronto, Canada",
+                              url="https://example.com/j/1", age="45d")
+        get_text.return_value = self.table(row)
+        self.assertEqual(fetchers.fetch_github_tables({"urls": ["u"]}), [])
+        self.assertEqual(len(fetchers.fetch_github_tables({"urls": ["u"], "max_age_days": 60})), 1)
+
