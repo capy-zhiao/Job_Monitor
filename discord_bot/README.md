@@ -8,7 +8,7 @@ posts the rest in the channel.
 ![/linkedin results in Discord](linkedin.png)
 
 ```
-/linkedin                                   # preset security + new-grad SWE searches, Canada, last 7 days
+/linkedin                                   # 11 preset searches (security, software, research), Canada, last 24 hours, 3 pages each
 /linkedin keywords:"backend engineer"       # your own search
 /linkedin keywords:"security engineer" location:"Seattle, Washington, United States" days:14 days
 ```
@@ -21,6 +21,12 @@ a home connection, and it is deliberately separate from the scheduled monitor:
 it keeps no state and never writes to the repo, so the two can't conflict. It
 only reads the monitor's published `docs/jobs.json` to recognise jobs that are
 already being tracked.
+
+Requests go out 4 seconds apart, so the preset run (11 searches, 3 pages of 10
+results each) takes about two and a half minutes. If LinkedIn rate-limits one
+(HTTP 429), the bot waits 30 seconds and tries once more; if that fails too, it
+posts what it found so far with a warning. The preset list is `PRESET` and the
+page count is `PAGES` in `linkedin_bot.py`.
 
 The LinkedIn search itself lives in `jobmonitor/linkedin.py` (standard library
 only); this folder adds the Discord layer, which needs `discord.py`.

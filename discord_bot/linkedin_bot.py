@@ -26,11 +26,31 @@ from jobmonitor import http, linkedin  # noqa: E402
 TOKEN_FILE = os.path.expanduser("~/.config/linkedin-bot/token")
 LIVE_JOBS = "https://capy-zhiao.github.io/Job_Monitor/jobs.json"
 
+# LinkedIn pages hold 10 results; a search stops early when a page comes back short.
+PAGES = 3
+
+# Each page costs a LinkedIn request, and bursts get rate-limited, so keep the
+# list to searches that turn up entry-level roles. Tried and dropped: "junior
+# security" (security guards), "new grad 2027" (accounting, energy),
+# "cloud security engineer" (all senior), "research scientist" (biology, pharma,
+# postdocs), "applied scientist" (mostly bank data-scientist roles) and
+# "research scientist computer science" (data science and ML engineering, few
+# research roles).
 PRESET = [
+    # security
     "security engineer",
     "application security",
+    "product security",
+    "security analyst",
+    "cybersecurity new grad",
+    # software
     "software engineer new grad",
     "software engineer entry level",
+    "junior software developer",
+    "associate software engineer",
+    "backend engineer new grad",
+    # research
+    "security research",
 ]
 
 # Staffing agencies and job aggregators that re-post other companies' roles.
@@ -79,7 +99,7 @@ def tracked_keys():
 
 def run_search(keywords, location, days):
     queries = [(keywords, location)] if keywords else [(q, location) for q in PRESET]
-    jobs, error = linkedin.search(queries, days=days)
+    jobs, error = linkedin.search(queries, days=days, pages=PAGES)
     excludes, tracked = load_excludes(), tracked_keys()
     fresh, already, dropped = [], 0, 0
     for job in jobs:
@@ -99,9 +119,9 @@ tree = app_commands.CommandTree(client)
 
 @tree.command(name="linkedin", description="Search LinkedIn now and post entry-level matches")
 @app_commands.describe(
-    keywords="What to search for (default: security + software engineer presets)",
+    keywords="What to search for (default: 11 preset searches: security, software, research)",
     location="Where (default: Canada)",
-    days="Posted within",
+    days="Posted within (default: 24 hours)",
 )
 @app_commands.choices(days=[
     app_commands.Choice(name="24 hours", value=1),
@@ -117,15 +137,16 @@ async def linkedin_command(
 ):
     # Searching takes longer than Discord's 3-second reply window, so defer first.
     await interaction.response.defer(thinking=True)
-    window = days.value if days else 7
+    window = days.value if days else 1
     loop = asyncio.get_running_loop()
     queries, fresh, already, dropped, error = await loop.run_in_executor(
         None, run_search, keywords, location, window
     )
 
-    searched = ", ".join('"%s"' % q for q, _ in queries)
-    header = "🔎 LinkedIn · %s · %s · last %d day%s\n**%d new** · %d already tracked by Job Monitor · %d skipped (senior / agency)" % (
-        searched, location, window, "" if window == 1 else "s", len(fresh), already, dropped)
+    searched = '"%s"' % keywords if keywords else "%d preset searches (security, software, research)" % len(queries)
+    period = "24 hours" if window == 1 else "%d days" % window
+    header = "🔎 LinkedIn · %s · %s · last %s\n**%d new** · %d already tracked by Job Monitor · %d skipped (senior / agency)" % (
+        searched, location, period, len(fresh), already, dropped)
     if error:
         header += "\n⚠️ %s — showing what came back before that." % error
     if not fresh:

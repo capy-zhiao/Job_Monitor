@@ -256,7 +256,7 @@ scheduled monitor isn't already reporting. It keeps no state and never writes to
 the repo.
 
 ```
-/linkedin                                   # preset security + new-grad SWE searches, Canada, last 7 days
+/linkedin                                   # 11 preset searches (security, software, research), Canada, last 24 hours, 3 pages each
 /linkedin keywords:"backend engineer"       # any search
 ```
 

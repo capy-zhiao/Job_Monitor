@@ -45,11 +45,23 @@ def parse_cards(body):
     return jobs
 
 
-def search(queries, days=7, pages=1, delay=3.0):
+def _fetch(url, retry_wait):
+    # LinkedIn answers bursts with 429; one pause and retry usually gets through.
+    try:
+        return http.get_text(url)
+    except urllib.error.HTTPError as exc:
+        if exc.code != 429 or retry_wait is None:
+            raise
+    time.sleep(retry_wait)
+    return http.get_text(url)
+
+
+def search(queries, days=7, pages=1, delay=4.0, retry_wait=30.0):
     """Run (keywords, location) searches and return (jobs, error).
 
-    Jobs are de-duplicated across queries. If LinkedIn starts refusing requests,
-    the searches stop early and the partial results come back with the error.
+    Jobs are de-duplicated across queries. A rate-limited request is retried
+    once after retry_wait seconds; if LinkedIn keeps refusing, the searches stop
+    early and the partial results come back with the error.
     """
     jobs, seen = [], set()
     first = True
@@ -65,7 +77,7 @@ def search(queries, days=7, pages=1, delay=3.0):
                 "start": str(page * PAGE_SIZE),
             }
             try:
-                body = http.get_text(SEARCH_URL + "?" + urllib.parse.urlencode(params))
+                body = _fetch(SEARCH_URL + "?" + urllib.parse.urlencode(params), retry_wait)
             except urllib.error.HTTPError as exc:
                 return jobs, "LinkedIn refused the request (HTTP %d)" % exc.code
             except urllib.error.URLError as exc:

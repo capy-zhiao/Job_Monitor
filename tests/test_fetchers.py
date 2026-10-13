@@ -215,3 +215,24 @@ class LinkedInParseTest(unittest.TestCase):
         self.assertEqual(jobs[0].company, "Sentry")
         self.assertEqual(jobs[0].location, "Toronto, Ontario, Canada")
         self.assertEqual(jobs[0].url, "https://www.linkedin.com/jobs/view/111")
+
+    @mock.patch("jobmonitor.http.get_text")
+    def test_retries_once_when_rate_limited(self, get_text):
+        import urllib.error
+        from jobmonitor import linkedin
+
+        limited = urllib.error.HTTPError("u", 429, "Too Many Requests", {}, None)
+        card = (
+            '<div data-entity-urn="urn:li:jobPosting:1">'
+            '<h3 class="base-search-card__title">Security Engineer</h3>'
+            '<h4 class="base-search-card__subtitle">Sentry</h4></div>'
+        )
+        get_text.side_effect = [limited, card]
+        jobs, error = linkedin.search([("security", "Canada")], retry_wait=0)
+        self.assertIsNone(error)
+        self.assertEqual([j.uid for j in jobs], ["linkedin:1"])
+
+        get_text.side_effect = [limited, limited]
+        jobs, error = linkedin.search([("security", "Canada")], retry_wait=0)
+        self.assertEqual(jobs, [])
+        self.assertIn("429", error)
