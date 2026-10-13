@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13 00:23 UTC",
- "count": 354,
+ "generated_at": "2026-10-13 07:00 UTC",
+ "count": 355,
  "stats": {
   "sources": 106,
   "ats": 21
@@ -11,6 +11,30 @@
    "title": "Software Engineer",
    "location": "Remote in USA; Atlanta, GA",
    "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "title": "Research Scientist New Grad",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7695927144126253317",
+   "first_seen": "2026-10-13",
+   "category": "Research"
+  },
+  {
+   "company": "Snowflake",
+   "title": "AI Software Engineer",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://jobs.ashbyhq.com/snowflake/628f36e0-8554-4d5f-8d5e-a017a761ca54",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Netic",
+   "title": "Software Engineer - Gap Year",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application?embed=true",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -523,14 +547,6 @@
    "title": "Signal and Power Integrity Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Apple",
-   "title": "Software Engineer - Siri User Experiences",
-   "location": "Cupertino, CA",
-   "url": "https://jobs.apple.com/en-us/details/200687375",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
@@ -1059,14 +1075,6 @@
    "title": "Software Engineer - Analytical Platform Services",
    "location": "Seattle, WA",
    "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Together AI",
-   "title": "Software Engineer New Grad",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
