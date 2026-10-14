@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14 18:57 UTC",
- "count": 720,
+ "generated_at": "2026-10-14 22:09 UTC",
+ "count": 717,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -21,6 +21,14 @@
    "url": "https://ats.rippling.com/nesto/jobs/d9d5eb6d-68f2-4873-a9ea-010241a9099f",
    "first_seen": "2026-10-14",
    "category": "Other"
+  },
+  {
+   "company": "VersaPay",
+   "title": "Salesforce Developer",
+   "location": "Canada (Remote)",
+   "url": "https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
   },
   {
    "company": "VAST Data",
@@ -81,16 +89,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -3385,14 +3393,6 @@
   {
    "company": "Microsoft",
    "title": "Software Engineer",
-   "location": "Remote in USA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027422",
-   "first_seen": "2026-10-10",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557037774",
    "first_seen": "2026-10-10",
@@ -3789,14 +3789,6 @@
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
   },
   {
    "company": "BMO",
@@ -4392,7 +4384,7 @@
   },
   {
    "company": "Lyft",
-   "title": "Content Systems Intern (Summer 2027)",
+   "title": "Content Design Intern (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
    "first_seen": "2026-09-24",
@@ -4783,14 +4775,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Nexthop.ai",
-   "title": "Software Engineer New Grad",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://nexthopai.bamboohr.com/careers/62/",
-   "first_seen": "2026-09-14",
-   "category": "SDE"
-  },
-  {
    "company": "Ericsson",
    "title": "Services Professional (Early Career)",
    "location": "Toronto,Ontario,Canada",
@@ -5075,14 +5059,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
