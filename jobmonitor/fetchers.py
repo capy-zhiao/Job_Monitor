@@ -613,12 +613,13 @@ def fetch_rippling(source):
 
     source: board (the slug in the board URL)
 
-    The v2 endpoint pages its results and reports totalPages. Each job lists one
-    or more locations with a country, and remote ones carry workplaceType REMOTE,
-    so the location is built from all of them.
+    The v2 endpoint pages its results and reports totalPages. A job posted in
+    several places comes back once per location under the same id, so entries
+    are merged on the id and their places joined with "; ". Remote locations
+    carry workplaceType REMOTE and get "Remote" added unless the name says it.
     """
     board = source["board"]
-    jobs, page = [], 0
+    merged, page = {}, 0
     while page < 50:
         data = http.get_json(
             f"https://ats.rippling.com/api/v2/board/{board}/jobs?page={page}&pageSize=100"
@@ -627,28 +628,28 @@ def fetch_rippling(source):
         for j in items:
             if not j.get("id"):
                 continue
-            places = []
+            entry = merged.setdefault(j["id"], {"job": j, "places": []})
             for loc in j.get("locations") or []:
                 name = (loc.get("name") or "").strip()
                 country = loc.get("country") or ""
                 place = name if not country or country.lower() in name.lower() else ", ".join(p for p in (name, country) if p)
                 if loc.get("workplaceType") == "REMOTE" and "remote" not in place.lower():
                     place = "Remote, " + place if place else "Remote"
-                if place and place not in places:
-                    places.append(place)
-            jobs.append(
-                Job(
-                    uid=f"rippling:{board}:{j['id']}",
-                    company=source.get("name", board),
-                    title=(j.get("name") or "").strip(),
-                    location="; ".join(places),
-                    url=j.get("url") or f"https://ats.rippling.com/{board}/jobs/{j['id']}",
-                )
-            )
+                if place and place not in entry["places"]:
+                    entry["places"].append(place)
         page += 1
         if not items or page >= (data.get("totalPages") or 1):
             break
-    return jobs
+    return [
+        Job(
+            uid=f"rippling:{board}:{job_id}",
+            company=source.get("name", board),
+            title=(entry["job"].get("name") or "").strip(),
+            location="; ".join(entry["places"]),
+            url=entry["job"].get("url") or f"https://ats.rippling.com/{board}/jobs/{job_id}",
+        )
+        for job_id, entry in merged.items()
+    ]
 
 
 FETCHERS = {

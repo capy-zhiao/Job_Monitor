@@ -356,13 +356,16 @@ class RipplingTest(unittest.TestCase):
             ]},
             {"page": 1, "totalPages": 2, "items": [
                 {"id": "b2", "name": "QA Analyst", "locations": []},
+                # the same job again for another location (Rippling repeats it per place)
+                {"id": "a1", "name": "Software Developer ",
+                 "locations": [{"name": "Montreal, QC", "country": "Canada", "workplaceType": "ON_SITE"}]},
             ]},
         ]
         jobs = fetchers.fetch_rippling({"board": "acme", "name": "Acme"})
         self.assertEqual(get_json.call_count, 2)
         self.assertEqual([j.uid for j in jobs], ["rippling:acme:a1", "rippling:acme:b2"])
         self.assertEqual(jobs[0].title, "Software Developer")
-        self.assertEqual(jobs[0].location, "Toronto, ON, Canada; Remote, Canada; Remote (Canada)")
+        self.assertEqual(jobs[0].location, "Toronto, ON, Canada; Remote, Canada; Remote (Canada); Montreal, QC, Canada")
         self.assertEqual(jobs[1].url, "https://ats.rippling.com/acme/jobs/b2")
         self.assertEqual(jobs[1].location, "")
 
