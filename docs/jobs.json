@@ -1,11 +1,59 @@
 {
- "generated_at": "2026-10-13 23:57 UTC",
- "count": 693,
+ "generated_at": "2026-10-14 04:13 UTC",
+ "count": 692,
  "stats": {
   "sources": 149,
   "ats": 24
  },
  "jobs": [
+  {
+   "company": "NVIDIA",
+   "title": "SoC Software Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "SoC Software Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "SRAM Circuit Design Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Low Power ASIC Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "ASIC Verification Engineer New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Meta",
+   "title": "ASIC Engineer New Grad - Design",
+   "location": "Austin, TX",
+   "url": "https://www.metacareers.com/jobs/1084023187741651",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
   {
    "company": "rubrik",
    "title": "Software Engineer - Product Platform Security",
@@ -2975,14 +3023,6 @@
    "category": "Research"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer, Global Payments Technology",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-ON-M1L4S2/603523017/",
-   "first_seen": "2026-10-10",
-   "category": "SDE"
-  },
-  {
    "company": "Nordstrom",
    "title": "Engineer 1 - Supply Chain",
    "location": "Seattle, WA",
@@ -3035,14 +3075,6 @@
    "title": "Software Engineer New Grad",
    "location": "Austin, TX; Santa Clara, CA",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
-   "first_seen": "2026-10-10",
-   "category": "SDE"
-  },
-  {
-   "company": "CIBC",
-   "title": "Software Development Engineer in Test",
-   "location": "Toronto, ON",
-   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Software-Development-Engineer-in-Test_2617661",
    "first_seen": "2026-10-10",
    "category": "SDE"
   },
@@ -3115,14 +3147,6 @@
    "title": "Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Senior-Mainframe-Engineer--TD-Securities_R_1501349-1",
-   "first_seen": "2026-10-08",
-   "category": "SDE"
-  },
-  {
-   "company": "Microchip Technology",
-   "title": "Engineer 1 - Product/Test",
-   "location": "Austin, TX",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4288-26",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -3688,14 +3712,6 @@
   },
   {
    "company": "Autodesk",
-   "title": "Software Development Internship (Winter 2027)",
-   "location": "Toronto, ON, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Autodesk",
    "title": "Software Development Internship (Summer 2027)",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
@@ -3768,11 +3784,11 @@
   },
   {
    "company": "Snowflake",
-   "title": "Software Engineer, Notebooks",
+   "title": "Software Engineer, AI Native Authoring",
    "location": "Toronto, Ontario, Canada",
    "url": "https://jobs.ashbyhq.com/snowflake/ea0df7ad-11c5-41e6-8789-1af6068fc8f6",
    "first_seen": "2026-09-29",
-   "category": "SDE"
+   "category": "AI/ML"
   },
   {
    "company": "Lyft",
@@ -3859,14 +3875,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, Canada",
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Silicon Laboratories",
-   "title": "Software Engineer 1 - RAIL team",
-   "location": "Austin, TX",
-   "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -4045,22 +4053,6 @@
    "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
    "first_seen": "2026-09-28",
    "category": "AI/ML"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "Product Line Management New Grad - Master's",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412",
-   "first_seen": "2026-09-28",
-   "category": "Other"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "Logistics Automation New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Logistics-Automation-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627714",
-   "first_seen": "2026-09-28",
-   "category": "Other"
   },
   {
    "company": "Analog Devices",
