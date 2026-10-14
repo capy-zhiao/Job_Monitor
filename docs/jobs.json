@@ -1,11 +1,91 @@
 {
- "generated_at": "2026-10-14 09:34 UTC",
- "count": 685,
+ "generated_at": "2026-10-14 14:42 UTC",
+ "count": 709,
  "stats": {
-  "sources": 149,
-  "ats": 24
+  "sources": 168,
+  "ats": 27
  },
  "jobs": [
+  {
+   "company": "nesto",
+   "title": "Salesforce QA Automation Developer",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/nesto/jobs/68c984e2-047a-47e1-9cc6-96405598e6d0",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "nesto",
+   "title": "Développeur en automatisation QA Salesforce",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/nesto/jobs/d9d5eb6d-68f2-4873-a9ea-010241a9099f",
+   "first_seen": "2026-10-14",
+   "category": "Other"
+  },
+  {
+   "company": "Ubisoft",
+   "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155516219",
+   "first_seen": "2026-10-14",
+   "category": "Other"
+  },
+  {
+   "company": "Stripe",
+   "title": "Backend Engineer, Payments & Risk",
+   "location": "Toronto, Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=8260985",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Stripe",
+   "title": "Backend Engineer, Developer SDKs",
+   "location": "Toronto, NY, SEA, SF",
+   "url": "https://stripe.com/jobs/search?gh_jid=7557899",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Stripe",
+   "title": "Backend Engineer, Developer & End-user Experience Platform",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Stripe",
+   "title": "Backend Engineer, Developer & End-user Experience Platform",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "StackAdapt",
+   "title": "Machine Learning Engineer ",
+   "location": "Alberta, Canada; British Columbia; Calgary, Alberta, Canada; California; New York; Ontario; Seattle; Toronto; Vancouver; Washington",
+   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4018063009",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
+  },
+  {
+   "company": "StackAdapt",
+   "title": "Applied Machine Learning Scientist (Remote)",
+   "location": "Alberta, Canada; British Columbia; Calgary, Alberta, Canada; California; New York; Ontario; Oregon; Seattle; Texas; Toronto; Vancouver; Washington",
+   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4018038009",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Snap Finance",
+   "title": "BackEnd Engineer",
+   "location": "Arizona, USA",
+   "url": "https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
   {
    "company": "Semtech",
    "title": "Associate Engineer - Software Engineering",
@@ -13,6 +93,38 @@
    "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652",
    "first_seen": "2026-10-14",
    "category": "SDE"
+  },
+  {
+   "company": "PureFacts Financial Solutions",
+   "title": "AI Engineer",
+   "location": "Toronto, Canada",
+   "url": "https://ats.rippling.com/purefacts_jobs/jobs/0981ef32-a247-46e9-923b-a7355e681f08",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Power TakeOff",
+   "title": "Energy Efficiency Engineer I",
+   "location": "Remote (United States); Remote (Canada)",
+   "url": "https://ats.rippling.com/power-takeoff-careers/jobs/6fb2cf1a-90d9-4c9a-b786-df97bf7f1c1a",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Nesto Cloud",
+   "title": "Salesforce QA Automation Developer",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/nestocloud/jobs/9388bd1a-115d-4b2d-ac37-f352dd332c90",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Nesto Cloud",
+   "title": "Développeur en automatisation QA Salesforce",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/nestocloud/jobs/77b7a7a2-d3f4-4f16-a27e-343a7e82b163",
+   "first_seen": "2026-10-14",
+   "category": "Other"
   },
   {
    "company": "NVIDIA",
@@ -63,12 +175,156 @@
    "category": "SDE"
   },
   {
+   "company": "Kinaxis",
+   "title": "Software Architect, Core Engine",
+   "location": "CA-Remote, Canada; US-Remote",
+   "url": "https://careers-kinaxis.icims.com/jobs/34510/software-architect%2c-core-engine/job",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Kinaxis",
+   "title": "Machine Learning/Operations Research Platform Engineer",
+   "location": "CA-Remote, Canada; US-Remote",
+   "url": "https://careers-kinaxis.icims.com/jobs/35025/machine-learning-operations-research-platform-engineer/job",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Kinaxis",
+   "title": "Intern Developer, Back End Technologies",
+   "location": "CA-ON-Ottawa, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Kinaxis",
+   "title": "Intern Developer, AI Solutions",
+   "location": "CA-ON-Ottawa, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Kinaxis",
+   "title": "Curriculum Developer - 12 Month Contract",
+   "location": "CA-Remote, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35306/curriculum-developer---12-month-contract/job",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Kinaxis",
+   "title": "Cloud Engineer 2, Site Reliability Engineering",
+   "location": "CA-ON-Ottawa, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-2%2c-site-reliability-engineering/job",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "title": "Life Cycle Material Engineering Specialist",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142898171",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "title": "Junior Hardware Engineering Developer ",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142894435",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Gaiia",
+   "title": "Workflow Automation Engineer",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/gaiias-open-positions/jobs/28b73815-4918-470b-a14d-290e9096c0da",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Gaiia",
+   "title": "Forward Deployed Engineer - Migration",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/gaiias-open-positions/jobs/5a241110-5289-4d81-86f0-95b09ccddd43",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Gaiia",
+   "title": "Forward Deployed Engineer (FDE)",
+   "location": "Remote (United States); Remote (Canada)",
+   "url": "https://ats.rippling.com/gaiias-open-positions/jobs/56e20470-0648-4e6a-a2c4-acf907196110",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Gaiia",
+   "title": "Data Migration Engineer",
+   "location": "Remote (Canada)",
+   "url": "https://ats.rippling.com/gaiias-open-positions/jobs/51defed6-74aa-4a44-aa18-c4e22e09a756",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "D-Wave Quantum",
+   "title": "Software Developer II (One year fixed-term position) [611]",
+   "location": "Burnaby, Canada; Hybrid (Burnaby, CA), Canada",
+   "url": "https://ats.rippling.com/d-wave-quantum/jobs/c51f0802-e998-44d7-b476-be03b12db254",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "D-Wave Quantum",
+   "title": "Scientific Software Developer II [634]",
+   "location": "Burnaby, Canada; Hybrid (Burnaby, British Columbia, CA), Canada",
+   "url": "https://ats.rippling.com/d-wave-quantum/jobs/8656156a-ac51-41ce-8940-8d04cb781e2e",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Coinbase",
+   "title": "Product Security Engineer",
+   "location": "Remote - Canada",
+   "url": "https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
+   "company": "Cohere",
+   "title": "Product Security Engineer, North Security",
+   "location": "Toronto",
+   "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
    "company": "Autodesk",
    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
    "location": "Montreal, QC, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
    "first_seen": "2026-10-14",
    "category": "SDE"
+  },
+  {
+   "company": "Asana",
+   "title": "Product Security Engineer",
+   "location": "Vancouver, BC",
+   "url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
+   "company": "Absolute Security",
+   "title": "IT Support Analyst",
+   "location": "Vancouver, British Columbia",
+   "url": "https://jobs.jobvite.com/absolute/job/ox0NAfwE",
+   "first_seen": "2026-10-14",
+   "category": "Other"
   },
   {
    "company": "rubrik",
@@ -483,14 +739,6 @@
    "title": "Software Engineer - Early Career — Immediate Start",
    "location": "San Francisco, CA",
    "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "StackAdapt",
-   "title": "Quality Engineer",
-   "location": "Canada; Ontario; Vancouver",
-   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4178654009",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -1295,14 +1543,6 @@
    "category": "SDE"
   },
   {
-   "company": "Magical",
-   "title": "AI Forward Deployed Engineer",
-   "location": "Toronto",
-   "url": "https://jobs.ashbyhq.com/magical/55801f62-d42b-4c68-87ba-01c483ba4459",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "MGM Resorts",
    "title": "Digital Software Engineer Associate",
    "location": "Nevada, USA",
@@ -2000,22 +2240,6 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
-   "title": "Junior GUI Design - Human Factors Engineering",
-   "location": "Calgary, AB, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000143846145",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "title": "Junior GUI Design - Human Factors Engineering",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000143847781",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
    "title": "Cybersecurity Engineer (System Engineering) - Multiple level ",
    "location": "Calgary, AB, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000150776994",
@@ -2467,14 +2691,6 @@
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco (Security)",
-   "title": "Software Developer, Hybrid, Ottawa, Canada",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer--Hybrid--Ottawa--Canada_2025208-1",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3247,14 +3463,6 @@
    "category": "Security"
   },
   {
-   "company": "TD (Security)",
-   "title": "Information Security Analyst (Detection Engineer)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Analyst--Detection-Engineer-_R_1513985",
-   "first_seen": "2026-10-07",
-   "category": "Security"
-  },
-  {
    "company": "SpruceID",
    "title": "Full-Stack Software Engineer New Grad",
    "location": "Remote in USA",
@@ -3501,14 +3709,6 @@
    "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-10-04",
    "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-   "first_seen": "2026-10-04",
-   "category": "AI/ML"
   },
   {
    "company": "Microsoft",
@@ -4163,14 +4363,6 @@
    "title": "Software Developer, iOS, Glasses System UI",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "D2L",
-   "title": "Software Developer - New Graduate",
-   "location": "Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada",
-   "url": "https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
