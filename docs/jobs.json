@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14 14:42 UTC",
- "count": 709,
+ "generated_at": "2026-10-14 18:57 UTC",
+ "count": 720,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -23,12 +23,44 @@
    "category": "Other"
   },
   {
+   "company": "VAST Data",
+   "title": "Top Graduate Software Engineer - V-Force - RTP",
+   "location": "North Carolina, USA",
+   "url": "https://www.comeet.com/jobs/vastdata/43.001/top-graduate-software-engineer----v-force---rtp/F1.261",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "VAST Data",
+   "title": "Top Graduate Software Engineer - V-Force - New York",
+   "location": "New York City, NY",
+   "url": "https://www.comeet.com/jobs/vastdata/43.001/top-graduate-software-engineer---v-force---new-york/B7.765",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
    "company": "Ubisoft",
    "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155516219",
    "first_seen": "2026-10-14",
    "category": "Other"
+  },
+  {
+   "company": "Tower Research Capital",
+   "title": "Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer",
+   "location": "Montréal, Canada",
+   "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8126668",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Tower Research Capital",
+   "title": "Copy of Stagiaire en développement de logiciels - été 2027 / Software Developer Intern - Summer 2027",
+   "location": "Montréal, Canada",
+   "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
   },
   {
    "company": "Stripe",
@@ -49,16 +81,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -89,8 +121,16 @@
   {
    "company": "Semtech",
    "title": "Associate Engineer - Software Engineering",
-   "location": "Burlington, ON, Canada",
-   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652",
+   "location": "Burlington, Canada",
+   "url": "https://semtech.wd1.myworkdayjobs.com/en-US/semtechcareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "SECURE",
+   "title": "Junior Software Developer",
+   "location": "Calgary, Canada",
+   "url": "https://careers-canada-secure.icims.com/jobs/2018/junior-software-developer/job",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -107,6 +147,14 @@
    "title": "Energy Efficiency Engineer I",
    "location": "Remote (United States); Remote (Canada)",
    "url": "https://ats.rippling.com/power-takeoff-careers/jobs/6fb2cf1a-90d9-4c9a-b786-df97bf7f1c1a",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Pebl",
+   "title": "Software Engineering - Intern",
+   "location": "Toronto, Canada",
+   "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -139,6 +187,22 @@
    "title": "SoC Software Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "SoC Software Engineer - New College Graduate 2026",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+   "first_seen": "2026-10-14",
+   "category": "Security"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "SoC Software Engineer - New College Grad 2027",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
    "first_seen": "2026-10-14",
    "category": "Security"
   },
@@ -223,6 +287,54 @@
    "category": "SDE"
   },
   {
+   "company": "Justworks",
+   "title": "Associate Software Engineer - Frontend",
+   "location": "New York City, NY",
+   "url": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Intuitive",
+   "title": "Service Software Developer",
+   "location": "Santa Clara, CA",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000154483468-service-software-developer?oga=true",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "ID.me",
+   "title": "Software Engineer II - Developer Portal - New Grad / Early Career",
+   "location": "ID.me Mountain View, CA +1",
+   "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Healthpeak Properties",
+   "title": "Forward Deployed Software Engineer",
+   "location": "New York City, NY",
+   "url": "https://healthpeak.applytojob.com/apply/JcxzlDrgWk/Forward-Deployed-Software-Engineer",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Genetec",
+   "title": "Analyste de données BI / BI Data Analyst",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://apply.workable.com/genetec-inc/j/46B2AEBF55/",
+   "first_seen": "2026-10-14",
+   "category": "Other"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "title": "Software Engineer",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142893337",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
    "company": "General Dynamics Mission Systems Canada",
    "title": "Life Cycle Material Engineering Specialist",
    "location": "Ottawa, ON, Canada",
@@ -271,6 +383,14 @@
    "category": "SDE"
   },
   {
+   "company": "Fellow Insights",
+   "title": "Software Engineer - New Grad - 2026-2027",
+   "location": "Ottawa, Canada",
+   "url": "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
    "company": "D-Wave Quantum",
    "title": "Software Developer II (One year fixed-term position) [611]",
    "location": "Burnaby, Canada; Hybrid (Burnaby, CA), Canada",
@@ -301,6 +421,22 @@
    "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
    "first_seen": "2026-10-14",
    "category": "Security"
+  },
+  {
+   "company": "Check",
+   "title": "Software Engineer",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application?embed=true",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Cayuse",
+   "title": "Associate Software Engineer - AI Solutions",
+   "location": "Remote - USA",
+   "url": "https://job-boards.greenhouse.io/cayuse/jobs/8885769002",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
   },
   {
    "company": "Autodesk",
@@ -377,16 +513,16 @@
   {
    "company": "West Monroe",
    "title": "2027 Software Engineering - AI Concentration Consultant",
-   "location": "New York City, NY",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
+   "location": "Seattle, WA",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
    "first_seen": "2026-10-13",
    "category": "AI/ML"
   },
   {
    "company": "West Monroe",
    "title": "2027 Software Engineering - AI Concentration Consultant",
-   "location": "Seattle, WA",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
+   "location": "New York City, NY",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
    "first_seen": "2026-10-13",
    "category": "AI/ML"
   },
@@ -906,7 +1042,7 @@
    "company": "Salesforce",
    "title": "Software Engineering AMTS - College Grad",
    "location": "California, USA +7",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -914,7 +1050,7 @@
    "company": "Salesforce",
    "title": "Software Engineering AMTS - College Grad",
    "location": "California, USA +7",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -1399,14 +1535,6 @@
    "category": "SDE"
   },
   {
-   "company": "Motorola Solutions",
-   "title": "Jr. Software Engineer - AI Agent Platform",
-   "location": "Remote - Ontario, Canada +1",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
-   "first_seen": "2026-10-13",
-   "category": "AI/ML"
-  },
-  {
    "company": "Motive",
    "title": "Solutions Engineer, Mid Market (Canada)",
    "location": "Canada - Remote",
@@ -1507,22 +1635,6 @@
    "title": "Software Engineer - December 2026 Graduates",
    "location": "New York City, NY",
    "url": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Maya HTT",
-   "title": "Go-To-Market (GTM) Engineer",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.ashbyhq.com/maya-htt/a0f1f7cc-31e4-49c1-aef9-2a5bd16675e6",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Maya HTT",
-   "title": "Engineering Software Application Analyst",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.ashbyhq.com/maya-htt/54decd5c-6f2e-41cf-a699-29013679f6be",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -1705,16 +1817,16 @@
   {
    "company": "Harvey",
    "title": "Software Engineer - New Grad - 2027",
-   "location": "New York City, NY",
-   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
   {
    "company": "Harvey",
    "title": "Software Engineer - New Grad - 2027",
-   "location": "San Francisco, CA",
-   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+   "location": "New York City, NY",
+   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -2163,14 +2275,6 @@
    "title": "Software Engineers, Canadian Air",
    "location": "Dartmouth, NS, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000148839568",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "title": "Software Engineering Developer, DevOps ",
-   "location": "Calgary, AB, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000151607474",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -2641,16 +2745,16 @@
   {
    "company": "Coveo",
    "title": "Software Developer Intern - Solutions Engineering Core Team - Winter 2027",
-   "location": "Montréal, Canada +1",
-   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8869632002",
+   "location": "Montréal, Canada",
+   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
   {
    "company": "Coveo",
    "title": "Software Developer Intern - Solutions Engineering Core Team - Winter 2027",
-   "location": "Montréal, Canada",
-   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
+   "location": "Montréal, Canada +1",
+   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8869632002",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3114,7 +3218,7 @@
    "company": "Abbott",
    "title": "Associate Software Engineer",
    "location": "Minnesota, USA",
-   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
+   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3122,7 +3226,7 @@
    "company": "Abbott",
    "title": "Associate Software Engineer",
    "location": "Minnesota, USA",
-   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984",
+   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3687,11 +3791,11 @@
    "category": "AI/ML"
   },
   {
-   "company": "Apple",
-   "title": "Software Engineer - Apple, Inc.",
-   "location": "Vancouver, Canada",
-   "url": "https://jobs.apple.com/en-ca/details/200673477/software-engineer-apple-inc?team=SFTWR",
-   "first_seen": "2026-10-06",
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
    "category": "SDE"
   },
   {
@@ -4159,14 +4263,6 @@
    "category": "SDE"
   },
   {
-   "company": "DecisionPoint",
-   "title": "Entry-level Software Developer",
-   "location": "Remote in USA",
-   "url": "https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Commure",
    "title": "Software Engineer - Scribe AI",
    "location": "Mountain View, CA",
@@ -4179,22 +4275,6 @@
    "title": "Post-Silicon Validation Engineer New Grad - Mixed IC Validation",
    "location": "Austin, TX",
    "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "C3.ai",
-   "title": "Platform Full-Stack Engineer New Grad",
-   "location": "Redwood City, CA",
-   "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "C3.ai",
-   "title": "Forward Deployed Engineer New Grad - 2027",
-   "location": "Redwood City, CA",
-   "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -4995,6 +5075,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
