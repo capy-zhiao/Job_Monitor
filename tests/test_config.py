@@ -22,6 +22,7 @@ REQUIRED_KEYS = {
     "github_tables": ["urls"],
     "workable": ["account"],
     "bamboohr": ["company"],
+    "rippling": ["board"],
     "microsoft": [],
     "apple": [],
     "greenhouse": ["board"],

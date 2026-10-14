@@ -608,11 +608,55 @@ def fetch_bamboohr(source):
     return jobs
 
 
+def fetch_rippling(source):
+    """Rippling Recruiting boards (ats.rippling.com/<board>/jobs), public board API.
+
+    source: board (the slug in the board URL)
+
+    The v2 endpoint pages its results and reports totalPages. Each job lists one
+    or more locations with a country, and remote ones carry workplaceType REMOTE,
+    so the location is built from all of them.
+    """
+    board = source["board"]
+    jobs, page = [], 0
+    while page < 50:
+        data = http.get_json(
+            f"https://ats.rippling.com/api/v2/board/{board}/jobs?page={page}&pageSize=100"
+        )
+        items = data.get("items") or []
+        for j in items:
+            if not j.get("id"):
+                continue
+            places = []
+            for loc in j.get("locations") or []:
+                name = (loc.get("name") or "").strip()
+                country = loc.get("country") or ""
+                place = name if not country or country.lower() in name.lower() else ", ".join(p for p in (name, country) if p)
+                if loc.get("workplaceType") == "REMOTE" and "remote" not in place.lower():
+                    place = "Remote, " + place if place else "Remote"
+                if place and place not in places:
+                    places.append(place)
+            jobs.append(
+                Job(
+                    uid=f"rippling:{board}:{j['id']}",
+                    company=source.get("name", board),
+                    title=(j.get("name") or "").strip(),
+                    location="; ".join(places),
+                    url=j.get("url") or f"https://ats.rippling.com/{board}/jobs/{j['id']}",
+                )
+            )
+        page += 1
+        if not items or page >= (data.get("totalPages") or 1):
+            break
+    return jobs
+
+
 FETCHERS = {
     "github_listings": fetch_github_listings,
     "github_tables": fetch_github_tables,
     "workable": fetch_workable,
     "bamboohr": fetch_bamboohr,
+    "rippling": fetch_rippling,
     "microsoft": fetch_microsoft,
     "apple": fetch_apple,
     "greenhouse": fetch_greenhouse,

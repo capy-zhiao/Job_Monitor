@@ -51,6 +51,7 @@ summarize the whole feed. Same data as the Discord alerts, browsable.
 | `github_tables` | markdown tables (no JSON) in community list repos       | speedyapply/2027-SWE-College-Jobs (international new-grad and internship lists) |
 | `workable`  | `apply.workable.com/api/v1/widget/accounts/<account>`        | Genetec, Valsoft                          |
 | `bamboohr`  | `<company>.bamboohr.com/careers/list`                        | BinSentry, EUNA                           |
+| `rippling`  | `ats.rippling.com/api/v2/board/<board>/jobs`                 | D-Wave, nesto, Webull                     |
 | `successfactors` | `<host>/services/rss/job/` (jobs2web RSS)               | SAP                                       |
 | `icims`     | `<host>/api/jobs` (iCIMS Career Sites / Jibe)                | AMD                                       |
 | `oracle`    | Oracle Recruiting Cloud `recruitingCEJobRequisitions` REST   | Fortinet, Uber                            |

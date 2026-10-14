@@ -342,3 +342,27 @@ class BambooHRTest(unittest.TestCase):
         self.assertEqual(jobs[1].location, "Remote, Quebec, Canada")
         self.assertEqual(jobs[1].employment_type, "")
 
+
+class RipplingTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.get_json")
+    def test_pages_and_builds_locations(self, get_json):
+        get_json.side_effect = [
+            {"page": 0, "totalPages": 2, "items": [
+                {"id": "a1", "name": "Software Developer ", "url": "https://ats.rippling.com/acme/jobs/a1",
+                 "locations": [{"name": "Toronto, ON", "country": "Canada", "workplaceType": "HYBRID"},
+                               {"name": "Canada", "country": "Canada", "workplaceType": "REMOTE"},
+                               {"name": "Remote (Canada)", "country": "Canada", "workplaceType": "REMOTE"}]},
+                {"name": "No id"},
+            ]},
+            {"page": 1, "totalPages": 2, "items": [
+                {"id": "b2", "name": "QA Analyst", "locations": []},
+            ]},
+        ]
+        jobs = fetchers.fetch_rippling({"board": "acme", "name": "Acme"})
+        self.assertEqual(get_json.call_count, 2)
+        self.assertEqual([j.uid for j in jobs], ["rippling:acme:a1", "rippling:acme:b2"])
+        self.assertEqual(jobs[0].title, "Software Developer")
+        self.assertEqual(jobs[0].location, "Toronto, ON, Canada; Remote, Canada; Remote (Canada)")
+        self.assertEqual(jobs[1].url, "https://ats.rippling.com/acme/jobs/b2")
+        self.assertEqual(jobs[1].location, "")
+
