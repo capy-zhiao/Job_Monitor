@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-14 04:13 UTC",
- "count": 692,
+ "generated_at": "2026-10-14 09:34 UTC",
+ "count": 685,
  "stats": {
   "sources": 149,
   "ats": 24
  },
  "jobs": [
+  {
+   "company": "Semtech",
+   "title": "Associate Engineer - Software Engineering",
+   "location": "Burlington, ON, Canada",
+   "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
   {
    "company": "NVIDIA",
    "title": "SoC Software Engineer New Grad",
@@ -51,6 +59,14 @@
    "title": "ASIC Engineer New Grad - Design",
    "location": "Austin, TX",
    "url": "https://www.metacareers.com/jobs/1084023187741651",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Autodesk",
+   "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+   "location": "Montreal, QC, CAN",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -1161,7 +1177,7 @@
   {
    "company": "Motive",
    "title": "Security Software Engineer",
-   "location": "Canada - Remote",
+   "location": "Canada - Hybrid",
    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8831546002",
    "first_seen": "2026-10-13",
    "category": "Security"
@@ -2283,14 +2299,6 @@
    "title": "Solutions Engineer",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6208674004",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Diligent",
-   "title": "Solution Engineer",
-   "location": "New York, New York, United States; Vancouver, British Columbia, Canada; Washington, District of Columbia, United States",
-   "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6216867004",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3479,14 +3487,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
-  },
-  {
    "company": "BMO",
    "title": "GenAI Software Developer",
    "location": "Calgary, AB, CAN",
@@ -3755,14 +3755,6 @@
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
-   "first_seen": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "title": "Hardware Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783",
    "first_seen": "2026-09-30",
    "category": "SDE"
   },
@@ -4271,14 +4263,6 @@
    "category": "Security"
   },
   {
-   "company": "Slice (slicelife.com)",
-   "title": "Software Developer - Services",
-   "location": "Remote in UK; Remote in Canada",
-   "url": "https://slice.careers/careers-listing?gh_jid=7228671",
-   "first_seen": "2026-09-22",
-   "category": "SDE"
-  },
-  {
    "company": "Fortinet",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
@@ -4359,14 +4343,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco (Security)",
-   "title": "Software Developer Embedded Systems I (Full Time) - Canada",
-   "location": "Kanata, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
-   "first_seen": "2026-09-16",
-   "category": "SDE"
-  },
-  {
    "company": "Waabi",
    "title": "Software Engineer, Commercial Software",
    "location": "Toronto, ON",
@@ -4379,30 +4355,6 @@
    "title": "Software Engineer, Intern (Summer or Winter)",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Software Developer Intern, iOS (Summer 2027)",
-   "location": "Toronto, Canada",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?t=gh_src=&gh_jid=8199729",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Software Developer Intern, Web (Summer 2027)",
-   "location": "Toronto, Canada",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?t=gh_src=&gh_jid=8199744",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Software Developer Intern, Backend (Summer 2027)",
-   "location": "Toronto, Canada",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?t=gh_src=&gh_jid=8142930",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
@@ -4851,14 +4803,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
