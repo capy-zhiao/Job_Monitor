@@ -369,3 +369,40 @@ class RipplingTest(unittest.TestCase):
         self.assertEqual(jobs[1].url, "https://ats.rippling.com/acme/jobs/b2")
         self.assertEqual(jobs[1].location, "")
 
+
+class IcimsPortalTest(unittest.TestCase):
+    CARD = ('<li class="iCIMS_JobCardItem"><div class="row"><div class="col-xs-6 header left">'
+            '<span class="sr-only field-label">Location</span> <span > {loc}</span></div>'
+            '<div class="col-xs-12 title"><a href="https://careers-acme.icims.com/jobs/{id}/{slug}/job?in_iframe=1" '
+            'class="iCIMS_Anchor" title="{id} - {title}"><h3>{title}</h3></a></div></div></li>')
+
+    @mock.patch("jobmonitor.http.get_text")
+    def test_reads_pages_until_nothing_new(self, get_text):
+        page0 = "<ul>" + self.CARD.format(loc="CA-ON-Ottawa", id="11", slug="dev", title="Associate Software Developer") \
+            + self.CARD.format(loc="US-TX-Austin", id="12", slug="qa", title="QA &amp; Test") + "</ul>"
+        page1 = "<ul>" + self.CARD.format(loc="CA-ON-Ottawa", id="11", slug="dev", title="Associate Software Developer") + "</ul>"
+        get_text.side_effect = [page0, page1]
+        jobs = fetchers.fetch_icims_portal({"host": "careers-acme.icims.com", "name": "Acme"})
+        self.assertEqual(get_text.call_count, 2)
+        self.assertEqual([j.uid for j in jobs], ["icimsportal:careers-acme.icims.com:11", "icimsportal:careers-acme.icims.com:12"])
+        self.assertEqual(jobs[0].location, "CA-ON-Ottawa, Canada")
+        self.assertEqual(jobs[0].url, "https://careers-acme.icims.com/jobs/11/dev/job")
+        self.assertEqual(jobs[1].title, "QA & Test")
+        self.assertEqual(jobs[1].location, "US-TX-Austin")
+
+
+class JobviteTest(unittest.TestCase):
+    @mock.patch("jobmonitor.http.get_text")
+    def test_parses_job_rows(self, get_text):
+        get_text.return_value = (
+            '<tr><td class="jv-job-list-name"> <a href="/acme/job/oAB1">IT Support Analyst</a> </td>'
+            '<td class="jv-job-list-location"> Vancouver, British Columbia </td></tr>'
+            '<tr><td class="jv-job-list-name"> <a href="/acme/job/oAB2">Developer &amp; QA</a> </td>'
+            '<td class="jv-job-list-location"> Remote,\n Canada </td></tr>'
+        )
+        jobs = fetchers.fetch_jobvite({"company": "acme", "name": "Acme"})
+        self.assertEqual([j.uid for j in jobs], ["jobvite:acme:oAB1", "jobvite:acme:oAB2"])
+        self.assertEqual(jobs[0].url, "https://jobs.jobvite.com/acme/job/oAB1")
+        self.assertEqual(jobs[1].title, "Developer & QA")
+        self.assertEqual(jobs[1].location, "Remote, Canada")
+

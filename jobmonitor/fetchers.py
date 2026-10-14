@@ -652,12 +652,85 @@ def fetch_rippling(source):
     ]
 
 
+def fetch_icims_portal(source):
+    """Classic iCIMS career portals (careers-<company>.icims.com), HTML search pages.
+    Companies: Kinaxis, ...
+
+    source: host (e.g. careers-kinaxis.icims.com)
+
+    These older portals have no JSON API (the icims fetcher's /api/jobs returns
+    HTML here), so the search results are read page by page (pr=0, 1, ...). Each
+    job card carries the location as "CA-ON-Ottawa"; ", Canada" is added to
+    Canadian ones so the location filter recognises them.
+    """
+    host = source["host"]
+    jobs, seen_ids = [], set()
+    for page in range(30):
+        body = http.get_text(f"https://{host}/jobs/search?pr={page}&searchRelation=keyword_all&in_iframe=1")
+        cards = body.split('<li class="iCIMS_JobCardItem">')[1:]
+        new = 0
+        for card in cards:
+            link = re.search(r'href="(https://[^"]+/jobs/(\d+)/[^"?]+/job)[^"]*"[^>]*title="\d+ - ([^"]*)"', card)
+            if not link or link.group(2) in seen_ids:
+                continue
+            seen_ids.add(link.group(2))
+            new += 1
+            places = re.findall(r'field-label">(?:Additional )?Locations?</span>\s*(?:</dt>\s*<dd[^>]*>)?\s*<span[^>]*>(.*?)</span>', card, re.S)
+            places = [_cell_text(p) for p in places if _cell_text(p)]
+            places = [p + ", Canada" if p.startswith("CA-") else p for p in places]
+            places = list(dict.fromkeys(places))  # the main and additional location can repeat
+            jobs.append(
+                Job(
+                    uid=f"icimsportal:{host}:{link.group(2)}",
+                    company=source.get("name", host),
+                    title=html.unescape(link.group(3)).strip(),
+                    location="; ".join(places),
+                    url=link.group(1),
+                )
+            )
+        if not cards or not new:
+            break
+    return jobs
+
+
+def fetch_jobvite(source):
+    """Jobvite career pages (jobs.jobvite.com/<company>/jobs), HTML job list.
+    Companies: Absolute Security, ...
+
+    source: company (the slug in the page URL)
+    """
+    company = source["company"]
+    body = http.get_text(f"https://jobs.jobvite.com/{company}/jobs")
+    rows = re.findall(
+        r'<td class="jv-job-list-name">\s*<a href="(/[^"]+/job/([^"/]+))">(.*?)</a>\s*</td>\s*'
+        r'<td class="jv-job-list-location">(.*?)</td>',
+        body, re.S,
+    )
+    jobs, seen_ids = [], set()
+    for path, job_id, title, location in rows:
+        if job_id in seen_ids:
+            continue
+        seen_ids.add(job_id)
+        jobs.append(
+            Job(
+                uid=f"jobvite:{company}:{job_id}",
+                company=source.get("name", company),
+                title=_cell_text(title),
+                location=re.sub(r"\s+", " ", _cell_text(location)),
+                url="https://jobs.jobvite.com" + path,
+            )
+        )
+    return jobs
+
+
 FETCHERS = {
     "github_listings": fetch_github_listings,
     "github_tables": fetch_github_tables,
     "workable": fetch_workable,
     "bamboohr": fetch_bamboohr,
     "rippling": fetch_rippling,
+    "icims_portal": fetch_icims_portal,
+    "jobvite": fetch_jobvite,
     "microsoft": fetch_microsoft,
     "apple": fetch_apple,
     "greenhouse": fetch_greenhouse,

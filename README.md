@@ -52,6 +52,8 @@ summarize the whole feed. Same data as the Discord alerts, browsable.
 | `workable`  | `apply.workable.com/api/v1/widget/accounts/<account>`        | Genetec, Valsoft                          |
 | `bamboohr`  | `<company>.bamboohr.com/careers/list`                        | BinSentry, EUNA                           |
 | `rippling`  | `ats.rippling.com/api/v2/board/<board>/jobs`                 | D-Wave, nesto, Webull                     |
+| `icims_portal` | classic `careers-<company>.icims.com` search pages (HTML) | Kinaxis                                   |
+| `jobvite`   | `jobs.jobvite.com/<company>/jobs` (HTML)                     | Absolute Security                         |
 | `successfactors` | `<host>/services/rss/job/` (jobs2web RSS)               | SAP                                       |
 | `icims`     | `<host>/api/jobs` (iCIMS Career Sites / Jibe)                | AMD                                       |
 | `oracle`    | Oracle Recruiting Cloud `recruitingCEJobRequisitions` REST   | Fortinet, Uber                            |

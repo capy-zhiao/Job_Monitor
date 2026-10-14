@@ -23,6 +23,8 @@ REQUIRED_KEYS = {
     "workable": ["account"],
     "bamboohr": ["company"],
     "rippling": ["board"],
+    "icims_portal": ["host"],
+    "jobvite": ["company"],
     "microsoft": [],
     "apple": [],
     "greenhouse": ["board"],
