@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-10-15 10:13 UTC",
- "count": 723,
+ "generated_at": "2026-10-15 15:06 UTC",
+ "count": 718,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Ubisoft",
+   "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155777969",
+   "first_seen": "2026-10-15",
+   "category": "Other"
+  },
+  {
+   "company": "Ubisoft",
+   "title": "Front-end Epsort Programmer - Rainbow Six Siege",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155777374",
+   "first_seen": "2026-10-15",
+   "category": "Other"
+  },
   {
    "company": "Truveta",
    "title": "Software Engineer - Security & Trust",
@@ -35,6 +51,22 @@
    "title": "API Engineer 1 - Credit",
    "location": "Orlando, FL; Stamford, CT; Dallas, TX; Chicago, IL; Charlotte, NC; NYC; Phoenix, AZ; Kansas City, KS; Canton, OH; Atlanta, GA; Cincinnati, OH; Costa Mesa, CA",
    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Engineer-I---Credit_2602674",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "AI Platform Software Engineer",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-AI-Platform-Software-Engineer-ON-M5H-1H1/607010417/",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Okta",
+   "title": "Software Engineer, Globalization",
+   "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+   "url": "https://www.okta.com/company/careers/opportunity/8093199?gh_jid=8093199",
    "first_seen": "2026-10-15",
    "category": "SDE"
   },
@@ -143,14 +175,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ubisoft",
-   "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155516219",
-   "first_seen": "2026-10-14",
-   "category": "Other"
-  },
-  {
    "company": "Tower Research Capital",
    "title": "Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer",
    "location": "Montréal, Canada",
@@ -185,16 +209,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -792,27 +816,11 @@
   },
   {
    "company": "Ubisoft",
-   "title": "Engine Programmer (For Honor)",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000152938959",
-   "first_seen": "2026-10-13",
-   "category": "Other"
-  },
-  {
-   "company": "Ubisoft",
    "title": "Develop Mentorship at Ubisoft - Cybersecurity 2026-2027",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.smartrecruiters.com/ubisoft2/744000153680089",
    "first_seen": "2026-10-13",
    "category": "Security"
-  },
-  {
-   "company": "Ubisoft",
-   "title": "Anti-Cheat Programmer  (March of Giants)",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000152933157",
-   "first_seen": "2026-10-13",
-   "category": "Other"
   },
   {
    "company": "Twitch",
@@ -915,14 +923,6 @@
    "title": "Software Engineering Intern - Summer 2027",
    "location": "Hub - Toronto",
    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Superhuman",
-   "title": "Software Engineer, Full-Stack - GPTZero, Early Career",
-   "location": "Hub - Toronto",
-   "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/134c282c-2837-44a8-9f7c-74ca39486490",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -1459,14 +1459,6 @@
    "title": "Software Engineer I",
    "location": "USA",
    "url": "https://job-boards.greenhouse.io/opploans/jobs/8011770003",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "OpenTable",
-   "title": "System Engineer I",
-   "location": "Toronto, Canada",
-   "url": "https://job-boards.greenhouse.io/opentable/jobs/8644093002",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3863,14 +3855,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
-  },
-  {
    "company": "BMO",
    "title": "GenAI Software Developer",
    "location": "Calgary, AB, CAN",
@@ -3952,14 +3936,6 @@
   },
   {
    "company": "Lyft",
-   "title": "Software Engineer, Pricing",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8860861002?gh_jid=8860861002",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
    "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
    "location": "Longueuil, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
@@ -4036,14 +4012,6 @@
    "location": "Charlotte, NC; Jersey City, NJ; NYC; Atlanta, GA",
    "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249",
    "first_seen": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Tower Research Capital",
-   "title": "C++ Software Developer New Grad - Rotational Program",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8126667",
-   "first_seen": "2026-10-01",
    "category": "SDE"
   },
   {
@@ -5099,14 +5067,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
