@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15 05:17 UTC",
- "count": 722,
+ "generated_at": "2026-10-15 10:13 UTC",
+ "count": 723,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -19,6 +19,14 @@
    "title": "Software Engineer Graduate - Data Ecosystem - 2027 Start",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7685769994391832837",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "title": "Backend Engineer Graduate - Social Foundation",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7696782198126545157",
    "first_seen": "2026-10-15",
    "category": "SDE"
   },
@@ -43,6 +51,14 @@
    "title": "Software Engineer - Firefox Desktop Integrations",
    "location": "Remote in Canada",
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
    "first_seen": "2026-10-15",
    "category": "SDE"
   },
@@ -1539,14 +1555,6 @@
    "title": "Junior Software QA Tester",
    "location": "Remote - North Carolina, USA",
    "url": "https://newchartertech.wd12.myworkdayjobs.com/en-US/newchartertechnologies/job/BizTech-NC---Mooresville/Junior-Software-QA-Tester_JR0914-2",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Netic",
-   "title": "Software Engineer - Gap Year",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application?embed=true",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3391,6 +3399,14 @@
    "category": "Other"
   },
   {
+   "company": "Scotiabank",
+   "title": "Software Engineer, (Cloud CICD Platforms)",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-%28Cloud-CICD-Platforms%29-ON-M5H-1H1/602664117/",
+   "first_seen": "2026-10-12",
+   "category": "SDE"
+  },
+  {
    "company": "NVIDIA",
    "title": "Software Engineer New Grad - DL Kernel Libraries",
    "location": "Santa Clara, CA",
@@ -3675,14 +3691,6 @@
    "title": "Software Engineer",
    "location": "Redmond, WA; Reston, VA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022926",
    "first_seen": "2026-10-07",
    "category": "SDE"
   },
