@@ -1,11 +1,67 @@
 {
- "generated_at": "2026-10-14 22:09 UTC",
- "count": 717,
+ "generated_at": "2026-10-15 00:33 UTC",
+ "count": 725,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Truveta",
+   "title": "Software Engineer - Security & Trust",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004",
+   "first_seen": "2026-10-15",
+   "category": "Security"
+  },
+  {
+   "company": "TikTok",
+   "title": "Software Engineer Graduate - Data Ecosystem - 2027 Start",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7685769994391832837",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Synchrony Financial",
+   "title": "API Engineer 1 - Credit",
+   "location": "Orlando, FL; Stamford, CT; Dallas, TX; Chicago, IL; Charlotte, NC; NYC; Phoenix, AZ; Kansas City, KS; Canton, OH; Atlanta, GA; Cincinnati, OH; Costa Mesa, CA",
+   "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Engineer-I---Credit_2602674",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Mozilla",
+   "title": "Software Engineer, Firefox Desktop Integrations",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Lyft",
+   "title": "ML Software Engineer, Routing",
+   "location": "Toronto, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
+   "first_seen": "2026-10-15",
+   "category": "AI/ML"
+  },
+  {
+   "company": "CLEAR",
+   "title": "Software Development Engineer 1",
+   "location": "Austin, TX",
+   "url": "https://job-boards.greenhouse.io/clear/jobs/8241829",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Post-Silicon Systems Validation Engineer 1",
+   "location": "Austin, TX",
+   "url": "https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
   {
    "company": "nesto",
    "title": "Salesforce QA Automation Developer",
@@ -3639,6 +3695,14 @@
    "category": "SDE"
   },
   {
+   "company": "Ecolab",
+   "title": "Junior Quality Control Software Developer",
+   "location": "Calgary, AB, Canada",
+   "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CAN---Alberta---Calgary/Junior-Quality-Control-Software-Developer_R00307033",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Cisco (Security)",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
@@ -3789,6 +3853,14 @@
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
   },
   {
    "company": "BMO",
@@ -4119,14 +4191,6 @@
    "category": "Other"
   },
   {
-   "company": "Applied Materials",
-   "title": "Physicist/Scientist New Grad - 2027 Summer Cohort",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Physicist-Scientist-III---PhD--2027-Summer-Cohort-_R2627969",
-   "first_seen": "2026-09-29",
-   "category": "Other"
-  },
-  {
    "company": "Amazon (Science)",
    "title": "Applied Scientist, Ring AI",
    "location": "CA, ON, Toronto",
@@ -4317,14 +4381,6 @@
    "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
    "first_seen": "2026-09-28",
    "category": "AI/ML"
-  },
-  {
-   "company": "Analog Devices",
-   "title": "Associate Embedded Software Engineer",
-   "location": "San Jose, CA; Wilmington, MA; Durham, NC",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Embedded-Software-Engineer_R266131",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
   },
   {
    "company": "Adobe",
@@ -5059,6 +5115,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
