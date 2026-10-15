@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15 19:10 UTC",
+ "generated_at": "2026-10-15 22:21 UTC",
  "count": 709,
  "stats": {
   "sources": 168,
@@ -143,6 +143,14 @@
    "category": "AI/ML"
   },
   {
+   "company": "LawDepot",
+   "title": "Web Content Coordinator",
+   "location": "Edmonton, Hybrid",
+   "url": "https://jobs.ashbyhq.com/lawdepot/5135e3ae-133f-47ff-a823-101e76be53c6",
+   "first_seen": "2026-10-15",
+   "category": "Other"
+  },
+  {
    "company": "Kinaxis",
    "title": "Software Developer 2 , C++ and Test automation - 12 Month Contract",
    "location": "CA-ON-Ottawa, Canada",
@@ -159,18 +167,18 @@
    "category": "Research"
   },
   {
-   "company": "Hewlett Packard Enterprise",
-   "title": "VLSI Engineer 1",
-   "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I---0T1191_1214956",
+   "company": "Equitable Bank",
+   "title": "AV & Event Production Engineer",
+   "location": "Toronto",
+   "url": "https://jobs.lever.co/eqbank/618de7c9-517a-423f-b5fd-3e75edf989d3",
    "first_seen": "2026-10-15",
    "category": "SDE"
   },
   {
-   "company": "Hewlett Packard Enterprise",
-   "title": "Electrical Hardware Engineer 1",
-   "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-I---0T1011_1214974",
+   "company": "Equitable Bank",
+   "title": "AI Solutions Engineer, Technology Workplace Services",
+   "location": "Toronto",
+   "url": "https://jobs.lever.co/eqbank/a20b80c5-53c4-4c34-b8de-c6d9208994a6",
    "first_seen": "2026-10-15",
    "category": "SDE"
   },
@@ -197,6 +205,22 @@
    "url": "https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs",
    "first_seen": "2026-10-15",
    "category": "SDE"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer I, Fullstack (Search)",
+   "location": "Remote Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+   "first_seen": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "title": "Junior Security Engineer",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+   "first_seen": "2026-10-15",
+   "category": "Security"
   },
   {
    "company": "nesto",
@@ -577,7 +601,7 @@
   {
    "company": "D-Wave Quantum",
    "title": "Software Developer II (One year fixed-term position) [611]",
-   "location": "Hybrid (Burnaby, CA), Canada; Burnaby, Canada",
+   "location": "Burnaby, Canada; Hybrid (Burnaby, CA), Canada",
    "url": "https://ats.rippling.com/d-wave-quantum/jobs/c51f0802-e998-44d7-b476-be03b12db254",
    "first_seen": "2026-10-14",
    "category": "SDE"
@@ -3351,14 +3375,6 @@
    "category": "Other"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer, (Cloud CICD Platforms)",
-   "location": "Toronto, ON, CA, M5H 1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-%28Cloud-CICD-Platforms%29-ON-M5H-1H1/602664117/",
-   "first_seen": "2026-10-12",
-   "category": "SDE"
-  },
-  {
    "company": "NVIDIA",
    "title": "Software Engineer New Grad - DL Kernel Libraries",
    "location": "Santa Clara, CA",
@@ -3523,14 +3539,6 @@
    "title": "Software Engineer New Grad",
    "location": "SF; NYC",
    "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true",
-   "first_seen": "2026-10-08",
-   "category": "SDE"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "Software Engineer 1 New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
    "first_seen": "2026-10-08",
    "category": "SDE"
   },
@@ -3949,14 +3957,6 @@
    "url": "https://careers.amd.com/careers-home/jobs/93156",
    "first_seen": "2026-10-02",
    "category": "AI/ML"
-  },
-  {
-   "company": "AIG",
-   "title": "Early Careers Analyst - Data Office: Data Engineering",
-   "location": "Charlotte, NC; Jersey City, NJ; NYC; Atlanta, GA",
-   "url": "https://aig.wd1.myworkdayjobs.com/aig/job/200-South-College-Street-Charlotte-NC-USA/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Data-Engineering---United-States--Multiple-Locations_JR2604249-1",
-   "first_seen": "2026-10-02",
-   "category": "SDE"
   },
   {
    "company": "Pinterest",
