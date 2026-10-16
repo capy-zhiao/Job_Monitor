@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16 18:25 UTC",
- "count": 713,
+ "generated_at": "2026-10-16 21:34 UTC",
+ "count": 704,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -505,16 +505,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -741,14 +741,6 @@
    "url": "https://apply.workable.com/genetec-inc/j/46B2AEBF55/",
    "first_seen": "2026-10-14",
    "category": "Other"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "title": "Software Engineer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142893337",
-   "first_seen": "2026-10-14",
-   "category": "SDE"
   },
   {
    "company": "General Dynamics Mission Systems Canada",
@@ -1155,14 +1147,6 @@
    "title": "iOS Engineer (Canada)",
    "location": "Remote - Canada",
    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/7cebc242-afcf-4b8d-b948-cbcd60de10ea",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Superhuman",
-   "title": "Software Engineer, Back-End - Mail (Canada)",
-   "location": "Remote - Canada",
-   "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/bcb48e52-7aaa-4ad5-8241-f0b8027b87e4",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -1795,14 +1779,6 @@
    "title": "Solutions Engineer, Mid Market (Canada)",
    "location": "Canada - Remote",
    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8110111002",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Motive",
-   "title": "Software Engineer - Monitoring",
-   "location": "Hybrid - Vancouver",
-   "url": "https://job-boards.greenhouse.io/gomotive/jobs/8820960002",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -2699,14 +2675,6 @@
    "title": "Junior Field Service Engineer - AV",
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/Hrj181wI2T/Junior-Field-Service-Engineer-AV",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "Junior FPGA Design Engineer",
-   "location": "Markham, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/mkQfvWwa9H/Junior-FPGA-Design-Engineer",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3751,14 +3719,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "title": "Signal and Power Integrity Engineer New Grad",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "Affirm",
    "title": "Software Engineer 1 New Grad",
    "location": "NYC",
@@ -3893,22 +3853,6 @@
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
-  },
-  {
-   "company": "BMO",
-   "title": "GenAI Software Developer",
-   "location": "Calgary, AB, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
   },
   {
    "company": "RoviSys",
@@ -4559,14 +4503,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
-  },
-  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -5027,14 +4963,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
