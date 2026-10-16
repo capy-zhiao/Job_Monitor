@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16 21:34 UTC",
- "count": 704,
+ "generated_at": "2026-10-16 23:55 UTC",
+ "count": 707,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -55,6 +55,22 @@
    "category": "AI/ML"
   },
   {
+   "company": "Morningstar",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, ON, Canada; Chicago, IL",
+   "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer_REQ-058508-1",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Forward Deployed Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
    "company": "Lyft",
    "title": "Software Engineer, GovTech",
    "location": "Toronto, Canada",
@@ -83,6 +99,14 @@
    "title": "IT Operations Engineer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/680f234e-0c49-40d6-844e-bff46dfff92e",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Fortinet",
+   "title": "Software Development Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -135,14 +159,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco (Security)",
-   "title": "Software Developer (hybrid)",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
-   "first_seen": "2026-10-16",
-   "category": "SDE"
-  },
-  {
    "company": "Cisco",
    "title": "Software Engineer Embedded Systems II - Full Time - United States",
    "location": "San Jose, CA +10",
@@ -179,6 +195,14 @@
    "title": "Software Development Engineer I",
    "location": "Austin, TX",
    "url": "https://job-boards.greenhouse.io/clear/jobs/8241829",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Axon",
+   "title": "Software Engineer 1",
+   "location": "Boston, MA; Seattle, WA; Scottsdale, AZ; Atlanta, GA",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/7703668003",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -647,14 +671,6 @@
    "category": "SDE"
   },
   {
-   "company": "Meta",
-   "title": "ASIC Engineer New Grad - Design",
-   "location": "Austin, TX",
-   "url": "https://www.metacareers.com/jobs/1084023187741651",
-   "first_seen": "2026-10-14",
-   "category": "SDE"
-  },
-  {
    "company": "Kinaxis",
    "title": "Software Architect, Core Engine",
    "location": "CA-Remote, Canada; US-Remote",
@@ -1091,14 +1107,6 @@
    "title": "Software Engineer - Operations Technology & Automation - Fullstack",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "TriNet",
-   "title": "Software Engineer",
-   "location": "Remote in USA; Atlanta, GA",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -1587,14 +1595,6 @@
    "title": "Vice President, Data Engineering",
    "location": "Toronto, Ontario",
    "url": "https://pictonmahoney.bamboohr.com/careers/373",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Picton Mahoney Asset Management",
-   "title": "Software Development Engineer | Frontend ",
-   "location": "Toronto, Ontario",
-   "url": "https://pictonmahoney.bamboohr.com/careers/341",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3719,6 +3719,14 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "title": "Signal and Power Integrity Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
+   "first_seen": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Affirm",
    "title": "Software Engineer 1 New Grad",
    "location": "NYC",
@@ -3853,6 +3861,14 @@
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
+   "category": "SDE"
   },
   {
    "company": "RoviSys",
@@ -4503,6 +4519,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -4963,6 +4987,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
@@ -5435,14 +5467,6 @@
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19866",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Fortinet",
-   "title": "Software Developer",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22074",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
