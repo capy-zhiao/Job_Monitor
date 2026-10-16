@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16 05:05 UTC",
+ "generated_at": "2026-10-16 09:52 UTC",
  "count": 715,
  "stats": {
   "sources": 168,
@@ -59,6 +59,14 @@
    "title": "Software Engineer 1",
    "location": "SF",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Axon",
+   "title": "Software Engineer",
+   "location": "Boston, MA; Seattle, WA; Sterling, VA; Scottsdale, AZ; NYC",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -3493,14 +3501,6 @@
    "url": "https://lifeattiktok.com/search/7670685496821713205",
    "first_seen": "2026-10-10",
    "category": "Research"
-  },
-  {
-   "company": "Nordstrom",
-   "title": "Engineer 1 - Supply Chain",
-   "location": "Seattle, WA",
-   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Supply-Chain_R-885948",
-   "first_seen": "2026-10-10",
-   "category": "SDE"
   },
   {
    "company": "NVIDIA",
