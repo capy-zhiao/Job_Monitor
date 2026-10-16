@@ -1,11 +1,75 @@
 {
- "generated_at": "2026-10-15 22:21 UTC",
- "count": 709,
+ "generated_at": "2026-10-16 00:37 UTC",
+ "count": 710,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Quora",
+   "title": "Machine Learning Engineer New Grad",
+   "location": "Remote in USA; Remote in Canada",
+   "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true",
+   "first_seen": "2026-10-16",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Luminai",
+   "title": "Forward Deployed Engineer New Grad",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application?embed=true",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Fortinet",
+   "title": "Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24649",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Fortinet",
+   "title": "Embedded Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24652",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "CVS Health",
+   "title": "Analyst – Software Development Engineer - Conversion",
+   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R1059972",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Software Engineer 3",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-III_R2631234",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer 1 - Fullstack - Search",
+   "location": "Remote in Canada",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Affirm",
+   "title": "Software Engineer 1 - Fullstack - Search",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
   {
    "company": "Ubisoft",
    "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
@@ -297,16 +361,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -3519,14 +3583,6 @@
    "category": "SDE"
   },
   {
-   "company": "Google",
-   "title": "Graphics Software Developer, Chrome",
-   "location": "Montreal, QC, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/118958236995855046-graphics-software-developer-chrome",
-   "first_seen": "2026-10-08",
-   "category": "SDE"
-  },
-  {
    "company": "Cisco (Security)",
    "title": "Software Developer I (Full Time) - Canada",
    "location": "Ottawa, Ontario, Canada",
@@ -3767,14 +3823,6 @@
    "category": "SDE"
   },
   {
-   "company": "Google",
-   "title": "Software Developer, Google Chat iOS",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214-software-developer-google-chat-ios",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
    "company": "Aurora Innovation",
    "title": "Applied Researcher",
    "location": "Seattle, WA; SF; Pittsburgh, PA; Mountain View, CA",
@@ -3975,14 +4023,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Google",
-   "title": "Android Infrastructure Software Developer",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/142151738999087814-android-infrastructure-software-developer",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
    "company": "Emerson Electric",
    "title": "Software Engineer - AI Enablement & Engineering Productivity",
    "location": "Austin, TX",
@@ -4111,14 +4151,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Truveta",
-   "title": "Software Engineer - Analytical Platform Services",
-   "location": "Seattle, WA",
-   "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Study.com",
    "title": "Software Engineer New Grad - AI-Native",
    "location": "Mountain View, CA",
@@ -4187,14 +4219,6 @@
    "title": "Software Engineer, Driver Earnings",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "General Motors",
-   "title": "Software Engineer - Early Careers",
-   "location": "Seattle, WA; Austin, TX; Warren, MI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
@@ -4371,14 +4395,6 @@
    "title": "Software Engineer, Driver Experience",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Google",
-   "title": "Software Developer, iOS, Glasses System UI",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -4683,14 +4699,6 @@
    "title": "Software Engineer, Kernel Reliability",
    "location": "United States and Canada",
    "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f",
-   "first_seen": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Cerebras",
-   "title": "Software Engineer - Kernel Reliability",
-   "location": "Canada; United States",
-   "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f/application?embed=true",
    "first_seen": "2026-09-15",
    "category": "SDE"
   },
