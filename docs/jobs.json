@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-16 00:37 UTC",
- "count": 710,
+ "generated_at": "2026-10-16 05:05 UTC",
+ "count": 715,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer, Global Payments Technology (Backend Java Developer)",
+   "location": "Toronto, ON, CA",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-%28Backend-Java-Developer%29-ON/604531517/",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
   {
    "company": "Quora",
    "title": "Machine Learning Engineer New Grad",
@@ -19,6 +27,14 @@
    "title": "Forward Deployed Engineer New Grad",
    "location": "SF; NYC",
    "url": "https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application?embed=true",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Intuit",
+   "title": "Software Engineer 1",
+   "location": "Charlotte, NC; NYC; Mountain View, CA; Atlanta, GA; San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -39,10 +55,10 @@
    "category": "SDE"
   },
   {
-   "company": "CVS Health",
-   "title": "Analyst – Software Development Engineer - Conversion",
-   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R1059972",
+   "company": "CoStar Group",
+   "title": "Software Engineer 1",
+   "location": "SF",
+   "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -53,6 +69,14 @@
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-III_R2631234",
    "first_seen": "2026-10-16",
    "category": "SDE"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Product Management 2 New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882",
+   "first_seen": "2026-10-16",
+   "category": "Other"
   },
   {
    "company": "Affirm",
@@ -131,14 +155,6 @@
    "title": "API Engineer 1 - Credit",
    "location": "Orlando, FL; Stamford, CT; Dallas, TX; Chicago, IL; Charlotte, NC; NYC; Phoenix, AZ; Kansas City, KS; Canton, OH; Atlanta, GA; Cincinnati, OH; Costa Mesa, CA",
    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Engineer-I---Credit_2602674",
-   "first_seen": "2026-10-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "AI Platform Software Engineer",
-   "location": "Toronto, ON, CA, M5H 1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-AI-Platform-Software-Engineer-ON-M5H-1H1/607010417/",
    "first_seen": "2026-10-15",
    "category": "SDE"
   },
@@ -361,16 +377,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -3583,6 +3599,14 @@
    "category": "SDE"
   },
   {
+   "company": "Google",
+   "title": "Graphics Software Developer, Chrome",
+   "location": "Montreal, QC, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/118958236995855046-graphics-software-developer-chrome",
+   "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
    "company": "Cisco (Security)",
    "title": "Software Developer I (Full Time) - Canada",
    "location": "Ottawa, Ontario, Canada",
@@ -3823,6 +3847,14 @@
    "category": "SDE"
   },
   {
+   "company": "Google",
+   "title": "Software Developer, Google Chat iOS",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214-software-developer-google-chat-ios",
+   "first_seen": "2026-10-06",
+   "category": "SDE"
+  },
+  {
    "company": "Aurora Innovation",
    "title": "Applied Researcher",
    "location": "Seattle, WA; SF; Pittsburgh, PA; Mountain View, CA",
@@ -4021,6 +4053,14 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
    "first_seen": "2026-10-01",
    "category": "AI/ML"
+  },
+  {
+   "company": "Google",
+   "title": "Android Infrastructure Software Developer",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/142151738999087814-android-infrastructure-software-developer",
+   "first_seen": "2026-10-01",
+   "category": "SDE"
   },
   {
    "company": "Emerson Electric",
@@ -4231,14 +4271,6 @@
    "category": "SDE"
   },
   {
-   "company": "Emerson Electric",
-   "title": "Software Engineer",
-   "location": "Austin, TX",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Commure",
    "title": "Software Engineer - Scribe AI",
    "location": "Mountain View, CA",
@@ -4395,6 +4427,14 @@
    "title": "Software Engineer, Driver Experience",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
+   "first_seen": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Google",
+   "title": "Software Developer, iOS, Glasses System UI",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
