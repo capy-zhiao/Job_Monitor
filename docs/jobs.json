@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-16 09:52 UTC",
- "count": 715,
+ "generated_at": "2026-10-16 14:39 UTC",
+ "count": 709,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Visa",
+   "title": "Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
   {
    "company": "Scotiabank",
    "title": "Software Engineer, Global Payments Technology (Backend Java Developer)",
@@ -51,6 +59,14 @@
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24652",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "evTOC Applications Engineer",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/bHG6oKZGuj/EvTOC-Applications-Engineer",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -101,22 +117,6 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
    "first_seen": "2026-10-16",
    "category": "SDE"
-  },
-  {
-   "company": "Ubisoft",
-   "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155785651",
-   "first_seen": "2026-10-15",
-   "category": "Other"
-  },
-  {
-   "company": "Ubisoft",
-   "title": "Front-end Epsort Programmer - Rainbow Six Siege",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155777374",
-   "first_seen": "2026-10-15",
-   "category": "Other"
   },
   {
    "company": "Ubisoft",
@@ -192,8 +192,8 @@
   },
   {
    "company": "Okta",
-   "title": "Software Engineer, Globalization",
-   "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+   "title": "Globalization Software Engineer",
+   "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
    "url": "https://www.okta.com/company/careers/opportunity/8093199?gh_jid=8093199",
    "first_seen": "2026-10-15",
    "category": "SDE"
@@ -385,16 +385,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -3575,14 +3575,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Tailscale",
-   "title": "Software Engineer, AI Enablement ",
-   "location": "Remote (Canada)",
-   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710703005",
-   "first_seen": "2026-10-08",
-   "category": "AI/ML"
-  },
-  {
    "company": "TD (Security)",
    "title": "Information Security Specialist",
    "location": "2 Locations",
@@ -3885,14 +3877,6 @@
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
    "first_seen": "2026-10-06",
    "category": "AI/ML"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
   },
   {
    "company": "BMO",
@@ -4303,14 +4287,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "BNY",
-   "title": "Software Engineer Analyst - Engineering - Developer",
-   "location": "NYC",
-   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82247",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Authentic",
    "title": "Software Engineer New Grad",
    "location": "NYC",
@@ -4589,14 +4565,6 @@
    "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
    "first_seen": "2026-09-17",
    "category": "Security"
-  },
-  {
-   "company": "Coinbase",
-   "title": "Software Engineer",
-   "location": "Remote - Canada",
-   "url": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
-   "first_seen": "2026-09-16",
-   "category": "SDE"
   },
   {
    "company": "Waabi",
@@ -5039,14 +5007,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
    "location": "Waterloo, Ontario",
@@ -5059,14 +5019,6 @@
    "title": "Software Development Engineer in Test",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/7cfeada6-21d6-44e6-be7d-81afbee2b502",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
-   "title": "Software Engineer, Pricing - Price Orchestration",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8396751002?gh_jid=8396751002",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
