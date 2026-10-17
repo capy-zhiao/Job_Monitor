@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17 20:23 UTC",
- "count": 701,
+ "generated_at": "2026-10-17 22:33 UTC",
+ "count": 703,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -171,6 +171,14 @@
    "title": "Software Engineer 1",
    "location": "SF",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer (hybrid)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -4183,14 +4191,6 @@
    "category": "SDE"
   },
   {
-   "company": "Meow",
-   "title": "Software Engineer New Grad",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "title": "Software Engineer, Driver Earnings",
    "location": "Toronto, Canada",
@@ -4485,6 +4485,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
    "first_seen": "2026-09-18",
    "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -4947,6 +4955,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
