@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17 12:09 UTC",
- "count": 707,
+ "generated_at": "2026-10-17 15:38 UTC",
+ "count": 704,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -266,7 +266,7 @@
    "company": "Affirm",
    "title": "Software Engineer I - Fullstack - Search",
    "location": "Remote - Canada +1",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -274,7 +274,7 @@
    "company": "Affirm",
    "title": "Software Engineer I - Fullstack - Search",
    "location": "Remote - Canada +1",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -953,16 +953,16 @@
   {
    "company": "West Monroe",
    "title": "2027 Software Engineering - AI Concentration Consultant",
-   "location": "Seattle, WA",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
+   "location": "New York City, NY",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
    "first_seen": "2026-10-13",
    "category": "AI/ML"
   },
   {
    "company": "West Monroe",
    "title": "2027 Software Engineering - AI Concentration Consultant",
-   "location": "New York City, NY",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
+   "location": "Seattle, WA",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
    "first_seen": "2026-10-13",
    "category": "AI/ML"
   },
@@ -1267,22 +1267,6 @@
    "title": "Software Engineer - Level 3",
    "location": "Bellevue, WA +1",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/referral19/job/Bellevue-Washington/Software-Engineer--Level-3_R0044231-1",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "SingleStore",
-   "title": "Software Engineer-Helios-New Grad 2027",
-   "location": "Seattle, WA",
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "SingleStore",
-   "title": "Software Engineer-Engine-New Grad 2027",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205427",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -2448,25 +2432,9 @@
   },
   {
    "company": "General Motors",
-   "title": "Software Engineer - Data Software Engineering and Cloud Platforms - Early Careers",
-   "location": "Austin, TX +1",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "General Motors",
    "title": "Early Career Software Test Developer - Propulsion Thermal Management",
    "location": "Markham, Canada",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "General Motors",
-   "title": "Data Engineer - Data Software Engineering and Cloud Platforms - Early Career",
-   "location": "Austin, TX +1",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3008,14 +2976,6 @@
   },
   {
    "company": "CoStar Group",
-   "title": "Associate Software Engineer - Irvine - CA",
-   "location": "USA",
-   "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "CoStar Group",
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
@@ -3394,7 +3354,7 @@
    "company": "Abbott",
    "title": "Associate Software Engineer",
    "location": "Minnesota, USA",
-   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984",
+   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -3402,7 +3362,7 @@
    "company": "Abbott",
    "title": "Associate Software Engineer",
    "location": "Minnesota, USA",
-   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
+   "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -4535,6 +4495,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -4995,6 +4963,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },

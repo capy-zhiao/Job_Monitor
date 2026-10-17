@@ -553,12 +553,12 @@
 },
 {
 "date": "2026-10-17",
-"total": 707,
-"ca": 495,
+"total": 704,
+"ca": 497,
 "by": {
-"SDE": 531,
+"SDE": 527,
 "Other": 33,
-"AI/ML": 69,
+"AI/ML": 70,
 "Security": 34,
 "Research": 40
 }
