@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-10-16 23:55 UTC",
+ "generated_at": "2026-10-17 03:28 UTC",
  "count": 707,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Snap",
+   "title": "Software Engineer, Level 3, Backend",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218-1",
+   "first_seen": "2026-10-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "title": "Systems Development Engineer – Early Career",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+   "first_seen": "2026-10-17",
+   "category": "SDE"
+  },
   {
    "company": "Visa",
    "title": "Software Engineer",
@@ -155,6 +171,14 @@
    "title": "Software Engineer 1",
    "location": "SF",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer (hybrid)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -3863,14 +3887,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Microsoft",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
-   "first_seen": "2026-10-05",
-   "category": "SDE"
-  },
-  {
    "company": "RoviSys",
    "title": "Software Engineer/Developer",
    "location": "Thousand Oaks, CA",
@@ -4519,14 +4535,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "title": "Applied Scientist - CoreAI Voice Agent",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
-   "first_seen": "2026-09-18",
-   "category": "AI/ML"
-  },
-  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -4987,14 +4995,6 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Software Engineer II - Distributed Systems",
-   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
