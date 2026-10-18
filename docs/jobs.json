@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18 13:28 UTC",
- "count": 701,
+ "generated_at": "2026-10-18 16:48 UTC",
+ "count": 700,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -187,14 +187,6 @@
    "title": "Software Engineer 1",
    "location": "SF",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
-   "first_seen": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco (Security)",
-   "title": "Software Developer (hybrid)",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -569,16 +561,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -969,16 +961,16 @@
   {
    "company": "West Monroe",
    "title": "2027 Software Engineering - AI Concentration Consultant",
-   "location": "New York City, NY",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
+   "location": "Seattle, WA",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
    "first_seen": "2026-10-13",
    "category": "AI/ML"
   },
   {
    "company": "West Monroe",
    "title": "2027 Software Engineering - AI Concentration Consultant",
-   "location": "Seattle, WA",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
+   "location": "New York City, NY",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
    "first_seen": "2026-10-13",
    "category": "AI/ML"
   },
@@ -1719,14 +1711,6 @@
    "category": "SDE"
   },
   {
-   "company": "New Charter Technologies",
-   "title": "Junior Software QA Tester",
-   "location": "Remote - North Carolina, USA",
-   "url": "https://newchartertech.wd12.myworkdayjobs.com/en-US/newchartertechnologies/job/BizTech-NC---Mooresville/Junior-Software-QA-Tester_JR0914-2",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Nascent",
    "title": "Software Engineer, Data Acquisition",
    "location": "Onsite - Montreal, QC",
@@ -2057,16 +2041,16 @@
   {
    "company": "Harvey",
    "title": "Software Engineer - New Grad - 2027",
-   "location": "New York City, NY",
-   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
   {
    "company": "Harvey",
    "title": "Software Engineer - New Grad - 2027",
-   "location": "San Francisco, CA",
-   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
+   "location": "New York City, NY",
+   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -2923,14 +2907,6 @@
    "title": "AI Full Stack Software Developer",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7759802",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Crusoe",
-   "title": "Software Engineer I - Network",
-   "location": "San Francisco, CA +1",
-   "url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -4487,6 +4463,14 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "title": "Applied Scientist - CoreAI Voice Agent",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
+   "first_seen": "2026-09-18",
+   "category": "AI/ML"
+  },
+  {
    "company": "Amazon",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
@@ -4947,6 +4931,14 @@
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Software Engineer II - Distributed Systems",
+   "location": "Canada, British Columbia, Vancouver; Canada, Ontario, Greater Toronto",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556928710",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
