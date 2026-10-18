@@ -1,11 +1,27 @@
 {
- "generated_at": "2026-10-18 00:24 UTC",
+ "generated_at": "2026-10-18 04:58 UTC",
  "count": 703,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer, Global Payments Technology",
+   "location": "Toronto, ON, CA, M5C2V9",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-ON-M5C2V9/603784817/",
+   "first_seen": "2026-10-18",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "title": "Software Engineer (Java)",
+   "location": "Toronto, ON, CA, M5H4A6",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java%29-ON-M5H4A6/602837017/",
+   "first_seen": "2026-10-18",
+   "category": "SDE"
+  },
   {
    "company": "Snap",
    "title": "Software Engineer, Level 3, Backend",
@@ -4143,14 +4159,6 @@
    "category": "SDE"
   },
   {
-   "company": "Stripe",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=8212517",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "SeatGeek",
    "title": "Software Engineer New Grad",
    "location": "NYC",
@@ -4195,14 +4203,6 @@
    "title": "Software Engineer, Driver Earnings",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
-   "first_seen": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Fortinet",
-   "title": "Software Development Engineer - Gui",
-   "location": "Sunnyvale, CA",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
    "first_seen": "2026-09-28",
    "category": "SDE"
   },
