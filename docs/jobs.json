@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18 21:42 UTC",
- "count": 700,
+ "generated_at": "2026-10-18 23:42 UTC",
+ "count": 697,
  "stats": {
   "sources": 168,
   "ats": 27
@@ -187,6 +187,14 @@
    "title": "Software Engineer 1",
    "location": "SF",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer (hybrid)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -561,16 +569,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -4199,22 +4207,6 @@
    "category": "SDE"
   },
   {
-   "company": "ByteDance",
-   "title": "Software Engineer - AI Compute",
-   "location": "San Jose, CA",
-   "url": "https://jobs.bytedance.com/en/position/7686733097398290693/detail",
-   "first_seen": "2026-09-28",
-   "category": "AI/ML"
-  },
-  {
-   "company": "ByteDance",
-   "title": "Graduate Software Engineer - AI Compute",
-   "location": "Seattle, WA",
-   "url": "https://jobs.bytedance.com/en/position/7686732729746950405/detail",
-   "first_seen": "2026-09-28",
-   "category": "AI/ML"
-  },
-  {
    "company": "Authentic",
    "title": "Software Engineer New Grad",
    "location": "NYC",
@@ -4269,14 +4261,6 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
    "first_seen": "2026-09-25",
    "category": "Other"
-  },
-  {
-   "company": "Salesforce",
-   "title": "Software Engineering LMTS",
-   "location": "Canada - Vancouver",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR356646",
-   "first_seen": "2026-09-24",
-   "category": "SDE"
   },
   {
    "company": "Magnet Forensics",
@@ -4444,14 +4428,6 @@
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22865",
    "first_seen": "2026-09-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Intuit",
-   "title": "Software Developer 1 - Canada Tax Content",
-   "location": "Toronto, ON, Canada",
-   "url": "https://jobs.intuit.com/job/toronto/software-developer-1-canada-tax-content/27595/100815475200",
-   "first_seen": "2026-09-19",
    "category": "SDE"
   },
   {
