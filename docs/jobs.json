@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19 07:27 UTC",
+ "generated_at": "2026-10-19 14:55 UTC",
  "count": 693,
  "stats": {
   "sources": 168,
@@ -23,20 +23,28 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer, Global Payments Technology",
-   "location": "Toronto, ON, CA, M5C2V9",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-ON-M5C2V9/603784817/",
-   "first_seen": "2026-10-18",
+   "company": "Pogo",
+   "title": "GTM Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/2bf03808-2afd-456f-a268-7e7fab0f238b",
+   "first_seen": "2026-10-19",
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "title": "Software Engineer (Java)",
-   "location": "Toronto, ON, CA, M5H4A6",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java%29-ON-M5H4A6/602837017/",
-   "first_seen": "2026-10-18",
+   "company": "Pogo",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/bbed5bc7-2f72-4d0b-9529-e22bd046dc5d",
+   "first_seen": "2026-10-19",
    "category": "SDE"
+  },
+  {
+   "company": "Kraken Robotics",
+   "title": "Cybersecurity Specialist",
+   "location": "Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada; Houston, TX, United States",
+   "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
+   "first_seen": "2026-10-19",
+   "category": "Security"
   },
   {
    "company": "Snap",
@@ -259,14 +267,6 @@
    "title": "Software Engineer",
    "location": "Boston, MA; Seattle, WA; Sterling, VA; Scottsdale, AZ; NYC",
    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003",
-   "first_seen": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "Software Engineer 3",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-III_R2631234",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -577,16 +577,16 @@
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
+   "location": "SEA, SF, NY, Toronto",
+   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Stripe",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
-   "location": "SEA, SF, NY, Toronto",
-   "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+   "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
+   "url": "https://stripe.com/jobs/search?gh_jid=7292520",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -1248,6 +1248,14 @@
   },
   {
    "company": "StackAdapt",
+   "title": "Quality Engineer",
+   "location": "Canada; Ontario; Vancouver",
+   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4178654009",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "StackAdapt",
    "title": "Integrations Developer",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4357710009",
@@ -1587,22 +1595,6 @@
    "title": "(Canada) Software Implementation Consultant - Clinical",
    "location": "Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/6b7f5c7a-372b-4a4a-8187-b2c347157e14",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "title": "GTM Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/dd64707a-2f98-4d4e-ab24-5f6836ac2887",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/6c485313-37b6-4f5b-a364-87e910310951",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -5427,6 +5419,14 @@
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23594",
+   "first_seen": "2026-09-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
