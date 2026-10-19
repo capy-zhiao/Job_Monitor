@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-10-19 01:47 UTC",
- "count": 694,
+ "generated_at": "2026-10-19 07:27 UTC",
+ "count": 693,
  "stats": {
   "sources": 168,
   "ats": 27
  },
  "jobs": [
+  {
+   "company": "Scotiabank",
+   "title": "Junior Software Engineer",
+   "location": "Toronto, ON, CA, M1L4S2",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/604648717/",
+   "first_seen": "2026-10-19",
+   "category": "SDE"
+  },
   {
    "company": "Promise Robotics",
    "title": "Robotics and Control Support Engineer",
@@ -75,14 +83,6 @@
    "title": "Backend Engineer Graduate - Account - 2027 Start",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7696779797359233333",
-   "first_seen": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "title": "Software Engineer, Global Payments Technology (Backend Java Developer)",
-   "location": "Toronto, ON, CA",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-%28Backend-Java-Developer%29-ON/604531517/",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -195,6 +195,14 @@
    "title": "Software Engineer 1",
    "location": "SF",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco (Security)",
+   "title": "Software Developer (hybrid)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -3559,14 +3567,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco (Security)",
-   "title": "Software Developer I (Full Time) - Canada",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
-   "first_seen": "2026-10-08",
-   "category": "SDE"
-  },
-  {
    "company": "Chalk",
    "title": "Software Engineer New Grad",
    "location": "SF; NYC",
@@ -5427,14 +5427,6 @@
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23594",
-   "first_seen": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco (Security)",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
    "first_seen": "2026-09-01",
    "category": "SDE"
   },
