@@ -538,7 +538,7 @@
   "last_ok": "2026-10-20"
  },
  "SAP": {
-  "fail_runs": 1,
+  "fail_runs": 2,
   "last_error": "HTTP Error 404: Not Found"
  },
  "SKYTRAC": {
