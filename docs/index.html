@@ -4,91 +4,196 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>New-grad tech jobs · Canada &amp; US</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script>
+  // Theme before first paint: the visitor's saved choice, else the system setting.
+  (function () {
+    var t = null;
+    try { t = localStorage.getItem("jm_theme"); } catch (e) {}
+    if (t !== "light" && t !== "dark") t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    document.documentElement.dataset.theme = t;
+  })();
+</script>
 <style>
+  /* Rosé Pine (Dawn in light mode) with IBM Plex. The page is typographic: hairline rules,
+     a table grouped by the day a role was first seen, no cards. The gradient appears in
+     two places, the rule under the masthead and the chart line, and both draw in on load. */
   :root {
-    --bg: #ffffff; --fg: #1a1a1a; --muted: #6b7280; --border: #e5e7eb;
-    --card: #f9fafb; --accent: #2563eb; --new-bg: #dcfce7; --new-fg: #166534;
-    --star: #d69e2e;
+    --bg: #faf4ed; --surface: #fffaf3; --hover: #f4ede8;
+    --border: #e9e0d8; --border-strong: #cecacd;
+    --fg: #575279; --fg-strong: #3a3657; --muted: #797593; --faint: #9893a5;
+    --g1: #ea9d34; --g2: #d7537a; --g3: #907aa9; --link: #286983;
+    --sky: #286983; --indigo: #907aa9; --emerald: #3e8f7d; --amber: #c37d24;
+    --red: #b4637a; --cyan: #56949f; --slate: #797593;
+    color-scheme: light;
+  }
+  :root[data-theme="dark"] {
+    --bg: #191724; --surface: #1f1d2e; --hover: #211f30;
+    --border: #2a273f; --border-strong: #403d52;
+    --fg: #e0def4; --fg-strong: #f2f0ff; --muted: #908caa; --faint: #6e6a86;
+    --g1: #f6c177; --g2: #eb6f92; --g3: #c4a7e7; --link: #9ccfd8;
+    --sky: #9ccfd8; --indigo: #c4a7e7; --emerald: #8fc6a6; --amber: #f6c177;
+    --red: #eb6f92; --cyan: #9ccfd8; --slate: #908caa;
+    color-scheme: dark;
   }
   * { box-sizing: border-box; }
+  html, body { margin: 0; }
   body {
-    margin: 0 auto; max-width: 1080px; padding: 24px 16px 64px;
     background: var(--bg); color: var(--fg);
-    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font: 15px/1.55 "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
   }
-  .layout { display: flex; gap: 24px; align-items: flex-start; }
-  .filters {
-    width: 210px; flex-shrink: 0; position: sticky; top: 16px;
-    display: flex; flex-direction: column; gap: 8px;
+  ::selection { background: color-mix(in srgb, var(--g2) 30%, transparent); }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .mono { font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace; }
+  .num { font-variant-numeric: tabular-nums; }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 0 16px; }
+
+  /* Masthead: a name and three text links over a gradient rule */
+  .mast-row { display: flex; align-items: baseline; gap: 18px; padding-top: 20px; padding-bottom: 12px; }
+  .brand { font: 500 14px/1 "IBM Plex Mono", ui-monospace, monospace; color: var(--fg-strong); letter-spacing: -.01em; }
+  .brand:hover { text-decoration: none; }
+  .mast-row nav { margin-left: auto; display: flex; gap: 18px; font-size: 14px; }
+  .mast-row nav a, .linkbtn { color: var(--muted); }
+  .mast-row nav a:hover, .linkbtn:hover { color: var(--fg-strong); }
+  .linkbtn { background: none; border: 0; padding: 0; font: inherit; cursor: pointer; }
+  .rule { height: 2px; background: linear-gradient(90deg, var(--g1), var(--g2) 55%, var(--g3));
+          transform-origin: left; animation: grow 1.2s cubic-bezier(.2, .8, .2, 1) both; }
+
+  /* Intro */
+  h1 { font-size: 30px; line-height: 1.2; font-weight: 600; letter-spacing: -.02em; color: var(--fg-strong); margin: 40px 0 10px; }
+  .lead { font-size: 17px; color: var(--muted); max-width: 640px; margin: 0; }
+  .lead b { color: var(--fg-strong); font-weight: 600; }
+  .byline { font-size: 13px; color: var(--faint); margin: 10px 0 0; }
+
+  section { border-top: 1px solid var(--border); }
+
+  /* Trend */
+  .trend { margin-top: 36px; padding-top: 14px; }
+  .trend-head { display: flex; justify-content: space-between; align-items: baseline; gap: 6px 16px; flex-wrap: wrap; margin-bottom: 14px; }
+  .trend-read { display: flex; align-items: baseline; gap: 4px 12px; flex-wrap: wrap; }
+  .trend-title { font-size: 13px; color: var(--muted); }
+  #trend-now { font-size: 22px; font-weight: 500; color: var(--fg-strong); }
+  .delta { font-size: 13px; color: var(--muted); }
+  .delta.up { color: var(--emerald); } .delta.down { color: var(--red); }
+  .range { display: flex; gap: 14px; }
+  .range button { background: none; border: 0; padding: 2px 0; cursor: pointer; color: var(--faint);
+                  font: 400 12.5px/1.4 "IBM Plex Mono", ui-monospace, monospace; border-bottom: 1px solid transparent; }
+  .range button:hover { color: var(--fg); }
+  .range button[aria-pressed="true"] { color: var(--fg-strong); border-bottom-color: var(--g2); }
+  .trend-plot { position: relative; height: 190px; }
+  #trend-svg { display: block; width: 100%; height: 100%; overflow: visible; }
+  #trend-svg .ylab { font: 400 10.5px "IBM Plex Mono", ui-monospace, monospace; fill: var(--faint); }
+  .trend-axis { position: relative; height: 16px; margin-top: 6px; font-size: 11px; color: var(--faint); }
+  .trend-axis span { position: absolute; top: 0; transform: translateX(-50%); white-space: nowrap; }
+  .trend-axis span:first-child { transform: none; }
+  .trend-axis span:last-child { transform: translateX(-100%); }
+  .trend-line.draw { stroke-dasharray: var(--len); stroke-dashoffset: var(--len); animation: draw 1.1s cubic-bezier(.2, .8, .2, 1) forwards; }
+  .trend-area.draw { opacity: 0; animation: fade-in .7s .35s ease forwards; }
+  .trend-tip {
+    position: absolute; pointer-events: none; transform: translate(-50%, -120%); z-index: 5; white-space: nowrap;
+    background: var(--surface); color: var(--fg); border: 1px solid var(--border-strong); border-radius: 4px;
+    font-size: 12px; padding: 3px 8px;
   }
-  .filters .ftitle { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin-bottom: 2px; }
-  .filters input, .filters select { width: 100%; }
-  .main { flex: 1; min-width: 0; }
-  @media (max-width: 720px) {
-    .layout { flex-direction: column; }
-    .filters { width: auto; position: static; flex-direction: row; flex-wrap: wrap; }
-    .filters .ftitle { display: none; }
-    .filters input { flex: 1; min-width: 180px; }
-    .filters select { width: auto; }
-  }
-  h1 { font-size: 22px; margin: 0 0 4px; }
-  .sub { color: var(--muted); font-size: 13px; margin-bottom: 16px; }
-  .sub a { color: var(--accent); }
-  .stats { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
-  .stat {
-    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
-    padding: 8px 14px; min-width: 92px;
-  }
-  .stat .n { font-size: 20px; font-weight: 600; }
-  .stat .l { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
-  .controls { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+
+  /* Filters: one row above the table */
+  .tools { margin-top: 32px; padding-top: 16px; display: flex; flex-wrap: wrap; gap: 8px; }
+  .tools input { flex: 1 1 100%; }
+  .tools select { flex: 1 1 0; min-width: 0; }
   input, select {
-    padding: 8px 12px; border: 1px solid var(--border); border-radius: 8px;
-    background: var(--bg); color: var(--fg); font-size: 14px;
+    padding: 7px 10px; border: 1px solid var(--border); border-radius: 4px;
+    background: var(--surface); color: var(--fg); font: inherit; font-size: 13.5px;
   }
-  input { flex: 1; min-width: 180px; }
-  .job {
-    padding: 12px 14px; margin-bottom: 8px;
-    background: var(--card); border: 1px solid var(--border); border-radius: 10px;
+  input:hover, select:hover { border-color: var(--border-strong); }
+  input:focus-visible, select:focus-visible { outline: 2px solid color-mix(in srgb, var(--g2) 45%, transparent); outline-offset: 1px; }
+  .meta { font-size: 12.5px; color: var(--faint); margin: 14px 0 6px; }
+
+  /* Table, grouped by the day a role was first seen */
+  .day { position: sticky; top: 0; z-index: 2; display: flex; justify-content: space-between; align-items: baseline;
+         margin: 0; padding: 14px 8px 6px; background: var(--bg); border-bottom: 1px solid var(--border);
+         font-size: 12.5px; font-weight: 500; color: var(--fg-strong); }
+  .day .n { font-weight: 400; color: var(--faint); }
+  .job { display: grid; grid-template-columns: 76px minmax(110px, 180px) minmax(0, 1fr) minmax(90px, 200px) auto;
+         grid-template-areas: "tag co t loc acts"; column-gap: 14px; align-items: baseline;
+         padding: 8px 8px; border-bottom: 1px solid var(--border); }
+  .job:hover { background: var(--hover); }
+  .job.applied { opacity: .5; }
+  .tag { grid-area: tag; --c: var(--slate); color: var(--c); font-size: 12px; }
+  .co { grid-area: co; color: var(--fg); font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .tcell { grid-area: t; min-width: 0; }
+  .t { color: var(--fg-strong); }
+  .t:hover { color: var(--g2); }
+  .note { font-size: 12px; color: var(--faint); margin-left: 6px; white-space: nowrap; }
+  .note .past { color: var(--amber); }
+  .loc { grid-area: loc; font-size: 13px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .acts { grid-area: acts; display: flex; gap: 2px; }
+  .btn { background: none; border: none; cursor: pointer; font-size: 15px; line-height: 1; padding: 2px 4px; color: var(--faint); border-radius: 3px; }
+  .btn:hover { color: var(--fg-strong); }
+  .btn.on-star { color: var(--amber); }
+  .btn.on-applied { color: var(--emerald); }
+  .c-red { --c: var(--red); } .c-indigo { --c: var(--indigo); } .c-sky { --c: var(--sky); } .c-emerald { --c: var(--emerald); } .c-slate { --c: var(--slate); }
+  .empty { color: var(--muted); padding: 40px 8px; }
+  .enter > * { animation: rise-in .4s cubic-bezier(.2, .8, .2, 1) both; animation-delay: calc(var(--i, 12) * 25ms); }
+
+  footer { margin: 48px 0 56px; padding-top: 14px; border-top: 1px solid var(--border); color: var(--faint); font-size: 12.5px; max-width: 720px; }
+
+  @media (max-width: 720px) {
+    h1 { font-size: 25px; margin-top: 28px; }
+    .lead { font-size: 16px; }
+    .mast-row nav { gap: 14px; }
+    .tools select { flex: 1 1 40%; }
+    .job { grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "co co acts" "t t t" "tag loc loc"; row-gap: 2px; column-gap: 10px; }
   }
-  .job.applied { opacity: .55; }
-  .job .row { display: flex; align-items: flex-start; gap: 8px; }
-  .job .t { font-weight: 600; text-decoration: none; color: inherit; flex: 1; }
-  .job .t:hover { color: var(--accent); text-decoration: underline; }
-  .job .m { color: var(--muted); font-size: 13px; margin-top: 4px; }
-  .btn {
-    background: none; border: none; cursor: pointer; font-size: 16px; line-height: 1;
-    padding: 2px 4px; color: var(--muted); border-radius: 6px;
+  @media (max-width: 420px) { .mast-row nav .wide { display: none; } }
+
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes fade-in { to { opacity: 1; } }
+  @keyframes rise-in { from { opacity: 0; transform: translateY(6px); } }
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+    .trend-line.draw { stroke-dasharray: none; stroke-dashoffset: 0; }
+    .trend-area.draw { opacity: 1; }
   }
-  .btn:hover { background: var(--border); }
-  .btn.on-star { color: var(--star); }
-  .btn.on-applied { color: var(--new-fg); }
-  .chip {
-    display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 8px;
-    border-radius: 999px; margin-right: 6px; vertical-align: 1px;
-  }
-  .badge {
-    display: inline-block; font-size: 11px; font-weight: 600; padding: 1px 8px;
-    border-radius: 999px; background: var(--new-bg); color: var(--new-fg);
-    margin-right: 6px; vertical-align: 1px;
-  }
-  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
-  footer { margin-top: 32px; color: var(--muted); font-size: 12px; }
-  footer a { color: var(--accent); }
 </style>
 </head>
 <body>
-<h1>New-grad tech jobs · Canada &amp; US</h1>
-<div class="sub">
-  Built by <a href="https://github.com/capy-zhiao">Zhiao Wei (@capy-zhiao)</a>
-  · <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor on GitHub</a>
-  · <a href="https://discord.gg/aF94kfHeJ">Join Discord for real-time alerts</a>
-</div>
+<header>
+  <div class="wrap mast-row">
+    <a class="brand" href="./">job_monitor</a>
+    <nav>
+      <a href="https://github.com/capy-zhiao/Job_Monitor">GitHub</a>
+      <a class="wide" href="https://discord.gg/aF94kfHeJ">Discord alerts</a>
+      <button id="theme" class="linkbtn" type="button"></button>
+    </nav>
+  </div>
+  <div class="wrap"><div class="rule"></div></div>
+</header>
 
-<div class="layout">
-<aside class="filters">
-  <div class="ftitle">Filters</div>
-  <input id="q" type="search" placeholder="Search…">
+<main class="wrap">
+<h1>New-grad tech jobs in Canada &amp; the US</h1>
+<p class="lead" id="lead">Loading openings…</p>
+<p class="byline">Built by <a href="https://github.com/capy-zhiao">Zhiao Wei</a>. Saved and applied marks stay in your browser.</p>
+
+<section id="trend" class="trend" hidden>
+  <div class="trend-head">
+    <div class="trend-read"><span class="trend-title">Canadian roles tracked</span><span class="mono num" id="trend-now"></span><span class="delta" id="trend-delta"></span></div>
+    <div class="range" id="trend-range" role="group" aria-label="Time range">
+      <button type="button" data-range="7">7d</button><button type="button" data-range="30">30d</button><button type="button" data-range="all">all</button>
+    </div>
+  </div>
+  <div class="trend-plot" id="trend-plot">
+    <svg id="trend-svg" aria-label="Canadian roles tracked over time"></svg>
+    <div id="trend-tip" class="trend-tip" hidden></div>
+  </div>
+  <div class="trend-axis mono" id="trend-axis"></div>
+</section>
+
+<section class="tools" aria-label="Filters">
+  <input id="q" type="search" placeholder="Search company, title or city">
   <select id="category"><option value="">All roles</option></select>
   <select id="country">
     <option value="">Canada &amp; US</option>
@@ -114,34 +219,18 @@
     <option value="applied">✓ Applied</option>
     <option value="unapplied">Hide applied</option>
   </select>
-</aside>
-
-<main class="main">
-<div class="stats" id="stats"></div>
-
-<div id="trend" hidden style="position:relative;background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px 18px;margin-bottom:16px">
-  <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px">
-    <div style="font-weight:600;font-size:15px">Open roles in Canada over time</div>
-    <div style="font-size:12px;color:var(--muted)" id="trend-sub"></div>
-  </div>
-  <svg id="trend-svg" width="100%" viewBox="0 0 640 180" preserveAspectRatio="none" style="display:block"></svg>
-  <div style="display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:6px" id="trend-axis"></div>
-  <div id="trend-tip" hidden style="position:absolute;pointer-events:none;transform:translate(-50%,-115%);background:#1a1a1a;color:#fff;font-size:12px;padding:4px 8px;border-radius:6px;white-space:nowrap;z-index:5"></div>
-</div>
-
-<div class="sub" id="meta">loading…</div>
+</section>
+<div class="meta mono" id="meta">loading…</div>
 <div id="list"></div>
-</main>
-</div>
 
 <footer>
-  Auto-collected every ~15 minutes from company career APIs and community
-  new-grad lists by <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor</a>.
+  Collected every ~15 minutes from company career APIs and community new-grad lists by
+  <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor</a>.
   Canadian roles come from company career sites; US roles come from the community new-grad lists
   (roles requiring US citizenship or explicitly not offering sponsorship are dropped).
-  Entry-level software / security / research titles only.
-  Saved &amp; applied marks are stored only in your browser.
+  Entry-level software, security and research titles only.
 </footer>
+</main>
 
 <script>
 let DATA = { jobs: [], stats: {} };
@@ -149,13 +238,21 @@ const $ = id => document.getElementById(id);
 const daysAgo = iso => (Date.now() - new Date(iso + "T00:00:00Z")) / 86400000;
 const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-const CAT_COLORS = {
-  "Security": ["#fbeaea", "#a32d2d"], "AI/ML": ["#eeedfe", "#3c3489"],
-  "SDE": ["#e6f1fb", "#0c447c"], "Research": ["#e1f5ee", "#0f6e56"],
-  "Other": ["#f1efe8", "#5f5e5a"],
-};
-// grad-year chip: green for 2027 and later, amber for years already past
-const YEAR_COLORS = { "2026": ["#fdf0e3", "#8a5a12"] };
+// Category column: a lowercase word in the category's hue.
+const CAT_CLASS = { "Security": "c-red", "AI/ML": "c-indigo", "SDE": "c-sky", "Research": "c-emerald", "Other": "c-slate" };
+// A graduation year that has already passed is shown in amber.
+const PAST_YEARS = new Set(["2026"]);
+// first_seen is a UTC date; "Today" is judged by the viewer's own calendar, so a role
+// found at 23:00 UTC still reads as today in Toronto that evening.
+const now = new Date();
+const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+function dayLabel(d) {
+  const diff = Math.round((today - Date.parse(d)) / 86400000);
+  if (diff <= 0) return "Today";
+  if (diff === 1) return "Yesterday";
+  return new Date(d + "T00:00:00Z").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
+}
+let firstRender = true;
 // Work type is read off the title. Internships, co-op terms and student
 // positions are all term roles; anything else is treated as full-time.
 // The word boundary keeps "Internal" and "International" out of the match.
@@ -224,52 +321,55 @@ function render() {
     return true;
   });
 
-  $("list").innerHTML = rows.length ? rows.map(j => {
-    const c = j.category || "Other", col = CAT_COLORS[c] || CAT_COLORS.Other;
-    const isNew = daysAgo(j.first_seen) <= 2, sv = SAVED.has(j.url), ap = APPLIED.has(j.url);
+  // jobs.json is newest first, so a header goes in wherever the day changes
+  const perDay = {};
+  rows.forEach(j => { perDay[j.first_seen] = (perDay[j.first_seen] || 0) + 1; });
+  let html = "", prev = null, n = 0;
+  const idx = () => (n < 16 ? ` style="--i:${n++}"` : "");
+  for (const j of rows) {
+    if (j.first_seen !== prev) {
+      prev = j.first_seen;
+      html += `<h2 class="day"${idx()}><span>${dayLabel(prev)}</span><span class="n mono">${perDay[prev]}</span></h2>`;
+    }
+    const c = j.category || "Other", sv = SAVED.has(j.url), ap = APPLIED.has(j.url);
     const yr = (j.title.match(/\b(20[2-9]\d)\b/) || [])[1];
-    const ycol = YEAR_COLORS[yr] || ["#e1f5ee", "#0f6e56"];
-    const isIntern = workType(j.title) === "intern";
-    return `<div class="job${ap ? " applied" : ""}">
-      <div class="row">
-        <a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.company)}: ${esc(j.title)}</a>
+    const notes = [workType(j.title) === "intern" ? "intern" : "",
+                   yr ? `<span class="${PAST_YEARS.has(yr) ? "past" : ""}" title="Year in the job title">${yr}</span>` : ""].filter(Boolean);
+    html += `<div class="job${ap ? " applied" : ""}"${idx()}>
+      <span class="tag mono ${CAT_CLASS[c] || CAT_CLASS.Other}">${esc(c.toLowerCase())}</span>
+      <span class="co" title="${esc(j.company)}">${esc(j.company)}</span>
+      <span class="tcell"><a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.title)}</a>${notes.length ? `<span class="note mono">${notes.join(" · ")}</span>` : ""}</span>
+      <span class="loc" title="${esc(j.location)}">${esc(j.location || "—")}</span>
+      <span class="acts">
         <button class="btn ${sv ? "on-star" : ""}" data-save="${esc(j.url)}" aria-label="Save" title="Save">${sv ? "★" : "☆"}</button>
         <button class="btn ${ap ? "on-applied" : ""}" data-applied="${esc(j.url)}" aria-label="Mark applied" title="Mark applied">✓</button>
-      </div>
-      <div class="m">
-        <span class="chip" style="background:${col[0]};color:${col[1]}">${esc(c)}</span>
-        ${isNew ? '<span class="badge">NEW</span>' : ""}
-        ${yr ? `<span class="chip" style="background:${ycol[0]};color:${ycol[1]}" title="Year mentioned in the job title">${yr}</span>` : ""}
-        ${isIntern ? '<span class="chip" style="background:#eef2f7;color:#41618a">Intern</span>' : ""}
-        ${esc(j.location || "—")} · first seen ${j.first_seen}
-      </div>
+      </span>
     </div>`;
-  }).join("") : '<div class="empty">No jobs match.</div>';
+  }
+  const list = $("list");
+  list.innerHTML = html || '<div class="empty">No jobs match these filters.</div>';
+  // Rows rise in on the first paint only, not on every keystroke in the search box
+  list.classList.toggle("enter", firstRender);
+  firstRender = false;
 
-  $("list").querySelectorAll("[data-save]").forEach(b =>
+  list.querySelectorAll("[data-save]").forEach(b =>
     b.onclick = () => toggle(SAVED, "jm_saved", b.dataset.save));
-  $("list").querySelectorAll("[data-applied]").forEach(b =>
+  list.querySelectorAll("[data-applied]").forEach(b =>
     b.onclick = () => toggle(APPLIED, "jm_applied", b.dataset.applied));
 
-  $("meta").textContent = `${rows.length} of ${DATA.count} openings · updated ${DATA.generated_at}`;
+  const marks = [SAVED.size ? `${SAVED.size} saved` : "", APPLIED.size ? `${APPLIED.size} applied` : ""].filter(Boolean);
+  $("meta").textContent = [`${rows.length} of ${DATA.count} shown`, ...marks, `updated ${DATA.generated_at}`].join(" · ");
   writeURL();
 }
 
-function renderStats() {
-  const jobs = DATA.jobs, newToday = jobs.filter(j => daysAgo(j.first_seen) <= 2).length;
+// One sentence instead of a row of number tiles
+function renderLead() {
+  const jobs = DATA.jobs, s = DATA.stats || {};
+  const fresh = jobs.filter(j => daysAgo(j.first_seen) <= 2).length;
   const companies = new Set(jobs.map(j => j.company)).size;
-  const s = DATA.stats || {};
-  const tiles = [
-    [DATA.count || jobs.length, "openings"],
-    [newToday, "new (48h)"],
-    [companies, "companies"],
-    [SAVED.size, "★ saved"],
-    [APPLIED.size, "✓ applied"],
-  ];
-  if (s.sources) tiles.push([s.sources, "sources"]);
-  if (s.ats) tiles.push([s.ats, "ATS integrations"]);
-  $("stats").innerHTML = tiles.map(t =>
-    `<div class="stat"><div class="n">${t[0]}</div><div class="l">${t[1]}</div></div>`).join("");
+  const fmt = v => `<b class="num">${Number(v).toLocaleString("en-US")}</b>`;
+  $("lead").innerHTML = `${fmt(DATA.count || jobs.length)} open roles at ${fmt(companies)} companies, ${fmt(fresh)} of them first seen in the last 48 hours.`
+    + (s.sources ? ` Checked every 15 minutes across ${fmt(s.sources)} sources.` : "");
 }
 
 fetch("jobs.json?" + Date.now())
@@ -286,62 +386,139 @@ fetch("jobs.json?" + Date.now())
       const o = document.createElement("option"); o.value = o.textContent = c; $("company").appendChild(o);
     });
     readURL();
-    renderStats();
+    renderLead();
     render();
   })
-  .catch(() => { $("meta").textContent = "failed to load jobs.json"; });
+  .catch(() => { $("meta").textContent = "failed to load jobs.json"; $("lead").textContent = "Could not load the openings."; });
 
 FILTERS.forEach(f => $(f).addEventListener("input", render));
 
-// Trend chart — built from the daily history.json snapshots (cold-starts as a
-// short line and fills in as days accrue).
-function renderTrend(history) {
-  if (!Array.isArray(history) || history.length < 2) return;  // need ≥2 days
-  const W = 640, H = 180, pad = 10;
-  const val = h => (h.ca ?? h.total);
-  const vals = history.map(val);
-  const min = Math.min(...vals), max = Math.max(...vals), span = max - min || 1;
-  const x = i => (history.length === 1 ? W : (i / (history.length - 1)) * W);
-  const y = v => pad + (1 - (v - min) / span) * (H - 2 * pad);
-  const pts = history.map((h, i) => `${x(i).toFixed(1)},${y(val(h)).toFixed(1)}`);
-  const grid = [pad, H / 2, H - pad].map(gy =>
-    `<line x1="0" y1="${gy}" x2="${W}" y2="${gy}" stroke="var(--border)" stroke-width="1"/>`).join("");
-  const area = `<polygon points="0,${H} ${pts.join(" ")} ${W},${H}" fill="var(--accent)" fill-opacity="0.10"/>`;
-  const line = `<polyline points="${pts.join(" ")}" fill="none" stroke="var(--accent)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>`;
-  const last = pts[pts.length - 1].split(",");
-  const dot = `<circle cx="${last[0]}" cy="${last[1]}" r="3.5" fill="var(--accent)"/>`;
-  // hover guide (updated on pointermove)
-  const guide = `<line id="trend-guide" x1="0" y1="0" x2="0" y2="${H}" stroke="var(--accent)" stroke-width="1" stroke-dasharray="3 3" visibility="hidden"/>`
-    + `<circle id="trend-hot" r="4" fill="var(--accent)" stroke="#fff" stroke-width="1.5" visibility="hidden"/>`;
-  $("trend-svg").innerHTML = grid + area + line + dot + guide;
+// Trend chart, built from the daily history.json snapshots. It plots Canadian openings
+// (history before the US lists were added is Canada-only), draws at the plot's real pixel
+// size so text and strokes stay crisp, and redraws on resize and range changes.
+let HIST = [], RANGE = "all";
+const tval = h => (h.ca ?? h.total);
+const fmtDay = d => new Date(d + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 
-  const first = val(history[0]), cur = val(history[history.length - 1]);
+// Monotone cubic (Fritsch-Carlson): smooth, but never overshoots between days.
+function smoothPath(p) {
+  const n = p.length;
+  if (n < 2) return n ? `M${p[0][0]},${p[0][1]}` : "";
+  const dx = [], m = [];
+  for (let i = 0; i < n - 1; i++) { dx[i] = p[i + 1][0] - p[i][0]; m[i] = (p[i + 1][1] - p[i][1]) / dx[i]; }
+  const t = [m[0]];
+  for (let i = 1; i < n - 1; i++) t[i] = m[i - 1] * m[i] <= 0 ? 0 : (m[i - 1] + m[i]) / 2;
+  t[n - 1] = m[n - 2];
+  for (let i = 0; i < n - 1; i++) {
+    if (m[i] === 0) { t[i] = t[i + 1] = 0; continue; }
+    const a = t[i] / m[i], b = t[i + 1] / m[i], h = a * a + b * b;
+    if (h > 9) { const k = 3 / Math.sqrt(h); t[i] = k * a * m[i]; t[i + 1] = k * b * m[i]; }
+  }
+  let d = `M${p[0][0].toFixed(1)},${p[0][1].toFixed(1)}`;
+  for (let i = 0; i < n - 1; i++) {
+    const h = dx[i] / 3;
+    d += ` C${(p[i][0] + h).toFixed(1)},${(p[i][1] + t[i] * h).toFixed(1)} ${(p[i + 1][0] - h).toFixed(1)},${(p[i + 1][1] - t[i + 1] * h).toFixed(1)} ${p[i + 1][0].toFixed(1)},${p[i + 1][1].toFixed(1)}`;
+  }
+  return d;
+}
+
+// Round axis values: 0, 200, 400 rather than 13, 287, 561.
+function niceTicks(min, max, count) {
+  const raw = (max - min || 1) / count, mag = 10 ** Math.floor(Math.log10(raw)), r = raw / mag;
+  const step = (r < 1.5 ? 1 : r < 3 ? 2 : r < 7 ? 5 : 10) * mag;
+  const lo = Math.floor(min / step) * step, hi = Math.ceil(max / step) * step, ticks = [];
+  for (let v = lo; v <= hi + step / 2; v += step) ticks.push(Math.round(v));
+  return { lo, hi, ticks };
+}
+
+function drawTrend(animate) {
+  const all = HIST, days = RANGE === "all" ? all.length : Math.min(all.length, parseInt(RANGE, 10));
+  const h = all.slice(all.length - days);
+  if (h.length < 2) return;
+  const plot = $("trend-plot"), W = plot.clientWidth, H = plot.clientHeight;
+  if (!W) return;
+  const L = 40, R = 8, T = 10, B = 6;
+  const vals = h.map(tval), { lo, hi, ticks } = niceTicks(Math.min(...vals), Math.max(...vals), 4);
+  const x = i => L + (i / (h.length - 1)) * (W - L - R);
+  const y = v => T + (1 - (v - lo) / (hi - lo || 1)) * (H - T - B);
+  const pts = h.map((d, i) => [x(i), y(tval(d))]);
+  const path = smoothPath(pts);
+
+  const grid = ticks.map(v => `<line x1="${L}" x2="${W - R}" y1="${y(v).toFixed(1)}" y2="${y(v).toFixed(1)}" style="stroke:var(--border)" stroke-dasharray="2 4"/>`
+    + `<text class="ylab" x="${L - 8}" y="${(y(v) + 3.5).toFixed(1)}" text-anchor="end">${v.toLocaleString("en-US")}</text>`).join("");
+  const defs = `<defs><linearGradient id="jm-stroke" x1="0" y1="0" x2="1" y2="0">`
+    + `<stop offset="0" style="stop-color:var(--g1)"/><stop offset=".55" style="stop-color:var(--g2)"/><stop offset="1" style="stop-color:var(--g3)"/></linearGradient>`
+    + `<linearGradient id="jm-fill" x1="0" y1="0" x2="0" y2="1">`
+    + `<stop offset="0" style="stop-color:var(--g2);stop-opacity:.20"/><stop offset="1" style="stop-color:var(--g2);stop-opacity:0"/></linearGradient></defs>`;
+  const last = pts[pts.length - 1], cls = animate ? " draw" : "";
+  const area = `<path class="trend-area${cls}" d="${path} L${last[0].toFixed(1)},${H - B} L${L},${H - B} Z" fill="url(#jm-fill)"/>`;
+  const line = `<path class="trend-line${cls}" d="${path}" fill="none" stroke="url(#jm-stroke)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>`;
+  const end = `<circle cx="${last[0].toFixed(1)}" cy="${last[1].toFixed(1)}" r="7" style="fill:var(--g3);fill-opacity:.18"/>`
+    + `<circle cx="${last[0].toFixed(1)}" cy="${last[1].toFixed(1)}" r="3.5" style="fill:var(--g3)"/>`;
+  const hover = `<line id="trend-guide" y1="${T}" y2="${H - B}" style="stroke:var(--border-strong)" stroke-dasharray="3 3" visibility="hidden"/>`
+    + `<circle id="trend-hot" r="4" style="fill:var(--surface);stroke:var(--g2)" stroke-width="2" visibility="hidden"/>`;
+  const svg = $("trend-svg");
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  svg.innerHTML = defs + grid + area + line + end + hover;
+  const lineEl = svg.querySelector(".trend-line");
+  lineEl.style.setProperty("--len", lineEl.getTotalLength().toFixed(0));
+
+  // Headline: today's count and the change over the visible range
+  const first = tval(h[0]), cur = tval(h[h.length - 1]);
   const pct = first ? Math.round(((cur - first) / first) * 100) : 0;
-  const arrow = pct > 0 ? "▲" : pct < 0 ? "▼" : "▬";
-  const col = pct > 0 ? "var(--new-fg)" : pct < 0 ? "#a32d2d" : "var(--muted)";
-  $("trend-sub").innerHTML = `${history.length} days · <span style="color:${col}">${arrow} ${Math.abs(pct)}%</span>`;
-  $("trend-axis").innerHTML = `<span>${history[0].date}</span><span>${history[history.length - 1].date}</span>`;
-  $("trend").hidden = false;
+  $("trend-now").textContent = cur.toLocaleString("en-US");
+  $("trend-delta").className = "delta " + (pct > 0 ? "up" : pct < 0 ? "down" : "");
+  $("trend-delta").textContent = `${pct > 0 ? "+" : pct < 0 ? "−" : ""}${Math.abs(pct)}% since ${fmtDay(h[0].date)}`;
 
-  // interactive hover: nearest data point → tooltip + guide line + hot dot
-  const svg = $("trend-svg"), tip = $("trend-tip"), cont = $("trend");
-  const guideEl = document.getElementById("trend-guide"), hot = document.getElementById("trend-hot");
-  const coords = history.map((h, i) => ({ vx: x(i), vy: y(val(h)), h }));
+  // Evenly spaced date ticks, fewer on a phone
+  const n = Math.min(W < 500 ? 4 : 5, h.length), idx = [...new Set(Array.from({ length: n }, (_, k) => Math.round(k * (h.length - 1) / (n - 1))))];
+  $("trend-axis").innerHTML = idx.map(i => `<span style="left:${x(i).toFixed(0)}px">${fmtDay(h[i].date)}</span>`).join("");
+
+  const tip = $("trend-tip"), guide = $("trend-guide"), hot = $("trend-hot");
   svg.onpointermove = e => {
     const r = svg.getBoundingClientRect();
-    const frac = Math.min(1, Math.max(0, (e.clientX - r.left) / r.width));
-    const idx = Math.round(frac * (history.length - 1));
-    const p = coords[idx];
-    guideEl.setAttribute("x1", p.vx); guideEl.setAttribute("x2", p.vx); guideEl.setAttribute("visibility", "visible");
-    hot.setAttribute("cx", p.vx); hot.setAttribute("cy", p.vy); hot.setAttribute("visibility", "visible");
-    const cr = cont.getBoundingClientRect();
-    tip.style.left = ((r.left - cr.left) + (p.vx / 640) * r.width) + "px";
-    tip.style.top = ((r.top - cr.top) + (p.vy / 180) * r.height) + "px";
-    tip.innerHTML = `<b>${val(p.h)}</b> open in Canada · ${p.h.date}`;
-    tip.hidden = false;
+    const fx = Math.min(1, Math.max(0, (e.clientX - r.left - L) / (r.width - L - R)));
+    const i = Math.round(fx * (h.length - 1)), [px, py] = pts[i];
+    guide.setAttribute("x1", px); guide.setAttribute("x2", px); guide.setAttribute("visibility", "visible");
+    hot.setAttribute("cx", px); hot.setAttribute("cy", py); hot.setAttribute("visibility", "visible");
+    const diff = i ? tval(h[i]) - tval(h[i - 1]) : 0;
+    tip.innerHTML = `<span style="color:var(--muted)">${fmtDay(h[i].date)}</span> · <b>${tval(h[i]).toLocaleString("en-US")}</b> open`
+      + (i ? ` <span style="color:var(${diff >= 0 ? "--emerald" : "--red"})">${diff >= 0 ? "+" : "−"}${Math.abs(diff)}</span>` : "");
+    tip.style.left = px + "px"; tip.style.top = py + "px"; tip.hidden = false;
   };
-  svg.onpointerleave = () => { tip.hidden = true; guideEl.setAttribute("visibility", "hidden"); hot.setAttribute("visibility", "hidden"); };
+  svg.onpointerleave = () => { tip.hidden = true; guide.setAttribute("visibility", "hidden"); hot.setAttribute("visibility", "hidden"); };
 }
+
+function renderTrend(history) {
+  if (!Array.isArray(history) || history.length < 2) return;  // need ≥2 days
+  HIST = history;
+  $("trend").hidden = false;
+  document.querySelectorAll("#trend-range button").forEach(b => {
+    b.setAttribute("aria-pressed", String(b.dataset.range === RANGE));
+    b.onclick = () => {
+      RANGE = b.dataset.range;
+      document.querySelectorAll("#trend-range button").forEach(o => o.setAttribute("aria-pressed", String(o === b)));
+      drawTrend(true);
+    };
+  });
+  drawTrend(true);
+  let pending;
+  new ResizeObserver(() => { clearTimeout(pending); pending = setTimeout(() => drawTrend(false), 80); }).observe($("trend-plot"));
+}
+
+// Theme toggle, remembered per browser
+function paintThemeButton() {
+  const dark = document.documentElement.dataset.theme === "dark";
+  $("theme").textContent = dark ? "Light" : "Dark";
+  $("theme").setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
+}
+$("theme").onclick = () => {
+  const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("jm_theme", next); } catch (e) {}
+  paintThemeButton();
+};
+paintThemeButton();
 
 fetch("history.json?" + Date.now())
   .then(r => r.ok ? r.json() : [])
