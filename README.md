@@ -21,7 +21,7 @@ sends postings that are new and match my keywords and locations. The monitor has
 third-party dependencies; Python 3.8+ standard library only. A separate `/linkedin`
 Discord command searches LinkedIn on demand (see [below](#on-demand-linkedin-search)).
 
-**Live jobs page:** all currently-open matches, refreshed every ~15 minutes —
+**Live jobs page:** all currently-open matches, refreshed on each scheduled run —
 [capy-zhiao.github.io/Job_Monitor](https://capy-zhiao.github.io/Job_Monitor/)
 
 Search across every source, filter by role category (Security / AI-ML / SDE /
@@ -250,16 +250,17 @@ platform's response parsing.
 
 **GitHub Actions** (recommended, runs without your machine): push this repo to
 your own GitHub repository, add `DISCORD_WEBHOOK_URL` as a repository secret, and
-the included `.github/workflows/monitor.yml` runs every 15 minutes and commits
-`seen.json` back to persist state.
+the included `.github/workflows/monitor.yml` runs on a 15-minute cron and commits
+`seen.json` back to persist state. GitHub delays scheduled runs on busy days; this
+repo's runs usually land a few hours apart.
 
 ## Public jobs page
 
 The Actions run also emits every currently-matched posting to `docs/jobs.json`
 (via `run.py --emit-json`), which `docs/index.html` renders as a static,
 searchable page served by GitHub Pages: search box, per-company filter, and
-postings grouped by the day they were first seen. Discord stays the
-real-time channel; the page is the browsable full picture. A `first_seen.json`
+postings grouped by the day they were first seen. Discord is where new
+matches arrive; the page is the browsable full picture. A `first_seen.json`
 sidecar keeps stable discovery dates across runs.
 
 ## On-demand LinkedIn search

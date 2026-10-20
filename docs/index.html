@@ -224,7 +224,7 @@
 <div id="list"></div>
 
 <footer>
-  Collected every ~15 minutes from company career APIs and community new-grad lists by
+  Collected on a schedule from company career APIs and community new-grad lists by
   <a href="https://github.com/capy-zhiao/Job_Monitor">Job_Monitor</a>.
   Canadian roles come from company career sites; US roles come from the community new-grad lists
   (roles requiring US citizenship or explicitly not offering sponsorship are dropped).
@@ -369,7 +369,7 @@ function renderLead() {
   const companies = new Set(jobs.map(j => j.company)).size;
   const fmt = v => `<b class="num">${Number(v).toLocaleString("en-US")}</b>`;
   $("lead").innerHTML = `${fmt(DATA.count || jobs.length)} open roles at ${fmt(companies)} companies, ${fmt(fresh)} of them first seen in the last 48 hours.`
-    + (s.sources ? ` Checked every 15 minutes across ${fmt(s.sources)} sources.` : "");
+    + (s.sources ? ` Collected from ${fmt(s.sources)} sources.` : "");
 }
 
 fetch("jobs.json?" + Date.now())
