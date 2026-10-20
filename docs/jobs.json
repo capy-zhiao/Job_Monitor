@@ -1,12 +1,32 @@
 {
- "generated_at": "2026-10-20 09:18 UTC",
- "count": 665,
+ "generated_at": "2026-10-20 14:27 UTC",
+ "count": 657,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 176
  },
  "jobs": [
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "GTM Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/d78c69e3-aad0-42b9-b3bf-7028da91beeb",
+   "first_seen": "2026-10-20",
+   "posted": "2026-10-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/e35d6847-e600-4dcb-9e6e-5615e008641b",
+   "first_seen": "2026-10-20",
+   "posted": "2026-10-20",
+   "category": "SDE"
+  },
   {
    "company": "Palantir",
    "logo": "logos/palantir.com.png",
@@ -14,6 +34,25 @@
    "location": "NYC",
    "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
    "first_seen": "2026-10-20",
+   "posted": "2026-10-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Intern Cloud Developer, Platform Engineering",
+   "location": "CA-ON-Ottawa, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job",
+   "first_seen": "2026-10-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
+   "title": "Associate, Software Engineer, New Grad Card Expansion",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+   "first_seen": "2026-10-02",
    "posted": "2026-10-20",
    "category": "SDE"
   },
@@ -62,26 +101,6 @@
    "title": "Robotics and Control Support Engineer",
    "location": "Calgary, AB",
    "url": "https://jobs.lever.co/promiserobotics/612a1fa2-db57-4877-9b47-7acf88e04a8b",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-19",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "GTM Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/2bf03808-2afd-456f-a268-7e7fab0f238b",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-19",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/bbed5bc7-2f72-4d0b-9529-e22bd046dc5d",
    "first_seen": "2026-10-19",
    "posted": "2026-10-19",
    "category": "SDE"
@@ -244,16 +263,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ubisoft",
-   "logo": "logos/ubisoft.com.png",
-   "title": "Online programmer - (Online Service- Hosting Platforms)",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000156044259",
-   "first_seen": "2026-10-16",
-   "posted": "2026-10-16",
-   "category": "Other"
-  },
-  {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
    "title": "Backend Engineer Graduate - Account - 2027 Start",
@@ -326,16 +335,6 @@
    "title": "Software Engineer I - BizBuySell - San Francisco - CA",
    "location": "San Francisco, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
-   "first_seen": "2026-10-16",
-   "posted": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer (hybrid)",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
    "first_seen": "2026-10-16",
    "posted": "2026-10-16",
    "category": "SDE"
@@ -837,7 +836,7 @@
    "company": "Gaiia",
    "logo": "logos/gaiia.com.png",
    "title": "Forward Deployed Engineer (FDE)",
-   "location": "Remote (Canada); Remote (United States)",
+   "location": "Remote (United States); Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/56e20470-0648-4e6a-a2c4-acf907196110",
    "first_seen": "2026-10-14",
    "category": "SDE"
@@ -2655,6 +2654,16 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Forward Deployed Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+   "first_seen": "2026-10-04",
+   "posted": "2026-10-01",
+   "category": "SDE"
+  },
+  {
    "company": "Pinterest",
    "logo": "logos/pinterest.com.png",
    "title": "Master's University Graduate Data Scientist",
@@ -3989,16 +3998,6 @@
    "location": "Dartmouth, NS, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000149667518",
    "first_seen": "2026-10-13",
-   "posted": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Software Engineer, Commercial Software",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
-   "first_seen": "2026-09-15",
    "posted": "2026-09-15",
    "category": "SDE"
   },
@@ -5497,16 +5496,6 @@
    "category": "SDE"
   },
   {
-   "company": "FlightHub",
-   "logo": "logos/flighthub.com.png",
-   "title": "AI Mobile Application Coder / Développeur d’applications mobiles IA",
-   "location": "Montreal, Quebec",
-   "url": "https://job-boards.greenhouse.io/flighthub/jobs/7943515",
-   "first_seen": "2026-10-13",
-   "posted": "2026-05-19",
-   "category": "Other"
-  },
-  {
    "company": "ShyftLabs",
    "logo": "logos/shyftlabs.io.png",
    "title": "Associate AI Engineer",
@@ -5555,16 +5544,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-05-12",
    "category": "SDE"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Applied Scientist",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/df57aa7f-9ce4-46f7-93a5-f8e06c3ae0f3",
-   "first_seen": "2026-09-01",
-   "posted": "2026-05-12",
-   "category": "AI/ML"
   },
   {
    "company": "Fortinet",
@@ -5647,16 +5626,6 @@
    "category": "SDE"
   },
   {
-   "company": "Montreal Institute for Learning Algorithms",
-   "logo": "logos/mila.quebec.png",
-   "title": "Développeur.se, Développement d'applications IA / AI Applications Developer",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/mila-2/j/F73F31C5FD/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-04-28",
-   "category": "AI/ML"
-  },
-  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "Researcher - AI Computing System",
@@ -5665,16 +5634,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-04-27",
    "category": "AI/ML"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Research Engineer, Sensor Signal Processing",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/4a22f57b-cd17-4533-a22b-e927acef834e",
-   "first_seen": "2026-09-11",
-   "posted": "2026-04-25",
-   "category": "Research"
   },
   {
    "company": "Anthropic",
@@ -5704,16 +5663,6 @@
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22746",
    "first_seen": "2026-09-01",
    "posted": "2026-04-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Software Engineer, Labelling, Data & Automation",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/09e213fd-70fb-4715-949a-891576309002",
-   "first_seen": "2026-09-01",
-   "posted": "2026-04-22",
    "category": "SDE"
   },
   {
@@ -5835,16 +5784,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-04-02",
    "category": "SDE"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Research Engineer, World Models",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/ef8b9a24-a010-4ef6-814c-3503e268e9a3",
-   "first_seen": "2026-09-01",
-   "posted": "2026-04-02",
-   "category": "Research"
   },
   {
    "company": "Huawei",
@@ -6277,16 +6216,6 @@
    "category": "SDE"
   },
   {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Research Engineer, Neural Rendering",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/99147e5e-c589-452b-87c1-789cbc4f3de8",
-   "first_seen": "2026-09-01",
-   "posted": "2025-10-29",
-   "category": "Research"
-  },
-  {
    "company": "Ample Insight",
    "logo": "logos/ampleinsight.com.png",
    "title": "Data Scientist - Machine Learning",
@@ -6525,16 +6454,6 @@
    "first_seen": "2026-09-01",
    "posted": "2024-08-19",
    "category": "SDE"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Research Engineer",
-   "location": "Remote US & Canada",
-   "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
-   "first_seen": "2026-09-01",
-   "posted": "2024-06-13",
-   "category": "Research"
   },
   {
    "company": "Huawei",
