@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20 18:39 UTC",
- "count": 649,
+ "generated_at": "2026-10-20 21:55 UTC",
+ "count": 645,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -56,6 +56,15 @@
    "category": "SDE"
   },
   {
+   "company": "Picton Mahoney Asset Management",
+   "logo": "logos/pictonmahoney.com.png",
+   "title": "Intern, Data Engineer (8 Months)",
+   "location": "Toronto, Ontario",
+   "url": "https://pictonmahoney.bamboohr.com/careers/387",
+   "first_seen": "2026-10-20",
+   "category": "SDE"
+  },
+  {
    "company": "Palantir",
    "logo": "logos/palantir.com.png",
    "title": "Software Engineer New Grad - Query Engines",
@@ -104,6 +113,16 @@
    "category": "SDE"
   },
   {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Junior Systems Engineer - Networking",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000156643355",
+   "first_seen": "2026-10-20",
+   "posted": "2026-10-20",
+   "category": "SDE"
+  },
+  {
    "company": "Funnel Leasing",
    "title": "Software Engineer Entry to Mid-Level",
    "location": "Remote in USA",
@@ -140,6 +159,16 @@
    "first_seen": "2026-10-15",
    "posted": "2026-10-20",
    "category": "Security"
+  },
+  {
+   "company": "OpenText",
+   "logo": "logos/opentext.com.png",
+   "title": "Software Developer",
+   "location": "Waterloo, Ontario, CAN, N2L 0A1",
+   "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53921EXTERNALENUS",
+   "first_seen": "2026-10-07",
+   "posted": "2026-10-20",
+   "category": "SDE"
   },
   {
    "company": "Capital One",
@@ -238,15 +267,6 @@
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Guidewire-Software-Engineer-I_R_1517063-1",
    "first_seen": "2026-10-19",
    "posted": "2026-10-19",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Junior Software Engineer",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/604648717/",
-   "first_seen": "2026-10-19",
    "category": "SDE"
   },
   {
@@ -540,16 +560,6 @@
    "first_seen": "2026-09-18",
    "posted": "2026-10-16",
    "category": "AI/ML"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01",
-   "posted": "2026-10-16",
-   "category": "SDE"
   },
   {
    "company": "TikTok",
@@ -2966,16 +2976,6 @@
    "category": "SDE"
   },
   {
-   "company": "Lyft",
-   "logo": "logos/lyft.com.png",
-   "title": "Software Engineer, Driver Earnings",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "AMD",
    "logo": "logos/amd.com.png",
    "title": "Silicon Design Infrastructure Hardware/Software Engineer",
@@ -3636,16 +3636,6 @@
    "category": "Other"
   },
   {
-   "company": "Autodesk",
-   "logo": "logos/autodesk.com.png",
-   "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
-   "location": "Montreal, QC, CAN",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
-   "first_seen": "2026-10-14",
-   "posted": "2026-09-19",
-   "category": "SDE"
-  },
-  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "Test Tools & Automation Full Stack Software Engineer",
@@ -3743,16 +3733,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-09-18",
    "category": "Other"
-  },
-  {
-   "company": "Nokia",
-   "logo": "logos/nokia.com.png",
-   "title": "Software Development Engineer",
-   "location": "Canada",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40631",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-18",
-   "category": "SDE"
   },
   {
    "company": "Amazon",
@@ -4709,16 +4689,6 @@
    "category": "SDE"
   },
   {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Mechanical Engineering Developer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142904209",
-   "first_seen": "2026-10-13",
-   "posted": "2026-08-11",
-   "category": "SDE"
-  },
-  {
    "company": "StackAdapt",
    "logo": "logos/stackadapt.com.png",
    "title": "Integrations Developer",
@@ -4927,16 +4897,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-07-21",
    "category": "Security"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": " Software Engineering Developer,  Air & Naval Sonar ",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000138709868",
-   "first_seen": "2026-10-20",
-   "posted": "2026-07-20",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
