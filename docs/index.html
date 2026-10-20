@@ -19,7 +19,7 @@
 <style>
   /* Paper, ink and one red, with IBM Plex. The page is typographic: hairline rules,
      a list grouped by the day a role was posted, no cards. The only colour beyond ink
-     and grey is the red family (brick, vermilion, orange), used for the masthead rule,
+     and grey is the red family, kept soft (brick, terracotta, apricot), used for the masthead rule,
      the day headings and their rules, links, the "new" label and the hover bar on each
      row. Motion: the masthead rule draws in and its colours drift slowly, rows rise in
      on first load, a gradient bar grows beside the hovered row. */
@@ -27,14 +27,14 @@
     --bg: #f6f4ef; --surface: #fbfaf7; --hover: #efece5;
     --border: #e2ded5; --border-strong: #c9c4b8;
     --fg: #2b2a27; --fg-strong: #141413; --muted: #6e6a62; --faint: #9a958b;
-    --accent: #b8322a; --g1: #8f241d; --g2: #cf4433; --g3: #e0773a;   /* brick, vermilion, orange */
+    --accent: #a8483f; --g1: #9a4a42; --g2: #c4705f; --g3: #d39a72;   /* soft brick, terracotta, apricot */
     color-scheme: light;
   }
   :root[data-theme="dark"] {
     --bg: #141414; --surface: #1b1b1b; --hover: #1f1f1f;
     --border: #2a2a2a; --border-strong: #3a3a3a;
     --fg: #d9d6cf; --fg-strong: #f3f1ec; --muted: #9a968e; --faint: #6b6862;
-    --accent: #ff7466; --g1: #d9483a; --g2: #ff7a66; --g3: #ffab5e;
+    --accent: #d99187; --g1: #a8625a; --g2: #d18f84; --g3: #d9b08f;
     color-scheme: dark;
   }
   * { box-sizing: border-box; }
@@ -103,7 +103,8 @@
      a company without a known icon gets its initial instead */
   .logo { flex: none; align-self: flex-start; margin-top: 3px; width: 30px; height: 30px; border-radius: 7px;
           display: grid; place-items: center; overflow: hidden; background: #fff; border: 1px solid var(--border); }
-  :root[data-theme="dark"] .logo { background: #ecebe7; border-color: transparent; }
+  :root[data-theme="dark"] .logo { background: #d8d6d1; border-color: transparent; }
+  :root[data-theme="dark"] .logo img { opacity: .9; }
   .logo img { width: 22px; height: 22px; object-fit: contain; }
   .logo.mono, :root[data-theme="dark"] .logo.mono { background: var(--surface); border-color: var(--border);
                color: var(--muted); font: 600 13px/1 "IBM Plex Mono", ui-monospace, monospace; }
