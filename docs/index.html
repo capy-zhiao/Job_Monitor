@@ -25,6 +25,7 @@
     --border: #e9e0d8; --border-strong: #cecacd;
     --fg: #575279; --fg-strong: #3a3657; --muted: #797593; --faint: #9893a5;
     --g1: #ea9d34; --g2: #d7537a; --g3: #907aa9; --link: #286983;
+    --date: #7a6394; --company: #a5646a;   /* Dawn iris and rose, darkened to read as text */
     --sky: #286983; --indigo: #907aa9; --emerald: #3e8f7d; --amber: #c37d24;
     --red: #b4637a; --cyan: #56949f; --slate: #797593; --rose: #d7827e;
     color-scheme: light;
@@ -34,6 +35,7 @@
     --border: #2a273f; --border-strong: #403d52;
     --fg: #e0def4; --fg-strong: #f2f0ff; --muted: #908caa; --faint: #6e6a86;
     --g1: #f6c177; --g2: #eb6f92; --g3: #c4a7e7; --link: #9ccfd8;
+    --date: #c4a7e7; --company: #ebbcba;   /* iris and rose */
     --sky: #9ccfd8; --indigo: #c4a7e7; --emerald: #8fc6a6; --amber: #f6c177;
     --red: #eb6f92; --cyan: #9ccfd8; --slate: #908caa; --rose: #ebbcba;
     color-scheme: dark;
@@ -88,7 +90,7 @@
   /* List: two lines per role, grouped by the day it was first seen */
   .day { position: sticky; top: 0; z-index: 2; display: flex; justify-content: space-between; align-items: baseline;
          margin: 0 0 4px; padding: 16px 10px 7px; background: var(--bg); border-bottom: 1px solid var(--border);
-         font-size: 13px; font-weight: 600; color: var(--fg-strong); }
+         font-size: 13px; font-weight: 600; color: var(--date); }
   .day .n { font-size: 12px; font-weight: 400; color: var(--faint); }
   .job { display: flex; align-items: center; gap: 12px; padding: 9px 10px; border-radius: 6px; transition: background .15s; }
   .job:hover { background: var(--hover); }
@@ -102,7 +104,7 @@
          color: color-mix(in srgb, var(--c) 88%, var(--fg-strong)); white-space: nowrap;
          border: 1px solid color-mix(in srgb, var(--c) 40%, transparent); background: color-mix(in srgb, var(--c) 8%, transparent); }
   .sub { display: flex; align-items: baseline; gap: 6px; margin-top: 1px; font-size: 13px; color: var(--muted); }
-  .sub .co { color: var(--fg); white-space: nowrap; }
+  .sub .co { color: var(--company); white-space: nowrap; }
   .sub .loc { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .c-red { --c: var(--red); } .c-indigo { --c: var(--indigo); } .c-emerald { --c: var(--emerald); } .c-sky { --c: var(--sky); }
   .c-amber { --c: var(--amber); } .c-rose { --c: var(--rose); } .c-slate { --c: var(--slate); }
