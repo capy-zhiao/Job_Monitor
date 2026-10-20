@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20 03:57 UTC",
+ "generated_at": "2026-10-20 04:22 UTC",
  "count": 667,
  "stats": {
   "sources": 180,
@@ -9,6 +9,7 @@
  "jobs": [
   {
    "company": "Palantir",
+   "logo": "logos/palantir.com.png",
    "title": "Software Engineer New Grad - Query Engines",
    "location": "NYC",
    "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac/apply",
@@ -18,6 +19,7 @@
   },
   {
    "company": "TD",
+   "logo": "logos/td.com.png",
    "title": "Guidewire Software Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Guidewire-Software-Engineer-I_R_1517063-1",
@@ -27,6 +29,7 @@
   },
   {
    "company": "BMO",
+   "logo": "logos/bmo.com.png",
    "title": "Software Developer - (Automations/ AI /Dev Ops)",
    "location": "Mississauga, ON, CAN",
    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970",
@@ -36,6 +39,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Wavelogic Embedded Software Developer Intern (Winter 2027)",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
@@ -45,6 +49,7 @@
   },
   {
    "company": "Cenovus Energy",
+   "logo": "logos/cenovus.com.png",
    "title": "Process Data Solutions New Grad",
    "location": "Calgary, AB, Canada",
    "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1",
@@ -54,6 +59,7 @@
   },
   {
    "company": "eClerx",
+   "logo": "logos/eclerx.com.png",
    "title": "Software Engineer",
    "location": "NYC",
    "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85560",
@@ -63,6 +69,7 @@
   },
   {
    "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
    "title": "Junior Software Engineer",
    "location": "Toronto, ON, CA, M1L4S2",
    "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-ON-M1L4S2/604648717/",
@@ -71,6 +78,7 @@
   },
   {
    "company": "Promise Robotics",
+   "logo": "logos/promiserobotics.com.png",
    "title": "Robotics and Control Support Engineer",
    "location": "Calgary, AB",
    "url": "https://jobs.lever.co/promiserobotics/612a1fa2-db57-4877-9b47-7acf88e04a8b",
@@ -80,6 +88,7 @@
   },
   {
    "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
    "title": "GTM Engineer",
    "location": "United States/Canada",
    "url": "https://jobs.ashbyhq.com/joinpogo/2bf03808-2afd-456f-a268-7e7fab0f238b",
@@ -89,6 +98,7 @@
   },
   {
    "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
    "title": "Full Stack Engineer",
    "location": "United States/Canada",
    "url": "https://jobs.ashbyhq.com/joinpogo/bbed5bc7-2f72-4d0b-9529-e22bd046dc5d",
@@ -98,6 +108,7 @@
   },
   {
    "company": "Kraken Robotics",
+   "logo": "logos/krakenrobotics.com.png",
    "title": "Cybersecurity Specialist",
    "location": "Houston, TX, United States; Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada",
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
@@ -106,6 +117,7 @@
   },
   {
    "company": "KLA Corporation",
+   "logo": "logos/kla.com.png",
    "title": "Software Engineer 1",
    "location": "NYC",
    "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1",
@@ -115,6 +127,7 @@
   },
   {
    "company": "KLA",
+   "logo": "logos/kla.com.png",
    "title": "Software Engineer 1",
    "location": "NYC",
    "url": "https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
@@ -132,6 +145,7 @@
   },
   {
    "company": "Applied Materials",
+   "logo": "logos/appliedmaterials.com.png",
    "title": "Software Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683",
@@ -141,6 +155,7 @@
   },
   {
    "company": "Apple",
+   "logo": "logos/apple.com.png",
    "title": "Software Engineer - IS&T",
    "location": "Austin, TX",
    "url": "https://jobs.apple.com/en-us/details/200688599",
@@ -150,6 +165,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Engineer – Early Career",
    "location": "Madison, WI; Boston, MA; Seattle, WA; Austin, TX; Detroit, MI; Santa Clara, CA; Arlington County, Arlington, VA; Minneapolis, MN; Denver, CO",
    "url": "https://amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
@@ -159,6 +175,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer, Early Career - 2027 (CAN)",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can",
@@ -167,7 +184,8 @@
    "category": "SDE"
   },
   {
-   "company": "TD (Security)",
+   "company": "TD",
+   "logo": "logos/td.com.png",
    "title": "Information Security Specialist",
    "location": "Toronto, Ontario; Mississauga, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist_R_1513259",
@@ -177,6 +195,7 @@
   },
   {
    "company": "Snap",
+   "logo": "logos/snap.com.png",
    "title": "Software Engineer, Level 3, Backend",
    "location": "Toronto, Canada",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Level-3--Backend_R0047218-1",
@@ -186,6 +205,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Systems Development Engineer – Early Career",
    "location": "Seattle, WA",
    "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
@@ -195,6 +215,7 @@
   },
   {
    "company": "Together AI",
+   "logo": "logos/together.ai.png",
    "title": "Hardware Security Engineer, New Grad (2027)",
    "location": "San Francisco",
    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
@@ -204,6 +225,7 @@
   },
   {
    "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
    "title": "AI Labs Rotational Fellow - Emerging Talent",
    "location": "Seattle, WA; SF; NYC",
    "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
@@ -213,6 +235,7 @@
   },
   {
    "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
    "title": "AI Labs Rotational Fellow - Emerging Talent",
    "location": "Seattle, WA; SF; NYC",
    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
@@ -222,6 +245,7 @@
   },
   {
    "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
    "title": "Online programmer - (Online Service- Hosting Platforms)",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.smartrecruiters.com/ubisoft2/744000156044259",
@@ -231,6 +255,7 @@
   },
   {
    "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
    "title": "Backend Engineer Graduate - Account - 2027 Start",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7696779797359233333",
@@ -240,6 +265,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineer - Forward Deployed Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
@@ -249,6 +275,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer, GovTech",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8894909002?gh_jid=8894909002",
@@ -258,6 +285,7 @@
   },
   {
    "company": "Intuit",
+   "logo": "logos/intuit.com.png",
    "title": "Software Engineer 1",
    "location": "Charlotte, NC; NYC; Mountain View, CA; Atlanta, GA; San Diego, CA",
    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
@@ -267,6 +295,7 @@
   },
   {
    "company": "Gaiia",
+   "logo": "logos/gaiia.com.png",
    "title": "IT Operations Engineer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/680f234e-0c49-40d6-844e-bff46dfff92e",
@@ -275,6 +304,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Development Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24668",
@@ -292,6 +322,7 @@
   },
   {
    "company": "CoStar Group",
+   "logo": "logos/costargroup.com.png",
    "title": "Software Engineer I - BizBuySell - San Francisco - CA",
    "location": "San Francisco, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
@@ -301,6 +332,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Wavelogic Embedded Software Developer Intern - Winter 2027",
    "location": "Ottawa, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
@@ -310,6 +342,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Analog and Mixed-Signal Modelling Architect New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Analog-and-Mixed-Signal-Modelling-Architect--Masters-or-PhD-New-Grad-_R031915",
@@ -319,6 +352,7 @@
   },
   {
    "company": "Charles Schwab",
+   "logo": "logos/schwab.com.png",
    "title": "Associate Software Engineer",
    "location": "Austin, TX",
    "url": "https://career-schwab.icims.com/jobs/127949/associate-software-engineer/job",
@@ -328,6 +362,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Applied Scientist - CoreAI Voice Agent",
    "location": "Canada, British Columbia, Vancouver",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556995373",
@@ -336,7 +371,8 @@
    "category": "AI/ML"
   },
   {
-   "company": "Cisco (Security)",
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
@@ -346,6 +382,7 @@
   },
   {
    "company": "Quora",
+   "logo": "logos/quora.com.png",
    "title": "Machine Learning Engineer New Grad",
    "location": "Remote in USA; Remote in Canada",
    "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3/application?embed=true",
@@ -355,6 +392,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24649",
@@ -364,6 +402,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24652",
@@ -373,6 +412,7 @@
   },
   {
    "company": "DXC Technology",
+   "logo": "logos/dxc.com.png",
    "title": "Analyst I Software Engineering",
    "location": "USA",
    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935",
@@ -382,6 +422,7 @@
   },
   {
    "company": "Applied Materials",
+   "logo": "logos/appliedmaterials.com.png",
    "title": "Product Management 2 New Grad",
    "location": "Santa Clara, CA",
    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882",
@@ -391,6 +432,7 @@
   },
   {
    "company": "Affirm",
+   "logo": "logos/affirm.com.png",
    "title": "Software Engineer 1 - Fullstack - Search",
    "location": "Remote in USA",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
@@ -400,6 +442,7 @@
   },
   {
    "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
    "title": "Develop Mentorship at Ubisoft - Cybersecurity 2026-2027",
    "location": "Montreal, QC, Canada",
    "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155802131",
@@ -409,6 +452,7 @@
   },
   {
    "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
    "title": "Backend Engineer Graduate - Social Foundation",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7696782198126545157",
@@ -418,6 +462,7 @@
   },
   {
    "company": "SKYTRAC",
+   "logo": "logos/skytrac.ca.jpg",
    "title": "Structural Design and Airworthiness Engineer",
    "location": "Kelowna, Canada",
    "url": "https://ats.rippling.com/skytrac/jobs/3c72c8ed-48f8-47ae-9027-fb18d4bdbafa",
@@ -426,6 +471,7 @@
   },
   {
    "company": "SKYTRAC",
+   "logo": "logos/skytrac.ca.jpg",
    "title": "Project Engineer",
    "location": "Kelowna, Canada",
    "url": "https://ats.rippling.com/skytrac/jobs/633a03c9-a48d-415f-9d25-5677ce01037d",
@@ -434,6 +480,7 @@
   },
   {
    "company": "SKYTRAC",
+   "logo": "logos/skytrac.ca.jpg",
    "title": "Avionics Design and Airworthiness Engineer",
    "location": "Kelowna, Canada",
    "url": "https://ats.rippling.com/skytrac/jobs/95e8d043-78f1-47f5-a771-6ed0e4647206",
@@ -442,6 +489,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
@@ -451,6 +499,7 @@
   },
   {
    "company": "LawDepot",
+   "logo": "logos/lawdepot.com.png",
    "title": "Web Content Coordinator",
    "location": "Edmonton, Hybrid",
    "url": "https://jobs.ashbyhq.com/lawdepot/5135e3ae-133f-47ff-a823-101e76be53c6",
@@ -460,6 +509,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Technology Strategist - Physical AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-technology-strategist-physical-ai",
@@ -469,6 +519,7 @@
   },
   {
    "company": "Equitable Bank",
+   "logo": "logos/equitablebank.ca.png",
    "title": "AV & Event Production Engineer",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/618de7c9-517a-423f-b5fd-3e75edf989d3",
@@ -478,6 +529,7 @@
   },
   {
    "company": "Equitable Bank",
+   "logo": "logos/equitablebank.ca.png",
    "title": "AI Solutions Engineer, Technology Workplace Services",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/a20b80c5-53c4-4c34-b8de-c6d9208994a6",
@@ -487,6 +539,7 @@
   },
   {
    "company": "Affirm",
+   "logo": "logos/affirm.com.png",
    "title": "Software Engineer I, Fullstack (Search)",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003",
@@ -496,6 +549,7 @@
   },
   {
    "company": "VAST Data",
+   "logo": "logos/vastdata.com.png",
    "title": "Top Graduate Software Engineer - V-Force - RTP",
    "location": "North Carolina, USA",
    "url": "https://www.comeet.com/jobs/vastdata/43.001/top-graduate-software-engineer----v-force---rtp/F1.261",
@@ -505,6 +559,7 @@
   },
   {
    "company": "VAST Data",
+   "logo": "logos/vastdata.com.png",
    "title": "Top Graduate Software Engineer - V-Force - New York",
    "location": "New York City, NY",
    "url": "https://www.comeet.com/jobs/vastdata/43.001/top-graduate-software-engineer---v-force---new-york/B7.765",
@@ -523,6 +578,7 @@
   },
   {
    "company": "Anthropic",
+   "logo": "logos/anthropic.com.png",
    "title": "Anthropic STEM Fellow",
    "location": "Remote-Friendly, United States; San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
@@ -532,6 +588,7 @@
   },
   {
    "company": "Truveta",
+   "logo": "logos/truveta.com.png",
    "title": "Software Engineer - Security & Trust",
    "location": "Seattle, WA",
    "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004",
@@ -541,6 +598,7 @@
   },
   {
    "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
    "title": "Software Engineer Graduate - Data Ecosystem - 2027 Start",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7685769994391832837",
@@ -550,6 +608,7 @@
   },
   {
    "company": "Mozilla",
+   "logo": "logos/mozilla.org.png",
    "title": "Software Engineer, Firefox Desktop Integrations",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333",
@@ -559,6 +618,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "ML Software Engineer, Routing",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
@@ -568,6 +628,7 @@
   },
   {
    "company": "CLEAR",
+   "logo": "logos/clearme.com.png",
    "title": "Software Development Engineer 1",
    "location": "Austin, TX",
    "url": "https://job-boards.greenhouse.io/clear/jobs/8241829",
@@ -577,6 +638,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Post-Silicon Systems Validation Engineer 1",
    "location": "Austin, TX",
    "url": "https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs",
@@ -586,6 +648,7 @@
   },
   {
    "company": "nesto",
+   "logo": "logos/nesto.ca.png",
    "title": "Salesforce QA Automation Developer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/nesto/jobs/68c984e2-047a-47e1-9cc6-96405598e6d0",
@@ -594,6 +657,7 @@
   },
   {
    "company": "nesto",
+   "logo": "logos/nesto.ca.png",
    "title": "Développeur en automatisation QA Salesforce",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/nesto/jobs/d9d5eb6d-68f2-4873-a9ea-010241a9099f",
@@ -602,6 +666,7 @@
   },
   {
    "company": "Semtech",
+   "logo": "logos/semtech.com.png",
    "title": "Associate Engineer - Software Engineering",
    "location": "Burlington, Canada",
    "url": "https://semtech.wd1.myworkdayjobs.com/en-US/semtechcareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652",
@@ -611,6 +676,7 @@
   },
   {
    "company": "SECURE",
+   "logo": "logos/secure-energy.com.png",
    "title": "Junior Software Developer",
    "location": "Calgary, Canada",
    "url": "https://careers-canada-secure.icims.com/jobs/2018/junior-software-developer/job",
@@ -620,6 +686,7 @@
   },
   {
    "company": "PureFacts Financial Solutions",
+   "logo": "logos/purefacts.com.png",
    "title": "AI Engineer",
    "location": "Toronto, Canada",
    "url": "https://ats.rippling.com/purefacts_jobs/jobs/0981ef32-a247-46e9-923b-a7355e681f08",
@@ -628,6 +695,7 @@
   },
   {
    "company": "Power TakeOff",
+   "logo": "logos/powertakeoff.com.png",
    "title": "Energy Efficiency Engineer I",
    "location": "Remote (United States); Remote (Canada)",
    "url": "https://ats.rippling.com/power-takeoff-careers/jobs/6fb2cf1a-90d9-4c9a-b786-df97bf7f1c1a",
@@ -636,6 +704,7 @@
   },
   {
    "company": "Nesto Cloud",
+   "logo": "logos/nesto.ca.png",
    "title": "Salesforce QA Automation Developer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/nestocloud/jobs/9388bd1a-115d-4b2d-ac37-f352dd332c90",
@@ -644,6 +713,7 @@
   },
   {
    "company": "Nesto Cloud",
+   "logo": "logos/nesto.ca.png",
    "title": "Développeur en automatisation QA Salesforce",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/nestocloud/jobs/77b7a7a2-d3f4-4f16-a27e-343a7e82b163",
@@ -652,6 +722,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "SoC Software Engineer - New College Graduate 2026",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
@@ -661,6 +732,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "SoC Software Engineer - New College Grad 2027",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
@@ -670,6 +742,7 @@
   },
   {
    "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
    "title": "Software Architect, Core Engine",
    "location": "CA-Remote, Canada; US-Remote",
    "url": "https://careers-kinaxis.icims.com/jobs/34510/software-architect%2c-core-engine/job",
@@ -678,6 +751,7 @@
   },
   {
    "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
    "title": "Machine Learning/Operations Research Platform Engineer",
    "location": "CA-Remote, Canada; US-Remote",
    "url": "https://careers-kinaxis.icims.com/jobs/35025/machine-learning-operations-research-platform-engineer/job",
@@ -686,6 +760,7 @@
   },
   {
    "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
    "title": "Intern Developer, Back End Technologies",
    "location": "CA-ON-Ottawa, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job",
@@ -694,6 +769,7 @@
   },
   {
    "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
    "title": "Intern Developer, AI Solutions",
    "location": "CA-ON-Ottawa, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job",
@@ -702,6 +778,7 @@
   },
   {
    "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
    "title": "Curriculum Developer - 12 Month Contract",
    "location": "CA-Remote, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35306/curriculum-developer---12-month-contract/job",
@@ -710,6 +787,7 @@
   },
   {
    "company": "Justworks",
+   "logo": "logos/justworks.com.png",
    "title": "Associate Software Engineer - Frontend",
    "location": "New York City, NY",
    "url": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815",
@@ -719,6 +797,7 @@
   },
   {
    "company": "Healthpeak Properties",
+   "logo": "logos/healthpeak.com.png",
    "title": "Forward Deployed Software Engineer",
    "location": "New York City, NY",
    "url": "https://healthpeak.applytojob.com/apply/JcxzlDrgWk/Forward-Deployed-Software-Engineer",
@@ -728,6 +807,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Analyste de données BI / BI Data Analyst",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/46B2AEBF55/",
@@ -737,6 +817,7 @@
   },
   {
    "company": "Gaiia",
+   "logo": "logos/gaiia.com.png",
    "title": "Workflow Automation Engineer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/28b73815-4918-470b-a14d-290e9096c0da",
@@ -745,6 +826,7 @@
   },
   {
    "company": "Gaiia",
+   "logo": "logos/gaiia.com.png",
    "title": "Forward Deployed Engineer - Migration",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/5a241110-5289-4d81-86f0-95b09ccddd43",
@@ -753,6 +835,7 @@
   },
   {
    "company": "Gaiia",
+   "logo": "logos/gaiia.com.png",
    "title": "Forward Deployed Engineer (FDE)",
    "location": "Remote (Canada); Remote (United States)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/56e20470-0648-4e6a-a2c4-acf907196110",
@@ -761,6 +844,7 @@
   },
   {
    "company": "Gaiia",
+   "logo": "logos/gaiia.com.png",
    "title": "Data Migration Engineer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/51defed6-74aa-4a44-aa18-c4e22e09a756",
@@ -769,6 +853,7 @@
   },
   {
    "company": "Check",
+   "logo": "logos/checkhq.com.png",
    "title": "Software Engineer",
    "location": "SF; NYC",
    "url": "https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application?embed=true",
@@ -787,6 +872,7 @@
   },
   {
    "company": "Primefocus Health",
+   "logo": "logos/primefocushealth.com.png",
    "title": "Software Engineer - Solutions",
    "location": "Remote - San Francisco, CA",
    "url": "https://jobs.gusto.com/postings/primefocus-health-inc-software-engineer-solutions-2c8a9f29-83b7-4be5-892d-86678e31b07e",
@@ -796,6 +882,7 @@
   },
   {
    "company": "Arc Institute",
+   "logo": "logos/arcinstitute.org.png",
    "title": "Software Engineer - Lab Platform",
    "location": "Palo Alto, CA",
    "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004",
@@ -805,6 +892,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "SoC Software Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
@@ -814,6 +902,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "SoC Software Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
@@ -823,6 +912,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "SRAM Circuit Design Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SRAM-Circuit-Design-Engineer---New-College-Grad-2026_JR2027839",
@@ -832,6 +922,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Low Power ASIC Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850",
@@ -841,6 +932,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "ASIC Verification Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719",
@@ -850,6 +942,7 @@
   },
   {
    "company": "eBay",
+   "logo": "logos/ebay.com.png",
    "title": "Software Engineer - Observability",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Software-Engineer---Observability_R0077001",
@@ -859,6 +952,7 @@
   },
   {
    "company": "dcbel Inc",
+   "logo": "logos/dcbel.energy.png",
    "title": "Sales Engineer | Montreal",
    "location": "Montréal, Quebec",
    "url": "https://dcbel.bamboohr.com/careers/250",
@@ -867,6 +961,7 @@
   },
   {
    "company": "dcbel Inc",
+   "logo": "logos/dcbel.energy.png",
    "title": "Manufacturing Test Software Engineer",
    "location": "Montréal, Quebec",
    "url": "https://dcbel.bamboohr.com/careers/207",
@@ -875,6 +970,7 @@
   },
   {
    "company": "dcbel Inc",
+   "logo": "logos/dcbel.energy.png",
    "title": "Manufacturing Test Electrical Engineer",
    "location": "Montréal, Quebec",
    "url": "https://dcbel.bamboohr.com/careers/208",
@@ -883,6 +979,7 @@
   },
   {
    "company": "dcbel Inc",
+   "logo": "logos/dcbel.energy.png",
    "title": "Embedded UI Developer",
    "location": "Montréal, Quebec",
    "url": "https://dcbel.bamboohr.com/careers/240",
@@ -891,6 +988,7 @@
   },
   {
    "company": "VersaFile",
+   "logo": "logos/versafile.com.png",
    "title": "Full Stack SAP Developer ",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://versafile1.bamboohr.com/careers/162",
@@ -899,6 +997,7 @@
   },
   {
    "company": "VersaFile",
+   "logo": "logos/versafile.com.png",
    "title": "AI Sales Engineer",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://versafile1.bamboohr.com/careers/121",
@@ -907,6 +1006,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "AI Engineer",
    "location": "Remote; Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/8FE8F68BE1/",
@@ -916,6 +1016,7 @@
   },
   {
    "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
    "title": "Research Scientist New Grad",
    "location": "Seattle, WA",
    "url": "https://lifeattiktok.com/search/7695927144126253317",
@@ -925,6 +1026,7 @@
   },
   {
    "company": "Tandem Diabetes Care",
+   "logo": "logos/tandemdiabetes.com.png",
    "title": "Software Test Engineer I",
    "location": "California, USA +1",
    "url": "https://tandemdiabetes.wd12.myworkdayjobs.com/en-US/tandemdiabetes/job/California---Barnes/Software-Test-Engineer-I_JR101601",
@@ -934,6 +1036,7 @@
   },
   {
    "company": "Snowflake",
+   "logo": "logos/snowflake.com.png",
    "title": "AI Software Engineer",
    "location": "Toronto, Ontario, Canada",
    "url": "https://jobs.ashbyhq.com/snowflake/628f36e0-8554-4d5f-8d5e-a017a761ca54",
@@ -943,6 +1046,7 @@
   },
   {
    "company": "Picton Mahoney Asset Management",
+   "logo": "logos/pictonmahoney.com.png",
    "title": "Vice President, Data Engineering",
    "location": "Toronto, Ontario",
    "url": "https://pictonmahoney.bamboohr.com/careers/373",
@@ -951,6 +1055,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Formal Verification Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
@@ -960,6 +1065,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Developer Technology Engineer - Public Sector - New College Grad 2026",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
@@ -969,6 +1075,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556985571",
@@ -978,6 +1085,7 @@
   },
   {
    "company": "Meta",
+   "logo": "logos/meta.com.jpg",
    "title": "ASIC Engineer New Grad - Performance Architecture and Modeling",
    "location": "Austin, TX; Sunnyvale, CA",
    "url": "https://www.metacareers.com/jobs/4596319193960098",
@@ -987,6 +1095,7 @@
   },
   {
    "company": "Marigold",
+   "logo": "logos/meetmarigold.com.png",
    "title": "Associate Software Engineer",
    "location": "Remote - USA",
    "url": "https://campaignmonitor.wd5.myworkdayjobs.com/en-US/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487",
@@ -996,6 +1105,7 @@
   },
   {
    "company": "Liberty Mutual Canada",
+   "logo": "logos/libertymutual.com.png",
    "title": "Software Developer (Node.js & Python)",
    "location": "Toronto, Ontario, Canada",
    "url": "https://apply.workable.com/liberty-mutual-canada/j/ADD610E6D0/",
@@ -1005,6 +1115,7 @@
   },
   {
    "company": "Justworks",
+   "logo": "logos/justworks.com.png",
    "title": "Associate Software Engineer - Frontend",
    "location": "NYC",
    "url": "https://boards.greenhouse.io/justworks/jobs/8236815",
@@ -1014,6 +1125,7 @@
   },
   {
    "company": "John Deere",
+   "logo": "logos/deere.com.png",
    "title": "Software Engineer",
    "location": "Waterloo, IA",
    "url": "https://johndeere.eightfold.ai/careers/job/137483701899",
@@ -1136,6 +1248,7 @@
   },
   {
    "company": "DoorDash Canada",
+   "logo": "logos/doordash.com.png",
    "title": "Software Engineering, Backend (All Teams)",
    "location": "Toronto, ON",
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8131385",
@@ -1145,6 +1258,7 @@
   },
   {
    "company": "BinSentry",
+   "logo": "logos/binsentry.com.png",
    "title": "Software Developer, Critical Systems",
    "location": "Kitchener, Ontario",
    "url": "https://binsentry.bamboohr.com/careers/314",
@@ -1153,6 +1267,7 @@
   },
   {
    "company": "BinSentry",
+   "logo": "logos/binsentry.com.png",
    "title": "Software Developer",
    "location": "Kitchener, Ontario",
    "url": "https://binsentry.bamboohr.com/careers/310",
@@ -1161,6 +1276,7 @@
   },
   {
    "company": "BinSentry",
+   "logo": "logos/binsentry.com.png",
    "title": "Mechanical Design Engineer",
    "location": "Kitchener, Ontario",
    "url": "https://binsentry.bamboohr.com/careers/297",
@@ -1169,6 +1285,7 @@
   },
   {
    "company": "BinSentry",
+   "logo": "logos/binsentry.com.png",
    "title": "Electronics Engineer",
    "location": "Kitchener, Ontario",
    "url": "https://binsentry.bamboohr.com/careers/296",
@@ -1177,6 +1294,7 @@
   },
   {
    "company": "Astera Labs",
+   "logo": "logos/asteralabs.com.png",
    "title": "Digital Design Engineer New Grad",
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4740701005",
@@ -1186,6 +1304,7 @@
   },
   {
    "company": "Aptiv",
+   "logo": "logos/aptiv.com.png",
    "title": "Software Engineering Intern",
    "location": "Kanata, Canada",
    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
@@ -1195,6 +1314,7 @@
   },
   {
    "company": "Aptiv",
+   "logo": "logos/aptiv.com.png",
    "title": "Cloud Software Engineer Intern",
    "location": "Kanata, Canada",
    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
@@ -1204,6 +1324,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Software Engineer - DL Kernel Libraries - New College Grad 2027",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
@@ -1213,6 +1334,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Deep Learning Software Engineer New Grad - TensorRT Performance",
    "location": "Remote in USA; Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
@@ -1222,6 +1344,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineering",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
@@ -1231,6 +1354,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
@@ -1240,6 +1364,7 @@
   },
   {
    "company": "Glia",
+   "logo": "logos/glia.com.jpg",
    "title": "Associate, Client Engineer (Vancouver)",
    "location": "Vancouver",
    "url": "https://jobs.ashbyhq.com/glia/9936ff15-a4b8-43a4-99a5-e774a75c829c",
@@ -1249,6 +1374,7 @@
   },
   {
    "company": "Duolingo",
+   "logo": "logos/duolingo.com.png",
    "title": "AI Research Engineer New Grad",
    "location": "Pittsburgh, PA; NYC",
    "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
@@ -1258,6 +1384,7 @@
   },
   {
    "company": "Duolingo",
+   "logo": "logos/duolingo.com.png",
    "title": "AI Research Engineer New Grad",
    "location": "Pittsburgh, PA; NYC",
    "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8883870002",
@@ -1267,6 +1394,7 @@
   },
   {
    "company": "Datacor",
+   "logo": "logos/datacor.com.png",
    "title": "Software Engineer",
    "location": "Remote in USA",
    "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007",
@@ -1276,6 +1404,7 @@
   },
   {
    "company": "Triumph Arcade",
+   "logo": "logos/triumpharcade.com.png",
    "title": "Software Engineer - Operations Technology & Automation - Fullstack",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b",
@@ -1285,6 +1414,7 @@
   },
   {
    "company": "Roblox",
+   "logo": "logos/roblox.com.png",
    "title": "Software Engineer - ROS",
    "location": "San Mateo, CA",
    "url": "https://careers.roblox.com/jobs/8262223?gh_jid=8262223",
@@ -1294,6 +1424,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Software Engineer New Grad - DL Kernel Libraries",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
@@ -1303,6 +1434,7 @@
   },
   {
    "company": "Snap Finance",
+   "logo": "logos/snapfinance.com.png",
    "title": "BackEnd Engineer",
    "location": "Arizona, USA",
    "url": "https://snapfinance.wd1.myworkdayjobs.com/en-US/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
@@ -1312,6 +1444,7 @@
   },
   {
    "company": "Roblox",
+   "logo": "logos/roblox.com.png",
    "title": "Software Engineer - Engine Systems",
    "location": "San Mateo, CA",
    "url": "https://careers.roblox.com/jobs/8159854?gh_jid=8159854",
@@ -1321,6 +1454,7 @@
   },
   {
    "company": "ProCogia",
+   "logo": "logos/procogia.com.png",
    "title": "DevOps & Cloud Platform Intern - December 2026 to April 2027",
    "location": "Vancouver, Canada",
    "url": "https://procogia.com/about-us/careers/?gh_jid=5448713008",
@@ -1330,6 +1464,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "C++ Software Engineer - Infrastructure Tools - New College Grad 2027",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
@@ -1339,6 +1474,7 @@
   },
   {
    "company": "KEV Group",
+   "logo": "logos/kevgroup.com.png",
    "title": "Junior Software Developer",
    "location": "Toronto, Canada",
    "url": "https://kevgroup.com/open-positions/?gh_jid=5259976007",
@@ -1348,6 +1484,7 @@
   },
   {
    "company": "GlobalFoundries",
+   "logo": "logos/gf.com.png",
    "title": "Software Engineer - 2027 New College Graduate",
    "location": "Texas, USA +2",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
@@ -1357,6 +1494,7 @@
   },
   {
    "company": "CAE",
+   "logo": "logos/cae.com.png",
    "title": "C-FIN-275 Software Engineering Intern - AI - Automation and Business Intelligence",
    "location": "Montréal, Canada +1",
    "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
@@ -1366,6 +1504,7 @@
   },
   {
    "company": "Becton Dickinson and Company",
+   "logo": "logos/bd.com.png",
    "title": "Software Engineer I",
    "location": "Maryland, USA",
    "url": "https://bdx.wd1.myworkdayjobs.com/en-US/external_career_site_usa/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
@@ -1375,6 +1514,7 @@
   },
   {
    "company": "Aurelian",
+   "logo": "logos/aurelian.com.png",
    "title": "Software Engineer - New Grad",
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e",
@@ -1384,6 +1524,7 @@
   },
   {
    "company": "AmTrust Insurance",
+   "logo": "logos/amtrustfinancial.com.png",
    "title": "Software Engineer I",
    "location": "Florida, USA",
    "url": "https://careers-amtrustgroup.icims.com/jobs/21073/software-engineer-ii/job",
@@ -1401,7 +1542,8 @@
    "category": "SDE"
   },
   {
-   "company": "TD (Security)",
+   "company": "TD",
+   "logo": "logos/td.com.png",
    "title": "Information Security Specialist - Risk Management Transformation",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Risk-Management-Transformation_R_1513513",
@@ -1411,6 +1553,7 @@
   },
   {
    "company": "Anthropic",
+   "logo": "logos/anthropic.com.png",
    "title": "Conceptual Reasoning Fellow",
    "location": "Remote-Friendly, United States; San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
@@ -1420,6 +1563,7 @@
   },
   {
    "company": "Intuitive",
+   "logo": "logos/intuitive.com.jpg",
    "title": "Service Software Developer",
    "location": "Santa Clara, CA",
    "url": "https://jobs.smartrecruiters.com/Intuitive/744000154483468-service-software-developer?oga=true",
@@ -1429,6 +1573,7 @@
   },
   {
    "company": "Asana",
+   "logo": "logos/asana.com.png",
    "title": "Product Security Engineer",
    "location": "Vancouver, BC",
    "url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
@@ -1438,6 +1583,7 @@
   },
   {
    "company": "Twitch",
+   "logo": "logos/twitch.tv.png",
    "title": "Software Engineer I",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002",
@@ -1456,6 +1602,7 @@
   },
   {
    "company": "Rocket Companies",
+   "logo": "logos/rocketcompanies.com.png",
    "title": "Software Developer I",
    "location": "Seattle, WA",
    "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083",
@@ -1465,6 +1612,7 @@
   },
   {
    "company": "Raytheon",
+   "logo": "logos/rtx.com.png",
    "title": "Stage - Hiver 2027 - Développement Logiciel Avancé - Méthodes Numériques / Internship - Winter 2027 - Advanced Software Development - Numerical Methods",
    "location": "Longueuil, Canada",
    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187",
@@ -1474,6 +1622,7 @@
   },
   {
    "company": "PointClickCare",
+   "logo": "logos/pointclickcare.com.png",
    "title": "Marketing Data Analytics Engineer (CA)",
    "location": "Remote or Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/e826a207-dba8-41ff-b7b0-c4a4210d5f7d",
@@ -1483,6 +1632,7 @@
   },
   {
    "company": "Otter.ai",
+   "logo": "logos/otter.ai.png",
    "title": "Software Engineer - Front-End - New Grad",
    "location": "Mountain View, CA",
    "url": "https://otter.ai/careers?gh_jid=8016078003",
@@ -1492,6 +1642,7 @@
   },
   {
    "company": "IXL Learning",
+   "logo": "logos/ixl.com.png",
    "title": "Software Engineer - New Grad",
    "location": "San Mateo, CA",
    "url": "https://www.ixl.com/company/jobs?gh_jid=8862043002",
@@ -1501,6 +1652,7 @@
   },
   {
    "company": "Hitachi",
+   "logo": "logos/hitachi.com.png",
    "title": "Software Analyst Intern - Winter 2027 - 8-12months",
    "location": "Toronto, Canada",
    "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679",
@@ -1510,6 +1662,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Junior Mechanical Engineering Developer, Design (12-Month Term)",
    "location": "Calgary, AB, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000154755004",
@@ -1519,6 +1672,7 @@
   },
   {
    "company": "Chalk",
+   "logo": "logos/chalk.ai.png",
    "title": "Software Engineer - New Grad",
    "location": "San Francisco, CA +1",
    "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f",
@@ -1528,6 +1682,7 @@
   },
   {
    "company": "CAE",
+   "logo": "logos/cae.com.png",
    "title": "Junior Software Developer - System Integration Labs - North Shore",
    "location": "Montréal, Canada +1",
    "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1",
@@ -1537,6 +1692,7 @@
   },
   {
    "company": "BDO",
+   "logo": "logos/bdo.com.png",
    "title": "DevOps Engineer - New Grad - January 2027",
    "location": "Toronto, Canada",
    "url": "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194",
@@ -1546,6 +1702,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Engineer I",
    "location": "San Francisco, CA",
    "url": "https://www.amazon.jobs/jobs/10573768/apply",
@@ -1555,6 +1712,7 @@
   },
   {
    "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
    "title": "Research Scientist New Grad - Conversational AI",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7670685496821713205",
@@ -1564,6 +1722,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Hardware Design Validation Engineer New Grad - Memory Subsystem",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Hardware-Design-Validation-Engineer---Memory-Subsystem---New-College-Grad-2026_JR2026901",
@@ -1573,6 +1732,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "ASIC Clocks Verification Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Verification-Engineer---New-College-Grad-2026_JR2027579",
@@ -1582,6 +1742,7 @@
   },
   {
    "company": "GlobalFoundries",
+   "logo": "logos/gf.com.png",
    "title": "Software Engineer New Grad",
    "location": "Austin, TX; Santa Clara, CA",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
@@ -1591,6 +1752,7 @@
   },
   {
    "company": "Uber",
+   "logo": "logos/uber.com.png",
    "title": "Graduate Software Engineer 2",
    "location": "Sunnyvale, CA",
    "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355",
@@ -1600,6 +1762,7 @@
   },
   {
    "company": "Aurelian",
+   "logo": "logos/aurelian.com.png",
    "title": "Software Engineer New Grad",
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true",
@@ -1609,6 +1772,7 @@
   },
   {
    "company": "PayPal",
+   "logo": "logos/paypal.com.png",
    "title": "Software Engineer - Android",
    "location": "San Jose, CA +1",
    "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333",
@@ -1618,6 +1782,7 @@
   },
   {
    "company": "Genesys",
+   "logo": "logos/genesys.com.png",
    "title": "Web Software Developer Intern - WFM",
    "location": "Toronto, Canada",
    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
@@ -1627,6 +1792,7 @@
   },
   {
    "company": "General Motors",
+   "logo": "logos/gm.com.png",
    "title": "Early Career Software Test Developer - Propulsion Thermal Management",
    "location": "Markham, Canada",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
@@ -1636,6 +1802,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Security Specialist",
    "location": "Dartmouth, , Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000154541159",
@@ -1645,6 +1812,7 @@
   },
   {
    "company": "Equitable Bank",
+   "logo": "logos/equitablebank.ca.png",
    "title": "Intern - Software Engineer, Winter 2027",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
@@ -1654,6 +1822,7 @@
   },
   {
    "company": "Ecolab",
+   "logo": "logos/ecolab.com.png",
    "title": "Junior Quality Control Software Developer",
    "location": "Calgary, Canada",
    "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CAN---Alberta---Calgary/Junior-Quality-Control-Software-Developer_R00307033",
@@ -1663,6 +1832,7 @@
   },
   {
    "company": "Applied Materials",
+   "logo": "logos/appliedmaterials.com.png",
    "title": "New College Grad Software Engineer I - Bachelors - Santa Clara - CA",
    "location": "Santa Clara, CA",
    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
@@ -1672,6 +1842,7 @@
   },
   {
    "company": "Amplitude",
+   "logo": "logos/amplitude.com.png",
    "title": "Software Engineer I",
    "location": "Vancouver, Canada",
    "url": "https://jobs.ashbyhq.com/amplitude/a89d698b-f340-42a4-b8a6-81113c75fdce",
@@ -1681,6 +1852,7 @@
   },
   {
    "company": "Amplitude",
+   "logo": "logos/amplitude.com.png",
    "title": "Software Engineer I",
    "location": "San Francisco, CA",
    "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be",
@@ -1690,6 +1862,7 @@
   },
   {
    "company": "Abbott",
+   "logo": "logos/abbott.com.png",
    "title": "Associate Software Engineer",
    "location": "Minnesota, USA",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1",
@@ -1699,6 +1872,7 @@
   },
   {
    "company": "Abbott",
+   "logo": "logos/abbott.com.png",
    "title": "Associate Software Engineer",
    "location": "Minnesota, USA",
    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984",
@@ -1708,6 +1882,7 @@
   },
   {
    "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
    "title": "Machine Learning Engineer New Grad - E-Commerce User Growth",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7694352871949682997",
@@ -1717,6 +1892,7 @@
   },
   {
    "company": "Google",
+   "logo": "logos/google.com.png",
    "title": "Graphics Software Developer, Chrome",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/118958236995855046-graphics-software-developer-chrome",
@@ -1725,6 +1901,7 @@
   },
   {
    "company": "Chalk",
+   "logo": "logos/chalk.ai.png",
    "title": "Software Engineer New Grad",
    "location": "SF; NYC",
    "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true",
@@ -1734,6 +1911,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "Systems Design Engineer New Grad",
    "location": "Markham, ON, Canada",
    "url": "https://careers.amd.com/jobs/92338?icims=1",
@@ -1743,6 +1921,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "Systems Design Engineer (New Grad)",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92338",
@@ -1751,6 +1930,7 @@
   },
   {
    "company": "Goodfire",
+   "logo": "logos/goodfire.ai.png",
    "title": "Research Fellow",
    "location": "SF",
    "url": "https://job-boards.greenhouse.io/goodfire/jobs/4499053008",
@@ -1760,6 +1940,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Backend Engineer, Payments & Risk",
    "location": "Toronto, Canada",
    "url": "https://stripe.com/jobs/search?gh_jid=8260985",
@@ -1769,6 +1950,7 @@
   },
   {
    "company": "rubrik",
+   "logo": "logos/rubrik.com.png",
    "title": "Software Engineer - Product Platform Security",
    "location": "Palo Alto, CA",
    "url": "https://www.rubrik.com/company/careers/departments/job.8243737?gh_jid=8243737",
@@ -1778,6 +1960,7 @@
   },
   {
    "company": "Twilio",
+   "logo": "logos/twilio.com.png",
    "title": "Software Engineer - Platform Access - L2",
    "location": "Remote - USA",
    "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
@@ -1787,6 +1970,7 @@
   },
   {
    "company": "Roblox",
+   "logo": "logos/roblox.com.png",
    "title": "Software Engineer - Test Frameworks & Tooling",
    "location": "San Mateo, CA",
    "url": "https://careers.roblox.com/jobs/8229705?gh_jid=8229705",
@@ -1796,6 +1980,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "Systems Software Engineer - AI and Cloud - New College Grad 2026",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
@@ -1814,6 +1999,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Platform Engineer - AI Engineering",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8261675",
@@ -1823,6 +2009,7 @@
   },
   {
    "company": "Coveo",
+   "logo": "logos/coveo.com.png",
    "title": "Software Developer Intern - Solutions Engineering Core Team - Winter 2027",
    "location": "Montréal, Canada",
    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
@@ -1832,6 +2019,7 @@
   },
   {
    "company": "Coveo",
+   "logo": "logos/coveo.com.png",
    "title": "Software Developer Intern - Solutions Engineering Core Team - Winter 2027",
    "location": "Montréal, Canada +1",
    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8869632002",
@@ -1841,6 +2029,7 @@
   },
   {
    "company": "Aurora Innovation",
+   "logo": "logos/aurora.tech.png",
    "title": "Software Engineer - Performance Engineering Optimization",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553",
@@ -1850,6 +2039,7 @@
   },
   {
    "company": "Visa",
+   "logo": "logos/visa.com.png",
    "title": "Software Engineer Operations and Infrastructure",
    "location": "Austin, TX",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
@@ -1859,6 +2049,7 @@
   },
   {
    "company": "Tenstorrent",
+   "logo": "logos/tenstorrent.com.png",
    "title": "Low-Level Software Engineer, LLK",
    "location": "Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5260226007",
@@ -1868,6 +2059,7 @@
   },
   {
    "company": "SpruceID",
+   "logo": "logos/spruceid.com.png",
    "title": "Full-Stack Software Engineer New Grad",
    "location": "Remote in USA",
    "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true",
@@ -1877,6 +2069,7 @@
   },
   {
    "company": "Robinhood",
+   "logo": "logos/robinhood.com.png",
    "title": "Software Engineer, Web3 Backend",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
@@ -1886,6 +2079,7 @@
   },
   {
    "company": "Nordstrom",
+   "logo": "logos/nordstrom.com.png",
    "title": "Engineer 1",
    "location": "Seattle, WA",
    "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
@@ -1895,6 +2089,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Redmond, WA; Reston, VA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
@@ -1904,6 +2099,7 @@
   },
   {
    "company": "Emerson Electric",
+   "logo": "logos/emerson.com.png",
    "title": "Digital Hardware Engineer 1",
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
@@ -1912,7 +2108,8 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco (Security)",
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
    "title": "Software Developer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
@@ -1922,6 +2119,7 @@
   },
   {
    "company": "Snap",
+   "logo": "logos/snap.com.png",
    "title": "Software Engineer, Android, Level 4",
    "location": "Toronto, Canada",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
@@ -1931,6 +2129,7 @@
   },
   {
    "company": "West Monroe",
+   "logo": "logos/westmonroe.com.png",
    "title": "2027 Software Engineering - AI Concentration Consultant",
    "location": "Seattle, WA",
    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004",
@@ -1940,6 +2139,7 @@
   },
   {
    "company": "West Monroe",
+   "logo": "logos/westmonroe.com.png",
    "title": "2027 Software Engineering - AI Concentration Consultant",
    "location": "New York City, NY",
    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6181199004",
@@ -1949,6 +2149,7 @@
   },
   {
    "company": "West Monroe",
+   "logo": "logos/westmonroe.com.png",
    "title": "2027 Cybersecurity & Cloud and Infrastructure Consultant",
    "location": "New York City, NY",
    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6167301004",
@@ -1958,6 +2159,7 @@
   },
   {
    "company": "Royal Bank of Canada",
+   "logo": "logos/rbc.com.png",
    "title": "2027 Winter - GRM - AI Developer Intern - Innovation & AI Center of Excellence - 4 Months",
    "location": "Toronto, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
@@ -1967,6 +2169,7 @@
   },
   {
    "company": "RBC - Royal Bank of Canada",
+   "logo": "logos/rbc.com.png",
    "title": "2027 Winter - GRM - AI Developer Intern - Innovation & AI Center of Excellence - 4 Months",
    "location": "Toronto, Canada",
    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1",
@@ -1976,6 +2179,7 @@
   },
   {
    "company": "Motive",
+   "logo": "logos/gomotive.com.png",
    "title": "Security Software Engineer",
    "location": "Canada - Hybrid",
    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8831546002",
@@ -1985,6 +2189,7 @@
   },
   {
    "company": "MGM Resorts",
+   "logo": "logos/mgmresorts.com.png",
    "title": "Digital Software Engineer Associate",
    "location": "Nevada, USA",
    "url": "https://mgmresorts.wd5.myworkdayjobs.com/en-US/mgmcareers/job/Home-Office---US-NV/Digital-Software-Engineer-Associate_280074-1",
@@ -1994,6 +2199,7 @@
   },
   {
    "company": "Chewy",
+   "logo": "logos/chewy.com.png",
    "title": "Software Engineer I",
    "location": "Bellevue, Australia +2",
    "url": "https://chewy.wd5.myworkdayjobs.com/en-US/external/job/Bellevue-WA/Software-Engineer-I_R30985-1",
@@ -2012,6 +2218,7 @@
   },
   {
    "company": "Pure Storage",
+   "logo": "logos/purestorage.com.png",
    "title": "Software Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851",
@@ -2021,6 +2228,7 @@
   },
   {
    "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
    "title": "GPU PCIe and Boot Architect New Grad",
    "location": "Austin, TX; Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2027_JR2026276",
@@ -2030,6 +2238,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Signal and Power Integrity Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
@@ -2039,6 +2248,7 @@
   },
   {
    "company": "Affirm",
+   "logo": "logos/affirm.com.png",
    "title": "Software Engineer 1 New Grad",
    "location": "NYC",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
@@ -2048,6 +2258,7 @@
   },
   {
    "company": "Affirm",
+   "logo": "logos/affirm.com.png",
    "title": "Software Engineer 1 New Grad",
    "location": "SF; NYC",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
@@ -2057,6 +2268,7 @@
   },
   {
    "company": "Roku",
+   "logo": "logos/roku.com.png",
    "title": "Software Engineer - AI/UI",
    "location": "San Jose, CA",
    "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
@@ -2066,6 +2278,7 @@
   },
   {
    "company": "OpenText",
+   "logo": "logos/opentext.com.png",
    "title": "Software Developer- RPA / UiPath Specialist",
    "location": "Mississauga, Ontario, CAN, L5K 2N6",
    "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53810EXTERNALENUS",
@@ -2075,6 +2288,7 @@
   },
   {
    "company": "ID.me",
+   "logo": "logos/id.me.png",
    "title": "Software Engineer 2 New Grad - Developer Portal",
    "location": "Mountain View, CA",
    "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
@@ -2084,6 +2298,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Web Agent",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-web-agent",
@@ -2093,6 +2308,7 @@
   },
   {
    "company": "Google",
+   "logo": "logos/google.com.png",
    "title": "Software Developer, Google Chat iOS",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214-software-developer-google-chat-ios",
@@ -2101,6 +2317,7 @@
   },
   {
    "company": "Aurora Innovation",
+   "logo": "logos/aurora.tech.png",
    "title": "Applied Researcher",
    "location": "Seattle, WA; SF; Pittsburgh, PA; Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb7ed3f2-a8f5-416d-b880-4ed7c930f9c3/application?embed=true",
@@ -2110,6 +2327,7 @@
   },
   {
    "company": "Astera Labs",
+   "logo": "logos/asteralabs.com.png",
    "title": "Data Analyst New Grad",
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005",
@@ -2119,6 +2337,7 @@
   },
   {
    "company": "Astera Labs",
+   "logo": "logos/asteralabs.com.png",
    "title": "Applied AI New Grad - Non Silicon",
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
@@ -2128,6 +2347,7 @@
   },
   {
    "company": "Konrad Group",
+   "logo": "logos/konrad.com.png",
    "title": "Mobile Developer Entry Level",
    "location": "Toronto, ON, Canada",
    "url": "https://boards.greenhouse.io/embed/job_app?token=7976082003",
@@ -2137,6 +2357,7 @@
   },
   {
    "company": "Truveta",
+   "logo": "logos/truveta.com.png",
    "title": "Software Engineer - Clinical Analytics",
    "location": "Seattle, WA",
    "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004",
@@ -2146,6 +2367,7 @@
   },
   {
    "company": "Nuro",
+   "logo": "logos/nuro.ai.png",
    "title": "Software Engineer New Grad - Routing",
    "location": "Mountain View, CA",
    "url": "https://nuro.ai/careersitem?gh_jid=8248317",
@@ -2155,6 +2377,7 @@
   },
   {
    "company": "Motorola",
+   "logo": "logos/motorolasolutions.com.png",
    "title": "Junior Software Engineer - AI Agent Platform",
    "location": "Remote in Canada",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300",
@@ -2164,6 +2387,7 @@
   },
   {
    "company": "ID.me",
+   "logo": "logos/id.me.png",
    "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
    "location": "Mountain View, CA",
    "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003",
@@ -2173,6 +2397,7 @@
   },
   {
    "company": "Atlassian",
+   "logo": "logos/atlassian.com.png",
    "title": "Data Engineer New Grad",
    "location": "Seattle, WA",
    "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
@@ -2182,6 +2407,7 @@
   },
   {
    "company": "Fellow Insights",
+   "logo": "logos/fellow.app.jpg",
    "title": "Software Engineer - New Grad - 2026-2027",
    "location": "Ottawa, Canada",
    "url": "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa",
@@ -2191,6 +2417,7 @@
   },
   {
    "company": "ServiceNow",
+   "logo": "logos/servicenow.com.png",
    "title": "Software Engineer - Core Infrastructure - Moveworks - New Grad",
    "location": "Mountain View, CA",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true",
@@ -2200,6 +2427,7 @@
   },
   {
    "company": "OppFi",
+   "logo": "logos/oppfi.com.jpg",
    "title": "Software Engineer I",
    "location": "USA",
    "url": "https://job-boards.greenhouse.io/opploans/jobs/8011770003",
@@ -2209,6 +2437,7 @@
   },
   {
    "company": "Snap",
+   "logo": "logos/snap.com.png",
    "title": "Software Engineer - Level 3",
    "location": "Bellevue, WA +1",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/referral19/job/Bellevue-Washington/Software-Engineer--Level-3_R0044231-1",
@@ -2218,6 +2447,7 @@
   },
   {
    "company": "Marvell",
+   "logo": "logos/marvell.com.png",
    "title": "Firmware Engineer Intern - Winter 2027",
    "location": "Ottawa, Canada",
    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
@@ -2227,6 +2457,7 @@
   },
   {
    "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
    "title": "Software Engineering Intern - Winter 2027",
    "location": "Toronto, Canada",
    "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf",
@@ -2235,7 +2466,8 @@
    "category": "SDE"
   },
   {
-   "company": "TD (Security)",
+   "company": "TD",
+   "logo": "logos/td.com.png",
    "title": "Information Security Specialist - Issue Management Governance and Reporting",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Issue-Management-Governance-and-Reporting_R_1512607",
@@ -2245,6 +2477,7 @@
   },
   {
    "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
    "title": "Software Engineer, New Grad (2027)",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5",
@@ -2254,6 +2487,7 @@
   },
   {
    "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
    "title": "Software Engineer, New Grad (2027)",
    "location": "New York",
    "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
@@ -2263,6 +2497,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Implementation Specialist (Software)",
    "location": "Remote; Canada; Philippines; India",
    "url": "https://apply.workable.com/valsoft-corp/j/ECE9AA69BB/",
@@ -2272,6 +2507,7 @@
   },
   {
    "company": "Teleskope",
+   "logo": "logos/teleskope.ai.png",
    "title": "Software Engineer",
    "location": "New York City, NY",
    "url": "https://jobs.ashbyhq.com/teleskope/f96084cd-766a-4791-95e4-2f4ffbadacc0",
@@ -2281,6 +2517,7 @@
   },
   {
    "company": "PolicyMe",
+   "logo": "logos/policyme.com.png",
    "title": "Junior Software Engineer - Remote",
    "location": "Remote - Ontario, Canada",
    "url": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694",
@@ -2290,6 +2527,7 @@
   },
   {
    "company": "Pinterest",
+   "logo": "logos/pinterest.com.png",
    "title": "University Grad Software Engineer 2027 - USA",
    "location": "Remote - San Francisco, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
@@ -2299,6 +2537,7 @@
   },
   {
    "company": "Jamf",
+   "logo": "logos/jamf.com.png",
    "title": "Software Engineer I",
    "location": "Remote - USA",
    "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207163004&gh_jid=6207163004",
@@ -2308,6 +2547,7 @@
   },
   {
    "company": "Intel",
+   "logo": "logos/intel.com.png",
    "title": "Software Engineer - Datacenter",
    "location": "Santa Clara, CA",
    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0287686",
@@ -2317,6 +2557,7 @@
   },
   {
    "company": "Home Depot",
+   "logo": "logos/homedepot.com.png",
    "title": "Intern - Full Stack Software Developer",
    "location": "Canada",
    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepotcanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012",
@@ -2326,6 +2567,7 @@
   },
   {
    "company": "CoStar Group",
+   "logo": "logos/costargroup.com.png",
    "title": "Associate Software Engineer - Sunnyvale - CA",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942",
@@ -2335,6 +2577,7 @@
   },
   {
    "company": "CoStar Group",
+   "logo": "logos/costargroup.com.png",
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
@@ -2344,6 +2587,7 @@
   },
   {
    "company": "Tailscale",
+   "logo": "logos/tailscale.com.png",
    "title": "Software Engineer, Networking (Features)",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4739666005",
@@ -2353,6 +2597,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
    "location": "Longueuil, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
@@ -2362,6 +2607,7 @@
   },
   {
    "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
    "title": "Software Engineer New Grad",
    "location": "SF",
    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
@@ -2371,6 +2617,7 @@
   },
   {
    "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
    "title": "Software Engineer New Grad",
    "location": "SF; NYC",
    "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
@@ -2380,6 +2627,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
    "location": "Seattle, WA; Jessup, MD; Arlington County, Arlington, VA; Denver, CO; Herndon, VA",
    "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
@@ -2389,6 +2637,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "Software Engineer, AI & Engineering Productivity Tools",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/93156",
@@ -2397,6 +2646,7 @@
   },
   {
    "company": "Autodesk",
+   "logo": "logos/autodesk.com.png",
    "title": "Software Development Internship (Summer 2027)",
    "location": "Toronto, ON, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
@@ -2406,6 +2656,7 @@
   },
   {
    "company": "Axon",
+   "logo": "logos/axon.com.png",
    "title": "Software Engineer",
    "location": "Boston, MA; Seattle, WA; Sterling, VA; Scottsdale, AZ; NYC",
    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003",
@@ -2415,6 +2666,7 @@
   },
   {
    "company": "Superhuman",
+   "logo": "logos/superhuman.com.png",
    "title": "Software Engineer - Full-Stack - GPTZero - Early Career",
    "location": "Toronto, Canada",
    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/134c282c-2837-44a8-9f7c-74ca39486490",
@@ -2424,6 +2676,7 @@
   },
   {
    "company": "RoviSys",
+   "logo": "logos/rovisys.com.png",
    "title": "Software Engineer/Developer",
    "location": "Thousand Oaks, CA",
    "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
@@ -2433,6 +2686,7 @@
   },
   {
    "company": "Pinterest",
+   "logo": "logos/pinterest.com.png",
    "title": "Master's University Graduate Data Scientist",
    "location": "Palo Alto, CA; Seattle, WA; SF; NYC",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
@@ -2442,6 +2696,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Technology Planning Engineer",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/technology-planning-engineer",
@@ -2451,6 +2706,7 @@
   },
   {
    "company": "CoStar Group",
+   "logo": "logos/costargroup.com.png",
    "title": "Associate Embedded Software Engineer",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
@@ -2460,6 +2716,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer - Robotics",
    "location": "Seattle, WA; Nashville, TN; Austin, TX; North Reading, MA; Arlington County, Arlington, VA; Bellevue, WA; Westborough, MA",
    "url": "https://amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027",
@@ -2469,6 +2726,7 @@
   },
   {
    "company": "Pinterest",
+   "logo": "logos/pinterest.com.png",
    "title": "Software Engineering Intern 2027 (Toronto)",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
@@ -2478,6 +2736,7 @@
   },
   {
    "company": "Pinterest",
+   "logo": "logos/pinterest.com.png",
    "title": "Machine Learning Intern 2027 (Toronto)",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
@@ -2487,6 +2746,7 @@
   },
   {
    "company": "Google",
+   "logo": "logos/google.com.png",
    "title": "Android Infrastructure Software Developer",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/142151738999087814-android-infrastructure-software-developer",
@@ -2495,6 +2755,7 @@
   },
   {
    "company": "Emerson Electric",
+   "logo": "logos/emerson.com.png",
    "title": "Software Engineer - AI Enablement & Engineering Productivity",
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
@@ -2513,6 +2774,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Cloud Hardware Development Engineer 1 – Early Career",
    "location": "Austin, TX; Cupertino, CA",
    "url": "https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027",
@@ -2522,6 +2784,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "AI Model, Framework, and GPU Software Engineer – Agentic AI",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92925",
@@ -2530,6 +2793,7 @@
   },
   {
    "company": "Schmidt Sciences",
+   "logo": "logos/schmidtsciences.org.png",
    "title": "Fellow in Residence",
    "location": "NYC",
    "url": "https://jobs.lever.co/schmidt-entities/6bef9879-f540-475e-ad26-5254fa4e1ad7/apply",
@@ -2539,6 +2803,7 @@
   },
   {
    "company": "Arctic Wolf",
+   "logo": "logos/arcticwolf.com.png",
    "title": "Professional Services Engineer 1",
    "location": "Waterloo, ON, CAN; Eden Prairie, MN, USA; San Antonio, TX, USA",
    "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Waterloo-ON-CAN/Professional-Services-Engineer-1_R26_1068",
@@ -2548,6 +2813,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Full Stack Developer",
    "location": "Remote; Ontario, Canada; British Columbia, Canada; Alberta, Canada; Nova Scotia, Canada; New Brunswick, Canada; Saskatchewan, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/23BE5BB9A0/",
@@ -2557,6 +2823,7 @@
   },
   {
    "company": "Raytheon",
+   "logo": "logos/rtx.com.png",
    "title": "Stage - Hiver 2027 - Service Numériques pour les Moteurs - Développeur logiciel/ Internship - Winter 2027 Digital Engine Services - DES - Ground cloud software developer",
    "location": "LONGUEUIL-MD, Canada",
    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-MD--1000-Blvd-Marie-Victorin--MD-BLDG/Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Dveloppeur-logiciel--Internship---Winter-2027-Digital-Engine-Services--DES----Ground-cloud-software-developer_01874389",
@@ -2566,6 +2833,7 @@
   },
   {
    "company": "OmegaHires",
+   "logo": "logos/omegahires.com.png",
    "title": "Software Engineer",
    "location": "New York City, NY",
    "url": "https://omegahires.applytojob.com/apply/y471r9ACxK/Software-Engineer",
@@ -2575,6 +2843,7 @@
   },
   {
    "company": "Coveo",
+   "logo": "logos/coveo.com.png",
    "title": "Stagiaire en développement d’applications frontales - frontend - hiver 2027",
    "location": "Montréal, Canada",
    "url": "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8853984002",
@@ -2584,6 +2853,7 @@
   },
   {
    "company": "Coveo",
+   "logo": "logos/coveo.com.png",
    "title": "Stagiaire en développement d’applications frontales - frontend - hiver 2027",
    "location": "Montréal, Canada +1",
    "url": "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002",
@@ -2593,6 +2863,7 @@
   },
   {
    "company": "Coveo",
+   "logo": "logos/coveo.com.png",
    "title": "Frontend Developer Intern - Winter 2027",
    "location": "Montréal, Canada +1",
    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
@@ -2601,7 +2872,8 @@
    "category": "SDE"
   },
   {
-   "company": "eBay (Research)",
+   "company": "eBay",
+   "logo": "logos/ebay.com.png",
    "title": "Applied Researcher 1 - Multimodal AI",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-1---Multimodal-AI_R0076692",
@@ -2611,6 +2883,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Software Engineer, Metronome Infrastructure",
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
@@ -2620,6 +2893,7 @@
   },
   {
    "company": "Interac",
+   "logo": "logos/interac.ca.png",
    "title": "Software Developer",
    "location": "Toronto",
    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer_REQ-2373",
@@ -2629,6 +2903,7 @@
   },
   {
    "company": "Perplexity",
+   "logo": "logos/perplexity.ai.png",
    "title": "Member of Technical Staff (New Grad)",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511",
@@ -2638,6 +2913,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Développeur(se) logiciel, imagerie médicale / Software Developer (PACS)",
    "location": "Remote; Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/ED4A93A970/",
@@ -2647,6 +2923,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "System Engineering Analyst, Underwater Acoustics",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000152438503",
@@ -2656,6 +2933,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": " System Engineering Analyst, Underwater Acoustics",
    "location": "Cole Harbour, NS, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000152439019",
@@ -2665,6 +2943,7 @@
   },
   {
    "company": "Cenovus Energy",
+   "logo": "logos/cenovus.com.png",
    "title": "Student - AI and Software Engineering - Calgary - May 2027",
    "location": "Calgary, Canada",
    "url": "https://cenovus.wd3.myworkdayjobs.com/en-US/careers/job/CA-AB-Calgary/Student--AI-and-Software-Engineering--Calgary--May-2027-_R-411154",
@@ -2674,6 +2953,7 @@
   },
   {
    "company": "Allstate",
+   "logo": "logos/allstate.com.png",
    "title": "Software Engineer - All Levels",
    "location": "Remote - USA",
    "url": "https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Software-Engineer--All-Levels-_R35582",
@@ -2682,7 +2962,8 @@
    "category": "SDE"
   },
   {
-   "company": "eBay (Research)",
+   "company": "eBay",
+   "logo": "logos/ebay.com.png",
    "title": "Applied Researcher 2 - Multimodal AI",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Applied-Researcher-2---Multimodal-AI_R0076706",
@@ -2691,7 +2972,8 @@
    "category": "Research"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Ring AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10564406/applied-scientist-ring-ai",
@@ -2701,6 +2983,7 @@
   },
   {
    "company": "Visa",
+   "logo": "logos/visa.com.png",
    "title": "Software Engineer",
    "location": "Austin, TX",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W",
@@ -2710,6 +2993,7 @@
   },
   {
    "company": "Motive",
+   "logo": "logos/gomotive.com.png",
    "title": "Offensive Security Engineer (Red Team)",
    "location": "Canada - Remote",
    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8849916002",
@@ -2719,6 +3003,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste apprentissage machine/Machine Learning Specialist - Device Analytics",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/76FD040E79/",
@@ -2728,6 +3013,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "System Engineering - Platforms",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000152232609",
@@ -2737,6 +3023,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Quality Engineering Specialist ",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000152229620",
@@ -2746,6 +3033,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Industrialization Engineer Intern (Summer 2027)",
    "location": "Longueuil, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
@@ -2755,6 +3043,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
@@ -2764,6 +3053,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Driver Earnings",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
@@ -2773,6 +3063,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "Silicon Design Infrastructure Hardware/Software Engineer",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/87268",
@@ -2781,6 +3072,7 @@
   },
   {
    "company": "Roblox",
+   "logo": "logos/roblox.com.png",
    "title": "Software Engineer - GenAI Platform",
    "location": "San Mateo, CA",
    "url": "https://careers.roblox.com/jobs/8171283?gh_jid=8171283",
@@ -2790,6 +3082,7 @@
   },
   {
    "company": "Quora",
+   "logo": "logos/quora.com.png",
    "title": "Software Engineer New Grad - Machine Learning Platform - Quora - Remote",
    "location": "Remote - USA +1",
    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
@@ -2808,6 +3101,7 @@
   },
   {
    "company": "Astranis Space Technologies",
+   "logo": "logos/astranis.com.png",
    "title": "Software Developer - Network Software Associate - Summer 2027",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
@@ -2817,6 +3111,7 @@
   },
   {
    "company": "Quora",
+   "logo": "logos/quora.com.png",
    "title": "Software Engineer New Grad - Machine Learning Platform",
    "location": "Remote in USA; Remote in Canada",
    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true",
@@ -2826,6 +3121,7 @@
   },
   {
    "company": "Snap",
+   "logo": "logos/snap.com.png",
    "title": "Software Engineer, C++, Level 5 (Fixed Term)",
    "location": "Toronto, Canada",
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
@@ -2835,6 +3131,7 @@
   },
   {
    "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
    "title": "Software Engineering AMTS - College Grad",
    "location": "California, USA +7",
    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250",
@@ -2844,6 +3141,7 @@
   },
   {
    "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
    "title": "Software Engineering AMTS - College Grad",
    "location": "California, USA +7",
    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
@@ -2853,6 +3151,7 @@
   },
   {
    "company": "Roblox",
+   "logo": "logos/roblox.com.png",
    "title": "Software Engineer - Data Access",
    "location": "San Mateo, CA",
    "url": "https://careers.roblox.com/jobs/8168881?gh_jid=8168881",
@@ -2862,6 +3161,7 @@
   },
   {
    "company": "PointClickCare",
+   "logo": "logos/pointclickcare.com.png",
    "title": "Canada- Software Training Specialist (Clinical)",
    "location": "Remote or Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/acc9972c-336a-4a2a-9d75-701c54ccab40",
@@ -2871,6 +3171,7 @@
   },
   {
    "company": "Nuro",
+   "logo": "logos/nuro.ai.png",
    "title": "Software Engineer - Performance Tooling and Infrastructure New Grad",
    "location": "Mountain View, CA",
    "url": "https://nuro.ai/careersitem?gh_jid=8227399",
@@ -2880,6 +3181,7 @@
   },
   {
    "company": "Diligent",
+   "logo": "logos/diligent.com.png",
    "title": "Solutions Engineer",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6208674004",
@@ -2889,6 +3191,7 @@
   },
   {
    "company": "Astranis Space Technologies",
+   "logo": "logos/astranis.com.png",
    "title": "Software Defined Radio Hardware Associate - Winter 2027",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
@@ -2898,6 +3201,7 @@
   },
   {
    "company": "Astranis Space Technologies",
+   "logo": "logos/astranis.com.png",
    "title": "Software Defined Radio Hardware Associate - Summer 2027",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
@@ -2907,6 +3211,7 @@
   },
   {
    "company": "Adobe",
+   "logo": "logos/adobe.com.png",
    "title": "2027 University Graduate - Software Engineer",
    "location": "San Francisco, CA +4",
    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
@@ -2916,6 +3221,7 @@
   },
   {
    "company": "Neuralink",
+   "logo": "logos/neuralink.com.png",
    "title": "Software Engineer - Simulation",
    "location": "Austin, TX; South SF",
    "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
@@ -2925,6 +3231,7 @@
   },
   {
    "company": "Nutanix",
+   "logo": "logos/nutanix.com.png",
    "title": "Software Engineer New Grad - Master’s - Bachelor’s + 2",
    "location": "Vancouver, BC, Canada",
    "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false",
@@ -2934,6 +3241,7 @@
   },
   {
    "company": "Remitly",
+   "logo": "logos/remitly.com.png",
    "title": "AI Native Software Engineer",
    "location": "Seattle, WA",
    "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
@@ -2943,6 +3251,7 @@
   },
   {
    "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
    "title": "Software Engineering LMTS",
    "location": "Canada - Vancouver",
    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR356646",
@@ -2952,6 +3261,7 @@
   },
   {
    "company": "Apple",
+   "logo": "logos/apple.com.png",
    "title": "Software Engineer, Productivity Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200674176/software-engineer-productivity-apps?team=SFTWR",
@@ -2961,6 +3271,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer I - Amazon Connect Customer Data & Insights",
    "location": "Seattle, WA",
    "url": "https://www.amazon.jobs/jobs/10562297/apply",
@@ -2970,6 +3281,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Software Support Specialist",
    "location": "Remote; Winnipeg, Manitoba, Canada; Canada; India; South Africa; Brasília, Brasília, Brazil",
    "url": "https://apply.workable.com/valsoft-corp/j/0CF246892B/",
@@ -2979,6 +3291,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Software Development Engineer in Test (SDET)",
    "location": "Remote; India; Winnipeg, Manitoba, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/B2837F9736/",
@@ -2988,6 +3301,7 @@
   },
   {
    "company": "Striveworks",
+   "logo": "logos/striveworks.com.png",
    "title": "Junior Software Engineer",
    "location": "Austin, TX",
    "url": "https://job-boards.greenhouse.io/striveworks/jobs/8002825003",
@@ -2997,6 +3311,7 @@
   },
   {
    "company": "General Motors",
+   "logo": "logos/gm.com.png",
    "title": "Software Engineer AV HIL Platform and Services - Early Career",
    "location": "Sunnyvale, CA",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577",
@@ -3006,6 +3321,7 @@
   },
   {
    "company": "Evolve Security",
+   "logo": "logos/evolvesecurity.com.png",
    "title": "OSOC Security Analyst - Cloud Pentesting",
    "location": "USA",
    "url": "https://apply.workable.com/evolve-security/j/862A8C87BC/",
@@ -3015,6 +3331,7 @@
   },
   {
    "company": "Commure",
+   "logo": "logos/commure.com.png",
    "title": "Software Engineer - Scribe AI",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
@@ -3024,6 +3341,7 @@
   },
   {
    "company": "Astranis Space Technologies",
+   "logo": "logos/astranis.com.png",
    "title": "Flight Software Associate - Winter 2027",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704714006",
@@ -3033,6 +3351,7 @@
   },
   {
    "company": "Astranis",
+   "logo": "logos/astranis.com.png",
    "title": "Software Developer - Network Software Associate",
    "location": "SF",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006",
@@ -3042,6 +3361,7 @@
   },
   {
    "company": "Atlassian",
+   "logo": "logos/atlassian.com.png",
    "title": "Machine Learning Engineer - 2027 Graduate",
    "location": "Seattle, WA",
    "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
@@ -3051,6 +3371,7 @@
   },
   {
    "company": "Adobe",
+   "logo": "logos/adobe.com.png",
    "title": "Software Engineer New Grad",
    "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; NYC; Lehi, UT",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
@@ -3060,6 +3381,7 @@
   },
   {
    "company": "Adobe",
+   "logo": "logos/adobe.com.png",
    "title": "Machine Learning Engineer New Grad",
    "location": "Seattle, WA; SF; Austin, TX; San Jose, CA; Waltham, MA; NYC; Lehi, UT",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
@@ -3069,6 +3391,7 @@
   },
   {
    "company": "Magnet Forensics",
+   "logo": "logos/magnetforensics.com.png",
    "title": "Software Development Engineer in Test",
    "location": "Canada",
    "url": "https://jobs.lever.co/magnetforensics/450d6c28-ac1d-4411-a176-3eb5655c5545",
@@ -3078,6 +3401,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Agent Platform R&D",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-agent-platform-rd",
@@ -3087,6 +3411,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Computer Network for AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-computer-network-for-ai-1",
@@ -3096,6 +3421,7 @@
   },
   {
    "company": "Perplexity",
+   "logo": "logos/perplexity.ai.png",
    "title": "Member of Technical Staff, AI Products (Early Career - Industry)",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409",
@@ -3105,6 +3431,7 @@
   },
   {
    "company": "Roku",
+   "logo": "logos/roku.com.png",
    "title": "Software Engineer",
    "location": "San Jose, CA",
    "url": "https://www.weareroku.com/jobs/8223823?gh_jid=8223823",
@@ -3114,6 +3441,7 @@
   },
   {
    "company": "Rivian",
+   "logo": "logos/rivian.com.png",
    "title": "Systems Architecture Software Engineer",
    "location": "Palo Alto, CA",
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/b6017142-1123-4999-8c04-d6d3b897f8d9",
@@ -3123,6 +3451,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Software Engineering Developer, DevOps ",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000151454169",
@@ -3132,6 +3461,7 @@
   },
   {
    "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982903",
@@ -3141,6 +3471,7 @@
   },
   {
    "company": "SeatGeek",
+   "logo": "logos/seatgeek.com.png",
    "title": "Software Engineer New Grad",
    "location": "NYC",
    "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
@@ -3150,6 +3481,7 @@
   },
   {
    "company": "Scale AI",
+   "logo": "logos/scale.com.png",
    "title": "Software Engineer New Grad - Public Sector",
    "location": "SF",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
@@ -3159,6 +3491,7 @@
   },
   {
    "company": "Qumulo",
+   "logo": "logos/qumulo.com.png",
    "title": "Software Development Engineer New Grad",
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true",
@@ -3168,6 +3501,7 @@
   },
   {
    "company": "Commure",
+   "logo": "logos/commure.com.png",
    "title": "Software Engineer - Scribe AI",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
@@ -3177,6 +3511,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Driver Experience",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8828273002?gh_jid=8828273002",
@@ -3186,6 +3521,7 @@
   },
   {
    "company": "Google",
+   "logo": "logos/google.com.png",
    "title": "Software Developer, iOS, Glasses System UI",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
@@ -3194,6 +3530,7 @@
   },
   {
    "company": "D2L",
+   "logo": "logos/d2l.com.png",
    "title": "Software Developer",
    "location": "Kitchener, Toronto, Winnipeg, Vancouver, Canada Remote",
    "url": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466",
@@ -3201,7 +3538,8 @@
    "category": "SDE"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Alexa Connections",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10557195/applied-scientist-alexa-connections",
@@ -3210,7 +3548,8 @@
    "category": "AI/ML"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Alexa Connections",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10557194/applied-scientist-alexa-connections",
@@ -3220,6 +3559,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "Software Development Engineer (Chip Product Security)",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92300",
@@ -3228,6 +3568,7 @@
   },
   {
    "company": "SingleStore",
+   "logo": "logos/singlestore.com.png",
    "title": "MIT-Software Engineer-New Grad -Helios",
    "location": "Seattle, WA",
    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882",
@@ -3237,6 +3578,7 @@
   },
   {
    "company": "SingleStore",
+   "logo": "logos/singlestore.com.png",
    "title": "MIT-Software Engineer-New Grad -Engine",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863",
@@ -3246,6 +3588,7 @@
   },
   {
    "company": "Mozilla",
+   "logo": "logos/mozilla.org.png",
    "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
    "location": "Remote Canada; Remote France; Remote Germany; Remote UK",
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8223398",
@@ -3255,6 +3598,7 @@
   },
   {
    "company": "Inspired HR",
+   "logo": "logos/inspiredhr.ca.png",
    "title": "Software Developer",
    "location": "Vancouver, Canada",
    "url": "https://www.inspiredhr.ca/job-seekers/co/vancouver-bc/3F.E68/software-developer/all/",
@@ -3264,6 +3608,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Dynamics / Power Platform",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/598A4437BD/",
@@ -3273,6 +3618,7 @@
   },
   {
    "company": "Equitable Bank",
+   "logo": "logos/equitablebank.ca.png",
    "title": "Cloud Platform Engineer",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/da76d8af-459d-432b-8a97-0090ac2593df",
@@ -3282,6 +3628,7 @@
   },
   {
    "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
    "title": "Intern - Mobile Software Engineer - Team Gringotts North - Winter 2027",
    "location": "Toronto, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
@@ -3291,6 +3638,7 @@
   },
   {
    "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
    "title": "Intern - Full Stack Software Engineer - Team Sprout - Winter 2027",
    "location": "Toronto, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
@@ -3300,6 +3648,7 @@
   },
   {
    "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
    "title": "Intern - Full Stack Software Engineer - Team Pickle - Winter 2027",
    "location": "Toronto, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
@@ -3309,6 +3658,7 @@
   },
   {
    "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
    "title": "Intern - Backend Software Engineer - Team Interstellar - Winter 2027",
    "location": "Toronto, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
@@ -3336,6 +3686,7 @@
   },
   {
    "company": "Microchip Technology",
+   "logo": "logos/microchip.com.png",
    "title": "Product/Test Engineer 1 - Networking & Connectivity Solutions",
    "location": "Austin, TX",
    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Austin---Park-Centre/Engineer-I-Product-Test_R4032-26",
@@ -3354,6 +3705,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "SVT/PV Engineer 1 - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
@@ -3363,6 +3715,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24441",
@@ -3372,6 +3725,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Chef de l'ingénierie | Head of Engineering",
    "location": "Saint-Laurent, Quebec, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/2B702756AC/",
@@ -3381,6 +3735,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Cybersecurity Engineer (System Engineering) - Multiple level ",
    "location": "Calgary, AB, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000150776994",
@@ -3390,6 +3745,7 @@
   },
   {
    "company": "Hewlett Packard Enterprise",
+   "logo": "logos/hpe.com.png",
    "title": "VLSI Engineer 1 Graduate",
    "location": "Sunnyvale, CA",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I-Graduate_1214995",
@@ -3399,6 +3755,7 @@
   },
   {
    "company": "Cirrus Logic",
+   "logo": "logos/cirrus.com.png",
    "title": "Post-Silicon Validation Engineer New Grad - Mixed IC Validation",
    "location": "Austin, TX",
    "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply",
@@ -3408,6 +3765,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Mixed Signal IP Integration Engineer New Grad",
    "location": "Ottawa, ON, Canada",
    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Mixed-Signal-IP-Integration-Engineer---New-Grad_R031688",
@@ -3417,6 +3775,7 @@
   },
   {
    "company": "Perplexity",
+   "logo": "logos/perplexity.ai.png",
    "title": "Perplexity Research Fellowship",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/Perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8",
@@ -3426,6 +3785,7 @@
   },
   {
    "company": "Voldex Games",
+   "logo": "logos/voldex.com.png",
    "title": "Software Engineer - Driving Empire",
    "location": "Remote - Montréal, Canada +3",
    "url": "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56",
@@ -3435,6 +3795,7 @@
   },
   {
    "company": "Study.com",
+   "logo": "logos/study.com.png",
    "title": "Associate Software Engineer - New Grad",
    "location": "Mountain View, CA",
    "url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
@@ -3444,6 +3805,7 @@
   },
   {
    "company": "Autodesk",
+   "logo": "logos/autodesk.com.png",
    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
    "location": "Montreal, QC, CAN",
    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2",
@@ -3453,6 +3815,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Test Tools & Automation Full Stack Software Engineer",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305",
@@ -3462,6 +3825,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Experienced Photonic Card Software Developer",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
@@ -3471,6 +3835,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Embedded software engineer",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
@@ -3480,6 +3845,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Embedded Software Engineer - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
@@ -3489,6 +3855,7 @@
   },
   {
    "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "Embedded Software Developer (New Grad)",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
@@ -3497,7 +3864,8 @@
    "category": "SDE"
   },
   {
-   "company": "TD (Security)",
+   "company": "TD",
+   "logo": "logos/td.com.png",
    "title": "Information Security Specialist (Security Posture Insights, Reporting and Remediation)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Security-Posture-Insights--Reporting-and-Remediation-_R_1507913",
@@ -3506,7 +3874,8 @@
    "category": "Security"
   },
   {
-   "company": "TD (Security)",
+   "company": "TD",
+   "logo": "logos/td.com.png",
    "title": "Information Security Specialist ( Attack Surface Reduction)",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Attack-Surface-Reduction-_R_1502609",
@@ -3515,7 +3884,8 @@
    "category": "Security"
   },
   {
-   "company": "Cerebras (US new grad)",
+   "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "Supplier Quality Engineer - New Grad",
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/cerebras/04ce4198-d9b6-4aae-ad11-97708033f94a",
@@ -3534,6 +3904,7 @@
   },
   {
    "company": "LawDepot",
+   "logo": "logos/lawdepot.com.png",
    "title": "Business Data Analyst",
    "location": "Edmonton, Hybrid",
    "url": "https://jobs.ashbyhq.com/lawdepot/6a00f8c8-529e-4eb2-a602-f956c0cbbf43",
@@ -3543,6 +3914,7 @@
   },
   {
    "company": "Nokia",
+   "logo": "logos/nokia.com.png",
    "title": "Software Development Engineer",
    "location": "Canada",
    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40631",
@@ -3552,6 +3924,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer Intern - Summer 2027 (CAN)",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
@@ -3561,6 +3934,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Software Engineer, Early Career — Immediate Start",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8212517",
@@ -3570,6 +3944,7 @@
   },
   {
    "company": "Cohere",
+   "logo": "logos/cohere.com.png",
    "title": "Software Engineer, Security",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/cohere/a10a96b5-f772-466d-9297-f021f78ca9c0",
@@ -3579,6 +3954,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - C#/.NET, WPF and Web",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/5A5A23961A/",
@@ -3588,6 +3964,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Junior System Integration – Qualification & Verification Engineer",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000149889730",
@@ -3597,6 +3974,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer (Android)",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/20284",
@@ -3606,6 +3984,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Edge Platform (Edge OS)",
    "location": "Québec City, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/F6D9FBF777/",
@@ -3615,6 +3994,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - CSOL",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/DC2FA7FF34/",
@@ -3624,6 +4004,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Software Engineering Developer,  Air & Naval Sonar ",
    "location": "Dartmouth, NS, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000149667518",
@@ -3633,6 +4014,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Software Engineer, Commercial Software",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
@@ -3642,6 +4024,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - Physical Layer",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-physical-layer",
@@ -3651,6 +4034,7 @@
   },
   {
    "company": "Google DeepMind",
+   "logo": "logos/deepmind.google.png",
    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
    "location": "Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/104405499448828614-student-researcher-bs-ms-winter-summer-2027",
@@ -3659,6 +4043,7 @@
   },
   {
    "company": "Google DeepMind",
+   "logo": "logos/deepmind.google.png",
    "title": "Student Researcher, BS/MS, Winter-Summer 2027",
    "location": "Waterloo, ON, Canada; Toronto, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/114416552819729094-student-researcher-bs-ms-winter-summer-2027",
@@ -3667,6 +4052,7 @@
   },
   {
    "company": "Google DeepMind",
+   "logo": "logos/deepmind.google.png",
    "title": "Student Researcher, BS/MS, Fall 2026",
    "location": "Waterloo, ON, Canada; Toronto, ON, Canada; Montreal, QC, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/113855697199735494-student-researcher-bs-ms-fall-2026",
@@ -3675,6 +4061,7 @@
   },
   {
    "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "Software Engineer, Kernel Reliability",
    "location": "United States and Canada",
    "url": "https://jobs.ashbyhq.com/cerebras/8cb78937-ac30-4ab2-98d0-680228ea5e6f",
@@ -3684,6 +4071,7 @@
   },
   {
    "company": "Equitable Bank",
+   "logo": "logos/equitablebank.ca.png",
    "title": "Intern - Retail Lending AI Engineer, Winter 2027",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea",
@@ -3693,6 +4081,7 @@
   },
   {
    "company": "Equitable Bank",
+   "logo": "logos/equitablebank.ca.png",
    "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
@@ -3702,6 +4091,7 @@
   },
   {
    "company": "DoorDash Canada",
+   "logo": "logos/doordash.com.png",
    "title": "Software Engineer, Intern (Summer 2027) - TOR",
    "location": "Toronto, ON",
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944",
@@ -3711,6 +4101,7 @@
   },
   {
    "company": "Ericsson",
+   "logo": "logos/ericsson.com.png",
    "title": "Services Professional (Early Career)",
    "location": "Toronto,Ontario,Canada",
    "url": "https://jobs.ericsson.com/careers/job/563121775279366",
@@ -3720,6 +4111,7 @@
   },
   {
    "company": "Cohere",
+   "logo": "logos/cohere.com.png",
    "title": "Product Security Engineer, North Security",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
@@ -3729,6 +4121,7 @@
   },
   {
    "company": "2K",
+   "logo": "logos/2k.com.png",
    "title": "Analyste en assurance qualité linguistique (LQA) espagnol latino-américain / LQA Analyst, Spanish Latin American",
    "location": "Montréal, Quebec, Canada",
    "url": "https://job-boards.greenhouse.io/2k/jobs/7978912003",
@@ -3738,6 +4131,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "UX Research Intern (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002",
@@ -3747,6 +4141,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer Intern, Test Automation (Summer 2027)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
@@ -3756,6 +4151,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
@@ -3765,6 +4161,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
@@ -3774,6 +4171,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
@@ -3783,6 +4181,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
@@ -3792,6 +4191,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
@@ -3801,6 +4201,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Data Engineer Intern (Summer 2027)",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
@@ -3810,6 +4211,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
@@ -3819,6 +4221,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027 - Montreal)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
@@ -3828,6 +4231,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Développeur Logiciels (Stagiaire), Automatisation des tests (l'été 2027)",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8767536002?gh_jid=8767536002",
@@ -3837,6 +4241,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - 6G RF Packaging",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-6g-rf-packaging",
@@ -3846,6 +4251,7 @@
   },
   {
    "company": "Affirm",
+   "logo": "logos/affirm.com.png",
    "title": "Software Engineer I, Frontend (Upfunnel)",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
@@ -3855,6 +4261,7 @@
   },
   {
    "company": "2K",
+   "logo": "logos/2k.com.png",
    "title": "LQA Analyst, Brazilian Portuguese",
    "location": "Montréal, Quebec, Canada",
    "url": "https://job-boards.greenhouse.io/2k/jobs/7978914003",
@@ -3864,6 +4271,7 @@
   },
   {
    "company": "Miovision",
+   "logo": "logos/miovision.com.png",
    "title": "Software Developer, Device Platform",
    "location": "Kitchener",
    "url": "https://jobs.ashbyhq.com/miovision/daac9fa8-0aac-4e06-8e0b-3ff327feb928",
@@ -3873,6 +4281,7 @@
   },
   {
    "company": "Tailscale",
+   "logo": "logos/tailscale.com.png",
    "title": "Software Engineer, Networking (Dataplane)",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4732874005",
@@ -3882,6 +4291,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Telematics",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8790686002?gh_jid=8790686002",
@@ -3891,6 +4301,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Physical AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-physical-ai",
@@ -3900,6 +4311,7 @@
   },
   {
    "company": "Motive",
+   "logo": "logos/gomotive.com.png",
    "title": "Red Team Security Engineer",
    "location": "Canada - Remote",
    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8103566002",
@@ -3909,6 +4321,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer Intern, ROBOTICS - 2027",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
@@ -3918,6 +4331,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher-AI Agents",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-agents-3",
@@ -3927,6 +4341,7 @@
   },
   {
    "company": "Apple",
+   "logo": "logos/apple.com.png",
    "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200682548/software-development-engineer-in-test-full-stack-creativity-apps?team=SFTWR",
@@ -3936,6 +4351,7 @@
   },
   {
    "company": "Cisco",
+   "logo": "logos/cisco.com.png",
    "title": "Software Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
@@ -3945,6 +4361,7 @@
   },
   {
    "company": "Cursor",
+   "logo": "logos/cursor.com.png",
    "title": "Software Engineer, New Grad 2027",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
@@ -3954,6 +4371,7 @@
   },
   {
    "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "Distributed Software Engineer",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/ada45357-f6bb-452c-a9db-acd9ec33f0aa",
@@ -3963,6 +4381,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "System Engineering Analyst, Headquarters (HQ)",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000147986279",
@@ -3972,6 +4391,7 @@
   },
   {
    "company": "Canadian Bank Note",
+   "logo": "logos/cbnco.com.png",
    "title": "Full Stack Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000147976309",
@@ -3981,6 +4401,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Directeur·rice des produits et de l'ingénierie | Head of Product and Engineering",
    "location": "Remote; Montreal, Quebec, Canada; Trois-Rivières, Quebec, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/B861A5DF14/",
@@ -3990,6 +4411,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Systems Engineering Analysts (SoS), Junior",
    "location": "Calgary, AB, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000147560169",
@@ -3999,6 +4421,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "System Engineering Analyst",
    "location": "Calgary, AB, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000147558794",
@@ -4008,6 +4431,7 @@
   },
   {
    "company": "DoorDash Canada",
+   "logo": "logos/doordash.com.png",
    "title": "Software Engineer, Entry-Level (Graduation Date Winter 2026 - Spring/Summer 2027)",
    "location": "Toronto, ON",
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
@@ -4026,6 +4450,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Video Generation & 3D Computer Vision",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-video-generation-3d-computer-vision-1",
@@ -4035,6 +4460,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en tests de logiciels / Software Test Specialist",
    "location": "Sherbrooke, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/E622D24661/",
@@ -4044,6 +4470,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Junior Hardware Engineering Developer, FPGA",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000147039249",
@@ -4053,6 +4480,7 @@
   },
   {
    "company": "Censys",
+   "logo": "logos/censys.com.jpg",
    "title": "Distributed Systems Engineer (Data Platform) ",
    "location": "Remote (US/Canada)",
    "url": "https://job-boards.greenhouse.io/censys/jobs/8729906002",
@@ -4062,6 +4490,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - RF & Antenna",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-rf-antenna",
@@ -4071,6 +4500,7 @@
   },
   {
    "company": "PointClickCare",
+   "logo": "logos/pointclickcare.com.png",
    "title": "Canada- Jr Software Engineer (SRE)",
    "location": "Remote or Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0",
@@ -4080,6 +4510,7 @@
   },
   {
    "company": "OpenTable",
+   "logo": "logos/opentable.com.png",
    "title": "AI Applied Engineer, Business Solutions",
    "location": "Toronto, Canada",
    "url": "https://job-boards.greenhouse.io/opentable/jobs/8769522002",
@@ -4089,6 +4520,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en tests logiciels / Software Test Specialist - Mobile & Web Apps",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/F8319FF65B/",
@@ -4098,6 +4530,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en tests logiciel / Software Test Specialist - SC QA Domains",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/1F47F022FE/",
@@ -4107,6 +4540,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel en test / Software Developer - SC Video Systems",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/F8510CCBC0/",
@@ -4116,6 +4550,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "AI and Automation Software Engineer",
    "location": "VANCOUVER, British Columbia, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/91625",
@@ -4124,6 +4559,7 @@
   },
   {
    "company": "AMD",
+   "logo": "logos/amd.com.png",
    "title": "AI and Automation Software Engineer",
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/88614",
@@ -4132,6 +4568,7 @@
   },
   {
    "company": "Sierra",
+   "logo": "logos/sierra.ai.jpg",
    "title": "Software Engineer, Agent (New Grad 2027)",
    "location": "San Francisco, CA",
    "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
@@ -4141,6 +4578,7 @@
   },
   {
    "company": "Sierra",
+   "logo": "logos/sierra.ai.jpg",
    "title": "APX (New Grad 2027)",
    "location": "San Francisco, CA",
    "url": "https://jobs.ashbyhq.com/sierra/d9c445da-c7b4-43a3-8d71-d367681c3015",
@@ -4150,6 +4588,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en tests de logiciels / Software Test Specialist",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/37D32F9F11/",
@@ -4159,6 +4598,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Software Engineer, Intern (Summer or Winter)",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
@@ -4168,6 +4608,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Software Engineer, New Grad",
    "location": "Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=8157838",
@@ -4177,6 +4618,7 @@
   },
   {
    "company": "Coinbase",
+   "logo": "logos/coinbase.com.png",
    "title": "Product Security Engineer",
    "location": "Remote - Canada",
    "url": "https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389",
@@ -4186,6 +4628,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer in Test, LUS",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002",
@@ -4195,6 +4638,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Android Software Engineer, Lyft Urban Solutions",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
@@ -4204,6 +4648,7 @@
   },
   {
    "company": "Apple",
+   "logo": "logos/apple.com.png",
    "title": "Xcode Cloud Distributed Systems Software Engineer",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680206/xcode-cloud-distributed-systems-software-engineer?team=SFTWR",
@@ -4213,6 +4658,7 @@
   },
   {
    "company": "Apple",
+   "logo": "logos/apple.com.png",
    "title": "Software Development Engineer in Test, Creativity Apps (SDET)",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680212/software-development-engineer-in-test-creativity-apps-sdet?team=SFTWR",
@@ -4222,6 +4668,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "AI Engineer",
    "location": "Remote; Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/48F3E57C7F/",
@@ -4231,6 +4678,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": " Solutions Engineering, IT",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000145615878",
@@ -4240,6 +4688,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) CloudOps / CloudOps Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/158B15A568/",
@@ -4249,6 +4698,7 @@
   },
   {
    "company": "VersaPay",
+   "logo": "logos/versapay.com.png",
    "title": "Salesforce Developer",
    "location": "Canada (Remote)",
    "url": "https://jobs.lever.co/versapay/7906bc29-f17e-44d2-a41b-334e6ce0608c",
@@ -4258,6 +4708,7 @@
   },
   {
    "company": "Superhuman",
+   "logo": "logos/superhuman.com.png",
    "title": "iOS Engineer (Canada)",
    "location": "Remote - Canada",
    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/7cebc242-afcf-4b8d-b948-cbcd60de10ea",
@@ -4267,6 +4718,7 @@
   },
   {
    "company": "Censys",
+   "logo": "logos/censys.com.jpg",
    "title": "Distributed Systems Engineer (Data Platform)",
    "location": "Remote (US/Canada)",
    "url": "https://job-boards.greenhouse.io/censys/jobs/8684280002",
@@ -4275,7 +4727,8 @@
    "category": "SDE"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist,  Tax Engine",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10512573/applied-scientist-tax-engine",
@@ -4285,6 +4738,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Supercharging Converter",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-supercharging-converter-3",
@@ -4294,6 +4748,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Power System and Grid Interconnection",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-power-system-and-grid-interconnection-1",
@@ -4303,6 +4758,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Developer - Power System Simulation Model",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/developer-power-system-simulation-model-1",
@@ -4312,6 +4768,7 @@
   },
   {
    "company": "Apple",
+   "logo": "logos/apple.com.png",
    "title": "iOS Software Engineer - Creative Apps",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200678787/ios-software-engineer-creative-apps?team=SFTWR",
@@ -4321,6 +4778,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en tests logiciels / Software Test Specialist - Unified Platform",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/9EC7AB917E/",
@@ -4330,6 +4788,7 @@
   },
   {
    "company": "Decagon",
+   "logo": "logos/decagon.ai.png",
    "title": " Member of Technical Staff - New Grad (2027 Start)",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f",
@@ -4339,6 +4798,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Computer Vision & Human-Centered AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-computer-vision-human-centered-ai",
@@ -4348,6 +4808,7 @@
   },
   {
    "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer, Early Career - 2026",
    "location": "CA, BC, Vancouver",
    "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
@@ -4357,6 +4818,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Data Analyst",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8128786",
@@ -4366,6 +4828,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Software Engineer",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000142893337",
@@ -4375,6 +4838,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Life Cycle Material Engineering Specialist",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000142898171",
@@ -4384,6 +4848,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Junior Hardware Engineering Developer ",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000142894435",
@@ -4393,6 +4858,7 @@
   },
   {
    "company": "VersaPay",
+   "logo": "logos/versapay.com.png",
    "title": "Solutions Engineer",
    "location": "Canada (Remote)",
    "url": "https://jobs.lever.co/versapay/736a4ce3-41a9-4c04-8ac9-f48638fb0ba7",
@@ -4402,6 +4868,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Access Control SaaS",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/46C9414CC4/",
@@ -4411,6 +4878,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Access Control Embedded",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/1ECCB83458/",
@@ -4420,6 +4888,7 @@
   },
   {
    "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Mechanical Engineering Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000142904209",
@@ -4429,6 +4898,7 @@
   },
   {
    "company": "StackAdapt",
+   "logo": "logos/stackadapt.com.png",
    "title": "Integrations Developer",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4357710009",
@@ -4438,6 +4908,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Speech & Acoustic AI",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-speech-acoustic-ai",
@@ -4447,6 +4918,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Clearance",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/ED58D548F4/",
@@ -4456,6 +4928,7 @@
   },
   {
    "company": "Feathery",
+   "logo": "logos/feathery.io.png",
    "title": "Forward Deployed Engineer",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/feathery/0705cc73-88ac-4cfd-ba64-d80b1359e345",
@@ -4465,6 +4938,7 @@
   },
   {
    "company": "Financeit",
+   "logo": "logos/financeit.io.png",
    "title": "Data Engineer",
    "location": "Toronto, Ontario, Canada",
    "url": "https://apply.workable.com/financeit/j/AB25710DFB/",
@@ -4474,6 +4948,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Software Developer - DevOps",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8106437",
@@ -4483,6 +4958,7 @@
   },
   {
    "company": "Tailscale",
+   "logo": "logos/tailscale.com.png",
    "title": "Software Engineer, Strategic Projects",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4721713005",
@@ -4492,6 +4968,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - GoLang",
    "location": "Montreal, Quebec, Canada; Sherbrooke, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/9DC9768E16/",
@@ -4501,6 +4978,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Embedded Engineer – AI System Architecture",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/embedded-engineer-ai-system-architecture",
@@ -4510,6 +4988,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) Logiciel / Software Developer - C#/.NET/Web",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/1CF6BA142A/",
@@ -4519,6 +4998,7 @@
   },
   {
    "company": "Okta",
+   "logo": "logos/okta.com.png",
    "title": "Globalization Software Engineer",
    "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
    "url": "https://www.okta.com/company/careers/opportunity/8093199?gh_jid=8093199",
@@ -4528,6 +5008,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Research Engineer - AI Workload & Systems",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-ai-workload-systems",
@@ -4537,6 +5018,7 @@
   },
   {
    "company": "Tailscale",
+   "logo": "logos/tailscale.com.png",
    "title": "Software Engineer, AI Enablement ",
    "location": "Remote (Canada)",
    "url": "https://job-boards.greenhouse.io/tailscale/jobs/4710703005",
@@ -4545,7 +5027,8 @@
    "category": "AI/ML"
   },
   {
-   "company": "Cerebras (US new grad)",
+   "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "Kernel Engineer - New Grad",
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e",
@@ -4555,6 +5038,7 @@
   },
   {
    "company": "Promise Robotics",
+   "logo": "logos/promiserobotics.com.png",
    "title": "Software Developer",
    "location": "Remote, Canada",
    "url": "https://jobs.lever.co/promiserobotics/fe87ffba-58c3-4db5-8a8d-fe1bd160765c",
@@ -4564,6 +5048,7 @@
   },
   {
    "company": "Promise Robotics",
+   "logo": "logos/promiserobotics.com.png",
    "title": "Robotics Software Developer",
    "location": "Calgary, AB",
    "url": "https://jobs.lever.co/promiserobotics/120b526a-2491-4df5-a77a-6ca0ccb7e35a",
@@ -4573,6 +5058,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Testeur(euse) logiciel / Software Tester - Digital Information",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/7EF88E15B2/",
@@ -4582,6 +5068,7 @@
   },
   {
    "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
    "title": "AI Engineer Intern",
    "location": "Toronto, Ontario",
    "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd",
@@ -4591,6 +5078,7 @@
   },
   {
    "company": "PointClickCare",
+   "logo": "logos/pointclickcare.com.png",
    "title": "Ai Solution Engineer - (Technology Support)",
    "location": "Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/56e13d29-7f5e-4c80-b9cf-8f12a17db1a0",
@@ -4600,6 +5088,7 @@
   },
   {
    "company": "Magnet Forensics",
+   "logo": "logos/magnetforensics.com.png",
    "title": "Software Development Engineer in Test",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/7cfeada6-21d6-44e6-be7d-81afbee2b502",
@@ -4609,6 +5098,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Research Engineer - AI Data Security",
    "location": "Waterloo, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-ai-data-security",
@@ -4618,6 +5108,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Procedural Graphics",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-procedural-graphics",
@@ -4627,6 +5118,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - Optical Systems",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-optical-systems-1",
@@ -4636,6 +5128,7 @@
   },
   {
    "company": "Robinhood",
+   "logo": "logos/robinhood.com.png",
    "title": "Software Developer, Ops Platform and Fraud Investigations",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/7737164?t=gh_src=&gh_jid=7737164",
@@ -4645,6 +5138,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23594",
@@ -4653,7 +5147,8 @@
    "category": "SDE"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Demand Tech Planning",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/10477908/applied-scientist-demand-tech-planning",
@@ -4663,6 +5158,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en sécurité des réseaux / Network Security Specialist",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/C92A57E8EA/",
@@ -4672,6 +5168,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Software Developer",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/8064537",
@@ -4681,6 +5178,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Software Developer Intern",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
@@ -4690,6 +5188,7 @@
   },
   {
    "company": "Magnet Forensics",
+   "logo": "logos/magnetforensics.com.png",
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
    "location": "Waterloo, Ontario",
    "url": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b",
@@ -4699,6 +5198,7 @@
   },
   {
    "company": "PointClickCare",
+   "logo": "logos/pointclickcare.com.png",
    "title": "(Canada) Software Implementation Consultant - Clinical",
    "location": "Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/6b7f5c7a-372b-4a4a-8187-b2c347157e14",
@@ -4708,6 +5208,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Cloudrunner",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/33AA1267BD/",
@@ -4717,6 +5218,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Edge OS",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/4FC8BCB979/",
@@ -4725,7 +5227,8 @@
    "category": "SDE"
   },
   {
-   "company": "Fortinet (Security)",
+   "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "SOC Analyst",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23426",
@@ -4735,6 +5238,7 @@
   },
   {
    "company": "Snowflake",
+   "logo": "logos/snowflake.com.png",
    "title": "Software Engineer, AI Native Authoring",
    "location": "Toronto, Ontario, Canada",
    "url": "https://jobs.ashbyhq.com/snowflake/ea0df7ad-11c5-41e6-8789-1af6068fc8f6",
@@ -4744,6 +5248,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - KHRONOS Standard",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-khronos-standard",
@@ -4753,6 +5258,7 @@
   },
   {
    "company": "Penn Interactive",
+   "logo": "logos/pennentertainment.com.png",
    "title": "Software Engineer, Sportsbook Platform",
    "location": "Canada, Remote",
    "url": "https://job-boards.greenhouse.io/penninteractive/jobs/6108067004",
@@ -4762,6 +5268,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Power System Analyst",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/power-system-analyst-1",
@@ -4771,6 +5278,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Backend Engineer, Developer SDKs",
    "location": "Toronto, NY, SEA, SF",
    "url": "https://stripe.com/jobs/search?gh_jid=7557899",
@@ -4780,6 +5288,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - C#/.NET",
    "location": "Québec City, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/9D6D4FA079/",
@@ -4789,6 +5298,7 @@
   },
   {
    "company": "Orennia",
+   "logo": "logos/orennia.com.png",
    "title": "Analytics Intern - Engineering",
    "location": "Calgary Headquarters ",
    "url": "https://boards.greenhouse.io/orennia/jobs/5277706008?gh_jid=5277706008",
@@ -4798,6 +5308,7 @@
   },
   {
    "company": "Faire",
+   "logo": "logos/faire.com.png",
    "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
    "location": "Kitchener-Waterloo, ON; Toronto, ON",
    "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002",
@@ -4807,6 +5318,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Human-Computer Interaction",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-human-computer-interaction",
@@ -4816,6 +5328,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Research Engineer – Multimodal AI & Interaction",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-multimodal-ai-interaction",
@@ -4825,6 +5338,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23300",
@@ -4834,6 +5348,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste en tests logiciels / Software Test Specialist - Access Control",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/D4C316814C/",
@@ -4843,6 +5358,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - Optical Communication Systems (Test, Modeling & Sensing)",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-optical-communication-systems-test-modeling-sensing",
@@ -4852,6 +5368,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Machine Learning Specialist",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992653",
@@ -4861,6 +5378,7 @@
   },
   {
    "company": "Lyft",
+   "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Fulfillment",
    "location": "Toronto, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
@@ -4870,6 +5388,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel .NET / .NET Software Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/145492924C/",
@@ -4879,6 +5398,7 @@
   },
   {
    "company": "Vanta",
+   "logo": "logos/vanta.com.png",
    "title": "Software Engineer, AI Product (Canada)",
    "location": "Remote - Canada",
    "url": "https://jobs.ashbyhq.com/vanta/581791d7-c63d-45fe-b6a7-f2d8f6532af7",
@@ -4888,6 +5408,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Research Engineer - LLM Training & Alignment Systems",
    "location": "Kingston, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-llm-training-alignment-systems",
@@ -4897,6 +5418,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Research Engineer - Agentic Software Systems Engineering",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/research-engineer-agentic-software-systems-engineering",
@@ -4906,6 +5428,7 @@
   },
   {
    "company": "StackAdapt",
+   "logo": "logos/stackadapt.com.png",
    "title": "Automation Engineer, Agentic Orchestration",
    "location": "Canada; United States",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4259075009",
@@ -4915,6 +5438,7 @@
   },
   {
    "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
    "title": "DevOps Engineer",
    "location": "Toronto, Ontario",
    "url": "https://jobs.lever.co/shyftlabs/477f2323-f909-4e59-8fd8-915932d67454",
@@ -4924,6 +5448,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Agentic Interaction Engineering",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-agentic-interaction-engineering",
@@ -4933,6 +5458,7 @@
   },
   {
    "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
    "title": "Software Developer",
    "location": "Toronto, Ontario",
    "url": "https://jobs.lever.co/shyftlabs/be8c4d4c-98f0-420c-a9aa-cfac05f4e8b7",
@@ -4942,6 +5468,7 @@
   },
   {
    "company": "Asana",
+   "logo": "logos/asana.com.png",
    "title": "Software Engineer, Product",
    "location": "Vancouver, BC",
    "url": "https://www.asana.com/jobs/apply/7961454?gh_jid=7961454",
@@ -4951,6 +5478,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Cloud (SC SaaS)",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/07E69749DF/",
@@ -4960,6 +5488,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer (FortiClient)",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22865",
@@ -4969,6 +5498,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - AI Computing System",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-computing-system-3",
@@ -4978,6 +5508,7 @@
   },
   {
    "company": "Metergy Solutions",
+   "logo": "logos/metergysolutions.com.png",
    "title": "Energy Specialist (Engineering)",
    "location": "Toronto, Ontario",
    "url": "https://jobs.lever.co/metergysolutions/f15254cd-f0d8-464a-aa17-c00dae9954d7",
@@ -4987,6 +5518,7 @@
   },
   {
    "company": "FlightHub",
+   "logo": "logos/flighthub.com.png",
    "title": "AI Mobile Application Coder / Développeur d’applications mobiles IA",
    "location": "Montreal, Quebec",
    "url": "https://job-boards.greenhouse.io/flighthub/jobs/7943515",
@@ -4996,6 +5528,7 @@
   },
   {
    "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
    "title": "Associate AI Engineer",
    "location": "Toronto, Ontario",
    "url": "https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675",
@@ -5005,6 +5538,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - DevOps System Administrator",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/E61472C5AF/",
@@ -5014,6 +5548,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Cloud (Edge OS)",
    "location": "Québec City, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/BFAF54C9C8/",
@@ -5023,6 +5558,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - C#/.NET",
    "location": "Montreal, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/90086828F5/",
@@ -5032,6 +5568,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Appliances Platform (Edge OS)",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/5ED9C07410/",
@@ -5041,6 +5578,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Applied Scientist",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/df57aa7f-9ce4-46f7-93a5-f8e06c3ae0f3",
@@ -5049,7 +5587,8 @@
    "category": "AI/ML"
   },
   {
-   "company": "Fortinet (Security)",
+   "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Security Researcher",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22879",
@@ -5059,6 +5598,7 @@
   },
   {
    "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "Software Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac",
@@ -5068,6 +5608,7 @@
   },
   {
    "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "DevOps Engineer - New Grad 2026",
    "location": "Toronto, CAN",
    "url": "https://jobs.ashbyhq.com/cerebras/40e0d3ee-8f0a-4b19-9bf9-79410b1c7735",
@@ -5077,6 +5618,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "New Grad 2026 (Canada)",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22817",
@@ -5086,6 +5628,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Machine Learning Researcher -LLM Agents & Efficient Deep Learning",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/machine-learning-researcher-llm-agents-efficient-deep-learning",
@@ -5095,6 +5638,7 @@
   },
   {
    "company": "Cohere",
+   "logo": "logos/cohere.com.png",
    "title": "Software Engineer Intern (Winter 2027)",
    "location": "Canada",
    "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
@@ -5104,6 +5648,7 @@
   },
   {
    "company": "Cohere",
+   "logo": "logos/cohere.com.png",
    "title": "Research Internship (Winter 2027)",
    "location": "Canada",
    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
@@ -5113,6 +5658,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "AI Software Developer - Smart Grid",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/ai-software-developer-smart-grid",
@@ -5122,6 +5668,7 @@
   },
   {
    "company": "Montreal Institute for Learning Algorithms",
+   "logo": "logos/mila.quebec.png",
    "title": "Développeur.se, Développement d'applications IA / AI Applications Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/mila-2/j/F73F31C5FD/",
@@ -5131,6 +5678,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - AI Computing System",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-computing-system-4",
@@ -5140,6 +5688,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Research Engineer, Sensor Signal Processing",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/4a22f57b-cd17-4533-a22b-e927acef834e",
@@ -5149,6 +5698,7 @@
   },
   {
    "company": "Anthropic",
+   "logo": "logos/anthropic.com.png",
    "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
@@ -5158,6 +5708,7 @@
   },
   {
    "company": "Zip",
+   "logo": "logos/ziphq.com.png",
    "title": "Software Engineer, Backend (All Levels)",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/zip/4f2ba8b4-144e-43c8-a83d-72ea40f70123",
@@ -5167,6 +5718,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22746",
@@ -5176,6 +5728,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Software Engineer, Labelling, Data & Automation",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/09e213fd-70fb-4715-949a-891576309002",
@@ -5185,6 +5738,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22743",
@@ -5194,6 +5748,7 @@
   },
   {
    "company": "Feathery",
+   "logo": "logos/feathery.io.png",
    "title": "Full Stack Engineer, Early Career",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/feathery/0814d62d-2742-454a-b8f4-7e302fdf5a24",
@@ -5203,6 +5758,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Applied AI Researcher – Multimodal Intelligence",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/applied-ai-researcher-multimodal-intelligence",
@@ -5212,6 +5768,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Graphics Engineer - 3D",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/graphics-engineer-3d",
@@ -5221,6 +5778,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel - Fabrication / Software Developer - Manufacturing",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/4949189077/",
@@ -5230,6 +5788,7 @@
   },
   {
    "company": "Anthropic",
+   "logo": "logos/anthropic.com.png",
    "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
@@ -5239,6 +5798,7 @@
   },
   {
    "company": "Anthropic",
+   "logo": "logos/anthropic.com.png",
    "title": "Anthropic Fellows Program, AI Safety & Security",
    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
@@ -5248,6 +5808,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - ML & RL",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-ml-rl",
@@ -5257,6 +5818,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22633",
@@ -5266,6 +5828,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – 3D Computer Vision and Generative Modeling",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-3d-computer-vision-and-generative-modeling",
@@ -5275,6 +5838,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Platform Engineering",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/9E30C0B877/",
@@ -5284,6 +5848,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - C#/.NET/Web (SC SaaS)",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/43FC2659CA/",
@@ -5293,6 +5858,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Research Engineer, World Models",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/ef8b9a24-a010-4ef6-814c-3503e268e9a3",
@@ -5302,6 +5868,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – AI for Scientific Algorithm Discovery",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-for-scientific-algorithm-discovery",
@@ -5311,6 +5878,7 @@
   },
   {
    "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
    "title": "Data Engineer",
    "location": "Toronto, Ontario",
    "url": "https://jobs.lever.co/shyftlabs/f1b358fc-3b63-4f84-82d5-62e72cb0a2b8",
@@ -5320,6 +5888,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "AI Full Stack Software Developer",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7759802",
@@ -5329,6 +5898,7 @@
   },
   {
    "company": "Feathery",
+   "logo": "logos/feathery.io.png",
    "title": "Solutions Engineer",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/feathery/bb2b90ee-a942-469e-980d-f9910ad5fc54",
@@ -5338,6 +5908,7 @@
   },
   {
    "company": "Feathery",
+   "logo": "logos/feathery.io.png",
    "title": "Full Stack Engineer",
    "location": "Toronto",
    "url": "https://jobs.ashbyhq.com/feathery/d783ea74-34f5-4cb6-aedb-c6b87c617131",
@@ -5347,6 +5918,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Device Integration (SC SaaS)",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/5CDD92A325/",
@@ -5356,6 +5928,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer (C/C++)",
    "location": "Ottawa, ON, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22476",
@@ -5365,6 +5938,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
@@ -5374,6 +5948,7 @@
   },
   {
    "company": "DRW",
+   "logo": "logos/drw.com.png",
    "title": "Data Developer",
    "location": "Montreal",
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7736803",
@@ -5383,6 +5958,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Intern Researcher - AI Agent Evaluation",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-ai-agent-evaluation",
@@ -5392,6 +5968,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer",
    "location": "Ottawa, ON, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19614",
@@ -5401,6 +5978,7 @@
   },
   {
    "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
    "title": "Data Engineer",
    "location": "Calgary, Alberta",
    "url": "https://jobs.lever.co/shyftlabs/9f947999-ea46-4627-bf08-fe3f3ebac513",
@@ -5410,6 +5988,7 @@
   },
   {
    "company": "StackAdapt",
+   "logo": "logos/stackadapt.com.png",
    "title": "Quality Engineer",
    "location": "Canada; Ontario; Vancouver",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4178654009",
@@ -5419,6 +5998,7 @@
   },
   {
    "company": "2K",
+   "logo": "logos/2k.com.png",
    "title": "Gameplay Engineer",
    "location": "Montréal, Quebec, Canada",
    "url": "https://job-boards.greenhouse.io/2k/jobs/7655939003",
@@ -5428,6 +6008,7 @@
   },
   {
    "company": "2K",
+   "logo": "logos/2k.com.png",
    "title": "Expert Gameplay AI Software Engineer ",
    "location": "Burnaby, British Columbia, Canada",
    "url": "https://job-boards.greenhouse.io/2k/jobs/7653108003",
@@ -5437,6 +6018,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "System Security Research Engineer – OS and Device Protection",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/system-security-research-engineer-os-and-device-protection-3",
@@ -5446,6 +6028,7 @@
   },
   {
    "company": "2K",
+   "logo": "logos/2k.com.png",
    "title": "Expert Online Services Software Engineer",
    "location": "Burnaby, British Columbia, Canada",
    "url": "https://job-boards.greenhouse.io/2k/jobs/7651054003",
@@ -5455,6 +6038,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "GTM Engineer",
    "location": "Remote; Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/FB5409ABF5/",
@@ -5464,6 +6048,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
    "location": "SEA, SF, NY, Toronto",
    "url": "https://stripe.com/jobs/search?gh_jid=7476555",
@@ -5473,6 +6058,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Storage",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/D5380E6C17/",
@@ -5482,6 +6068,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer (IAM)",
    "location": "Québec City, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/4B8F9C7782/",
@@ -5491,6 +6078,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Engineer - Advanced Network",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-advanced-network",
@@ -5499,7 +6087,8 @@
    "category": "SDE"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Sales AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/3188595/applied-scientist-sales-ai",
@@ -5508,7 +6097,8 @@
    "category": "AI/ML"
   },
   {
-   "company": "Amazon (Science)",
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Sales AI",
    "location": "CA, ON, Toronto",
    "url": "https://www.amazon.jobs/en/jobs/3188585/applied-scientist-sales-ai",
@@ -5518,6 +6108,7 @@
   },
   {
    "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
    "title": "Développeur en IA - Québec | AI Developer - Quebec",
    "location": "Remote; Quebec, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/8733CEF690/",
@@ -5527,6 +6118,7 @@
   },
   {
    "company": "Ample Insight",
+   "logo": "logos/ampleinsight.com.png",
    "title": "ML Engineer – Generative AI & LLMs (Remote)",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000108912530",
@@ -5536,6 +6128,7 @@
   },
   {
    "company": "Ample Insight",
+   "logo": "logos/ampleinsight.com.png",
    "title": "Front End and Full Stack Developer (Remote - Ontario, Canada ONLY)",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000108913021",
@@ -5545,6 +6138,7 @@
   },
   {
    "company": "Sony Pictures Imageworks",
+   "logo": "logos/imageworks.com.png",
    "title": " Simulation (Houdini) - Technical Engineer",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/7626940003",
@@ -5554,6 +6148,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Dev - Platform Engineering Genetec Login",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/C8741B7796/",
@@ -5563,6 +6158,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – AI Security",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-security",
@@ -5572,6 +6168,7 @@
   },
   {
    "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
    "title": "Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/19866",
@@ -5581,6 +6178,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Microgrid System Developer – Protection and Control",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/microgrid-system-developer-protection-and-control",
@@ -5590,6 +6188,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Parallel Computing",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-parallel-computing-1",
@@ -5599,6 +6198,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Security Researcher - Authentication and Authorization",
    "location": "Waterloo, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/security-researcher-authentication-and-authorization",
@@ -5608,6 +6208,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - LLMs",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-llms-2",
@@ -5616,7 +6217,8 @@
    "category": "AI/ML"
   },
   {
-   "company": "Cerebras (US new grad)",
+   "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
    "title": "CoDesign & NextGen - New College Grad ",
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/cerebras/987d7f64-c957-4c8f-b89d-2f9d64738507",
@@ -5626,6 +6228,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - C#/Web",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/376A3CBA80/",
@@ -5635,6 +6238,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Appliances Platform (Edge OS)",
    "location": "Québec City, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/F704FBA13A/",
@@ -5644,6 +6248,7 @@
   },
   {
    "company": "Pinterest",
+   "logo": "logos/pinterest.com.png",
    "title": "Software Engineer, iOS",
    "location": "Toronto, ON, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682",
@@ -5653,6 +6258,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Power Communication Protocol Developer",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/power-communication-protocol-developer",
@@ -5662,6 +6268,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Eventing",
    "location": "Sherbrooke, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/56CB1218A3/",
@@ -5671,6 +6278,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Reinforcement Learning",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-reinforcement-learning-3",
@@ -5680,6 +6288,7 @@
   },
   {
    "company": "Stripe",
+   "logo": "logos/stripe.com.png",
    "title": "Backend Engineer, Developer & End-user Experience Platform",
    "location": "Toronto Canada, San Francisco, Remote in US, Remote in Canada",
    "url": "https://stripe.com/jobs/search?gh_jid=7292520",
@@ -5689,6 +6298,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Research Engineer, Neural Rendering",
    "location": "Toronto, ON",
    "url": "https://jobs.lever.co/waabi/99147e5e-c589-452b-87c1-789cbc4f3de8",
@@ -5698,6 +6308,7 @@
   },
   {
    "company": "Ample Insight",
+   "logo": "logos/ampleinsight.com.png",
    "title": "Data Scientist - Machine Learning",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000090160760",
@@ -5707,6 +6318,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Microgrid System Developer - Energy Management & Control",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/microgrid-system-developer-energy-management-control",
@@ -5716,6 +6328,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Efficient Architecture for LLMs",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-efficient-architecture-for-llms",
@@ -5725,6 +6338,7 @@
   },
   {
    "company": "StackAdapt",
+   "logo": "logos/stackadapt.com.png",
    "title": "Machine Learning Engineer ",
    "location": "Alberta, Canada; British Columbia; Calgary, Alberta, Canada; California; New York; Ontario; Seattle; Toronto; Vancouver; Washington",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4018063009",
@@ -5734,6 +6348,7 @@
   },
   {
    "company": "Motive",
+   "logo": "logos/gomotive.com.png",
    "title": "Solutions Engineer, Mid Market (Canada)",
    "location": "Canada - Remote",
    "url": "https://job-boards.greenhouse.io/gomotive/jobs/8110111002",
@@ -5743,6 +6358,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Testeur(euse) logiciel / Software Tester - Appliances Platform (Edge OS)",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/985DD12F98/",
@@ -5752,6 +6368,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – AI/ML Real-Time Embedded OS",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-real-time-embedded-os-2",
@@ -5761,6 +6378,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Graphic Rendering",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-graphic-rendering-2-3",
@@ -5770,6 +6388,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Computer Vision and Multimodal Foundation Models",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-computer-vision-and-multimodal-foundation-models",
@@ -5779,6 +6398,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - AI",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-ai-erc",
@@ -5788,6 +6408,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Compiler Engineer",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/compiler-engineer-2-16",
@@ -5797,6 +6418,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Spécialiste DevOps / DevOps Specialist - Dynamics 365 & Azure DevOps",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/831CC24E50/",
@@ -5806,6 +6428,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) Logiciel / Software Developer- .NET (Cloud Platform)",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/DFE49D3057/",
@@ -5815,6 +6438,7 @@
   },
   {
    "company": "Genetec",
+   "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) Logiciel / Software Developer",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/016A790707/",
@@ -5824,6 +6448,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Technology Strategist",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/intern-technology-researcher-2-4",
@@ -5833,6 +6458,7 @@
   },
   {
    "company": "Tenstorrent",
+   "logo": "logos/tenstorrent.com.png",
    "title": "Software Engineer, TT-Distributed",
    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007",
@@ -5842,6 +6468,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – Computer Vision and Autonomous Driving",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-3d-vision-and-autonomous-driving-2-3",
@@ -5851,6 +6478,7 @@
   },
   {
    "company": "Tenstorrent",
+   "logo": "logos/tenstorrent.com.png",
    "title": "Software Engineer, TT-Fabric ",
    "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4645584007",
@@ -5860,6 +6488,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher – 3D Vision and Autonomous Driving",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-3d-vision-and-autonomous-driving-1",
@@ -5869,6 +6498,7 @@
   },
   {
    "company": "Ample Insight",
+   "logo": "logos/ampleinsight.com.png",
    "title": "Data Engineer",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000038919775",
@@ -5878,6 +6508,7 @@
   },
   {
    "company": "Reddit",
+   "logo": "logos/reddit.com.png",
    "title": "Software Engineer, Ads",
    "location": "Remote - Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
@@ -5887,6 +6518,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Junior Software Developer - Real-time Operating System",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/junior-software-developer-realtime-operating-system",
@@ -5896,6 +6528,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Software Developer - Real-time Operating System",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/software-developer-realtime-operating-system",
@@ -5905,6 +6538,7 @@
   },
   {
    "company": "Tenstorrent",
+   "logo": "logos/tenstorrent.com.png",
    "title": "Software Engineer, Scale Out",
    "location": "Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4484179007",
@@ -5914,6 +6548,7 @@
   },
   {
    "company": "Waabi",
+   "logo": "logos/waabi.ai.jpg",
    "title": "Research Engineer",
    "location": "Remote US & Canada",
    "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
@@ -5923,6 +6558,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Technical Insight and Planning (AI/ML)",
    "location": "Vancouver, British Columbia, Canada",
    "url": "https://huaweicanada.recruitee.com/o/technical-planning",
@@ -5932,6 +6568,7 @@
   },
   {
    "company": "Databricks",
+   "logo": "logos/databricks.com.png",
    "title": "Software Engineering Intern (2027)",
    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002",
@@ -5941,6 +6578,7 @@
   },
   {
    "company": "Huawei",
+   "logo": "logos/huawei.com.png",
    "title": "Researcher - Real-Time Embedded OS",
    "location": "Ottawa, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-realtime-embedded-os",
