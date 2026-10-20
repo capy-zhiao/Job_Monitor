@@ -28,6 +28,14 @@ jobs:
         run: |
           git config user.name "job-monitor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add seen.json docs/jobs.json docs/first_seen.json docs/history.json
+          git add seen.json health.json docs/jobs.json docs/first_seen.json docs/history.json
           git diff --cached --quiet || git commit -m "update seen jobs [skip ci]"
-          git push
+          # A push to main during the run would reject this one and lose the
+          # new seen.json (the next run would alert the same jobs again), so
+          # rebase onto it first and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 10))
+          done
+          exit 1

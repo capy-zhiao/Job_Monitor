@@ -26,9 +26,9 @@ Discord command searches LinkedIn on demand (see [below](#on-demand-linkedin-sea
 
 Search across every source, filter by role category (Security / AI-ML / SDE /
 Research), country (Canada / US), work type (full-time / intern), city, and recency, and star /
-mark-applied any posting (kept in your browser). A one-line summary and a trend chart of the
-Canadian roles tracked (7d / 30d / all) sit above a list grouped by the day each role was first
-seen. Same data as the Discord alerts, browsable.
+mark-applied any posting (kept in your browser). A one-line summary sits above the list, which
+is grouped by the day each role was posted (or first seen, when the source gives no date). Same
+data as the Discord alerts, browsable.
 
 [![live jobs page](site.png)](https://capy-zhiao.github.io/Job_Monitor/)
 
@@ -86,7 +86,7 @@ job_monitor/
 ## Usage
 
 ```bash
-# Preview: fetch and print matches, send nothing, change nothing
+# Preview: fetch and print matches, send nothing, write nothing
 python3 run.py --dry-run
 
 # Live run. First run seeds state silently; later runs notify on new jobs only.
@@ -108,9 +108,13 @@ Webhook, Copy URL. For Slack, create an Incoming Webhook and set
 Three global fields plus a list of sources:
 
 - `keywords`: case-insensitive substring match on the job title. A title matches
-  if it contains any keyword.
+  if it contains any keyword. A year keyword (`"2027"`) only counts when the
+  title also names technical work, so "Finance Intern - Winter 2027" stays out.
 - `exclude_keywords`: if the title contains any of these, the job is dropped even
-  when a keyword matched.
+  when a keyword matched. Independently of this list, a level above entry
+  anywhere in the title ("Software Engineer II - Backend", "Cloud Engineer 2")
+  drops the job unless the title also says new grad, graduate, university or
+  early career, or a keyword names that level itself.
 - `locations`: a job is kept only if its location contains one of these terms. An
   empty list disables location filtering.
 - `sources`: one entry per feed. Any source can override `keywords`,
@@ -174,7 +178,10 @@ their README tables from, so every posting the crowd tracks lands in the same
 Discord channel as the company feeds. One source entry covers any number of
 list repos; postings appearing in several lists are de-duplicated by apply URL,
 listings marked as requiring U.S. citizenship are dropped at the source, and
-`max_age_days` keeps the initial backfill sane:
+`max_age_days` keeps the initial backfill sane. Roles marked "Offers Sponsorship"
+get a visa tag on the page, but the lists rarely fill this field in: of about
+19,000 SimplifyJobs entries in October 2026, only 12 said they sponsor and 15 that
+they do not.
 
 ```json
 {
@@ -217,9 +224,21 @@ when they break:
   filtering is client-side on titles like every other source.
 - Workday tenants with custom facet GUIDs (e.g. NVIDIA's `locationHierarchy1`)
   can pass them via a raw `facets` object on the source entry.
+- Workday lists a multi-location posting as "2 Locations". For postings whose
+  title matched, `resolve_workday` asks the job's detail endpoint for the real
+  places (and exact posting date) before the location filter runs.
 
 Overlapping queries (e.g. "Microsoft" + "Microsoft (Security)") may return the
-same posting; `collect_matches` dedupes globally on uid before notifying.
+same posting; `collect_matches` dedupes globally on uid. The same posting also
+arrives from its company's feed and from community lists under different uids,
+so the run then dedupes on the posting URL (tracking parameters dropped), keeping
+the company's copy, and records seen URLs as well as uids. A repost gets a new
+URL and alerts again.
+
+Posting dates come from each API where it has one (Greenhouse `first_published`,
+Lever `createdAt`, Ashby `publishedAt`, Workday's "Posted 3 Days Ago", the lists'
+`date_posted`, and so on; about nine in ten postings have one). The rest fall back
+to the day the monitor first saw them.
 
 A good loop is: run `python3 run.py --dry-run`, look at how many jobs each source
 returns and how many match, then tighten or loosen the keywords until the matches
@@ -237,8 +256,9 @@ cd job_monitor          # the directory containing run.py and tests/
 python3 -m unittest discover -s tests -v
 ```
 
-It covers the title/location filters, the `seen.json` state round-trip, and each
-platform's response parsing.
+It covers the title/location filters, the `seen.json` state round-trip, each
+platform's response parsing and posting dates, URL dedupe, and the source-health
+rules.
 
 ## Scheduling
 
@@ -252,16 +272,22 @@ platform's response parsing.
 your own GitHub repository, add `DISCORD_WEBHOOK_URL` as a repository secret, and
 the included `.github/workflows/monitor.yml` runs on a 15-minute cron and commits
 `seen.json` back to persist state. GitHub delays scheduled runs on busy days; this
-repo's runs usually land a few hours apart.
+repo's runs usually land a few hours apart. The commit step rebases onto `main`
+before pushing, so a push made during a run does not lose that run's state.
+
+**Source health.** Each run records every source's result in `health.json`. A
+source that fails three runs in a row, or returns no postings at all for three
+days, is reported once to the Discord channel, and again when it recovers. The
+jobs page footer shows how many sources responded on the last run.
 
 ## Public jobs page
 
 The Actions run also emits every currently-matched posting to `docs/jobs.json`
 (via `run.py --emit-json`), which `docs/index.html` renders as a static,
 searchable page served by GitHub Pages: search box, per-company filter, and
-postings grouped by the day they were first seen. Discord is where new
-matches arrive; the page is the browsable full picture. A `first_seen.json`
-sidecar keeps stable discovery dates across runs.
+postings grouped by the day they were posted (first seen, when the source has
+no date). Discord is where new matches arrive; the page is the browsable full
+picture. A `first_seen.json` sidecar keeps stable discovery dates across runs.
 
 ## On-demand LinkedIn search
 
@@ -285,6 +311,7 @@ Setup is in [`discord_bot/`](discord_bot/README.md).
 
 ## How state works
 
-`seen.json` is a flat list of job identifiers. Ids are only ever added, so a
-posting that disappears from a feed and later returns will not notify twice.
+`seen.json` is a flat list of job identifiers and posting URLs (`url:` entries).
+Both are only ever added, so a posting that disappears from a feed and later
+returns will not notify twice.
 Delete `seen.json` to reset (the next run becomes a fresh first run).

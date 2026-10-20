@@ -4,13 +4,39 @@ Each fetcher takes a `source` config dict and returns a ``list[Job]``. New
 platforms are added by writing a function and registering it in ``FETCHERS``.
 """
 
+import dataclasses
 import html
 import re
 import time
 import urllib.parse
+from datetime import datetime, timedelta, timezone
 
 from . import http
 from .models import Job
+
+
+def _day(value):
+    """A posting date as ``YYYY-MM-DD`` from what the APIs return: an ISO
+    timestamp, epoch seconds or milliseconds, or text like "September 9, 2026".
+    Anything else gives "", meaning the date is unknown."""
+    if isinstance(value, (int, float)) and not isinstance(value, bool) and value > 0:
+        if value > 1e11:  # milliseconds
+            value /= 1000
+        return datetime.fromtimestamp(value, timezone.utc).date().isoformat()
+    if isinstance(value, str):
+        text = " ".join(value.split())
+        if re.match(r"\d{4}-\d{2}-\d{2}", text):
+            return text[:10]
+        for fmt in ("%B %d, %Y", "%b %d, %Y"):
+            try:
+                return datetime.strptime(text, fmt).date().isoformat()
+            except ValueError:
+                pass
+    return ""
+
+
+def _days_ago(days):
+    return (datetime.now(timezone.utc).date() - timedelta(days=days)).isoformat()
 
 
 def fetch_greenhouse(source):
@@ -27,6 +53,7 @@ def fetch_greenhouse(source):
             title=j.get("title", ""),
             location=(j.get("location") or {}).get("name", ""),
             url=j.get("absolute_url", ""),
+            posted=_day(j.get("first_published")),
         )
         for j in data.get("jobs", [])
     ]
@@ -46,6 +73,7 @@ def fetch_lever(source):
             title=j.get("text", ""),
             location=(j.get("categories") or {}).get("location", ""),
             url=j.get("hostedUrl", ""),
+            posted=_day(j.get("createdAt")),
         )
         for j in data
     ]
@@ -70,6 +98,7 @@ def fetch_ashby(source):
                 location=j.get("location", ""),
                 url=j.get("jobUrl", ""),
                 employment_type=j.get("employmentType", ""),
+                posted=_day(j.get("publishedAt")),
             )
         )
     return jobs
@@ -97,6 +126,7 @@ def fetch_amazon(source):
             title=j.get("title", ""),
             location=j.get("location", ""),
             url="https://www.amazon.jobs" + j.get("job_path", ""),
+            posted=_day(j.get("posted_date")),
         )
         for j in data.get("jobs", [])
     ]
@@ -146,9 +176,49 @@ def fetch_workday(source):
                     title=j.get("title", ""),
                     location=j.get("locationsText", ""),
                     url=f"https://{host}/en-US/{site}{path}",
+                    posted=_workday_posted(j.get("postedOn")),
                 )
             )
     return jobs
+
+
+def _workday_posted(text):
+    """Workday lists say only "Posted Today", "Posted 3 Days Ago" or "Posted 30+
+    Days Ago". "30+" becomes 31 days, so the role reads as over a month old."""
+    text = (text or "").lower()
+    if "today" in text:
+        return _days_ago(0)
+    if "yesterday" in text:
+        return _days_ago(1)
+    m = re.search(r"(\d+)(\+?)\s*days?\s+ago", text)
+    return _days_ago(int(m.group(1)) + (1 if m.group(2) else 0)) if m else ""
+
+
+def resolve_workday(job):
+    """Name the places of a Workday posting listed as "2 Locations".
+
+    The list endpoint gives only the count, so such a posting showed up as
+    "2 Locations" and failed every location filter. The job's detail endpoint
+    names the main location and the additional ones, and gives the exact posting
+    date. Only postings whose title already matched are resolved, which keeps
+    this to a few requests per run; on any error the job is returned unchanged.
+    """
+    if not re.fullmatch(r"\d+ Locations?", job.location or ""):
+        return job
+    parts = urllib.parse.urlsplit(job.url)
+    m = re.match(r"/en-US/([^/]+)(/.+)", parts.path)
+    if not m:
+        return job
+    site, path = m.groups()
+    tenant = job.uid.split(":", 2)[1]
+    try:
+        info = http.get_json(f"https://{parts.netloc}/wday/cxs/{tenant}/{site}{path}").get("jobPostingInfo") or {}
+    except Exception:
+        return job
+    places = [p for p in [info.get("location"), *(info.get("additionalLocations") or [])] if p]
+    if not places:
+        return job
+    return dataclasses.replace(job, location="; ".join(places), posted=_day(info.get("startDate")) or job.posted)
 
 
 def fetch_phenom(source):
@@ -187,6 +257,7 @@ def fetch_phenom(source):
                 title=j.get("title", ""),
                 location=j.get("location", "") or j.get("cityState", ""),
                 url=apply_url or f"https://{host}/ca/en/job/{j.get('jobSeqNo')}",
+                posted=_day(j.get("postedDate")),
             )
         )
     return jobs
@@ -237,6 +308,7 @@ def fetch_recruitee(source):
                 title=j.get("title", ""),
                 location=j.get("location", ""),
                 url=j.get("careers_url", ""),
+                posted=_day(j.get("published_at")),
             )
         )
     return jobs
@@ -338,6 +410,7 @@ def fetch_microsoft(source):
                     title=j.get("name", ""),
                     location="; ".join(j.get("locations") or []),
                     url=f"https://apply.careers.microsoft.com/careers/job/{job_id}",
+                    posted=_day(j.get("postedTs")),
                 )
             )
         if len(positions) < 10:
@@ -388,6 +461,7 @@ def fetch_apple(source):
                     title=(j.get("postingTitle") or "").strip(),
                     location=location,
                     url=url,
+                    posted=_day(j.get("postDateInGMT") or j.get("postingDate")),
                 )
             )
         if len(results) < 20:
@@ -441,6 +515,7 @@ def fetch_github_listings(source):
     list repos alerts only once. With skip_no_sponsorship_outside_canada, roles
     flagged "Does Not Offer Sponsorship" are also dropped unless they include a
     Canadian location — Canadian roles are workable on a PGWP without sponsorship.
+    Roles flagged "Offers Sponsorship" are marked with ``sponsors``.
     """
     cutoff = time.time() - source.get("max_age_days", 30) * 86400
     jobs, seen_urls = [], set()
@@ -469,6 +544,8 @@ def fetch_github_listings(source):
                     title=j.get("title", ""),
                     location="; ".join(j.get("locations") or []),
                     url=apply_url,
+                    posted=_day(j.get("date_posted")),
+                    sponsors=j.get("sponsorship") == "Offers Sponsorship",
                 )
             )
     return jobs
@@ -519,6 +596,7 @@ def fetch_github_tables(source):
                     title=_cell_text(title),
                     location=_cell_text(location),
                     url=apply_url,
+                    posted=_days_ago(int(days.group(1))),
                 )
             )
     return jobs
@@ -568,6 +646,7 @@ def fetch_workable(source):
                 location="; ".join(places),
                 url=f"https://apply.workable.com/{account}/j/{code}/",
                 employment_type=j.get("employment_type", ""),
+                posted=_day(j.get("published_on")),
             )
         )
     return jobs
@@ -865,6 +944,7 @@ def fetch_oracle(source):
                     title=j.get("Title", ""),
                     location=j.get("PrimaryLocation", "") or "",
                     url=f"https://{source['host']}/hcmUI/CandidateExperience/en/sites/{slug}/job/{j.get('Id')}",
+                    posted=_day(j.get("PostedDate")),
                 )
             )
         if len(reqs) < 25:
@@ -915,6 +995,7 @@ def fetch_pcsx(source):
                     title=j.get("name", ""),
                     location="; ".join(j.get("locations") or []),
                     url=f"https://{source['host']}{path}",
+                    posted=_day(j.get("postedTs")),
                 )
             )
         if len(positions) < 10:
@@ -942,6 +1023,7 @@ def fetch_dayforce(source):
                 title=j.get("Title", ""),
                 location=location,
                 url=j.get("JobDetailsUrl", ""),
+                posted=_day(j.get("DatePosted")),
             )
         )
     return jobs
@@ -975,6 +1057,7 @@ def fetch_smartrecruiters(source):
                 title=j.get("name", ""),
                 location=location,
                 url=f"https://jobs.smartrecruiters.com/{source['company']}/{j.get('id')}",
+                posted=_day(j.get("releasedDate")),
             )
         )
     return jobs
@@ -1063,3 +1146,9 @@ FETCHERS.update({
     "jazzhr": fetch_jazzhr,
     "ibm": fetch_ibm,
 })
+
+# Per-platform fix-ups applied to postings whose title matched, before the
+# location filter. Each takes a Job and returns a Job.
+RESOLVERS = {
+    "workday": resolve_workday,
+}

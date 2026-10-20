@@ -27,6 +27,58 @@ class GreenhouseTest(unittest.TestCase):
         self.assertEqual(job.url, "https://example.com/123")
 
 
+class PostingDateTest(unittest.TestCase):
+    def test_day_reads_each_api_format(self):
+        self.assertEqual(fetchers._day("2026-07-24T10:08:28-04:00"), "2026-07-24")
+        self.assertEqual(fetchers._day("2026-10-15 17:57:27 UTC"), "2026-10-15")
+        self.assertEqual(fetchers._day(1791597276350), "2026-10-10")  # Lever, milliseconds
+        self.assertEqual(fetchers._day(1791761082), "2026-10-11")     # Eightfold, seconds
+        self.assertEqual(fetchers._day("September  9, 2026"), "2026-09-09")  # Amazon
+        self.assertEqual(fetchers._day("Oct 16, 2026"), "2026-10-16")        # Apple
+        for unknown in (None, "", "about 1 month", 0, True):
+            self.assertEqual(fetchers._day(unknown), "")
+
+    def test_workday_relative_dates(self):
+        self.assertEqual(fetchers._workday_posted("Posted Today"), fetchers._days_ago(0))
+        self.assertEqual(fetchers._workday_posted("Posted Yesterday"), fetchers._days_ago(1))
+        self.assertEqual(fetchers._workday_posted("Posted 5 Days Ago"), fetchers._days_ago(5))
+        # "30+" is pushed past a month so it never reads as recent
+        self.assertEqual(fetchers._workday_posted("Posted 30+ Days Ago"), fetchers._days_ago(31))
+        self.assertEqual(fetchers._workday_posted(None), "")
+
+    @mock.patch("jobmonitor.http.get_json")
+    def test_greenhouse_uses_first_published(self, get_json):
+        get_json.return_value = {"jobs": [{"id": 1, "title": "SWE", "absolute_url": "u",
+                                           "updated_at": "2026-10-01T00:00:00-04:00",
+                                           "first_published": "2026-07-24T10:08:28-04:00"}]}
+        self.assertEqual(fetchers.fetch_greenhouse({"board": "acme"})[0].posted, "2026-07-24")
+
+
+class ResolveWorkdayTest(unittest.TestCase):
+    JOB = fetchers.Job(uid="workday:td:/job/Toronto/Analyst_R1", company="TD", title="Security Analyst",
+                       location="2 Locations", url="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto/Analyst_R1",
+                       posted="2026-10-01")
+
+    @mock.patch("jobmonitor.http.get_json")
+    def test_names_every_location_and_exact_date(self, get_json):
+        get_json.return_value = {"jobPostingInfo": {"location": "Toronto, Ontario",
+                                                    "additionalLocations": ["Mississauga, Ontario"],
+                                                    "startDate": "2026-10-19"}}
+        job = fetchers.resolve_workday(self.JOB)
+        get_json.assert_called_once_with(
+            "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/job/Toronto/Analyst_R1")
+        self.assertEqual(job.location, "Toronto, Ontario; Mississauga, Ontario")
+        self.assertEqual(job.posted, "2026-10-19")
+
+    @mock.patch("jobmonitor.http.get_json")
+    def test_leaves_named_locations_and_errors_alone(self, get_json):
+        named = fetchers.dataclasses.replace(self.JOB, location="Toronto, Ontario")
+        self.assertIs(fetchers.resolve_workday(named), named)
+        get_json.side_effect = OSError("down")
+        self.assertIs(fetchers.resolve_workday(self.JOB), self.JOB)
+        self.assertEqual(get_json.call_count, 1)
+
+
 class AshbyTest(unittest.TestCase):
     @mock.patch("jobmonitor.http.get_json")
     def test_skips_unlisted(self, get_json):
@@ -136,6 +188,18 @@ class GithubListingsTest(unittest.TestCase):
         self.assertEqual(job.uid, "ghlist:https://example.com/j/1")
         self.assertEqual(job.company, "Acme")
         self.assertEqual(job.location, "Toronto, ON, Canada")
+        self.assertEqual(job.posted, fetchers._days_ago(0))
+        self.assertFalse(job.sponsors)
+
+    @mock.patch("jobmonitor.http.get_json")
+    def test_marks_roles_that_offer_sponsorship(self, get_json):
+        import time
+        get_json.return_value = [{
+            "company_name": "Acme", "title": "Software Engineer New Grad", "locations": ["NYC"],
+            "url": "https://example.com/j/9", "active": True, "is_visible": True,
+            "date_posted": int(time.time()), "sponsorship": "Offers Sponsorship",
+        }]
+        self.assertTrue(fetchers.fetch_github_listings({"urls": ["u"]})[0].sponsors)
 
 
 class MicrosoftTest(unittest.TestCase):
@@ -270,6 +334,7 @@ class GithubTablesTest(unittest.TestCase):
         self.assertEqual(job.title, "Software Engineer & Security")
         self.assertEqual(job.location, "Toronto, Canada +1")
         self.assertEqual(job.url, "https://example.com/jobs?gh_jid=42&x=1#apply")
+        self.assertEqual(job.posted, fetchers._days_ago(3))  # the "3d" age column
 
     @mock.patch("jobmonitor.http.get_text")
     def test_max_age_days_is_configurable(self, get_text):
