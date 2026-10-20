@@ -26,8 +26,9 @@ Discord command searches LinkedIn on demand (see [below](#on-demand-linkedin-sea
 
 Search across every source, filter by role category (Security / AI-ML / SDE /
 Research), country (Canada / US), work type (full-time / intern), city, and recency, and star /
-mark-applied any posting (kept in your browser). A stats strip and an "open roles in Canada over time" trend chart
-summarize the whole feed. Same data as the Discord alerts, browsable.
+mark-applied any posting (kept in your browser). A one-line summary and a trend chart of the
+Canadian roles tracked (7d / 30d / all) sit above a list grouped by the day each role was first
+seen. Same data as the Discord alerts, browsable.
 
 [![live jobs page](site.png)](https://capy-zhiao.github.io/Job_Monitor/)
 
@@ -256,8 +257,8 @@ the included `.github/workflows/monitor.yml` runs every 15 minutes and commits
 
 The Actions run also emits every currently-matched posting to `docs/jobs.json`
 (via `run.py --emit-json`), which `docs/index.html` renders as a static,
-searchable page served by GitHub Pages: search box, per-company filter, and a
-NEW badge for postings first seen in the last 48 hours. Discord stays the
+searchable page served by GitHub Pages: search box, per-company filter, and
+postings grouped by the day they were first seen. Discord stays the
 real-time channel; the page is the browsable full picture. A `first_seen.json`
 sidecar keeps stable discovery dates across runs.
 
