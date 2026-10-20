@@ -18,15 +18,15 @@
 </script>
 <style>
   /* Rosé Pine (Dawn in light mode) with IBM Plex. The page is typographic: hairline rules,
-     a table grouped by the day a role was first seen, no cards. The gradient appears in
-     two places, the rule under the masthead and the chart line, and both draw in on load. */
+     a list grouped by the day a role was first seen, no cards. The gradient appears once,
+     in the rule under the masthead, which draws in on load. */
   :root {
     --bg: #faf4ed; --surface: #fffaf3; --hover: #f4ede8;
     --border: #e9e0d8; --border-strong: #cecacd;
     --fg: #575279; --fg-strong: #3a3657; --muted: #797593; --faint: #9893a5;
     --g1: #ea9d34; --g2: #d7537a; --g3: #907aa9; --link: #286983;
     --sky: #286983; --indigo: #907aa9; --emerald: #3e8f7d; --amber: #c37d24;
-    --red: #b4637a; --cyan: #56949f; --slate: #797593;
+    --red: #b4637a; --cyan: #56949f; --slate: #797593; --rose: #d7827e;
     color-scheme: light;
   }
   :root[data-theme="dark"] {
@@ -35,7 +35,7 @@
     --fg: #e0def4; --fg-strong: #f2f0ff; --muted: #908caa; --faint: #6e6a86;
     --g1: #f6c177; --g2: #eb6f92; --g3: #c4a7e7; --link: #9ccfd8;
     --sky: #9ccfd8; --indigo: #c4a7e7; --emerald: #8fc6a6; --amber: #f6c177;
-    --red: #eb6f92; --cyan: #9ccfd8; --slate: #908caa;
+    --red: #eb6f92; --cyan: #9ccfd8; --slate: #908caa; --rose: #ebbcba;
     color-scheme: dark;
   }
   * { box-sizing: border-box; }
@@ -50,7 +50,7 @@
   a:hover { text-decoration: underline; text-underline-offset: 3px; }
   .mono { font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace; }
   .num { font-variant-numeric: tabular-nums; }
-  .wrap { max-width: 1000px; margin: 0 auto; padding: 0 16px; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
 
   /* Masthead: a name and three text links over a gradient rule */
   .mast-row { display: flex; align-items: baseline; gap: 18px; padding-top: 20px; padding-bottom: 12px; }
@@ -69,94 +69,72 @@
   .lead b { color: var(--fg-strong); font-weight: 600; }
   .byline { font-size: 13px; color: var(--faint); margin: 10px 0 0; }
 
-  section { border-top: 1px solid var(--border); }
+  /* Two columns: filters on the left (sticky), the list on the right */
+  .layout { display: grid; grid-template-columns: 290px minmax(0, 1fr); gap: 44px;
+            margin-top: 36px; padding-top: 22px; border-top: 1px solid var(--border); }
+  .side { position: sticky; top: 22px; align-self: start; display: flex; flex-direction: column; gap: 28px; }
 
-  /* Trend */
-  .trend { margin-top: 36px; padding-top: 14px; }
-  .trend-head { display: flex; justify-content: space-between; align-items: baseline; gap: 6px 16px; flex-wrap: wrap; margin-bottom: 14px; }
-  .trend-read { display: flex; align-items: baseline; gap: 4px 12px; flex-wrap: wrap; }
-  .trend-title { font-size: 13px; color: var(--muted); }
-  #trend-now { font-size: 22px; font-weight: 500; color: var(--fg-strong); }
-  .delta { font-size: 13px; color: var(--muted); }
-  .delta.up { color: var(--emerald); } .delta.down { color: var(--red); }
-  .range { display: flex; gap: 14px; }
-  .range button { background: none; border: 0; padding: 2px 0; cursor: pointer; color: var(--faint);
-                  font: 400 12.5px/1.4 "IBM Plex Mono", ui-monospace, monospace; border-bottom: 1px solid transparent; }
-  .range button:hover { color: var(--fg); }
-  .range button[aria-pressed="true"] { color: var(--fg-strong); border-bottom-color: var(--g2); }
-  .trend-plot { position: relative; height: 190px; }
-  #trend-svg { display: block; width: 100%; height: 100%; overflow: visible; }
-  #trend-svg .ylab { font: 400 10.5px "IBM Plex Mono", ui-monospace, monospace; fill: var(--faint); }
-  .trend-axis { position: relative; height: 16px; margin-top: 6px; font-size: 11px; color: var(--faint); }
-  .trend-axis span { position: absolute; top: 0; transform: translateX(-50%); white-space: nowrap; }
-  .trend-axis span:first-child { transform: none; }
-  .trend-axis span:last-child { transform: translateX(-100%); }
-  .trend-line.draw { stroke-dasharray: var(--len); stroke-dashoffset: var(--len); animation: draw 1.1s cubic-bezier(.2, .8, .2, 1) forwards; }
-  .trend-area.draw { opacity: 0; animation: fade-in .7s .35s ease forwards; }
-  .trend-tip {
-    position: absolute; pointer-events: none; transform: translate(-50%, -120%); z-index: 5; white-space: nowrap;
-    background: var(--surface); color: var(--fg); border: 1px solid var(--border-strong); border-radius: 4px;
-    font-size: 12px; padding: 3px 8px;
-  }
-
-  /* Filters: one row above the table */
-  .tools { margin-top: 32px; padding-top: 16px; display: flex; flex-wrap: wrap; gap: 8px; }
-  .tools input { flex: 1 1 100%; }
-  .tools select { flex: 1 1 0; min-width: 0; }
+  /* Filters: search on top, the dropdowns two to a row */
+  .tools { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .tools input, .tools select:last-child { grid-column: 1 / -1; }
   input, select {
-    padding: 7px 10px; border: 1px solid var(--border); border-radius: 4px;
-    background: var(--surface); color: var(--fg); font: inherit; font-size: 13.5px;
+    width: 100%; min-width: 0; padding: 7px 10px; border: 1px solid var(--border); border-radius: 4px;
+    background: var(--surface); color: var(--fg); font: inherit; font-size: 13px;
   }
   input:hover, select:hover { border-color: var(--border-strong); }
   input:focus-visible, select:focus-visible { outline: 2px solid color-mix(in srgb, var(--g2) 45%, transparent); outline-offset: 1px; }
-  .meta { font-size: 12.5px; color: var(--faint); margin: 14px 0 6px; }
+  .meta { font-size: 12px; color: var(--faint); margin: 0 0 2px; }
 
-  /* Table, grouped by the day a role was first seen */
+  /* List: two lines per role, grouped by the day it was first seen */
   .day { position: sticky; top: 0; z-index: 2; display: flex; justify-content: space-between; align-items: baseline;
-         margin: 0; padding: 14px 8px 6px; background: var(--bg); border-bottom: 1px solid var(--border);
-         font-size: 12.5px; font-weight: 500; color: var(--fg-strong); }
-  .day .n { font-weight: 400; color: var(--faint); }
-  .job { display: grid; grid-template-columns: 76px minmax(110px, 180px) minmax(0, 1fr) minmax(90px, 200px) auto;
-         grid-template-areas: "tag co t loc acts"; column-gap: 14px; align-items: baseline;
-         padding: 8px 8px; border-bottom: 1px solid var(--border); }
+         margin: 0 0 4px; padding: 16px 10px 7px; background: var(--bg); border-bottom: 1px solid var(--border);
+         font-size: 13px; font-weight: 600; color: var(--fg-strong); }
+  .day .n { font-size: 12px; font-weight: 400; color: var(--faint); }
+  .job { display: flex; align-items: center; gap: 12px; padding: 9px 10px; border-radius: 6px; transition: background .15s; }
   .job:hover { background: var(--hover); }
   .job.applied { opacity: .5; }
-  .tag { grid-area: tag; --c: var(--slate); color: var(--c); font-size: 12px; }
-  .co { grid-area: co; color: var(--fg); font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .tcell { grid-area: t; min-width: 0; }
-  .t { color: var(--fg-strong); }
-  .t:hover { color: var(--g2); }
-  .note { font-size: 12px; color: var(--faint); margin-left: 6px; white-space: nowrap; }
-  .note .past { color: var(--amber); }
-  .loc { grid-area: loc; font-size: 13px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .acts { grid-area: acts; display: flex; gap: 2px; }
-  .btn { background: none; border: none; cursor: pointer; font-size: 15px; line-height: 1; padding: 2px 4px; color: var(--faint); border-radius: 3px; }
-  .btn:hover { color: var(--fg-strong); }
-  .btn.on-star { color: var(--amber); }
-  .btn.on-applied { color: var(--emerald); }
-  .c-red { --c: var(--red); } .c-indigo { --c: var(--indigo); } .c-sky { --c: var(--sky); } .c-emerald { --c: var(--emerald); } .c-slate { --c: var(--slate); }
-  .empty { color: var(--muted); padding: 40px 8px; }
+  .jmain { flex: 1; min-width: 0; }
+  .t { color: var(--fg-strong); font-weight: 500; }
+  .t:hover { color: var(--g2); text-decoration: none; }
+  /* Labels after the title: a thin outline and a faint wash of the label's hue */
+  .tags { display: inline-flex; flex-wrap: wrap; gap: 5px; margin-left: 8px; vertical-align: 1px; }
+  .tag { --c: var(--slate); font: 500 11px/1 "IBM Plex Mono", ui-monospace, monospace; padding: 3px 6px 2px; border-radius: 4px;
+         color: color-mix(in srgb, var(--c) 88%, var(--fg-strong)); white-space: nowrap;
+         border: 1px solid color-mix(in srgb, var(--c) 40%, transparent); background: color-mix(in srgb, var(--c) 8%, transparent); }
+  .sub { display: flex; align-items: baseline; gap: 6px; margin-top: 1px; font-size: 13px; color: var(--muted); }
+  .sub .co { color: var(--fg); white-space: nowrap; }
+  .sub .loc { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .c-red { --c: var(--red); } .c-indigo { --c: var(--indigo); } .c-emerald { --c: var(--emerald); } .c-sky { --c: var(--sky); }
+  .c-amber { --c: var(--amber); } .c-rose { --c: var(--rose); } .c-slate { --c: var(--slate); }
+  .acts { display: flex; gap: 2px; }
+  .btn { display: grid; place-items: center; width: 30px; height: 30px; border: 0; border-radius: 5px; background: none;
+         color: var(--border-strong); cursor: pointer; transition: color .15s, background .15s; }
+  .job:hover .btn { color: var(--faint); }
+  .btn:hover, .job:hover .btn:hover { color: var(--fg-strong); background: color-mix(in srgb, var(--fg) 8%, transparent); }
+  .btn.on-star, .job:hover .btn.on-star { color: var(--amber); }
+  .btn.on-applied, .job:hover .btn.on-applied { color: var(--emerald); }
+  @media (hover: none) { .btn { color: var(--faint); } }   /* no hover on phones, so keep the icons readable */
+  .empty { color: var(--muted); padding: 40px 10px; }
   .enter > * { animation: rise-in .4s cubic-bezier(.2, .8, .2, 1) both; animation-delay: calc(var(--i, 12) * 25ms); }
 
   footer { margin: 48px 0 56px; padding-top: 14px; border-top: 1px solid var(--border); color: var(--faint); font-size: 12.5px; max-width: 720px; }
 
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: minmax(0, 1fr); gap: 24px; }
+    .side { position: static; }
+  }
   @media (max-width: 720px) {
     h1 { font-size: 25px; margin-top: 28px; }
     .lead { font-size: 16px; }
     .mast-row nav { gap: 14px; }
-    .tools select { flex: 1 1 40%; }
-    .job { grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "co co acts" "t t t" "tag loc loc"; row-gap: 2px; column-gap: 10px; }
+    .job { padding: 9px 6px; align-items: flex-start; }
   }
   @media (max-width: 420px) { .mast-row nav .wide { display: none; } }
 
   @keyframes grow { from { transform: scaleX(0); } }
-  @keyframes draw { to { stroke-dashoffset: 0; } }
-  @keyframes fade-in { to { opacity: 1; } }
   @keyframes rise-in { from { opacity: 0; transform: translateY(6px); } }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
-    .trend-line.draw { stroke-dasharray: none; stroke-dashoffset: 0; }
-    .trend-area.draw { opacity: 1; }
   }
 </style>
 </head>
@@ -178,50 +156,42 @@
 <p class="lead" id="lead">Loading openings…</p>
 <p class="byline">Built by <a href="https://github.com/capy-zhiao">Zhiao Wei</a>. Saved and applied marks stay in your browser.</p>
 
-<section id="trend" class="trend" hidden>
-  <div class="trend-head">
-    <div class="trend-read"><span class="trend-title">Canadian roles tracked</span><span class="mono num" id="trend-now"></span><span class="delta" id="trend-delta"></span></div>
-    <div class="range" id="trend-range" role="group" aria-label="Time range">
-      <button type="button" data-range="7">7d</button><button type="button" data-range="30">30d</button><button type="button" data-range="all">all</button>
-    </div>
-  </div>
-  <div class="trend-plot" id="trend-plot">
-    <svg id="trend-svg" aria-label="Canadian roles tracked over time"></svg>
-    <div id="trend-tip" class="trend-tip" hidden></div>
-  </div>
-  <div class="trend-axis mono" id="trend-axis"></div>
-</section>
-
-<section class="tools" aria-label="Filters">
-  <input id="q" type="search" placeholder="Search company, title or city">
-  <select id="category"><option value="">All roles</option></select>
-  <select id="country">
-    <option value="">Canada &amp; US</option>
-    <option value="ca">Canada</option>
-    <option value="us">United States</option>
-  </select>
-  <select id="city"><option value="">All locations</option></select>
-  <select id="company"><option value="">All companies</option></select>
-  <select id="worktype">
-    <option value="">All work types</option>
-    <option value="fulltime">Full-time</option>
-    <option value="intern">Intern / student</option>
-  </select>
-  <select id="age">
-    <option value="">Any age</option>
-    <option value="2">New (48h)</option>
-    <option value="7">Last 7 days</option>
-    <option value="30">Last 30 days</option>
-  </select>
-  <select id="view">
-    <option value="">Any status</option>
-    <option value="saved">★ Saved</option>
-    <option value="applied">✓ Applied</option>
-    <option value="unapplied">Hide applied</option>
-  </select>
-</section>
-<div class="meta mono" id="meta">loading…</div>
-<div id="list"></div>
+<div class="layout">
+<aside class="side">
+  <section class="tools" aria-label="Filters">
+    <input id="q" type="search" placeholder="Search company, title or city">
+    <select id="category"><option value="">All roles</option></select>
+    <select id="country">
+      <option value="">Canada &amp; US</option>
+      <option value="ca">Canada</option>
+      <option value="us">United States</option>
+    </select>
+    <select id="city"><option value="">All locations</option></select>
+    <select id="company"><option value="">All companies</option></select>
+    <select id="worktype">
+      <option value="">All work types</option>
+      <option value="fulltime">Full-time</option>
+      <option value="intern">Intern / student</option>
+    </select>
+    <select id="age">
+      <option value="">Any age</option>
+      <option value="2">Last 2 days</option>
+      <option value="7">Last 7 days</option>
+      <option value="30">Last 30 days</option>
+    </select>
+    <select id="view">
+      <option value="">Any status</option>
+      <option value="saved">★ Saved</option>
+      <option value="applied">✓ Applied</option>
+      <option value="unapplied">Hide applied</option>
+    </select>
+  </section>
+</aside>
+<div class="feed">
+  <div class="meta mono" id="meta">loading…</div>
+  <div id="list"></div>
+</div>
+</div>
 
 <footer>
   Collected on a schedule from company career APIs and community new-grad lists by
@@ -229,28 +199,41 @@
   Canadian roles come from company career sites; US roles come from the community new-grad lists
   (roles requiring US citizenship or explicitly not offering sponsorship are dropped).
   Entry-level software, security and research titles only.
+  Roles are grouped by the day the employer posted them when the source gives that date,
+  otherwise by the day the monitor first saw them.<span id="health"></span>
 </footer>
 </main>
 
 <script>
 let DATA = { jobs: [], stats: {} };
 const $ = id => document.getElementById(id);
-const daysAgo = iso => (Date.now() - new Date(iso + "T00:00:00Z")) / 86400000;
 const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
-// Category column: a lowercase word in the category's hue.
+// Label hues: one per category, gold for new, rose for a graduation year already past.
 const CAT_CLASS = { "Security": "c-red", "AI/ML": "c-indigo", "SDE": "c-sky", "Research": "c-emerald", "Other": "c-slate" };
-// A graduation year that has already passed is shown in amber.
+const icon = (d, fill) => `<svg width="16" height="16" viewBox="0 0 24 24" fill="${fill || "none"}" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${d}</svg>`;
+const STAR_PATH = '<path d="m12 3.5 2.6 5.3 5.9.9-4.3 4.1 1 5.8-5.2-2.7-5.2 2.7 1-5.8-4.3-4.1 5.9-.9z"/>';
+const STAR = icon(STAR_PATH), STAR_ON = icon(STAR_PATH, "currentColor");
+const CHECK = icon('<path d="M5 12.5l4.5 4.5L19 7.5"/>');
+// A graduation year that has already passed gets a rose label.
 const PAST_YEARS = new Set(["2026"]);
-// first_seen is a UTC date; "Today" is judged by the viewer's own calendar, so a role
-// found at 23:00 UTC still reads as today in Toronto that evening.
+// A role is filed under the day its employer posted it when the source says so,
+// else the day the monitor first saw it. Dates are UTC days; "Today" is judged by
+// the viewer's own calendar, so a role found at 23:00 UTC still reads as today in
+// Toronto that evening. Anything over a month old shares one group.
 const now = new Date();
 const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
-function dayLabel(d) {
-  const diff = Math.round((today - Date.parse(d)) / 86400000);
-  if (diff <= 0) return "Today";
+const when = j => j.posted || j.first_seen;
+const age = j => Math.round((today - Date.parse(when(j))) / 86400000);
+const OLD_DAYS = 30;
+// A UTC date can be a day ahead of the viewer's calendar; it still reads as today.
+const groupOf = j => (age(j) > OLD_DAYS ? "older" : age(j) <= 0 ? "today" : when(j));
+function dayLabel(g) {
+  if (g === "older") return "More than a month ago";
+  if (g === "today") return "Today";
+  const diff = Math.round((today - Date.parse(g)) / 86400000);
   if (diff === 1) return "Yesterday";
-  return new Date(d + "T00:00:00Z").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
+  return new Date(g + "T00:00:00Z").toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
 }
 let firstRender = true;
 // Work type is read off the title. Internships, co-op terms and student
@@ -313,7 +296,7 @@ function render() {
     if (company && j.company !== company) return false;
     if (country && !inCountry(j.location, country)) return false;
     if (city && !(CITIES[city] && CITIES[city].test(j.location || ""))) return false;
-    if (daysAgo(j.first_seen) > maxAge) return false;
+    if (age(j) > maxAge) return false;
     if (view === "saved" && !SAVED.has(j.url)) return false;
     if (view === "applied" && !APPLIED.has(j.url)) return false;
     if (view === "unapplied" && APPLIED.has(j.url)) return false;
@@ -321,29 +304,32 @@ function render() {
     return true;
   });
 
-  // jobs.json is newest first, so a header goes in wherever the day changes
-  const perDay = {};
-  rows.forEach(j => { perDay[j.first_seen] = (perDay[j.first_seen] || 0) + 1; });
+  // jobs.json is newest first, so a header goes in wherever the group changes
+  const perGroup = {};
+  rows.forEach(j => { perGroup[groupOf(j)] = (perGroup[groupOf(j)] || 0) + 1; });
   let html = "", prev = null, n = 0;
   const idx = () => (n < 16 ? ` style="--i:${n++}"` : "");
   for (const j of rows) {
-    if (j.first_seen !== prev) {
-      prev = j.first_seen;
-      html += `<h2 class="day"${idx()}><span>${dayLabel(prev)}</span><span class="n mono">${perDay[prev]}</span></h2>`;
+    if (groupOf(j) !== prev) {
+      prev = groupOf(j);
+      html += `<h2 class="day"${idx()}><span>${dayLabel(prev)}</span><span class="n mono">${perGroup[prev]}</span></h2>`;
     }
     const c = j.category || "Other", sv = SAVED.has(j.url), ap = APPLIED.has(j.url);
     const yr = (j.title.match(/\b(20[2-9]\d)\b/) || [])[1];
-    const notes = [workType(j.title) === "intern" ? "intern" : "",
-                   yr ? `<span class="${PAST_YEARS.has(yr) ? "past" : ""}" title="Year in the job title">${yr}</span>` : ""].filter(Boolean);
+    const tags = [`<span class="tag ${CAT_CLASS[c] || "c-slate"}">${esc(c.toLowerCase())}</span>`,
+                  age(j) <= 2 ? '<span class="tag c-amber">new</span>' : "",
+                  j.sponsors ? '<span class="tag c-emerald" title="The community list says this employer sponsors work visas">sponsors visa</span>' : "",
+                  workType(j.title) === "intern" ? '<span class="tag c-slate">intern</span>' : "",
+                  yr ? `<span class="tag ${PAST_YEARS.has(yr) ? "c-rose" : "c-slate"}" title="Year in the job title">${yr}</span>` : ""].join("");
     html += `<div class="job${ap ? " applied" : ""}"${idx()}>
-      <span class="tag mono ${CAT_CLASS[c] || CAT_CLASS.Other}">${esc(c.toLowerCase())}</span>
-      <span class="co" title="${esc(j.company)}">${esc(j.company)}</span>
-      <span class="tcell"><a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.title)}</a>${notes.length ? `<span class="note mono">${notes.join(" · ")}</span>` : ""}</span>
-      <span class="loc" title="${esc(j.location)}">${esc(j.location || "—")}</span>
-      <span class="acts">
-        <button class="btn ${sv ? "on-star" : ""}" data-save="${esc(j.url)}" aria-label="Save" title="Save">${sv ? "★" : "☆"}</button>
-        <button class="btn ${ap ? "on-applied" : ""}" data-applied="${esc(j.url)}" aria-label="Mark applied" title="Mark applied">✓</button>
-      </span>
+      <div class="jmain">
+        <a class="t" href="${j.url}" target="_blank" rel="noopener">${esc(j.title)}</a><span class="tags">${tags}</span>
+        <div class="sub"><span class="co">${esc(j.company)}</span><span aria-hidden="true">·</span><span class="loc" title="${esc(j.location)}">${esc(j.location || "location not listed")}</span></div>
+      </div>
+      <div class="acts">
+        <button class="btn ${sv ? "on-star" : ""}" data-save="${esc(j.url)}" aria-label="Save" aria-pressed="${sv}" title="Save">${sv ? STAR_ON : STAR}</button>
+        <button class="btn ${ap ? "on-applied" : ""}" data-applied="${esc(j.url)}" aria-label="Mark applied" aria-pressed="${ap}" title="Mark applied">${CHECK}</button>
+      </div>
     </div>`;
   }
   const list = $("list");
@@ -365,11 +351,13 @@ function render() {
 // One sentence instead of a row of number tiles
 function renderLead() {
   const jobs = DATA.jobs, s = DATA.stats || {};
-  const fresh = jobs.filter(j => daysAgo(j.first_seen) <= 2).length;
+  const fresh = jobs.filter(j => age(j) <= 2).length;
   const companies = new Set(jobs.map(j => j.company)).size;
   const fmt = v => `<b class="num">${Number(v).toLocaleString("en-US")}</b>`;
-  $("lead").innerHTML = `${fmt(DATA.count || jobs.length)} open roles at ${fmt(companies)} companies, ${fmt(fresh)} of them first seen in the last 48 hours.`
+  $("lead").innerHTML = `${fmt(DATA.count || jobs.length)} open roles at ${fmt(companies)} companies, ${fmt(fresh)} of them posted in the last two days.`
     + (s.sources ? ` Collected from ${fmt(s.sources)} sources.` : "");
+  if (s.sources && s.responded != null)
+    $("health").textContent = ` On the last run, ${s.responded} of ${s.sources} sources responded.`;
 }
 
 fetch("jobs.json?" + Date.now())
@@ -393,119 +381,6 @@ fetch("jobs.json?" + Date.now())
 
 FILTERS.forEach(f => $(f).addEventListener("input", render));
 
-// Trend chart, built from the daily history.json snapshots. It plots Canadian openings
-// (history before the US lists were added is Canada-only), draws at the plot's real pixel
-// size so text and strokes stay crisp, and redraws on resize and range changes.
-let HIST = [], RANGE = "all";
-const tval = h => (h.ca ?? h.total);
-const fmtDay = d => new Date(d + "T00:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
-
-// Monotone cubic (Fritsch-Carlson): smooth, but never overshoots between days.
-function smoothPath(p) {
-  const n = p.length;
-  if (n < 2) return n ? `M${p[0][0]},${p[0][1]}` : "";
-  const dx = [], m = [];
-  for (let i = 0; i < n - 1; i++) { dx[i] = p[i + 1][0] - p[i][0]; m[i] = (p[i + 1][1] - p[i][1]) / dx[i]; }
-  const t = [m[0]];
-  for (let i = 1; i < n - 1; i++) t[i] = m[i - 1] * m[i] <= 0 ? 0 : (m[i - 1] + m[i]) / 2;
-  t[n - 1] = m[n - 2];
-  for (let i = 0; i < n - 1; i++) {
-    if (m[i] === 0) { t[i] = t[i + 1] = 0; continue; }
-    const a = t[i] / m[i], b = t[i + 1] / m[i], h = a * a + b * b;
-    if (h > 9) { const k = 3 / Math.sqrt(h); t[i] = k * a * m[i]; t[i + 1] = k * b * m[i]; }
-  }
-  let d = `M${p[0][0].toFixed(1)},${p[0][1].toFixed(1)}`;
-  for (let i = 0; i < n - 1; i++) {
-    const h = dx[i] / 3;
-    d += ` C${(p[i][0] + h).toFixed(1)},${(p[i][1] + t[i] * h).toFixed(1)} ${(p[i + 1][0] - h).toFixed(1)},${(p[i + 1][1] - t[i + 1] * h).toFixed(1)} ${p[i + 1][0].toFixed(1)},${p[i + 1][1].toFixed(1)}`;
-  }
-  return d;
-}
-
-// Round axis values: 0, 200, 400 rather than 13, 287, 561.
-function niceTicks(min, max, count) {
-  const raw = (max - min || 1) / count, mag = 10 ** Math.floor(Math.log10(raw)), r = raw / mag;
-  const step = (r < 1.5 ? 1 : r < 3 ? 2 : r < 7 ? 5 : 10) * mag;
-  const lo = Math.floor(min / step) * step, hi = Math.ceil(max / step) * step, ticks = [];
-  for (let v = lo; v <= hi + step / 2; v += step) ticks.push(Math.round(v));
-  return { lo, hi, ticks };
-}
-
-function drawTrend(animate) {
-  const all = HIST, days = RANGE === "all" ? all.length : Math.min(all.length, parseInt(RANGE, 10));
-  const h = all.slice(all.length - days);
-  if (h.length < 2) return;
-  const plot = $("trend-plot"), W = plot.clientWidth, H = plot.clientHeight;
-  if (!W) return;
-  const L = 40, R = 8, T = 10, B = 6;
-  const vals = h.map(tval), { lo, hi, ticks } = niceTicks(Math.min(...vals), Math.max(...vals), 4);
-  const x = i => L + (i / (h.length - 1)) * (W - L - R);
-  const y = v => T + (1 - (v - lo) / (hi - lo || 1)) * (H - T - B);
-  const pts = h.map((d, i) => [x(i), y(tval(d))]);
-  const path = smoothPath(pts);
-
-  const grid = ticks.map(v => `<line x1="${L}" x2="${W - R}" y1="${y(v).toFixed(1)}" y2="${y(v).toFixed(1)}" style="stroke:var(--border)" stroke-dasharray="2 4"/>`
-    + `<text class="ylab" x="${L - 8}" y="${(y(v) + 3.5).toFixed(1)}" text-anchor="end">${v.toLocaleString("en-US")}</text>`).join("");
-  const defs = `<defs><linearGradient id="jm-stroke" x1="0" y1="0" x2="1" y2="0">`
-    + `<stop offset="0" style="stop-color:var(--g1)"/><stop offset=".55" style="stop-color:var(--g2)"/><stop offset="1" style="stop-color:var(--g3)"/></linearGradient>`
-    + `<linearGradient id="jm-fill" x1="0" y1="0" x2="0" y2="1">`
-    + `<stop offset="0" style="stop-color:var(--g2);stop-opacity:.20"/><stop offset="1" style="stop-color:var(--g2);stop-opacity:0"/></linearGradient></defs>`;
-  const last = pts[pts.length - 1], cls = animate ? " draw" : "";
-  const area = `<path class="trend-area${cls}" d="${path} L${last[0].toFixed(1)},${H - B} L${L},${H - B} Z" fill="url(#jm-fill)"/>`;
-  const line = `<path class="trend-line${cls}" d="${path}" fill="none" stroke="url(#jm-stroke)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>`;
-  const end = `<circle cx="${last[0].toFixed(1)}" cy="${last[1].toFixed(1)}" r="7" style="fill:var(--g3);fill-opacity:.18"/>`
-    + `<circle cx="${last[0].toFixed(1)}" cy="${last[1].toFixed(1)}" r="3.5" style="fill:var(--g3)"/>`;
-  const hover = `<line id="trend-guide" y1="${T}" y2="${H - B}" style="stroke:var(--border-strong)" stroke-dasharray="3 3" visibility="hidden"/>`
-    + `<circle id="trend-hot" r="4" style="fill:var(--surface);stroke:var(--g2)" stroke-width="2" visibility="hidden"/>`;
-  const svg = $("trend-svg");
-  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
-  svg.innerHTML = defs + grid + area + line + end + hover;
-  const lineEl = svg.querySelector(".trend-line");
-  lineEl.style.setProperty("--len", lineEl.getTotalLength().toFixed(0));
-
-  // Headline: today's count and the change over the visible range
-  const first = tval(h[0]), cur = tval(h[h.length - 1]);
-  const pct = first ? Math.round(((cur - first) / first) * 100) : 0;
-  $("trend-now").textContent = cur.toLocaleString("en-US");
-  $("trend-delta").className = "delta " + (pct > 0 ? "up" : pct < 0 ? "down" : "");
-  $("trend-delta").textContent = `${pct > 0 ? "+" : pct < 0 ? "−" : ""}${Math.abs(pct)}% since ${fmtDay(h[0].date)}`;
-
-  // Evenly spaced date ticks, fewer on a phone
-  const n = Math.min(W < 500 ? 4 : 5, h.length), idx = [...new Set(Array.from({ length: n }, (_, k) => Math.round(k * (h.length - 1) / (n - 1))))];
-  $("trend-axis").innerHTML = idx.map(i => `<span style="left:${x(i).toFixed(0)}px">${fmtDay(h[i].date)}</span>`).join("");
-
-  const tip = $("trend-tip"), guide = $("trend-guide"), hot = $("trend-hot");
-  svg.onpointermove = e => {
-    const r = svg.getBoundingClientRect();
-    const fx = Math.min(1, Math.max(0, (e.clientX - r.left - L) / (r.width - L - R)));
-    const i = Math.round(fx * (h.length - 1)), [px, py] = pts[i];
-    guide.setAttribute("x1", px); guide.setAttribute("x2", px); guide.setAttribute("visibility", "visible");
-    hot.setAttribute("cx", px); hot.setAttribute("cy", py); hot.setAttribute("visibility", "visible");
-    const diff = i ? tval(h[i]) - tval(h[i - 1]) : 0;
-    tip.innerHTML = `<span style="color:var(--muted)">${fmtDay(h[i].date)}</span> · <b>${tval(h[i]).toLocaleString("en-US")}</b> open`
-      + (i ? ` <span style="color:var(${diff >= 0 ? "--emerald" : "--red"})">${diff >= 0 ? "+" : "−"}${Math.abs(diff)}</span>` : "");
-    tip.style.left = px + "px"; tip.style.top = py + "px"; tip.hidden = false;
-  };
-  svg.onpointerleave = () => { tip.hidden = true; guide.setAttribute("visibility", "hidden"); hot.setAttribute("visibility", "hidden"); };
-}
-
-function renderTrend(history) {
-  if (!Array.isArray(history) || history.length < 2) return;  // need ≥2 days
-  HIST = history;
-  $("trend").hidden = false;
-  document.querySelectorAll("#trend-range button").forEach(b => {
-    b.setAttribute("aria-pressed", String(b.dataset.range === RANGE));
-    b.onclick = () => {
-      RANGE = b.dataset.range;
-      document.querySelectorAll("#trend-range button").forEach(o => o.setAttribute("aria-pressed", String(o === b)));
-      drawTrend(true);
-    };
-  });
-  drawTrend(true);
-  let pending;
-  new ResizeObserver(() => { clearTimeout(pending); pending = setTimeout(() => drawTrend(false), 80); }).observe($("trend-plot"));
-}
-
 // Theme toggle, remembered per browser
 function paintThemeButton() {
   const dark = document.documentElement.dataset.theme === "dark";
@@ -520,10 +395,6 @@ $("theme").onclick = () => {
 };
 paintThemeButton();
 
-fetch("history.json?" + Date.now())
-  .then(r => r.ok ? r.json() : [])
-  .then(renderTrend)
-  .catch(() => {});
 </script>
 </body>
 </html>
