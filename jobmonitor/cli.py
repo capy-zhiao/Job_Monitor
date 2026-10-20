@@ -9,7 +9,7 @@ import sys
 import urllib.parse
 from datetime import date
 
-from . import notify, state
+from . import logos, notify, state
 from .fetchers import FETCHERS, RESOLVERS
 from .filters import location_ok, matches
 
@@ -18,6 +18,7 @@ PROJECT_ROOT = os.path.dirname(PACKAGE_DIR)
 DEFAULT_CONFIG = os.path.join(PROJECT_ROOT, "config.json")
 DEFAULT_STATE = os.path.join(PROJECT_ROOT, "seen.json")
 DEFAULT_HEALTH = os.path.join(PROJECT_ROOT, "health.json")
+DEFAULT_DOMAINS = os.path.join(PROJECT_ROOT, "company_domains.json")
 
 # A source is reported once it has failed this many runs in a row, or has
 # returned no postings at all for this many days.
@@ -253,13 +254,26 @@ def emit_jobs_json(path, matched, config_path=None, report=None):
         except (OSError, ValueError, KeyError):
             stats = {}
 
+    # Company icons: the page shows the source's company without its suffix
+    # ("TD (Security)" -> "TD"), with the icon of the domain mapped to it.
+    domains_path = os.path.join(os.path.dirname(os.path.abspath(config_path)), "company_domains.json") \
+        if config_path else DEFAULT_DOMAINS
+    domain_of = logos.load_domains(domains_path)
+    wanted = {domain_of[logos.base_company(j.company)] for j in jobs if logos.base_company(j.company) in domain_of}
+    icon_of = logos.ensure_logos(wanted, os.path.join(os.path.dirname(os.path.abspath(path)), "logos"))
+
+    def logo(job):
+        name = icon_of.get(domain_of.get(logos.base_company(job.company), ""))
+        return {"logo": "logos/" + name} if name else {}
+
     payload = {
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "count": len(jobs),
         "stats": stats,
         "jobs": [
             {
-                "company": j.company,
+                "company": logos.base_company(j.company) or j.company,
+                **logo(j),
                 "title": j.title,
                 "location": j.location,
                 "url": j.url,

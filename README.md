@@ -289,6 +289,12 @@ postings grouped by the day they were posted (first seen, when the source has
 no date). Discord is where new matches arrive; the page is the browsable full
 picture. A `first_seen.json` sidecar keeps stable discovery dates across runs.
 
+Each row shows the company's icon. Most postings link to an applicant tracking
+system rather than the company's site, so `company_domains.json` maps company
+names to their domains by hand; a company missing from it shows its initial
+instead of a guessed (possibly wrong) logo. The run fetches each mapped domain's
+favicon once into `docs/logos/`, so the page serves the icons itself.
+
 ## On-demand LinkedIn search
 
 LinkedIn isn't one of the scheduled sources: it blocks datacenter IPs like
