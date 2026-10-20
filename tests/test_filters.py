@@ -32,6 +32,37 @@ class MatchesTest(unittest.TestCase):
         self.assertFalse(matches("Anything", [], []))
 
 
+class LevelRuleTest(unittest.TestCase):
+    def test_level_above_entry_anywhere_in_title(self):
+        self.assertFalse(matches("Software Engineer II - Backend", ["software engineer"], []))
+        self.assertFalse(matches("Cloud Engineer 2, Site Reliability Engineering", ["engineer"], []))
+        self.assertFalse(matches("Applied Researcher 3 - Multimodal AI", ["applied researcher"], []))
+
+    def test_early_career_titles_keep_their_level(self):
+        self.assertTrue(matches("Software Engineer II - Developer Portal - New Grad", ["software engineer"], []))
+
+    def test_level_named_by_a_keyword_is_wanted(self):
+        # a source can list "engineer 2" or "researcher 2" on purpose
+        self.assertTrue(matches("Software Engineer 2", ["engineer 2"], []))
+        self.assertTrue(matches("Researcher 2 - Networks", ["researcher 2"], []))
+
+    def test_other_numbers_are_not_levels(self):
+        self.assertTrue(matches("Software Engineer, Level 3, Backend", ["software engineer"], []))
+        self.assertTrue(matches("AI Developer Intern - 4 Months", ["developer"], []))
+        self.assertTrue(matches("Software Engineer 2027", ["software engineer"], []))
+
+
+class YearKeywordTest(unittest.TestCase):
+    def test_year_alone_needs_technical_work(self):
+        self.assertFalse(matches("Finance Intern - Corporate Accounting & Tax - Winter 2027", ["2027"], []))
+        self.assertFalse(matches("Content Design Intern (Summer 2027)", ["2027"], []))
+        self.assertTrue(matches("Solution Architect Student - Winter 2027", ["2027"], []))
+        self.assertTrue(matches("Développeur Logiciels (Stagiaire) (l'été 2027)", ["2027"], []))
+
+    def test_year_with_another_keyword_is_unaffected(self):
+        self.assertTrue(matches("Product New Grad 2027", ["2027", "new grad"], []))
+
+
 class LocationOkTest(unittest.TestCase):
     def test_empty_wanted_allows_anything(self):
         self.assertTrue(location_ok("Bengaluru, IND", []))
@@ -92,7 +123,9 @@ class RealConfigWorkTypeTest(unittest.TestCase):
             "Senior Software Engineer",
             "Staff Software Engineer",
             "Software Engineer II",
+            "Software Engineer II - Backend",
             "Software Engineer Co-op",  # co-op stays excluded, interns do not
+            "Finance Intern - Technical Accounting & Treasury - Winter 2027",
         ]:
             self.assertRejected(title)
 
