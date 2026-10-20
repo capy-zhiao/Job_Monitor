@@ -1,0 +1,724 @@
+{
+ "1Password": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "2K": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "AMD": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "AMD (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Absolute Security": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Adobe": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Affirm": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Amazon": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Amazon (Science)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Amazon (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ample Insight": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ampliwork, Inc": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Anthropic": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Apple": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Apple (ML/Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Arctic Wolf": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Asana": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Autodesk": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Auvik": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "BMO": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "BinSentry": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "BlackBerry": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "BlackBerry (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Borealis AI (RBC)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "CIBC": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Calico": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Canadian Bank Note": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Capital One": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Carta": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Censys": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cerebras": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cerebras (US new grad)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ciena": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cisco": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cisco (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Citylogix": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cloudflare": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cognition": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cohere": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Coinbase": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "CrowdStrike": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Cursor": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "D-Wave Quantum": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "D2L": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "DRW": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Databricks": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Datadog": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Decagon": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Descartes": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Diligent": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "DoorDash": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "DoorDash Canada": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Dropbox": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Duolingo": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Encore Auctions": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Equitable Bank": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ericsson": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Evertz": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Faire": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Feathery": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Financeit": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "FlightHub": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Fortinet": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Fortinet (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Gaiia": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "General Dynamics Mission Systems Canada": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Genetec": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Geotab": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "GitHub New-Grad Lists": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Glia": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Google": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Google (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Google DeepMind": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Google Fiber": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Harvey": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "HighlightTA": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Hootsuite": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Huawei": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "IBM Canada": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ideogram": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Instacart": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Intel": {
+  "empty_since": "2026-10-20",
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Interac": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Intrinsic": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Isomorphic Labs": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Kinaxis": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Kraken Robotics": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "LawDepot": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Liberty Mutual Canada": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Linear": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Lyft": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Magical": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Magnet Forensics": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Mastercard": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Maya HTT": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Meltwater": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Metergy Solutions": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Microsoft": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Microsoft (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Miovision": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Montreal Institute for Learning Algorithms": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Moomoo Canada": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Motive": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Mozilla": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "NVIDIA": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Nascent": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Nesto Cloud": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Netflix": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Nokia": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Nutanix": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Okta": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "OpenAI": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "OpenAI (US new grad)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "OpenTable": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "OpenText": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "OpenText (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Orennia": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Palantir": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Penn Interactive": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Perplexity": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Picton Mahoney Asset Management": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Pinterest": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Plusgrade": {
+  "empty_since": "2026-10-20",
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Pogo": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "PointClickCare": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Positron": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Power TakeOff": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Promise Robotics": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "PureFacts Financial Solutions": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "RBC": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "RBC (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ramp": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Reddit": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Robinhood": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "SAP": {
+  "fail_runs": 1,
+  "last_error": "HTTP Error 404: Not Found"
+ },
+ "SKYTRAC": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Salesforce": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Scotiabank": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "ServiceNow": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Shopify": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "ShyftLabs": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Sierra": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Snap": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Snowflake": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Sony Pictures Imageworks": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "SpeedyApply 2027 Lists (International)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "SpeedyApply 2027 Lists (USA)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Squarespace": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "StackAdapt": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Stripe": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Superhuman": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "TD": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "TD (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Tailscale": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Tenstorrent": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Thomson Reuters": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Together AI": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Trend Micro": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Uber": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Ubisoft": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Valsoft Corporation": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Vanta": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "VersaFile": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "VersaPay": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Waabi": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Waymo": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Waymo (US new grad)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Wealthsimple": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Webull": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Whc": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Wing": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Xanadu": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "Zip": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "dcbel Inc": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "eBay": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "eBay (Research)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "eBay (Security)": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "eSentire": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "nesto": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ },
+ "xAI": {
+  "fail_runs": 0,
+  "last_ok": "2026-10-20"
+ }
+}
