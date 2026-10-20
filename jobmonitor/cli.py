@@ -4,6 +4,7 @@ import argparse
 import dataclasses
 import json
 import os
+import re
 import sys
 import urllib.parse
 from datetime import date
@@ -99,7 +100,7 @@ def url_key(url):
     parts = urllib.parse.urlsplit((url or "").strip())
     if not parts.netloc:
         return ""
-    host = parts.netloc.lower().removeprefix("www.")
+    host = re.sub(r"^www\.", "", parts.netloc.lower())
     if host in ("boards.greenhouse.io", "job-boards.greenhouse.io"):
         host = "greenhouse"
     query = sorted((k, v) for k, v in urllib.parse.parse_qsl(parts.query)

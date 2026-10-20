@@ -249,7 +249,7 @@ def fetch_phenom(source):
     data = http.post_json_response(f"https://{host}/widgets", payload)
     jobs = []
     for j in data.get("refineSearch", {}).get("data", {}).get("jobs", []):
-        apply_url = (j.get("applyUrl") or "").removesuffix("/apply")
+        apply_url = re.sub(r"/apply$", "", j.get("applyUrl") or "")  # str.removesuffix needs 3.9
         jobs.append(
             Job(
                 uid=f"phenom:{host}:{j.get('jobId')}",
