@@ -80,7 +80,7 @@
   "last_ok": "2026-10-21"
  },
  "BinSentry": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-21"
  },
@@ -391,12 +391,12 @@
   "last_ok": "2026-10-21"
  },
  "Microsoft": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-21"
  },
  "Microsoft (Security)": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-21"
  },
@@ -485,7 +485,7 @@
   "last_ok": "2026-10-21"
  },
  "Picton Mahoney Asset Management": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-21"
  },
@@ -543,7 +543,7 @@
   "last_ok": "2026-10-21"
  },
  "SAP": {
-  "fail_runs": 11,
+  "fail_runs": 12,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -656,7 +656,7 @@
   "last_ok": "2026-10-21"
  },
  "VersaFile": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-21"
  },
@@ -702,7 +702,7 @@
   "last_ok": "2026-10-21"
  },
  "dcbel Inc": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-21"
  },
