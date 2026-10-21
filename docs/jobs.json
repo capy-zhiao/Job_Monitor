@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-21 19:30 UTC",
- "count": 657,
+ "generated_at": "2026-10-21 22:40 UTC",
+ "count": 655,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 177
  },
  "jobs": [
   {
@@ -66,6 +66,16 @@
    "category": "SDE"
   },
   {
+   "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
+   "title": "High-Performance LLM Training Engineer New Grad",
+   "location": "Canada; Santa Clara, CA; United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+   "first_seen": "2026-10-21",
+   "posted": "2026-10-21",
+   "category": "AI/ML"
+  },
+  {
    "company": "Mozilla",
    "logo": "logos/mozilla.org.png",
    "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
@@ -93,6 +103,16 @@
    "first_seen": "2026-10-21",
    "posted": "2026-10-21",
    "category": "SDE"
+  },
+  {
+   "company": "LawDepot",
+   "logo": "logos/lawdepot.com.png",
+   "title": "Business Data Analyst",
+   "location": "Edmonton, Hybrid",
+   "url": "https://jobs.ashbyhq.com/lawdepot/7c067425-894c-40e1-b8a9-2cd389f453f1",
+   "first_seen": "2026-10-21",
+   "posted": "2026-10-21",
+   "category": "Other"
   },
   {
    "company": "Intuitive",
@@ -130,6 +150,16 @@
    "title": "Embedded Software Developer",
    "location": "Burnaby, BC, Canada",
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24721",
+   "first_seen": "2026-10-21",
+   "posted": "2026-10-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
    "first_seen": "2026-10-21",
    "posted": "2026-10-21",
    "category": "SDE"
@@ -1548,16 +1578,6 @@
    "category": "SDE"
   },
   {
-   "company": "Justworks",
-   "logo": "logos/justworks.com.png",
-   "title": "Associate Software Engineer - Frontend",
-   "location": "NYC",
-   "url": "https://boards.greenhouse.io/justworks/jobs/8236815",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "John Deere",
    "logo": "logos/deere.com.png",
    "title": "Software Engineer",
@@ -2329,6 +2349,16 @@
    "title": "Digital Hardware Engineer 1",
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
+   "first_seen": "2026-10-07",
+   "posted": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
    "first_seen": "2026-10-07",
    "posted": "2026-10-07",
    "category": "SDE"
@@ -3729,16 +3759,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cirrus Logic",
-   "logo": "logos/cirrus.com.png",
-   "title": "Post-Silicon Validation Engineer New Grad - Mixed IC Validation",
-   "location": "Austin, TX",
-   "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0/apply",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-21",
-   "category": "SDE"
-  },
-  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "SVT/PV Engineer 1 - New Grad",
@@ -3846,16 +3866,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-09-18",
    "category": "SDE"
-  },
-  {
-   "company": "LawDepot",
-   "logo": "logos/lawdepot.com.png",
-   "title": "Business Data Analyst",
-   "location": "Edmonton, Hybrid",
-   "url": "https://jobs.ashbyhq.com/lawdepot/6a00f8c8-529e-4eb2-a602-f956c0cbbf43",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-18",
-   "category": "Other"
   },
   {
    "company": "Amazon",
@@ -4584,16 +4594,6 @@
   {
    "company": "Apple",
    "logo": "logos/apple.com.png",
-   "title": "Xcode Cloud Distributed Systems Software Engineer",
-   "location": "Vancouver, Canada",
-   "url": "https://jobs.apple.com/en-ca/details/200680206/xcode-cloud-distributed-systems-software-engineer?team=SFTWR",
-   "first_seen": "2026-09-01",
-   "posted": "2026-08-27",
-   "category": "SDE"
-  },
-  {
-   "company": "Apple",
-   "logo": "logos/apple.com.png",
    "title": "Software Development Engineer in Test, Creativity Apps (SDET)",
    "location": "Vancouver, Canada",
    "url": "https://jobs.apple.com/en-ca/details/200680212/software-development-engineer-in-test-creativity-apps-sdet?team=SFTWR",
@@ -4760,16 +4760,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-08-13",
    "category": "Other"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Life Cycle Material Engineering Specialist",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142898171",
-   "first_seen": "2026-10-14",
-   "posted": "2026-08-11",
-   "category": "SDE"
   },
   {
    "company": "VersaPay",
@@ -5209,16 +5199,6 @@
    "url": "https://boards.greenhouse.io/orennia/jobs/5277706008?gh_jid=5277706008",
    "first_seen": "2026-10-13",
    "posted": "2026-06-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Faire",
-   "logo": "logos/faire.com.png",
-   "title": "Software Engineer - Retailer Experience & Growth - Fullstack, Backend or Frontend",
-   "location": "Kitchener-Waterloo, ON; Toronto, ON",
-   "url": "https://boards.greenhouse.io/faire/jobs/8603123002?gh_jid=8603123002",
-   "first_seen": "2026-09-03",
-   "posted": "2026-06-22",
    "category": "SDE"
   },
   {

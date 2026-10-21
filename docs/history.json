@@ -601,11 +601,11 @@
 },
 {
 "date": "2026-10-21",
-"total": 657,
+"total": 655,
 "ca": 455,
 "by": {
-"SDE": 479,
-"AI/ML": 64,
+"SDE": 476,
+"AI/ML": 65,
 "Other": 36,
 "Security": 39,
 "Research": 39
