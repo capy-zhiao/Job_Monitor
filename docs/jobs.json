@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-21 10:11 UTC",
- "count": 653,
+ "generated_at": "2026-10-21 15:17 UTC",
+ "count": 636,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 173
  },
  "jobs": [
   {
@@ -21,6 +21,26 @@
    "title": "Software Engineer - Rhoda Platform",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
+   "first_seen": "2026-10-21",
+   "posted": "2026-10-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "GTM Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/3ef551df-1502-4066-8141-0894249febbc",
+   "first_seen": "2026-10-21",
+   "posted": "2026-10-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/3f915b88-32c3-4045-a731-e185ce6c2eb9",
    "first_seen": "2026-10-21",
    "posted": "2026-10-21",
    "category": "SDE"
@@ -208,35 +228,6 @@
    "category": "SDE"
   },
   {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "GTM Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/d78c69e3-aad0-42b9-b3bf-7028da91beeb",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-20",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/e35d6847-e600-4dcb-9e6e-5615e008641b",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-20",
-   "category": "SDE"
-  },
-  {
-   "company": "Picton Mahoney Asset Management",
-   "logo": "logos/pictonmahoney.com.png",
-   "title": "Intern, Data Engineer (8 Months)",
-   "location": "Toronto, Ontario",
-   "url": "https://pictonmahoney.bamboohr.com/careers/387",
-   "first_seen": "2026-10-20",
-   "category": "SDE"
-  },
-  {
    "company": "Palantir",
    "logo": "logos/palantir.com.png",
    "title": "Software Engineer New Grad - Query Engines",
@@ -343,16 +334,6 @@
    "category": "Security"
   },
   {
-   "company": "Capital One",
-   "logo": "logos/capitalone.com.png",
-   "title": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-   "first_seen": "2026-10-02",
-   "posted": "2026-10-20",
-   "category": "SDE"
-  },
-  {
    "company": "Cisco",
    "logo": "logos/cisco.com.png",
    "title": "Software Developer Embedded Systems I (Full Time) - Canada",
@@ -436,7 +417,7 @@
    "company": "Kraken Robotics",
    "logo": "logos/krakenrobotics.com.png",
    "title": "Cybersecurity Specialist",
-   "location": "Houston, TX, United States; Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada",
+   "location": "Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada; Houston, TX, United States",
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
    "first_seen": "2026-10-19",
    "category": "Security"
@@ -731,16 +712,6 @@
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553",
    "first_seen": "2026-10-13",
-   "posted": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019425-1",
-   "first_seen": "2026-09-01",
    "posted": "2026-10-16",
    "category": "SDE"
   },
@@ -1306,60 +1277,6 @@
    "category": "SDE"
   },
   {
-   "company": "dcbel Inc",
-   "logo": "logos/dcbel.energy.png",
-   "title": "Sales Engineer | Montreal",
-   "location": "Montréal, Quebec",
-   "url": "https://dcbel.bamboohr.com/careers/250",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "dcbel Inc",
-   "logo": "logos/dcbel.energy.png",
-   "title": "Manufacturing Test Software Engineer",
-   "location": "Montréal, Quebec",
-   "url": "https://dcbel.bamboohr.com/careers/207",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "dcbel Inc",
-   "logo": "logos/dcbel.energy.png",
-   "title": "Manufacturing Test Electrical Engineer",
-   "location": "Montréal, Quebec",
-   "url": "https://dcbel.bamboohr.com/careers/208",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "dcbel Inc",
-   "logo": "logos/dcbel.energy.png",
-   "title": "Embedded UI Developer",
-   "location": "Montréal, Quebec",
-   "url": "https://dcbel.bamboohr.com/careers/240",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "VersaFile",
-   "logo": "logos/versafile.com.png",
-   "title": "Full Stack SAP Developer ",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://versafile1.bamboohr.com/careers/162",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "VersaFile",
-   "logo": "logos/versafile.com.png",
-   "title": "AI Sales Engineer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://versafile1.bamboohr.com/careers/121",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Valsoft Corporation",
    "logo": "logos/valsoftcorp.com.png",
    "title": "AI Engineer",
@@ -1397,15 +1314,6 @@
    "url": "https://jobs.ashbyhq.com/snowflake/628f36e0-8554-4d5f-8d5e-a017a761ca54",
    "first_seen": "2026-10-13",
    "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Picton Mahoney Asset Management",
-   "logo": "logos/pictonmahoney.com.png",
-   "title": "Vice President, Data Engineering",
-   "location": "Toronto, Ontario",
-   "url": "https://pictonmahoney.bamboohr.com/careers/373",
-   "first_seen": "2026-10-13",
    "category": "SDE"
   },
   {
@@ -1580,42 +1488,6 @@
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8131385",
    "first_seen": "2026-10-13",
    "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Software Developer, Critical Systems",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/314",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Software Developer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/310",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Mechanical Design Engineer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/297",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Electronics Engineer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/296",
-   "first_seen": "2026-10-13",
    "category": "SDE"
   },
   {
@@ -2250,16 +2122,6 @@
    "title": "Digital Hardware Engineer 1",
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
-   "first_seen": "2026-10-07",
-   "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
    "first_seen": "2026-10-07",
    "posted": "2026-10-07",
    "category": "SDE"
@@ -4705,29 +4567,9 @@
   {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
-   "title": "Software Engineer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142893337",
-   "first_seen": "2026-10-14",
-   "posted": "2026-08-11",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
    "title": "Life Cycle Material Engineering Specialist",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000142898171",
-   "first_seen": "2026-10-14",
-   "posted": "2026-08-11",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Junior Hardware Engineering Developer ",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142894435",
    "first_seen": "2026-10-14",
    "posted": "2026-08-11",
    "category": "SDE"
