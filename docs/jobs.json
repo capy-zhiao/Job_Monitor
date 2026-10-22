@@ -1,22 +1,12 @@
 {
- "generated_at": "2026-10-22 00:56 UTC",
- "count": 656,
+ "generated_at": "2026-10-22 05:51 UTC",
+ "count": 629,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 176
  },
  "jobs": [
-  {
-   "company": "Rivian",
-   "logo": "logos/rivian.com.png",
-   "title": "Software Engineering Intern - Vehicle Controls - January - August 2027",
-   "location": "Vancouver, Canada",
-   "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
   {
    "company": "Quora",
    "logo": "logos/quora.com.png",
@@ -112,15 +102,6 @@
    "title": "Software Development Engineer",
    "location": "Seattle, WA",
    "url": "https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Steel",
-   "title": "Software Engineer Intern - Summer 2027",
-   "location": "Toronto, Canada",
-   "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c",
    "first_seen": "2026-10-21",
    "posted": "2026-10-21",
    "category": "SDE"
@@ -254,16 +235,6 @@
    "category": "SDE"
   },
   {
-   "company": "Capital One",
-   "logo": "logos/capitalone.com.png",
-   "title": "Associate - Software Engineer - New Grad Card Expansion",
-   "location": "Toronto, Canada",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
    "company": "CVS Health",
    "title": "Associate Software Development Engineer - Conversion",
    "location": "Remote - Connecticut, USA +25",
@@ -344,16 +315,6 @@
    "location": "Mountain View, CA",
    "url": "https://centrl.breezy.hr/p/8e53123f374a-junior-software-engineer-client-services",
    "first_seen": "2026-10-20",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer Embedded Systems I - Full Time - Canada",
-   "location": "Kanata, Canada +5",
-   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
-   "first_seen": "2026-10-13",
    "posted": "2026-10-21",
    "category": "SDE"
   },
@@ -751,25 +712,6 @@
   {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
-   "title": "Software Development Engineer - Early Career - 2027 - CAN",
-   "location": "Vancouver, Canada",
-   "url": "https://www.amazon.jobs/jobs/10583004/apply",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-18",
-   "category": "SDE"
-  },
-  {
-   "company": "Kepler Communications",
-   "title": "Software Engineering Intern - January 2027",
-   "location": "Toronto, Canada",
-   "url": "https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-17",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer - Early Career - 2027 - US",
    "location": "Seattle, WA",
    "url": "https://www.amazon.jobs/jobs/10583340/apply",
@@ -882,16 +824,6 @@
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/bHG6oKZGuj/EvTOC-Applications-Engineer",
    "first_seen": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Wavelogic Embedded Software Developer Intern - Winter 2027",
-   "location": "Ottawa, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
-   "first_seen": "2026-10-16",
-   "posted": "2026-10-16",
    "category": "SDE"
   },
   {
@@ -1112,15 +1044,6 @@
    "category": "SDE"
   },
   {
-   "company": "Pebl",
-   "title": "Software Engineering - Intern",
-   "location": "Toronto, Canada",
-   "url": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf",
-   "first_seen": "2026-10-14",
-   "posted": "2026-10-15",
-   "category": "SDE"
-  },
-  {
    "company": "Anthropic",
    "logo": "logos/anthropic.com.png",
    "title": "Anthropic STEM Fellow",
@@ -1217,16 +1140,6 @@
    "url": "https://ats.rippling.com/nesto/jobs/d9d5eb6d-68f2-4873-a9ea-010241a9099f",
    "first_seen": "2026-10-14",
    "category": "Other"
-  },
-  {
-   "company": "SECURE",
-   "logo": "logos/secure-energy.com.png",
-   "title": "Junior Software Developer",
-   "location": "Calgary, Canada",
-   "url": "https://careers-canada-secure.icims.com/jobs/2018/junior-software-developer/job",
-   "first_seen": "2026-10-14",
-   "posted": "2026-10-14",
-   "category": "SDE"
   },
   {
    "company": "PureFacts Financial Solutions",
@@ -1599,16 +1512,6 @@
    "category": "SDE"
   },
   {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "Formal Verification Engineer New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Formal-Verification-Engineer---New-College-Grad-2026_JR2007627",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Meta",
    "logo": "logos/meta.com.jpg",
    "title": "ASIC Engineer New Grad - Performance Architecture and Modeling",
@@ -1799,26 +1702,6 @@
    "category": "SDE"
   },
   {
-   "company": "Aptiv",
-   "logo": "logos/aptiv.com.png",
-   "title": "Software Engineering Intern",
-   "location": "Kanata, Canada",
-   "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Aptiv",
-   "logo": "logos/aptiv.com.png",
-   "title": "Cloud Software Engineer Intern",
-   "location": "Kanata, Canada",
-   "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Glia",
    "logo": "logos/glia.com.jpg",
    "title": "Associate, Client Engineer (Vancouver)",
@@ -1899,26 +1782,6 @@
    "category": "SDE"
   },
   {
-   "company": "ProCogia",
-   "logo": "logos/procogia.com.png",
-   "title": "DevOps & Cloud Platform Intern - December 2026 to April 2027",
-   "location": "Vancouver, Canada",
-   "url": "https://procogia.com/about-us/careers/?gh_jid=5448713008",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-10",
-   "category": "Other"
-  },
-  {
-   "company": "KEV Group",
-   "logo": "logos/kevgroup.com.png",
-   "title": "Junior Software Developer",
-   "location": "Toronto, Canada",
-   "url": "https://kevgroup.com/open-positions/?gh_jid=5259976007",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-10",
-   "category": "SDE"
-  },
-  {
    "company": "GlobalFoundries",
    "logo": "logos/gf.com.png",
    "title": "Software Engineer - 2027 New College Graduate",
@@ -1927,16 +1790,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-10-10",
    "category": "SDE"
-  },
-  {
-   "company": "CAE",
-   "logo": "logos/cae.com.png",
-   "title": "C-FIN-275 Software Engineering Intern - AI - Automation and Business Intelligence",
-   "location": "Montréal, Canada +1",
-   "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-10",
-   "category": "AI/ML"
   },
   {
    "company": "Becton Dickinson and Company",
@@ -2067,26 +1920,6 @@
    "category": "SDE"
   },
   {
-   "company": "CAE",
-   "logo": "logos/cae.com.png",
-   "title": "Junior Software Developer - System Integration Labs - North Shore",
-   "location": "Montréal, Canada +1",
-   "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-09",
-   "category": "SDE"
-  },
-  {
-   "company": "BDO",
-   "logo": "logos/bdo.com.png",
-   "title": "DevOps Engineer - New Grad - January 2027",
-   "location": "Toronto, Canada",
-   "url": "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/DevOps-Engineer---New-Grad--January-2027-_JR7194",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-09",
-   "category": "SDE"
-  },
-  {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
    "title": "Research Scientist New Grad - Conversational AI",
@@ -2177,26 +2010,6 @@
    "category": "SDE"
   },
   {
-   "company": "Genesys",
-   "logo": "logos/genesys.com.png",
-   "title": "Web Software Developer Intern - WFM",
-   "location": "Toronto, Canada",
-   "url": "https://genesys.wd1.myworkdayjobs.com/en-US/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-08",
-   "category": "SDE"
-  },
-  {
-   "company": "General Motors",
-   "logo": "logos/gm.com.png",
-   "title": "Early Career Software Test Developer - Propulsion Thermal Management",
-   "location": "Markham, Canada",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/Early-Career-Software-Test-Developer---Propulsion-Thermal-Management_JR-202621250",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-08",
-   "category": "SDE"
-  },
-  {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
    "title": "Security Specialist",
@@ -2212,16 +2025,6 @@
    "title": "Intern - Software Engineer, Winter 2027",
    "location": "Toronto",
    "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-08",
-   "category": "SDE"
-  },
-  {
-   "company": "Amplitude",
-   "logo": "logos/amplitude.com.png",
-   "title": "Software Engineer I",
-   "location": "Vancouver, Canada",
-   "url": "https://jobs.ashbyhq.com/amplitude/a89d698b-f340-42a4-b8a6-81113c75fdce",
    "first_seen": "2026-10-13",
    "posted": "2026-10-08",
    "category": "SDE"
@@ -2323,16 +2126,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-10-07",
    "category": "AI/ML"
-  },
-  {
-   "company": "Coveo",
-   "logo": "logos/coveo.com.png",
-   "title": "Software Developer Intern - Solutions Engineering Core Team - Winter 2027",
-   "location": "Montréal, Canada",
-   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-07",
-   "category": "SDE"
   },
   {
    "company": "Visa",
@@ -2653,16 +2446,6 @@
    "category": "SDE"
   },
   {
-   "company": "Fellow Insights",
-   "logo": "logos/fellow.app.jpg",
-   "title": "Software Engineer - New Grad - 2026-2027",
-   "location": "Ottawa, Canada",
-   "url": "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa",
-   "first_seen": "2026-10-14",
-   "posted": "2026-10-04",
-   "category": "SDE"
-  },
-  {
    "company": "Snap",
    "logo": "logos/snap.com.png",
    "title": "Software Engineer - Level 3",
@@ -2678,16 +2461,6 @@
    "title": "University Grad Software Engineer 2027 - USA",
    "location": "Remote - San Francisco, CA",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Marvell",
-   "logo": "logos/marvell.com.png",
-   "title": "Firmware Engineer Intern - Winter 2027",
-   "location": "Ottawa, Canada",
-   "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
    "first_seen": "2026-10-13",
    "posted": "2026-10-03",
    "category": "SDE"
@@ -2728,16 +2501,6 @@
    "title": "Implementation Specialist (Software)",
    "location": "Remote; Canada; Philippines; India",
    "url": "https://apply.workable.com/valsoft-corp/j/ECE9AA69BB/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "PolicyMe",
-   "logo": "logos/policyme.com.png",
-   "title": "Junior Software Engineer - Remote",
-   "location": "Canada",
-   "url": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694",
    "first_seen": "2026-10-13",
    "posted": "2026-10-02",
    "category": "SDE"
@@ -2979,16 +2742,6 @@
    "category": "Other"
   },
   {
-   "company": "Coveo",
-   "logo": "logos/coveo.com.png",
-   "title": "Frontend Developer Intern - Winter 2027",
-   "location": "Montréal, Canada",
-   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
-   "first_seen": "2026-10-20",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
    "company": "Arctic Wolf",
    "logo": "logos/arcticwolf.com.png",
    "title": "Professional Services Engineer 1",
@@ -3004,36 +2757,6 @@
    "title": "Full Stack Developer",
    "location": "Remote; Ontario, Canada; British Columbia, Canada; Alberta, Canada; Nova Scotia, Canada; New Brunswick, Canada; Saskatchewan, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/23BE5BB9A0/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Coveo",
-   "logo": "logos/coveo.com.png",
-   "title": "Stagiaire en développement d’applications frontales - frontend - hiver 2027",
-   "location": "Montréal, Canada",
-   "url": "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8853984002",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Coveo",
-   "logo": "logos/coveo.com.png",
-   "title": "Stagiaire en développement d’applications frontales - frontend - hiver 2027",
-   "location": "Montréal, Canada +1",
-   "url": "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Coveo",
-   "logo": "logos/coveo.com.png",
-   "title": "Frontend Developer Intern - Winter 2027",
-   "location": "Montréal, Canada +1",
-   "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
    "first_seen": "2026-10-13",
    "posted": "2026-09-30",
    "category": "SDE"
@@ -3652,6 +3375,15 @@
    "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
    "first_seen": "2026-09-28",
    "posted": "2026-09-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON/600354317/",
+   "first_seen": "2026-09-23",
    "category": "SDE"
   },
   {

@@ -391,12 +391,12 @@
   "last_ok": "2026-10-22"
  },
  "Microsoft": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-22"
  },
  "Microsoft (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-22"
  },
@@ -543,7 +543,7 @@
   "last_ok": "2026-10-22"
  },
  "SAP": {
-  "fail_runs": 14,
+  "fail_runs": 15,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -588,7 +588,8 @@
   "last_ok": "2026-10-22"
  },
  "SpeedyApply 2027 Lists (International)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "HTTP Error 503: between bytes timeout",
   "last_ok": "2026-10-22"
  },
  "SpeedyApply 2027 Lists (USA)": {
