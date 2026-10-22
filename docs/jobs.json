@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-10-22 19:58 UTC",
- "count": 664,
+ "generated_at": "2026-10-22 23:12 UTC",
+ "count": 671,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
+  {
+   "company": "SpaceX",
+   "title": "Software Engineer, Linux Kernel - Linux Kernel",
+   "location": "Bellevue, WA",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8852121002",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "SpaceX",
+   "title": "Software Engineer - Linux Kernel - Starlink",
+   "location": "Redmond, WA",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8852114002",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
   {
    "company": "Pogo",
    "logo": "logos/joinpogo.com.png",
@@ -23,6 +41,16 @@
    "title": "Full Stack Engineer",
    "location": "United States/Canada",
    "url": "https://jobs.ashbyhq.com/joinpogo/f59f501c-a1d9-4fdf-bbb5-e39a36255e43",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "Palantir",
+   "logo": "logos/palantir.com.png",
+   "title": "Forward Deployed Software Engineer New Grad",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply",
    "first_seen": "2026-10-22",
    "posted": "2026-10-22",
    "category": "SDE"
@@ -48,6 +76,15 @@
    "category": "SDE"
   },
   {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Forward Deployed Engineer",
+   "location": "US-Remote; CA-Remote, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35590/forward-deployed-engineer-ii---can/job",
+   "first_seen": "2026-10-22",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "IT Product Engineer - HRIS",
@@ -68,6 +105,16 @@
    "category": "SDE"
   },
   {
+   "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
+   "title": "Embedded Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24745",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "Software Developer Intern - Winter 2027",
@@ -76,6 +123,34 @@
    "first_seen": "2026-10-22",
    "posted": "2026-10-22",
    "category": "SDE"
+  },
+  {
+   "company": "Canadian Bank Note",
+   "logo": "logos/cbnco.com.png",
+   "title": "Security Systems Technician",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000157231139",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "Security"
+  },
+  {
+   "company": "CDK Global",
+   "title": "Associate Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9204",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "Aon",
+   "title": "Client Consulting New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://jobs.aon.com/jobs/106872?icims=1",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "Other"
   },
   {
    "company": "Amazon",
@@ -2700,6 +2775,16 @@
    "category": "AI/ML"
   },
   {
+   "company": "OpenText",
+   "logo": "logos/opentext.com.png",
+   "title": "Software Developer- RPA / UiPath Specialist",
+   "location": "Mississauga, Ontario, CAN, L5K 2N6",
+   "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53810EXTERNALENUS",
+   "first_seen": "2026-10-06",
+   "posted": "2026-10-06",
+   "category": "SDE"
+  },
+  {
    "company": "ID.me",
    "logo": "logos/id.me.png",
    "title": "Software Engineer 2 New Grad - Developer Portal",
@@ -3838,15 +3923,6 @@
    "category": "SDE"
   },
   {
-   "company": "Authentic",
-   "title": "Software Engineer New Grad",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-22",
-   "category": "SDE"
-  },
-  {
    "company": "Fortinet",
    "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
@@ -4577,16 +4653,6 @@
    "title": "Spécialiste en tests logiciels / Software Test Specialist - Mobile & Web Apps",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/F8319FF65B/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-01",
-   "category": "SDE"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Spécialiste en tests logiciel / Software Test Specialist - SC QA Domains",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/1F47F022FE/",
    "first_seen": "2026-10-13",
    "posted": "2026-09-01",
    "category": "SDE"
