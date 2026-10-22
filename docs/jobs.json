@@ -1,12 +1,42 @@
 {
- "generated_at": "2026-10-22 11:22 UTC",
- "count": 657,
+ "generated_at": "2026-10-22 15:59 UTC",
+ "count": 659,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "GTM Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/f1ce7a4b-ad61-48d7-afc7-0088da404b81",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/f59f501c-a1d9-4fdf-bbb5-e39a36255e43",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "System Engineering - Platforms",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000157178880",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
   {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
@@ -16,6 +46,66 @@
    "first_seen": "2026-10-22",
    "posted": "2026-10-22",
    "category": "AI/ML"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Security Intern, Threat Operations - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "Security"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Developer Intern, Vault Team - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Developer Intern, Provisioning - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Developer Intern, Machine Identity - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Developer Intern, Front-End Platform - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Developer Intern, Data Security - Winter 2027",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "Security"
   },
   {
    "company": "Rivian",
@@ -54,6 +144,16 @@
    "location": "Sunnyvale, CA",
    "url": "https://jobs.smartrecruiters.com/Intuitive/744000156656129-full-stack-software-engineer?oga=true",
    "first_seen": "2026-10-21",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
+   "title": "Associate, Software Engineer, New Grad Card Expansion",
+   "location": "Toronto, ON",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+   "first_seen": "2026-10-02",
    "posted": "2026-10-22",
    "category": "SDE"
   },
@@ -130,26 +230,6 @@
    "title": "Software Engineer - Rhoda Platform",
    "location": "Mountain View, CA",
    "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "GTM Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/3ef551df-1502-4066-8141-0894249febbc",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/3f915b88-32c3-4045-a731-e185ce6c2eb9",
    "first_seen": "2026-10-21",
    "posted": "2026-10-21",
    "category": "SDE"
@@ -329,6 +409,16 @@
    "category": "SDE"
   },
   {
+   "company": "Geotab",
+   "logo": "logos/geotab.com.png",
+   "title": "Software Developer",
+   "location": "Toronto, Canada +1",
+   "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008",
+   "first_seen": "2026-10-20",
+   "posted": "2026-10-21",
+   "category": "SDE"
+  },
+  {
    "company": "CENTRL",
    "title": "Junior Software Engineer - Client Services",
    "location": "Mountain View, CA",
@@ -491,16 +581,6 @@
    "location": "CA-ON-Ottawa, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job",
    "first_seen": "2026-10-20",
-   "category": "SDE"
-  },
-  {
-   "company": "Geotab",
-   "logo": "logos/geotab.com.png",
-   "title": "Software Developer",
-   "location": "Oakville, Ontario - Canada",
-   "url": "https://job-boards.greenhouse.io/geotab/jobs/5418735008",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-20",
    "category": "SDE"
   },
   {
@@ -2583,15 +2663,6 @@
    "category": "Research"
   },
   {
-   "company": "Google",
-   "logo": "logos/google.com.png",
-   "title": "Software Developer, Google Chat iOS",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214-software-developer-google-chat-ios",
-   "first_seen": "2026-10-06",
-   "category": "SDE"
-  },
-  {
    "company": "Aurora Innovation",
    "logo": "logos/aurora.tech.png",
    "title": "Applied Researcher",
@@ -3160,16 +3231,6 @@
   {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
-   "title": "System Engineering - Platforms",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000152232609",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
    "title": "Quality Engineering Specialist ",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000152229620",
@@ -3658,15 +3719,6 @@
    "title": "Software Engineer",
    "location": "Toronto, ON, CA",
    "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON/600354317/",
-   "first_seen": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Google",
-   "logo": "logos/google.com.png",
-   "title": "Software Developer, iOS, Glasses System UI",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598-software-developer-ios-glasses-system-ui",
    "first_seen": "2026-09-23",
    "category": "SDE"
   },
@@ -4231,16 +4283,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-09-10",
    "category": "Other"
-  },
-  {
-   "company": "Miovision",
-   "logo": "logos/miovision.com.png",
-   "title": "Software Developer, Device Platform",
-   "location": "Kitchener",
-   "url": "https://jobs.ashbyhq.com/miovision/daac9fa8-0aac-4e06-8e0b-3ff327feb928",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-10",
-   "category": "SDE"
   },
   {
    "company": "Tailscale",
@@ -5790,16 +5832,6 @@
    "category": "SDE"
   },
   {
-   "company": "DRW",
-   "logo": "logos/drw.com.png",
-   "title": "AI Full Stack Software Developer",
-   "location": "Montreal",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/7759802",
-   "first_seen": "2026-10-13",
-   "posted": "2026-04-01",
-   "category": "SDE"
-  },
-  {
    "company": "Feathery",
    "logo": "logos/feathery.io.png",
    "title": "Solutions Engineer",
@@ -5847,16 +5879,6 @@
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22517",
    "first_seen": "2026-09-01",
    "posted": "2026-03-30",
-   "category": "SDE"
-  },
-  {
-   "company": "DRW",
-   "logo": "logos/drw.com.png",
-   "title": "Data Developer",
-   "location": "Montreal",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/7736803",
-   "first_seen": "2026-10-13",
-   "posted": "2026-03-23",
    "category": "SDE"
   },
   {
