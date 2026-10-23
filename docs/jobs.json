@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23 17:10 UTC",
- "count": 698,
+ "generated_at": "2026-10-23 20:28 UTC",
+ "count": 702,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -8,11 +8,60 @@
  },
  "jobs": [
   {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Web Developer",
+   "location": "Quebec City, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000157563150",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Web Developer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000157563224",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Développeuse, développeur Web",
+   "location": "Quebec City, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000157563799",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "Other"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Développeuse, développeur Web",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000157561390",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "Other"
+  },
+  {
    "company": "TD",
    "logo": "logos/td.com.png",
    "title": "Engineer I",
    "location": "Toronto, Ontario",
    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Shield AI",
+   "title": "Software Engineer 1 New Grad",
+   "location": "Seattle, WA",
+   "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "SDE"
@@ -117,6 +166,16 @@
    "category": "SDE"
   },
   {
+   "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
+   "title": "Embedded Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24758",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
    "company": "Coinbase",
    "logo": "logos/coinbase.com.png",
    "title": "Offensive Security Engineer, AI ",
@@ -143,6 +202,16 @@
    "url": "https://binsentry.bamboohr.com/careers/323",
    "first_seen": "2026-10-23",
    "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Applied Scientist, Amazon Canada Technology, Amazon Canada",
+   "location": "CA, BC, Vancouver",
+   "url": "https://www.amazon.jobs/en/jobs/10587976/applied-scientist-amazon-canada-technology-amazon-canada",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -251,6 +320,16 @@
    "location": "Remote (United States | Canada)",
    "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
    "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Capital One",
+   "logo": "logos/capitalone.com.png",
+   "title": "Associate Software Engineer, Card Expansion",
+   "location": "Toronto, Canada",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+   "first_seen": "2026-10-21",
    "posted": "2026-10-23",
    "category": "SDE"
   },
@@ -585,16 +664,6 @@
    "category": "Security"
   },
   {
-   "company": "Capital One",
-   "logo": "logos/capitalone.com.png",
-   "title": "Associate - Software Engineer - New Grad Card Expansion",
-   "location": "Toronto, Canada",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
    "company": "Scopely",
    "title": "Software Engineer, Machine Learning (Master's)",
    "location": "San Francisco, CA",
@@ -639,16 +708,6 @@
    "title": "Software Engineer",
    "location": "Palo Alto, CA +1",
    "url": "https://ca-careers-rivian.icims.com/jobs/34249/software-engineer/job",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Microchip Technology",
-   "logo": "logos/microchip.com.png",
-   "title": "Test Engineer 1 - Test",
-   "location": "San Jose, CA",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---Holger/Engineer-I---Test_R4495-26-1",
    "first_seen": "2026-10-22",
    "posted": "2026-10-21",
    "category": "SDE"
@@ -1861,27 +1920,18 @@
   {
    "company": "Kinaxis",
    "logo": "logos/kinaxis.com.png",
-   "title": "Intern Developer, Back End Technologies",
+   "title": "Intern, Full Stack Developer (C#)",
    "location": "CA-ON-Ottawa, Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job",
+   "url": "https://careers-kinaxis.icims.com/jobs/35343/intern%2c-full-stack-developer-%28c%23%29/job",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
   {
    "company": "Kinaxis",
    "logo": "logos/kinaxis.com.png",
-   "title": "Intern Developer, AI Solutions",
+   "title": "Intern Developer, Back End Technologies",
    "location": "CA-ON-Ottawa, Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job",
-   "first_seen": "2026-10-14",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Kinaxis",
-   "logo": "logos/kinaxis.com.png",
-   "title": "Curriculum Developer - 12 Month Contract",
-   "location": "CA-Remote, Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/35306/curriculum-developer---12-month-contract/job",
+   "url": "https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -4167,6 +4217,15 @@
    "category": "AI/ML"
   },
   {
+   "company": "AMD",
+   "logo": "logos/amd.com.png",
+   "title": "Software Development Engineer (Chip Product Security)",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/92300",
+   "first_seen": "2026-09-23",
+   "category": "Security"
+  },
+  {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Dynamics / Power Platform",
@@ -4232,16 +4291,6 @@
    "title": "Embedded Software Engineer - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-22",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Developer (New Grad)",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer--New-Grad-_R031481",
    "first_seen": "2026-09-23",
    "posted": "2026-09-22",
    "category": "SDE"
@@ -5248,16 +5297,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-08-10",
    "category": "Research"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) logiciel / Software Developer - Clearance",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/ED58D548F4/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-08-07",
-   "category": "SDE"
   },
   {
    "company": "Feathery",
