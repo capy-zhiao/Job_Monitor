@@ -1,12 +1,120 @@
 {
- "generated_at": "2026-10-23 01:33 UTC",
- "count": 674,
+ "generated_at": "2026-10-23 06:31 UTC",
+ "count": 684,
  "stats": {
   "sources": 180,
   "ats": 27,
   "responded": 177
  },
  "jobs": [
+  {
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "BinSentry",
+   "logo": "logos/binsentry.com.png",
+   "title": "Mechanical Design Engineer",
+   "location": "Kitchener, Ontario",
+   "url": "https://binsentry.bamboohr.com/careers/322",
+   "first_seen": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "BinSentry",
+   "logo": "logos/binsentry.com.png",
+   "title": "Electronics Engineer",
+   "location": "Kitchener, Ontario",
+   "url": "https://binsentry.bamboohr.com/careers/323",
+   "first_seen": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+   "location": "Seattle, WA; Austin, TX; NYC; Cupertino, CA",
+   "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+   "location": "Seattle, WA; NYC; Sunnyvale, CA",
+   "url": "https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Development Engineer - Embedded Systems",
+   "location": "Seattle, WA; Austin, TX; Redmond, WA; Santa Clara, CA; Northridge, LA; Hudson, MA; Cupertino, CA; Sunnyvale, CA; Herndon, VA",
+   "url": "https://amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Data Engineer Early Career",
+   "location": "Toronto, ON, Canada",
+   "url": "https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Cloud Hardware Development Engineer – Early Career",
+   "location": "Seattle, WA; Cupertino, CA",
+   "url": "https://amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "ASIC Formal Verification Engineer 1",
+   "location": "Austin, TX; Cupertino, CA",
+   "url": "https://amazon.jobs/en/jobs/10586351/asic-formal-verification-engineer-i-annapurna-labs",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "ASIC Engineer Early Career",
+   "location": "Redmond, WA; Cupertino, CA; San Diego, CA",
+   "url": "https://amazon.jobs/en/jobs/10576621/asic-engineer-early-career-2027-project-leo",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
   {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
@@ -2081,24 +2189,6 @@
    "category": "SDE"
   },
   {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Mechanical Design Engineer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/297",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Electronics Engineer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/296",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Astera Labs",
    "logo": "logos/asteralabs.com.png",
    "title": "Digital Design Engineer New Grad",
@@ -2725,6 +2815,16 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
+   "first_seen": "2026-10-07",
+   "posted": "2026-10-07",
+   "category": "SDE"
+  },
+  {
    "company": "Snap",
    "logo": "logos/snap.com.png",
    "title": "Software Engineer, Android, Level 4",
@@ -2991,16 +3091,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-10-03",
    "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist - Issue Management Governance and Reporting",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Issue-Management-Governance-and-Reporting_R_1512607",
-   "first_seen": "2026-10-02",
-   "posted": "2026-10-03",
-   "category": "Security"
   },
   {
    "company": "Harvey",
@@ -3792,6 +3882,15 @@
    "first_seen": "2026-09-28",
    "posted": "2026-09-24",
    "category": "AI/ML"
+  },
+  {
+   "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
+   "title": "Software Engineer-\tGlobal Payments Engineering",
+   "location": "Toronto, ON, CA, M1L4S2",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/",
+   "first_seen": "2026-09-24",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
