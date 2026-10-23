@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-23 20:28 UTC",
- "count": 702,
+ "generated_at": "2026-10-23 23:23 UTC",
+ "count": 706,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 177
  },
  "jobs": [
   {
@@ -62,6 +62,16 @@
    "title": "Software Engineer 1 New Grad",
    "location": "Seattle, WA",
    "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "ServiceNow",
+   "logo": "logos/servicenow.com.png",
+   "title": "Associate Software Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "SDE"
@@ -146,6 +156,16 @@
    "category": "SDE"
   },
   {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045536",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "Researcher - AI Agents & Knowledge Graphs",
@@ -176,6 +196,15 @@
    "category": "SDE"
   },
   {
+   "company": "DraftKings",
+   "title": "Software Engineer",
+   "location": "Remote in Canada",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
    "company": "Coinbase",
    "logo": "logos/coinbase.com.png",
    "title": "Offensive Security Engineer, AI ",
@@ -184,6 +213,34 @@
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "Security"
+  },
+  {
+   "company": "Citi",
+   "title": "Application Development Analyst New Grad",
+   "location": "Jersey City, NJ; NYC",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004399-1",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "Other"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Hardware Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031914",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "Research Scientist New Grad - Video and Edge - Multimedia Lab",
+   "location": "San Jose, CA",
+   "url": "https://jobs.bytedance.com/en/position/7670374385110599989/detail",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
+   "category": "Research"
   },
   {
    "company": "BinSentry",
@@ -201,6 +258,16 @@
    "location": "Kitchener, Ontario",
    "url": "https://binsentry.bamboohr.com/careers/323",
    "first_seen": "2026-10-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Asana",
+   "logo": "logos/asana.com.png",
+   "title": "Software Engineer, AI",
+   "location": "Vancouver, BC",
+   "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
+   "first_seen": "2026-10-23",
+   "posted": "2026-10-23",
    "category": "SDE"
   },
   {
@@ -1410,16 +1477,6 @@
    "location": "Vancouver, Canada",
    "url": "https://www.amazon.jobs/jobs/10583004/apply",
    "first_seen": "2026-10-20",
-   "posted": "2026-10-17",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Systems Development Engineer – Early Career",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
-   "first_seen": "2026-10-17",
    "posted": "2026-10-17",
    "category": "SDE"
   },
@@ -3912,6 +3969,26 @@
    "category": "SDE"
   },
   {
+   "company": "SeatGeek",
+   "logo": "logos/seatgeek.com.png",
+   "title": "Software Engineer - New Grad",
+   "location": "New York City, NY",
+   "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+   "first_seen": "2026-10-13",
+   "posted": "2026-09-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Scale AI",
+   "logo": "logos/scale.com.png",
+   "title": "Software Engineer - Public Sector - New Grad",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+   "first_seen": "2026-10-13",
+   "posted": "2026-09-24",
+   "category": "SDE"
+  },
+  {
    "company": "Salesforce",
    "logo": "logos/salesforce.com.png",
    "title": "Software Engineering AMTS - College Grad",
@@ -4125,46 +4202,6 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704714006",
    "first_seen": "2026-10-13",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "SeatGeek",
-   "logo": "logos/seatgeek.com.png",
-   "title": "Software Engineer New Grad",
-   "location": "NYC",
-   "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Scale AI",
-   "logo": "logos/scale.com.png",
-   "title": "Software Engineer New Grad - Public Sector",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Qumulo",
-   "logo": "logos/qumulo.com.png",
-   "title": "Software Development Engineer New Grad",
-   "location": "Seattle, WA",
-   "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Commure",
-   "logo": "logos/commure.com.png",
-   "title": "Software Engineer - Scribe AI",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
-   "first_seen": "2026-09-28",
    "posted": "2026-09-23",
    "category": "SDE"
   },
