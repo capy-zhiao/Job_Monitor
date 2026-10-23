@@ -622,5 +622,17 @@
 "AI/ML": 66,
 "Research": 39
 }
+},
+{
+"date": "2026-10-23",
+"total": 674,
+"ca": 467,
+"by": {
+"SDE": 487,
+"AI/ML": 67,
+"Security": 44,
+"Other": 37,
+"Research": 39
+}
 }
 ]
