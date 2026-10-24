@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-24 18:23 UTC",
- "count": 696,
+ "generated_at": "2026-10-24 21:05 UTC",
+ "count": 693,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
   {
@@ -3295,16 +3295,6 @@
    "category": "SDE"
   },
   {
-   "company": "Atlassian",
-   "logo": "logos/atlassian.com.png",
-   "title": "Data Engineer New Grad",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job",
-   "first_seen": "2026-10-06",
-   "posted": "2026-10-05",
-   "category": "SDE"
-  },
-  {
    "company": "Fellow Insights",
    "logo": "logos/fellow.app.jpg",
    "title": "Software Engineer - New Grad - 2026-2027",
@@ -3460,16 +3450,6 @@
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Associate-Embedded-Software-Engineer_R39949",
    "first_seen": "2026-10-13",
-   "posted": "2026-10-01",
-   "category": "SDE"
-  },
-  {
-   "company": "RoviSys",
-   "logo": "logos/rovisys.com.png",
-   "title": "Software Engineer/Developer",
-   "location": "Thousand Oaks, CA",
-   "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-10-04",
    "posted": "2026-10-01",
    "category": "SDE"
   },
@@ -4055,16 +4035,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-09-24",
    "category": "SDE"
-  },
-  {
-   "company": "Atlassian",
-   "logo": "logos/atlassian.com.png",
-   "title": "Machine Learning Engineer - 2027 Graduate",
-   "location": "Seattle, WA",
-   "url": "https://campus-americas.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
-   "first_seen": "2026-09-28",
-   "posted": "2026-09-24",
-   "category": "AI/ML"
   },
   {
    "company": "Scotiabank",
