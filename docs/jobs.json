@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24 21:05 UTC",
- "count": 693,
+ "generated_at": "2026-10-24 23:17 UTC",
+ "count": 692,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -3869,6 +3869,16 @@
    "category": "SDE"
   },
   {
+   "company": "Astranis Space Technologies",
+   "logo": "logos/astranis.com.png",
+   "title": "Software Developer - Network Software Associate - Summer 2027",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
+   "first_seen": "2026-10-13",
+   "posted": "2026-09-25",
+   "category": "SDE"
+  },
+  {
    "company": "Neuralink",
    "logo": "logos/neuralink.com.png",
    "title": "Software Engineer - Simulation",
@@ -3897,15 +3907,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-09-25",
    "category": "SDE"
-  },
-  {
-   "company": "Shield AI",
-   "title": "PCB Designer New Grad",
-   "location": "Seattle, WA",
-   "url": "https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f/apply",
-   "first_seen": "2026-10-22",
-   "posted": "2026-09-24",
-   "category": "Other"
   },
   {
    "company": "HH Global",
@@ -4012,16 +4013,6 @@
    "title": "Software Defined Radio Hardware Associate - Summer 2027",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-24",
-   "category": "SDE"
-  },
-  {
-   "company": "Astranis",
-   "logo": "logos/astranis.com.png",
-   "title": "Software Developer Associate - Network Software",
-   "location": "SF",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
    "first_seen": "2026-10-13",
    "posted": "2026-09-24",
    "category": "SDE"
