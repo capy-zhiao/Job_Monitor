@@ -637,13 +637,13 @@
 },
 {
 "date": "2026-10-24",
-"total": 703,
-"ca": 485,
+"total": 683,
+"ca": 464,
 "by": {
-"SDE": 510,
-"AI/ML": 67,
-"Other": 41,
-"Security": 45,
+"SDE": 497,
+"Other": 42,
+"AI/ML": 64,
+"Security": 40,
 "Research": 40
 }
 }

@@ -60,7 +60,8 @@
   "last_ok": "2026-10-24"
  },
  "Arctic Wolf": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Asana": {
@@ -68,7 +69,8 @@
   "last_ok": "2026-10-24"
  },
  "Autodesk": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Auvik": {
@@ -76,7 +78,8 @@
   "last_ok": "2026-10-24"
  },
  "BMO": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "BinSentry": {
@@ -85,11 +88,13 @@
   "last_ok": "2026-10-24"
  },
  "BlackBerry": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "BlackBerry (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Borealis AI (RBC)": {
@@ -97,7 +102,8 @@
   "last_ok": "2026-10-24"
  },
  "CIBC": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Calico": {
@@ -129,7 +135,8 @@
   "last_ok": "2026-10-24"
  },
  "Ciena": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Cisco": {
@@ -161,7 +168,8 @@
   "last_ok": "2026-10-24"
  },
  "CrowdStrike": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Cursor": {
@@ -327,12 +335,14 @@
  },
  "Intel": {
   "empty_since": "2026-10-20",
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24",
   "reported_empty": true
  },
  "Interac": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Intrinsic": {
@@ -376,7 +386,8 @@
   "last_ok": "2026-10-24"
  },
  "Mastercard": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Maya HTT": {
@@ -422,7 +433,8 @@
   "last_ok": "2026-10-24"
  },
  "NVIDIA": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Nascent": {
@@ -545,7 +557,7 @@
   "last_ok": "2026-10-24"
  },
  "SAP": {
-  "fail_runs": 26,
+  "fail_runs": 27,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -578,7 +590,8 @@
   "last_ok": "2026-10-24"
  },
  "Snap": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Snowflake": {
@@ -615,11 +628,13 @@
   "last_ok": "2026-10-24"
  },
  "TD": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "TD (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Tailscale": {
@@ -631,7 +646,8 @@
   "last_ok": "2026-10-24"
  },
  "Thomson Reuters": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Together AI": {
@@ -639,7 +655,8 @@
   "last_ok": "2026-10-24"
  },
  "Trend Micro": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-24"
  },
  "Uber": {

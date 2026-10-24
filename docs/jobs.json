@@ -1,12 +1,22 @@
 {
- "generated_at": "2026-10-24 01:51 UTC",
- "count": 703,
+ "generated_at": "2026-10-24 06:58 UTC",
+ "count": 683,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 162
  },
  "jobs": [
+  {
+   "company": "ServiceNow",
+   "logo": "logos/servicenow.com.png",
+   "title": "Associate Software Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157570319",
+   "first_seen": "2026-10-24",
+   "posted": "2026-10-24",
+   "category": "SDE"
+  },
   {
    "company": "Oracle",
    "title": "Electrical Engineer 1",
@@ -17,14 +27,13 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517534",
-   "first_seen": "2026-10-23",
+   "company": "Citi",
+   "title": "New Grad 2027: Technology, Production Support Analyst",
+   "location": "New York, NY",
+   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Full-Time-Analyst--New-York-or-New-Jersey---USA--2027_261004420-1",
+   "first_seen": "2026-10-24",
    "posted": "2026-10-24",
-   "category": "SDE"
+   "category": "Other"
   },
   {
    "company": "Rivian",
@@ -104,16 +113,6 @@
    "first_seen": "2026-10-02",
    "posted": "2026-10-24",
    "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "AI2 Applied Machine Learning Scientist (Graduate)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
-   "first_seen": "2026-09-08",
-   "posted": "2026-10-24",
-   "category": "AI/ML"
   },
   {
    "company": "Yext",
@@ -472,16 +471,6 @@
    "location": "Remote (United States | Canada)",
    "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
    "first_seen": "2026-10-23",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Software Developer Intern - Winter 2027",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
-   "first_seen": "2026-10-22",
    "posted": "2026-10-23",
    "category": "SDE"
   },
@@ -858,16 +847,6 @@
    "category": "SDE"
   },
   {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
-   "first_seen": "2026-09-01",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
    "company": "Twitch",
    "logo": "logos/twitch.tv.png",
    "title": "Software Engineer 1",
@@ -1051,16 +1030,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist (Vulnerability Management Data Insights & Reporting  )",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Vulnerability-Management-Data-Insights---Reporting---_R_1514694",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-21",
-   "category": "Security"
-  },
-  {
    "company": "CENTRL",
    "title": "Junior Software Engineer - Client Services",
    "location": "Mountain View, CA",
@@ -1076,16 +1045,6 @@
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
    "first_seen": "2026-10-04",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
-   "first_seen": "2026-09-01",
    "posted": "2026-10-21",
    "category": "SDE"
   },
@@ -1264,36 +1223,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Guidewire Software Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Guidewire-Software-Engineer-I_R_1517063-1",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-20",
-   "category": "SDE"
-  },
-  {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "Software Developer - (Automations/ AI /Dev Ops)",
-   "location": "Mississauga, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-20",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Wavelogic Embedded Software Developer Intern (Winter 2027)",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890",
-   "first_seen": "2026-10-15",
-   "posted": "2026-10-20",
-   "category": "SDE"
-  },
-  {
    "company": "1Password",
    "logo": "logos/1password.com.png",
    "title": "Junior Security Engineer",
@@ -1439,16 +1368,6 @@
    "first_seen": "2026-10-19",
    "posted": "2026-10-19",
    "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist",
-   "location": "Toronto, Ontario; Mississauga, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist_R_1513259",
-   "first_seen": "2026-10-08",
-   "posted": "2026-10-19",
-   "category": "Security"
   },
   {
    "company": "Abnormal Security",
@@ -2661,16 +2580,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist - Risk Management Transformation",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Risk-Management-Transformation_R_1513513",
-   "first_seen": "2026-10-09",
-   "posted": "2026-10-10",
-   "category": "Security"
-  },
-  {
    "company": "Anthropic",
    "logo": "logos/anthropic.com.png",
    "title": "Conceptual Reasoning Fellow",
@@ -3074,16 +2983,6 @@
    "location": "Austin, TX",
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
    "first_seen": "2026-10-07",
-   "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, Android, Level 4",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
-   "first_seen": "2026-10-06",
    "posted": "2026-10-07",
    "category": "SDE"
   },
@@ -3544,16 +3443,6 @@
    "category": "SDE"
   },
   {
-   "company": "Emerson Electric",
-   "logo": "logos/emerson.com.png",
-   "title": "Software Engineer - AI Enablement & Engineering Productivity",
-   "location": "Austin, TX",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
-   "first_seen": "2026-10-01",
-   "posted": "2026-10-01",
-   "category": "AI/ML"
-  },
-  {
    "company": "ByteDance",
    "title": "Software Engineer Graduate",
    "location": "San Jose, CA",
@@ -3597,16 +3486,6 @@
    "title": "Frontend Developer Intern - Winter 2027",
    "location": "Montréal, Canada",
    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
-   "first_seen": "2026-10-20",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Arctic Wolf",
-   "logo": "logos/arcticwolf.com.png",
-   "title": "Professional Services Engineer 1",
-   "location": "Waterloo, ON, CAN; Eden Prairie, MN, USA; San Antonio, TX, USA",
-   "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Waterloo-ON-CAN/Professional-Services-Engineer-1_R26_1068",
    "first_seen": "2026-10-20",
    "posted": "2026-09-30",
    "category": "SDE"
@@ -3668,16 +3547,6 @@
    "location": "Toronto, Vancouver, Canada-Remote",
    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
    "first_seen": "2026-09-30",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Interac",
-   "logo": "logos/interac.ca.png",
-   "title": "Software Developer",
-   "location": "Toronto",
-   "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer_REQ-2373",
-   "first_seen": "2026-09-29",
    "posted": "2026-09-30",
    "category": "SDE"
   },
@@ -4213,56 +4082,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Test Tools & Automation Full Stack Software Engineer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Test-Tools---Automation-Full-Stack-Software-Engineer_R030305",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "SVT/PV Engineer 1 - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Experienced Photonic Card Software Developer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded software engineer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "Applied Scientist, Alexa Connections",
@@ -4289,26 +4108,6 @@
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92300",
    "first_seen": "2026-09-23",
-   "category": "Security"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist (Security Posture Insights, Reporting and Remediation)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Security-Posture-Insights--Reporting-and-Remediation-_R_1507913",
-   "first_seen": "2026-09-01",
-   "posted": "2026-09-23",
-   "category": "Security"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist ( Attack Surface Reduction)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Attack-Surface-Reduction-_R_1502609",
-   "first_seen": "2026-09-01",
-   "posted": "2026-09-23",
    "category": "Security"
   },
   {
