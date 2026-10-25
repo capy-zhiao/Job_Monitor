@@ -22,7 +22,10 @@
      and grey is the pale green family (sage, pale green, pale lime), used for the masthead rule,
      the day headings and their rules, links, the "new" label and the hover bar on each
      row. Motion: the masthead rule draws in and its colours drift slowly, rows rise in
-     on first load, a gradient bar grows beside the hovered row. */
+     on first load, a gradient bar grows beside the hovered row. Engineer's touches, all in
+     IBM Plex Mono and the same green: a shell prompt above the title that echoes the
+     current filters as command flags, a "last run" status block like a CI summary, and
+     monospaced day headings. */
   :root {
     --bg: #f6f4ef; --surface: #fbfaf7; --hover: #efece5;
     --border: #e2ded5; --border-strong: #c9c4b8;
@@ -55,6 +58,7 @@
   .mast-row { display: flex; align-items: baseline; gap: 18px; padding-top: 20px; padding-bottom: 12px; }
   .brand { font: 500 14px/1 "IBM Plex Mono", ui-monospace, monospace; color: var(--fg-strong); letter-spacing: -.01em; }
   .brand:hover { text-decoration: none; }
+  .prompt { color: var(--accent); }
   .mast-row nav { margin-left: auto; display: flex; gap: 18px; font-size: 14px; }
   .mast-row nav a, .linkbtn { color: var(--muted); }
   .mast-row nav a:hover, .linkbtn:hover { color: var(--fg-strong); }
@@ -64,7 +68,14 @@
           animation: grow 1.2s cubic-bezier(.2, .8, .2, 1) both, drift 9s ease-in-out 1.2s infinite alternate; }
 
   /* Intro */
-  h1 { font-size: 30px; line-height: 1.2; font-weight: 600; letter-spacing: -.02em; color: var(--fg-strong); margin: 40px 0 10px; }
+  /* The filters, echoed as the command that would produce this list */
+  .cmd { margin: 40px 0 8px; font: 13px/1.6 "IBM Plex Mono", ui-monospace, monospace; color: var(--muted);
+         white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .cmd .flag { color: var(--fg); }
+  .cmd .val { color: var(--accent); }
+  .caret { display: inline-block; width: .55em; height: 1.1em; margin-left: 3px; vertical-align: -3px;
+           background: var(--g2); animation: blink 1.1s steps(1) infinite; }
+  h1 { font-size: 30px; line-height: 1.2; font-weight: 600; letter-spacing: -.02em; color: var(--fg-strong); margin: 0 0 10px; }
   .lead { font-size: 17px; color: var(--muted); max-width: 640px; margin: 0; }
   .lead b { color: var(--fg-strong); font-weight: 600; }
   .byline { font-size: 13px; color: var(--faint); margin: 10px 0 0; }
@@ -85,11 +96,20 @@
   input:focus-visible, select:focus-visible { outline: 2px solid color-mix(in srgb, var(--accent) 45%, transparent); outline-offset: 1px; }
   .meta { font-size: 12px; color: var(--faint); margin: 0 0 2px; }
 
+  /* Last run, laid out like a CI summary: key, value, a dot for health */
+  .status { padding-top: 18px; border-top: 1px solid var(--border); font: 12.5px/1.95 "IBM Plex Mono", ui-monospace, monospace; }
+  .status h2 { margin: 0 0 4px; font: inherit; font-weight: 400; color: var(--faint); }
+  .status dl { display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: 16px; margin: 0; }
+  .status dt { color: var(--faint); }
+  .status dd { margin: 0; color: var(--fg); }
+  .dot { display: inline-block; width: 8px; height: 8px; margin-right: 7px; border-radius: 50%; vertical-align: 0; background: var(--accent); }
+  .dot.off { background: none; border: 1.5px solid var(--faint); }
+
   /* List: two lines per role, grouped by the day it was first seen */
   .day { position: sticky; top: 0; z-index: 2; display: flex; justify-content: space-between; align-items: baseline;
          margin: 0 0 4px; padding: 16px 10px 7px; background: var(--bg); border-bottom: 1px solid var(--border);
          border-image: linear-gradient(90deg, var(--g1), var(--g3) 35%, var(--border) 70%) 1;
-         font-size: 13px; font-weight: 600; color: var(--accent); }
+         font: 500 13px/1.55 "IBM Plex Mono", ui-monospace, monospace; color: var(--accent); }
   .day .n { font-size: 12px; font-weight: 400; color: var(--faint); }
   .job { position: relative; display: flex; align-items: center; gap: 12px; padding: 9px 10px; border-radius: 6px; transition: background .15s; }
   .job::before { content: ""; position: absolute; left: 0; top: 9px; bottom: 9px; width: 2px; border-radius: 2px;
@@ -136,9 +156,11 @@
   @media (max-width: 860px) {
     .layout { grid-template-columns: minmax(0, 1fr); gap: 24px; }
     .side { position: static; }
+    .status { display: none; }   /* the footer still says how the last run went */
   }
   @media (max-width: 720px) {
-    h1 { font-size: 25px; margin-top: 28px; }
+    h1 { font-size: 25px; }
+    .cmd { margin-top: 28px; font-size: 12px; }
     .lead { font-size: 16px; }
     .mast-row nav { gap: 14px; }
     .job { padding: 9px 6px; align-items: flex-start; }
@@ -148,6 +170,7 @@
   @keyframes grow { from { transform: scaleX(0); } }
   @keyframes drift { to { background-position: 100% 0; } }
   @keyframes rise-in { from { opacity: 0; transform: translateY(6px); } }
+  @keyframes blink { 50% { opacity: 0; } }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
   }
@@ -156,7 +179,7 @@
 <body>
 <header>
   <div class="wrap mast-row">
-    <a class="brand" href="./">job_monitor</a>
+    <a class="brand" href="./"><span class="prompt">~/</span>job_monitor</a>
     <nav>
       <a href="https://github.com/capy-zhiao/Job_Monitor">GitHub</a>
       <a class="wide" href="https://discord.gg/aF94kfHeJ">Discord alerts</a>
@@ -167,6 +190,7 @@
 </header>
 
 <main class="wrap">
+<p class="cmd" id="cmd" aria-hidden="true"><span class="prompt">$</span> job_monitor <span class="flag">--new-grad</span> <span class="flag">--country</span> <span class="val">CA,US</span><span class="caret"></span></p>
 <h1>New-grad tech jobs in Canada &amp; the US</h1>
 <p class="lead" id="lead">Loading openings…</p>
 <p class="byline">Built by <a href="https://github.com/capy-zhiao">Zhiao Wei</a>. Saved and applied marks stay in your browser.</p>
@@ -200,6 +224,16 @@
       <option value="applied">✓ Applied</option>
       <option value="unapplied">Hide applied</option>
     </select>
+  </section>
+  <section class="status" aria-label="Last run">
+    <h2># last run</h2>
+    <dl>
+      <dt>status</dt><dd id="st-status">…</dd>
+      <dt>finished</dt><dd id="st-time">…</dd>
+      <dt>sources</dt><dd id="st-sources">…</dd>
+      <dt>fetchers</dt><dd id="st-fetchers">…</dd>
+      <dt>roles</dt><dd id="st-roles">…</dd>
+    </dl>
   </section>
 </aside>
 <div class="feed">
@@ -292,6 +326,24 @@ function writeURL() {
   history.replaceState(null, "", qs ? "?" + qs : location.pathname);
 }
 
+// The prompt above the title spells the current filters out as command flags
+function renderCmd() {
+  const arg = v => esc(/[\s"]/.test(v) ? `"${v.replace(/"/g, "")}"` : v);
+  const flag = (f, v) => ` <span class="flag">${f}</span>` + (v == null ? "" : ` <span class="val">${arg(v)}</span>`);
+  const country = $("country").value;
+  let line = '<span class="prompt">$</span> job_monitor' + flag("--new-grad")
+           + flag("--country", country ? country.toUpperCase() : "CA,US");
+  if ($("category").value) line += flag("--role", $("category").value);
+  if ($("city").value) line += flag("--city", $("city").value);
+  if ($("company").value) line += flag("--company", $("company").value);
+  if ($("worktype").value) line += flag("--type", $("worktype").value);
+  if ($("age").value) line += flag("--since", $("age").value + "d");
+  if ($("view").value) line += flag("--" + $("view").value);
+  const q = $("q").value.trim();
+  if (q) line += flag("--grep", q);
+  $("cmd").innerHTML = line + '<span class="caret"></span>';
+}
+
 function toggle(set, key, url) {
   if (set.has(url)) set.delete(url); else set.add(url);
   save(key, set); render();
@@ -362,6 +414,7 @@ function render() {
 
   const marks = [SAVED.size ? `${SAVED.size} saved` : "", APPLIED.size ? `${APPLIED.size} applied` : ""].filter(Boolean);
   $("meta").textContent = [`${rows.length} of ${DATA.count} shown`, ...marks, `updated ${DATA.generated_at}`].join(" · ");
+  renderCmd();
   writeURL();
 }
 
@@ -375,6 +428,23 @@ function renderLead() {
     + (s.sources ? ` Collected from ${fmt(s.sources)} sources.` : "");
   if (s.sources && s.responded != null)
     $("health").textContent = ` On the last run, ${s.responded} of ${s.sources} sources responded.`;
+  renderStatus();
+}
+
+// "2026-10-25 01:27 UTC" -> "3h ago", with the exact time on hover
+function renderStatus() {
+  const s = DATA.stats || {};
+  const ran = Date.parse((DATA.generated_at || "").replace(" UTC", "Z").replace(" ", "T"));
+  if (!isNaN(ran)) {
+    const mins = Math.max(0, Math.round((Date.now() - ran) / 60000));
+    $("st-time").textContent = mins < 60 ? `${mins}m ago` : mins < 2880 ? `${Math.round(mins / 60)}h ago` : `${Math.round(mins / 1440)}d ago`;
+    $("st-time").title = DATA.generated_at;
+  }
+  const ok = s.sources && s.responded != null ? s.responded / s.sources >= 0.95 : null;
+  $("st-status").innerHTML = ok == null ? "unknown" : ok ? '<span class="dot"></span>healthy' : '<span class="dot off"></span>degraded';
+  $("st-sources").textContent = s.sources ? (s.responded != null ? `${s.responded}/${s.sources} responded` : `${s.sources}`) : "–";
+  $("st-fetchers").textContent = s.ats || "–";
+  $("st-roles").textContent = Number(DATA.count || DATA.jobs.length).toLocaleString("en-US");
 }
 
 fetch("jobs.json?" + Date.now())
