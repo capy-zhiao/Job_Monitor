@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-25 21:49 UTC",
- "count": 697,
+ "generated_at": "2026-10-25 23:56 UTC",
+ "count": 695,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 177
  },
  "jobs": [
   {
@@ -4024,26 +4024,6 @@
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006",
    "first_seen": "2026-10-13",
-   "posted": "2026-09-25",
-   "category": "SDE"
-  },
-  {
-   "company": "Neuralink",
-   "logo": "logos/neuralink.com.png",
-   "title": "Software Engineer - Simulation",
-   "location": "Austin, TX; South SF",
-   "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003",
-   "first_seen": "2026-10-03",
-   "posted": "2026-09-25",
-   "category": "SDE"
-  },
-  {
-   "company": "Nutanix",
-   "logo": "logos/nutanix.com.png",
-   "title": "Software Engineer New Grad - Master’s - Bachelor’s + 2",
-   "location": "Vancouver, BC, Canada",
-   "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false",
-   "first_seen": "2026-10-02",
    "posted": "2026-09-25",
    "category": "SDE"
   },
