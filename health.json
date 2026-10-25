@@ -557,7 +557,7 @@
   "last_ok": "2026-10-25"
  },
  "SAP": {
-  "fail_runs": 37,
+  "fail_runs": 38,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
