@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26 09:53 UTC",
- "count": 693,
+ "generated_at": "2026-10-26 16:38 UTC",
+ "count": 721,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -18,11 +18,11 @@
    "category": "SDE"
   },
   {
-   "company": "General Motors",
-   "logo": "logos/gm.com.png",
-   "title": "New Grad 2027: Software Test Developer, Propulsion Thermal Management",
-   "location": "Markham, Canada",
-   "url": "https://go.vansh.nyc/BK",
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/0dad512a-a137-468d-a053-088d7d56b90a",
    "first_seen": "2026-10-26",
    "posted": "2026-10-26",
    "category": "SDE"
@@ -32,6 +32,26 @@
    "title": "Associate Software Engineer",
    "location": "Remote in USA",
    "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-26",
+   "category": "SDE"
+  },
+  {
+   "company": "DRW",
+   "logo": "logos/drw.com.png",
+   "title": "Platform Engineer - AI Engineering",
+   "location": "Montreal",
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/8324747",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-26",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Canadian Bank Note",
+   "logo": "logos/cbnco.com.png",
+   "title": "Frontend Developer",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000157835067",
    "first_seen": "2026-10-26",
    "posted": "2026-10-26",
    "category": "SDE"
@@ -119,15 +139,6 @@
    "first_seen": "2026-10-25",
    "posted": "2026-10-24",
    "category": "Other"
-  },
-  {
-   "company": "Oracle",
-   "title": "Electrical Engineer 1",
-   "location": "Santa Clara, CA",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348719",
-   "first_seen": "2026-10-24",
-   "posted": "2026-10-24",
-   "category": "SDE"
   },
   {
    "company": "Rivian",
@@ -322,16 +333,6 @@
    "title": "2027 Global Asset Management - Winter Developer & IT Specialist - 4-8 months",
    "location": "Toronto, Canada +1",
    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669",
-   "first_seen": "2026-10-23",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/908bfe99-a679-4a4f-a49b-9cd44441be04",
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "SDE"
@@ -615,16 +616,6 @@
    "location": "Toronto, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
    "first_seen": "2026-10-21",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Capital One",
-   "logo": "logos/capitalone.com.png",
-   "title": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-   "first_seen": "2026-10-02",
    "posted": "2026-10-23",
    "category": "SDE"
   },
@@ -1212,6 +1203,16 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
+   "first_seen": "2026-10-21",
+   "posted": "2026-10-21",
+   "category": "SDE"
+  },
+  {
    "company": "Brain Co.",
    "title": "Machine Learning Engineer New Grad",
    "location": "SF",
@@ -1491,6 +1492,16 @@
    "category": "SDE"
   },
   {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "New Grad 2027: Software Development Engineer",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/DJ",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
    "company": "Apple",
    "logo": "logos/apple.com.png",
    "title": "Software Engineer",
@@ -1676,6 +1687,16 @@
    "category": "SDE"
   },
   {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Engineer, Account",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/DC",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-16",
+   "category": "SDE"
+  },
+  {
    "company": "Together AI",
    "logo": "logos/together.ai.png",
    "title": "Hardware Security Engineer, New Grad (2027)",
@@ -1721,16 +1742,6 @@
    "title": "Software Engineer - Forward Deployed Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557027406",
-   "first_seen": "2026-10-16",
-   "posted": "2026-10-16",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
-   "logo": "logos/lyft.com.png",
-   "title": "Software Engineer, GovTech",
-   "location": "Toronto, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8894909002?gh_jid=8894909002",
    "first_seen": "2026-10-16",
    "posted": "2026-10-16",
    "category": "SDE"
@@ -1800,6 +1811,26 @@
    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b755dc84-3600-4a44-ae04-0f366883d553",
    "first_seen": "2026-10-13",
    "posted": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "VAST Data",
+   "logo": "logos/vastdata.com.png",
+   "title": "Software Engineer, V-Force",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/DF",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-15",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Engineer, Social Foundation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/Dw",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-15",
    "category": "SDE"
   },
   {
@@ -1987,6 +2018,16 @@
    "first_seen": "2026-10-14",
    "posted": "2026-10-15",
    "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
+   "title": "New Grad 2027: SoC Software Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://go.vansh.nyc/Df",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-14",
+   "category": "Security"
   },
   {
    "company": "Anthropic",
@@ -2272,6 +2313,46 @@
    "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222737004",
    "first_seen": "2026-10-13",
    "posted": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Research Scientist Graduate",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/Dh",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-13",
+   "category": "Research"
+  },
+  {
+   "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
+   "title": "SoC Software Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://go.vansh.nyc/Dr",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-13",
+   "category": "Security"
+  },
+  {
+   "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
+   "title": "New Grad 2027: Low Power ASIC Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://go.vansh.nyc/Ds",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
+   "title": "New Grad 2027: ASIC Verification Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://go.vansh.nyc/Dq",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-13",
    "category": "SDE"
   },
   {
@@ -2591,6 +2672,16 @@
    "category": "SDE"
   },
   {
+   "company": "Diligent",
+   "logo": "logos/diligent.com.png",
+   "title": "Solution Engineer",
+   "location": "New York, New York, United States; Vancouver, British Columbia, Canada; Washington, District of Columbia, United States",
+   "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6216867004",
+   "first_seen": "2026-10-13",
+   "posted": "2026-10-13",
+   "category": "SDE"
+  },
+  {
    "company": "BinSentry",
    "logo": "logos/binsentry.com.png",
    "title": "Software Developer, Critical Systems",
@@ -2808,6 +2899,55 @@
    "category": "SDE"
   },
   {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Conversational AI",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/HY",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-09",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Conversational AI",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/HZ",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-09",
+   "category": "AI/ML"
+  },
+  {
+   "company": "GlobalFoundries",
+   "logo": "logos/gf.com.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "Austin, TX; Santa Clara, CA",
+   "url": "https://go.vansh.nyc/I2",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-09",
+   "category": "SDE"
+  },
+  {
+   "company": "BDO Canada",
+   "title": "New Grad 2027: DevOps Engineer",
+   "location": "Toronto, Canada",
+   "url": "https://go.vansh.nyc/Hn",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-09",
+   "category": "SDE"
+  },
+  {
+   "company": "Aurelian",
+   "logo": "logos/aurelian.com.png",
+   "title": "Software Engineer",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/HX",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-09",
+   "category": "SDE"
+  },
+  {
    "company": "Anthropic",
    "logo": "logos/anthropic.com.png",
    "title": "Conceptual Reasoning Fellow",
@@ -2964,6 +3104,56 @@
    "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true",
    "first_seen": "2026-10-09",
    "posted": "2026-10-09",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce User Growth",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/HS",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-08",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce User Growth",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/HT",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-08",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/HR",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-08",
+   "category": "AI/ML"
+  },
+  {
+   "company": "IXL Learning",
+   "logo": "logos/ixl.com.png",
+   "title": "Software Engineer",
+   "location": "San Mateo, CA",
+   "url": "https://go.vansh.nyc/Ho",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Chalk",
+   "logo": "logos/chalk.ai.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "San Francisco, CA; New York, NY",
+   "url": "https://go.vansh.nyc/HQ",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-08",
    "category": "SDE"
   },
   {
@@ -3145,16 +3335,6 @@
    "category": "SDE"
   },
   {
-   "company": "DRW",
-   "logo": "logos/drw.com.png",
-   "title": "Platform Engineer - AI Engineering",
-   "location": "Montreal",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/8261675",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-07",
-   "category": "AI/ML"
-  },
-  {
    "company": "Visa",
    "logo": "logos/visa.com.png",
    "title": "Software Engineer Operations and Infrastructure",
@@ -3222,6 +3402,36 @@
    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011531",
    "first_seen": "2026-10-07",
    "posted": "2026-10-07",
+   "category": "SDE"
+  },
+  {
+   "company": "NVIDIA",
+   "logo": "logos/nvidia.com.png",
+   "title": "New Grad 2027: GPU PCIe and Boot Architect",
+   "location": "Austin, TX; Santa Clara, CA",
+   "url": "https://go.vansh.nyc/HJ",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-06",
+   "category": "Other"
+  },
+  {
+   "company": "Affirm",
+   "logo": "logos/affirm.com.png",
+   "title": "Software Engineer 1",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/HK",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Affirm",
+   "logo": "logos/affirm.com.png",
+   "title": "Software Engineer 1",
+   "location": "San Francisco, CA; New York, NY",
+   "url": "https://go.vansh.nyc/HM",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-06",
    "category": "SDE"
   },
   {
@@ -3363,16 +3573,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "OpenText",
-   "logo": "logos/opentext.com.png",
-   "title": "Software Developer- RPA / UiPath Specialist",
-   "location": "Mississauga, Ontario, CAN, L5K 2N6",
-   "url": "https://careers.opentext.com/ca/en/job/OPJOPEUS53810EXTERNALENUS",
-   "first_seen": "2026-10-06",
-   "posted": "2026-10-06",
-   "category": "SDE"
-  },
-  {
    "company": "ID.me",
    "logo": "logos/id.me.png",
    "title": "Software Engineer 2 New Grad - Developer Portal",
@@ -3413,6 +3613,16 @@
    "category": "AI/ML"
   },
   {
+   "company": "Motorola",
+   "logo": "logos/motorolasolutions.com.png",
+   "title": "Junior Software Engineer, AI Agent Platform",
+   "location": "Remote, Canada",
+   "url": "https://go.vansh.nyc/HF",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-05",
+   "category": "AI/ML"
+  },
+  {
    "company": "Konrad Group",
    "logo": "logos/konrad.com.png",
    "title": "Mobile Developer Entry Level",
@@ -3445,6 +3655,16 @@
   {
    "company": "Fellow Insights",
    "logo": "logos/fellow.app.jpg",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "Ottawa, Canada",
+   "url": "https://go.vansh.nyc/If",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Fellow Insights",
+   "logo": "logos/fellow.app.jpg",
    "title": "Software Engineer - New Grad - 2026-2027",
    "location": "Ottawa, Canada",
    "url": "https://jobs.ashbyhq.com/fellowai/f932dda0-8ad0-45d6-a327-d2143b7d82aa",
@@ -3470,6 +3690,36 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
    "first_seen": "2026-10-13",
    "posted": "2026-10-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "San Francisco, CA",
+   "url": "https://go.vansh.nyc/Hq",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Harvey",
+   "logo": "logos/harvey.ai.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/Hr",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-02",
+   "category": "SDE"
+  },
+  {
+   "company": "CoStar Group",
+   "logo": "logos/costargroup.com.png",
+   "title": "New Grad 2027: Associate Embedded Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://go.vansh.nyc/Id",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-02",
    "category": "SDE"
   },
   {
@@ -3602,6 +3852,36 @@
    "category": "AI/ML"
   },
   {
+   "company": "CoStar Group",
+   "logo": "logos/costargroup.com.png",
+   "title": "New Grad 2027: Associate Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://go.vansh.nyc/HC",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "New Grad 2027: Software Development Engineer, Robotics",
+   "location": "Seattle, WA; Nashville, TN; Austin, TX; North Reading, MA; Arlington, VA; Bellevue, WA; Westborough, MA",
+   "url": "https://go.vansh.nyc/HB",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "New Grad 2027: Cloud Hardware Development Engineer 1 – Early Career",
+   "location": "Austin, TX; Cupertino, CA",
+   "url": "https://go.vansh.nyc/HA",
+   "first_seen": "2026-10-26",
+   "posted": "2026-10-01",
+   "category": "SDE"
+  },
+  {
    "company": "Pinterest",
    "logo": "logos/pinterest.com.png",
    "title": "Master's University Graduate Data Scientist",
@@ -3714,16 +3994,6 @@
    "title": "Frontend Developer Intern - Winter 2027",
    "location": "Montréal, Canada",
    "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002",
-   "first_seen": "2026-10-20",
-   "posted": "2026-09-30",
-   "category": "SDE"
-  },
-  {
-   "company": "Arctic Wolf",
-   "logo": "logos/arcticwolf.com.png",
-   "title": "Professional Services Engineer 1",
-   "location": "Waterloo, ON, CAN; Eden Prairie, MN, USA; San Antonio, TX, USA",
-   "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Waterloo-ON-CAN/Professional-Services-Engineer-1_R26_1068",
    "first_seen": "2026-10-20",
    "posted": "2026-09-30",
    "category": "SDE"
@@ -5146,6 +5416,26 @@
    "first_seen": "2026-10-13",
    "posted": "2026-08-13",
    "category": "Other"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Life Cycle Material Engineering Specialist",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142898171",
+   "first_seen": "2026-10-14",
+   "posted": "2026-08-11",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Junior Hardware Engineering Developer ",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142894435",
+   "first_seen": "2026-10-14",
+   "posted": "2026-08-11",
+   "category": "SDE"
   },
   {
    "company": "VersaPay",
@@ -6686,16 +6976,6 @@
    "first_seen": "2026-09-01",
    "posted": "2025-04-29",
    "category": "Research"
-  },
-  {
-   "company": "Tenstorrent",
-   "logo": "logos/tenstorrent.com.png",
-   "title": "Software Engineer, TT-Distributed",
-   "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
-   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007",
-   "first_seen": "2026-09-01",
-   "posted": "2025-04-20",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
