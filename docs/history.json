@@ -661,12 +661,12 @@
 },
 {
 "date": "2026-10-26",
-"total": 721,
-"ca": 485,
+"total": 713,
+"ca": 483,
 "by": {
-"SDE": 517,
+"SDE": 510,
 "AI/ML": 74,
-"Other": 44,
+"Other": 43,
 "Security": 45,
 "Research": 41
 }
