@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27 00:30 UTC",
- "count": 723,
+ "generated_at": "2026-10-27 05:31 UTC",
+ "count": 753,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -25,6 +25,15 @@
    "url": "https://jobs.jobvite.com/nutanix/job/oLmVAfwm",
    "first_seen": "2026-10-27",
    "category": "AI/ML"
+  },
+  {
+   "company": "Planview",
+   "title": "Software Engineer 1",
+   "location": "Vancouver, BC, Canada",
+   "url": "https://careers.planview.com/jobs/5182?icims=1",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-26",
+   "category": "SDE"
   },
   {
    "company": "Oracle",
@@ -693,16 +702,6 @@
    "location": "Toronto, Canada",
    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
    "first_seen": "2026-10-21",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
-   "first_seen": "2026-10-07",
    "posted": "2026-10-23",
    "category": "SDE"
   },
@@ -1576,6 +1575,273 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer_2022028",
    "first_seen": "2026-09-01",
    "posted": "2026-10-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Veeva Systems",
+   "title": "New Grad 2027: Data Analyst, Marketing Analytics",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/Ua",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Other"
+  },
+  {
+   "company": "SpaceX",
+   "title": "New Grad 2027: Engineer, Software, Starlink",
+   "location": "Palo Alto, CA",
+   "url": "https://go.vansh.nyc/Un",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "SpaceX",
+   "title": "New Grad 2027: Engineer, Software, Starlink",
+   "location": "Redmond, WA",
+   "url": "https://go.vansh.nyc/Uo",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "SpaceX",
+   "title": "New Grad 2027: Engineer, Software Security, Starlink",
+   "location": "Redmond, WA",
+   "url": "https://go.vansh.nyc/Uq",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Security"
+  },
+  {
+   "company": "SpaceX",
+   "title": "New Grad 2027: Engineer, Software Security, Starlink",
+   "location": "Palo Alto, CA",
+   "url": "https://go.vansh.nyc/Ur",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Security"
+  },
+  {
+   "company": "SpaceX",
+   "title": "New Grad 2027: Engineer, GNC",
+   "location": "Redmond, WA",
+   "url": "https://go.vansh.nyc/Uj",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Roblox",
+   "logo": "logos/roblox.com.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "San Mateo, CA",
+   "url": "https://go.vansh.nyc/Uu",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Pylon",
+   "title": "New Grad: Software Engineer",
+   "location": "San Francisco, CA",
+   "url": "https://go.vansh.nyc/Tx",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Palantir",
+   "logo": "logos/palantir.com.png",
+   "title": "New Grad: Software Engineer, Infrastructure",
+   "location": "Palo Alto, CA",
+   "url": "https://go.vansh.nyc/U7",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Palantir",
+   "logo": "logos/palantir.com.png",
+   "title": "New Grad: Privacy & Civil Liberties Engineer",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/U6",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Palantir",
+   "logo": "logos/palantir.com.png",
+   "title": "New Grad: Forward Deployed Infrastructure Engineer, US Government",
+   "location": "Palo Alto, CA",
+   "url": "https://go.vansh.nyc/U1",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Palantir",
+   "logo": "logos/palantir.com.png",
+   "title": "New Grad: Forward Deployed Infrastructure Engineer, US Government",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/U3",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Old Mission",
+   "title": "New Grad 2027: Quantitative Trader (February Start)",
+   "location": "Chicago, IL; New York, NY",
+   "url": "https://go.vansh.nyc/Tt",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Other"
+  },
+  {
+   "company": "Old Mission",
+   "title": "New Grad 2027: Quantitative Trader (August Start)",
+   "location": "Chicago, IL; New York, NY",
+   "url": "https://go.vansh.nyc/Tu",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Other"
+  },
+  {
+   "company": "NewsBreak",
+   "title": "New Grad: Applied AI Engineer, Advertising Agents",
+   "location": "Mountain View, CA",
+   "url": "https://go.vansh.nyc/Uc",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Netic",
+   "title": "New Grad 2027: Software Engineer, Agent Platform",
+   "location": "San Francisco, CA",
+   "url": "https://go.vansh.nyc/Ts",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Netic",
+   "title": "New Grad 2027: Full-Stack Software Engineer, Product",
+   "location": "San Francisco, CA",
+   "url": "https://go.vansh.nyc/Tr",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Headlands Technologies",
+   "title": "New Grad: Quantitative Researcher",
+   "location": "Chicago, IL; New York, NY",
+   "url": "https://go.vansh.nyc/Uv",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Research"
+  },
+  {
+   "company": "Five Rings",
+   "title": "New Grad 2027: Quantitative Trader",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/Uf",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Other"
+  },
+  {
+   "company": "Ellipsis Labs",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/Tw",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "DV Trading",
+   "title": "New Grad 2027: Software Engineer, DV Commodities",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/Ud",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Chicago Trading Company",
+   "title": "New Grad 2027: Associate Engineer",
+   "location": "Chicago, IL; New York, NY",
+   "url": "https://go.vansh.nyc/Ut",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Bell Canada",
+   "title": "New Grad 2027: Technology Services, Emerging AI and Data Solutions",
+   "location": "Verdun, Canada",
+   "url": "https://go.vansh.nyc/TC",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Bell Canada",
+   "title": "New Grad 2027: Technology Services, Delivery, Excellence & Architecture",
+   "location": "Verdun, Canada",
+   "url": "https://go.vansh.nyc/TB",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Other"
+  },
+  {
+   "company": "Applied Intuition",
+   "title": "New Grad 2027: Research Engineer (Master's)",
+   "location": "Sunnyvale, CA",
+   "url": "https://go.vansh.nyc/Tp",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Research"
+  },
+  {
+   "company": "Applied Intuition",
+   "title": "New Grad 2027: Embedded Software Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://go.vansh.nyc/Tq",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "Anduril",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "Atlanta, GA; Boston, MA; Broomfield, CO; Colorado Springs, CO; Costa Mesa, CA; Fort Collins, CO; Irvine, CA; Reston, VA; Seattle, WA",
+   "url": "https://go.vansh.nyc/Us",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "New Grad 2027: Cybersecurity Analyst, Enterprise Technology Services",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/TX",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
+   "category": "Security"
+  },
+  {
+   "company": "AMD",
+   "logo": "logos/amd.com.png",
+   "title": "New Grad: Systems Design Engineer",
+   "location": "Markham, Canada",
+   "url": "https://go.vansh.nyc/TS",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-19",
    "category": "SDE"
   },
   {
@@ -4253,6 +4519,15 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
    "first_seen": "2026-09-29",
    "posted": "2026-09-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
+   "title": "Software Engineer (Java)",
+   "location": "Toronto, ON, CA, M5H1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java%29-ON-M5H1H1/600463717/",
+   "first_seen": "2026-09-28",
    "category": "SDE"
   },
   {
