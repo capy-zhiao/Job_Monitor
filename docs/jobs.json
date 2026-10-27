@@ -1,12 +1,59 @@
 {
- "generated_at": "2026-10-27 10:53 UTC",
- "count": 760,
+ "generated_at": "2026-10-27 16:16 UTC",
+ "count": 766,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
+  {
+   "company": "ShyftLabs",
+   "logo": "logos/shyftlabs.io.png",
+   "title": "Forward Delivery - Security Engineer, Network & Infrastructure Security",
+   "location": "Toronto, Ontario",
+   "url": "https://jobs.lever.co/shyftlabs/6aea6065-7f60-48bf-92e1-d119d4bcef39",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "Security"
+  },
+  {
+   "company": "Rilla",
+   "title": "New Grad: Software Engineer",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/Vn",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/d331de7b-aaaa-435e-b06c-a43316a31111",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
+   "company": "Octasic",
+   "title": "Software Developer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
+   "company": "Octasic",
+   "title": "Software Developer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://ats.rippling.com/octasic-inc/jobs/04058654-6cb5-436e-8790-6e5ce37f2be1",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
   {
    "company": "Nutanix",
    "logo": "logos/nutanix.com.png",
@@ -17,11 +64,50 @@
    "category": "AI/ML"
   },
   {
+   "company": "Motive",
+   "logo": "logos/gomotive.com.png",
+   "title": "Solutions Engineer, Mid-Market (Canada)",
+   "location": "Canada - Remote",
+   "url": "https://job-boards.greenhouse.io/gomotive/jobs/8855798002",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Mountain View, CA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
+   "company": "Genetec",
+   "logo": "logos/genetec.com.png",
+   "title": "Testeur(euse) logiciel / Software Tester - Appliances Platform (Edge OS)",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://apply.workable.com/genetec-inc/j/2ED755C0F1/",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
+   "company": "CrossCountry Consulting",
+   "title": "Forward Deployed Software Engineer New Grad",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply",
+   "first_seen": "2026-10-27",
+   "posted": "2026-10-27",
+   "category": "SDE"
+  },
+  {
+   "company": "Cerebras",
+   "logo": "logos/cerebras.ai.png",
+   "title": "New Grad: Kernel Engineer",
+   "location": "Sunnyvale, CA",
+   "url": "https://go.vansh.nyc/Vp",
    "first_seen": "2026-10-27",
    "posted": "2026-10-27",
    "category": "SDE"
@@ -128,16 +214,6 @@
    "title": "Associate Software Engineer",
    "location": "Santa Clara, CA",
    "url": "https://go.vansh.nyc/BI",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-26",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/0dad512a-a137-468d-a053-088d7d56b90a",
    "first_seen": "2026-10-26",
    "posted": "2026-10-26",
    "category": "SDE"
@@ -1935,7 +2011,7 @@
    "company": "Kraken Robotics",
    "logo": "logos/krakenrobotics.com.png",
    "title": "Cybersecurity Specialist",
-   "location": "Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada; Houston, TX, United States",
+   "location": "Longmont, CO, United States; Dartmouth, Canada; Mount Pearl, Canada; Houston, TX, United States",
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
    "first_seen": "2026-10-19",
    "category": "Security"
@@ -3893,16 +3969,6 @@
    "category": "Other"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Signal and Power Integrity Engineer New Grad",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795",
-   "first_seen": "2026-10-07",
-   "posted": "2026-10-06",
-   "category": "SDE"
-  },
-  {
    "company": "Affirm",
    "logo": "logos/affirm.com.png",
    "title": "Software Engineer 1 New Grad",
@@ -4536,16 +4602,6 @@
    "first_seen": "2026-10-16",
    "posted": "2026-09-28",
    "category": "SDE"
-  },
-  {
-   "company": "Motive",
-   "logo": "logos/gomotive.com.png",
-   "title": "Offensive Security Engineer (Red Team)",
-   "location": "Canada - Remote",
-   "url": "https://job-boards.greenhouse.io/gomotive/jobs/8849916002",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-28",
-   "category": "Security"
   },
   {
    "company": "Genetec",
@@ -5778,6 +5834,16 @@
   {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
+   "title": "Software Engineer",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142893337",
+   "first_seen": "2026-10-14",
+   "posted": "2026-08-11",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
    "title": "Life Cycle Material Engineering Specialist",
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000142898171",
@@ -6024,6 +6090,16 @@
    "first_seen": "2026-09-01",
    "posted": "2026-07-21",
    "category": "Security"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": " Software Engineering Developer,  Air & Naval Sonar ",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000138709868",
+   "first_seen": "2026-10-20",
+   "posted": "2026-07-20",
+   "category": "SDE"
   },
   {
    "company": "Huawei",
@@ -7224,26 +7300,6 @@
    "first_seen": "2026-10-14",
    "posted": "2025-08-27",
    "category": "AI/ML"
-  },
-  {
-   "company": "Motive",
-   "logo": "logos/gomotive.com.png",
-   "title": "Solutions Engineer, Mid Market (Canada)",
-   "location": "Canada - Remote",
-   "url": "https://job-boards.greenhouse.io/gomotive/jobs/8110111002",
-   "first_seen": "2026-10-13",
-   "posted": "2025-08-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Testeur(euse) logiciel / Software Tester - Appliances Platform (Edge OS)",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/985DD12F98/",
-   "first_seen": "2026-10-13",
-   "posted": "2025-07-25",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
