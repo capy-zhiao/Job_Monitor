@@ -1,12 +1,40 @@
 {
- "generated_at": "2026-10-28 00:19 UTC",
+ "generated_at": "2026-10-28 06:05 UTC",
  "count": 781,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 178
  },
  "jobs": [
+  {
+   "company": "Superhuman",
+   "logo": "logos/superhuman.com.png",
+   "title": "Software Engineer, Back-End - Mail (Canada)",
+   "location": "Remote - Canada",
+   "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/f5fbe278-477e-4afe-adab-fdccee4f224d",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Charles River Associates",
+   "title": "New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate",
+   "location": "Toronto, Canada",
+   "url": "https://go.vansh.nyc/WY",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "Other"
+  },
+  {
+   "company": "Charles River Associates",
+   "title": "New Grad 2027: Cyber & Forensic Technology Consulting Analyst/Associate",
+   "location": "Boston, MA; Chicago, IL; Dallas, TX; New York, NY; Washington, DC",
+   "url": "https://go.vansh.nyc/WZ",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "Other"
+  },
   {
    "company": "Swarm Aero",
    "title": "Software Engineer - Real-Time Systems - Early Career",
@@ -187,16 +215,6 @@
    "title": "Software Engineer I",
    "location": "San Francisco, CA",
    "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-27",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Engineer-I_R_1517641",
    "first_seen": "2026-10-27",
    "posted": "2026-10-27",
    "category": "SDE"
@@ -463,16 +481,6 @@
    "category": "SDE"
   },
   {
-   "company": "ServiceNow",
-   "logo": "logos/servicenow.com.png",
-   "title": "Software Engineer New Grad - AI/ML",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-26",
-   "category": "AI/ML"
-  },
-  {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
    "title": "Systems Engineering Analysts - Working level",
@@ -481,6 +489,16 @@
    "first_seen": "2026-10-28",
    "posted": "2026-10-26",
    "category": "SDE"
+  },
+  {
+   "company": "Atlassian",
+   "logo": "logos/atlassian.com.png",
+   "title": "New Grad 2027: Security Engineer",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/X1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-26",
+   "category": "Security"
   },
   {
    "company": "Planview",
@@ -496,16 +514,6 @@
    "title": "Electrical Engineer 1",
    "location": "Santa Clara, CA",
    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348765",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-26",
-   "category": "SDE"
-  },
-  {
-   "company": "Nordstrom",
-   "logo": "logos/nordstrom.com.png",
-   "title": "Engineer 1 - POS+",
-   "location": "Seattle, WA",
-   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--POS---Hybrid---Seattle--WA-_R-891900",
    "first_seen": "2026-10-27",
    "posted": "2026-10-26",
    "category": "SDE"
@@ -1016,16 +1024,6 @@
    "title": "Data Engineer Early Career",
    "location": "Toronto, ON, Canada",
    "url": "https://amazon.jobs/en/jobs/10559101/data-engineer-early-career-2026-can",
-   "first_seen": "2026-10-23",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Cloud Hardware Development Engineer – Early Career",
-   "location": "Seattle, WA; Cupertino, CA",
-   "url": "https://amazon.jobs/en/jobs/10530353/cloud-hardware-development-engineer-aws-early-career-2026",
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "SDE"
@@ -2603,16 +2601,6 @@
    "category": "SDE"
   },
   {
-   "company": "Mozilla",
-   "logo": "logos/mozilla.org.png",
-   "title": "Software Engineer - Firefox Desktop Integrations",
-   "location": "Remote in Canada",
-   "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333",
-   "first_seen": "2026-10-15",
-   "posted": "2026-10-15",
-   "category": "SDE"
-  },
-  {
    "company": "LawDepot",
    "logo": "logos/lawdepot.com.png",
    "title": "Web Content Coordinator",
@@ -2690,6 +2678,15 @@
    "first_seen": "2026-10-14",
    "posted": "2026-10-15",
    "category": "SDE"
+  },
+  {
+   "company": "Spectral Labs",
+   "title": "Research Engineer",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/spectral%20labs/4264fa52-0d24-4871-b76b-907221e7df6c/application?embed=true",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-14",
+   "category": "Research"
   },
   {
    "company": "Anthropic",
@@ -3023,16 +3020,6 @@
    "title": "SoC Software Engineer New Grad",
    "location": "Santa Clara, CA",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
-   "first_seen": "2026-10-14",
-   "posted": "2026-10-13",
-   "category": "Security"
-  },
-  {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "SoC Software Engineer New Grad",
-   "location": "Santa Clara, CA",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
    "first_seen": "2026-10-14",
    "posted": "2026-10-13",
    "category": "Security"
@@ -3501,16 +3488,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist - Risk Management Transformation",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Risk-Management-Transformation_R_1513513",
-   "first_seen": "2026-10-09",
-   "posted": "2026-10-10",
-   "category": "Security"
-  },
-  {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
    "title": "New Grad 2027: Machine Learning Engineer, Conversational AI",
@@ -3894,6 +3871,16 @@
    "location": "MARKHAM, Ontario, Canada",
    "url": "https://careers.amd.com/careers-home/jobs/92338",
    "first_seen": "2026-10-08",
+   "category": "SDE"
+  },
+  {
+   "company": "Amplitude",
+   "logo": "logos/amplitude.com.png",
+   "title": "Software Engineer 1",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application?embed=true",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-07",
    "category": "SDE"
   },
   {
@@ -4302,6 +4289,15 @@
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/referral19/job/Bellevue-Washington/Software-Engineer--Level-3_R0044231-1",
    "first_seen": "2026-10-13",
    "posted": "2026-10-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Relling",
+   "title": "Robotics Software Engineer New Grad",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/relling/a31f91ae-30f9-4e36-b9d2-2cb74c398d2e/application?embed=true",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-02",
    "category": "SDE"
   },
   {
