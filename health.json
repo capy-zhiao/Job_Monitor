@@ -403,14 +403,15 @@
   "last_ok": "2026-10-28"
  },
  "Microsoft": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-28"
  },
  "Microsoft (Security)": {
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-10-28"
+  "last_ok": "2026-10-28",
+  "reported_fail": true
  },
  "Miovision": {
   "fail_runs": 0,
@@ -557,7 +558,7 @@
   "last_ok": "2026-10-28"
  },
  "SAP": {
-  "fail_runs": 51,
+  "fail_runs": 52,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
