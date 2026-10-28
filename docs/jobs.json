@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-28 18:44 UTC",
- "count": 792,
+ "generated_at": "2026-10-28 22:54 UTC",
+ "count": 795,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 178
+  "responded": 177
  },
  "jobs": [
   {
@@ -39,9 +39,29 @@
   {
    "company": "StackAdapt",
    "logo": "logos/stackadapt.com.png",
-   "title": "DevOPs Engineer (Services Team)",
+   "title": "DevOps Engineer (Services Team)",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4470989009",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering LMTS",
+   "location": "Canada - Toronto",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-LMTS_JR365988",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Rubrik",
+   "logo": "logos/rubrik.com.png",
+   "title": "Software Engineer - Entra ID",
+   "location": "Palo Alto, CA",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -60,7 +80,26 @@
    "company": "Glean",
    "title": "Software Engineer",
    "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Glean",
+   "title": "Software Engineer",
+   "location": "Mountain View, CA",
    "url": "https://go.vansh.nyc/XJ",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -81,6 +120,16 @@
    "title": "Routing/IP Software Engineer  - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "New Grad: Routing/IP Software Engineer",
+   "location": "Ottawa, Canada",
+   "url": "https://go.vansh.nyc/Ym",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -119,6 +168,26 @@
    "location": "Ca, Canada",
    "url": "https://go.vansh.nyc/XE",
    "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Developer Engineer - Product Knowledge Store",
+   "location": "Seattle, WA; United States",
+   "url": "https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "BMO",
+   "logo": "logos/bmo.com.png",
+   "title": "Software Developer - (Automations/ AI /Dev Ops)",
+   "location": "Mississauga, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970",
+   "first_seen": "2026-10-19",
    "posted": "2026-10-28",
    "category": "AI/ML"
   },
@@ -871,6 +940,16 @@
    "first_seen": "2026-10-25",
    "posted": "2026-10-24",
    "category": "Other"
+  },
+  {
+   "company": "VersaPay",
+   "logo": "logos/versapay.com.png",
+   "title": "GTM Engineer",
+   "location": "Canada (Remote)",
+   "url": "https://jobs.lever.co/versapay/5b8d1d13-e1bc-4b3e-a72e-c4c6115d725e",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-23",
+   "category": "SDE"
   },
   {
    "company": "Shield AI",
@@ -2362,32 +2441,12 @@
    "category": "Security"
   },
   {
-   "company": "KLA",
-   "logo": "logos/kla.com.png",
-   "title": "Software Engineer 1",
-   "location": "NYC",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-3",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-19",
-   "category": "SDE"
-  },
-  {
    "company": "Evertz",
    "title": "AV Service Engineer — Control Systems & Device Integration",
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/KcF3gFLXtu/AV-Service-Engineer-Control-Systems-Device-Integration",
    "first_seen": "2026-10-19",
    "category": "SDE"
-  },
-  {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "Software Developer - (Automations/ AI /Dev Ops)",
-   "location": "Mississauga, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-19",
-   "category": "AI/ML"
   },
   {
    "company": "Applied Materials",
@@ -4894,15 +4953,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Swarm Aero",
-   "title": "Software Engineer Early Career - Real-Time Systems",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e/application?embed=true",
-   "first_seen": "2026-10-27",
-   "posted": "2026-09-28",
-   "category": "SDE"
-  },
-  {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
    "title": "Spécialiste apprentissage machine/Machine Learning Specialist - Device Analytics",
@@ -5039,16 +5089,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-09-27",
    "category": "Security"
-  },
-  {
-   "company": "Diligent",
-   "logo": "logos/diligent.com.png",
-   "title": "Solutions Engineer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6208674004",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-25",
-   "category": "SDE"
   },
   {
    "company": "Apple",
@@ -6732,16 +6772,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-05-25",
    "category": "AI/ML"
-  },
-  {
-   "company": "Metergy Solutions",
-   "logo": "logos/metergysolutions.com.png",
-   "title": "Energy Specialist (Engineering)",
-   "location": "Toronto, Ontario",
-   "url": "https://jobs.lever.co/metergysolutions/f15254cd-f0d8-464a-aa17-c00dae9954d7",
-   "first_seen": "2026-10-13",
-   "posted": "2026-05-20",
-   "category": "SDE"
   },
   {
    "company": "Fortinet",
