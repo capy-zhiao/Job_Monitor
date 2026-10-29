@@ -1,12 +1,32 @@
 {
- "generated_at": "2026-10-29 08:35 UTC",
- "count": 797,
+ "generated_at": "2026-10-29 15:36 UTC",
+ "count": 792,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/6d6cf597-2b17-471f-91f3-02521705b683",
+   "first_seen": "2026-10-29",
+   "posted": "2026-10-29",
+   "category": "SDE"
+  },
+  {
+   "company": "Canadian Bank Note",
+   "logo": "logos/cbnco.com.png",
+   "title": "Backend Developer",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000158519919",
+   "first_seen": "2026-10-29",
+   "posted": "2026-10-29",
+   "category": "SDE"
+  },
   {
    "company": "Priceline",
    "title": "Junior Software Engineer - Front End",
@@ -123,16 +143,6 @@
    "category": "SDE"
   },
   {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/908ea7c9-8ccc-419a-b41c-df444d257bfc",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
    "company": "Northrop Grumman",
    "title": "2027 Associate Software Engineer - Azusa CA",
    "location": "Azusa, CA",
@@ -184,6 +194,16 @@
    "title": "Forward Deployed Software Engineer - Recent Graduate - New York",
    "location": "New York City, NY",
    "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -884,16 +904,6 @@
    "title": "ASIC Design Verification Engineer I",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/Wc",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-26",
-   "category": "SDE"
-  },
-  {
-   "company": "Canadian Bank Note",
-   "logo": "logos/cbnco.com.png",
-   "title": "Backend Developer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000157837999",
    "first_seen": "2026-10-27",
    "posted": "2026-10-26",
    "category": "SDE"
@@ -2083,15 +2093,6 @@
    "category": "SDE"
   },
   {
-   "company": "Funnel Leasing",
-   "title": "Software Engineer Entry to Mid-Level",
-   "location": "Remote in USA",
-   "url": "https://apply.workable.com/funnel-leasing/j/1B817A4D38/apply",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-20",
-   "category": "SDE"
-  },
-  {
    "company": "Fortinet",
    "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
@@ -2804,16 +2805,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ubisoft",
-   "logo": "logos/ubisoft.com.png",
-   "title": "Develop Mentorship at Ubisoft - Cybersecurity 2026-2027",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000155802131",
-   "first_seen": "2026-10-15",
-   "posted": "2026-10-15",
-   "category": "Security"
-  },
-  {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
    "title": "Backend Engineer Graduate - Social Foundation",
@@ -2937,16 +2928,6 @@
    "first_seen": "2026-10-28",
    "posted": "2026-10-14",
    "category": "Research"
-  },
-  {
-   "company": "Anthropic",
-   "logo": "logos/anthropic.com.png",
-   "title": "Anthropic STEM Fellow",
-   "location": "Remote-Friendly, United States; San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-14",
-   "category": "Other"
   },
   {
    "company": "Amazon",
@@ -3765,16 +3746,6 @@
    "first_seen": "2026-10-26",
    "posted": "2026-10-09",
    "category": "SDE"
-  },
-  {
-   "company": "Anthropic",
-   "logo": "logos/anthropic.com.png",
-   "title": "Conceptual Reasoning Fellow",
-   "location": "London, UK; Remote-Friendly, United States; San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-09",
-   "category": "Other"
   },
   {
    "company": "Asana",
@@ -4781,15 +4752,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Google",
-   "logo": "logos/google.com.png",
-   "title": "Android Infrastructure Software Developer",
-   "location": "Waterloo, ON, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/142151738999087814-android-infrastructure-software-developer",
-   "first_seen": "2026-10-01",
-   "category": "SDE"
-  },
-  {
    "company": "ByteDance",
    "title": "Software Engineer Graduate",
    "location": "San Jose, CA",
@@ -5050,16 +5012,6 @@
    "title": "SVT/PV Engineer 1 - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Experienced Photonic Card Software Developer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
    "first_seen": "2026-09-23",
    "posted": "2026-09-28",
    "category": "SDE"
