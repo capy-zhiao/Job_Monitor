@@ -403,7 +403,7 @@
   "last_ok": "2026-10-29"
  },
  "Microsoft": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-29"
  },
@@ -557,7 +557,7 @@
   "last_ok": "2026-10-29"
  },
  "SAP": {
-  "fail_runs": 56,
+  "fail_runs": 57,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },

@@ -697,11 +697,11 @@
 },
 {
 "date": "2026-10-29",
-"total": 792,
-"ca": 499,
+"total": 791,
+"ca": 500,
 "by": {
-"SDE": 579,
-"AI/ML": 77,
+"SDE": 577,
+"AI/ML": 78,
 "Other": 49,
 "Security": 43,
 "Research": 44
