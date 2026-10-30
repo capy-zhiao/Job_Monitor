@@ -403,14 +403,14 @@
   "last_ok": "2026-10-30"
  },
  "Microsoft": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-30"
  },
  "Microsoft (Security)": {
-  "fail_runs": 2,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-10-29"
+  "last_ok": "2026-10-30"
  },
  "Miovision": {
   "fail_runs": 0,
@@ -446,7 +446,8 @@
   "last_ok": "2026-10-30"
  },
  "Netflix": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "HTTP Error 429: TOO MANY REQUESTS",
   "last_ok": "2026-10-30"
  },
  "Nokia": {
@@ -557,7 +558,7 @@
   "last_ok": "2026-10-30"
  },
  "SAP": {
-  "fail_runs": 59,
+  "fail_runs": 60,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
