@@ -709,13 +709,13 @@
 },
 {
 "date": "2026-10-30",
-"total": 798,
-"ca": 495,
+"total": 797,
+"ca": 501,
 "by": {
 "Other": 51,
-"Security": 40,
-"SDE": 580,
-"AI/ML": 82,
+"Security": 39,
+"SDE": 581,
+"AI/ML": 81,
 "Research": 45
 }
 }

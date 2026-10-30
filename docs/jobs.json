@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-30 18:47 UTC",
- "count": 798,
+ "generated_at": "2026-10-30 22:51 UTC",
+ "count": 797,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
   {
@@ -37,11 +37,48 @@
    "category": "SDE"
   },
   {
+   "company": "RTX",
+   "title": "Entry-Level Software Developer - Application Support & Sustainment",
+   "location": "Remote in USA",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Maya HTT",
+   "logo": "logos/mayahtt.com.jpg",
+   "title": "AI solutions developer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.ashbyhq.com/maya-htt/8b8a7250-7015-4b8f-b3e3-509a31a55a9d",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
    "company": "Google",
    "logo": "logos/google.com.png",
    "title": "Software Developer, Apple Build Rules",
    "location": "Waterloo, ON, Canada",
    "url": "https://www.google.com/about/careers/applications/jobs/results/75335625070256838-software-developer-apple-build-rules",
+   "first_seen": "2026-10-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Genetec",
+   "logo": "logos/genetec.com.png",
+   "title": "Spécialiste infrastructure didacticiels & DevOp / Courseware & DevOps Specialist",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://apply.workable.com/genetec-inc/j/4E4CF91CE8/",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "Other"
+  },
+  {
+   "company": "Evertz",
+   "title": "Process Engineer - SMT Support",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/OkbCO3LPQu/Process-Engineer-SMT-Support",
    "first_seen": "2026-10-30",
    "category": "SDE"
   },
@@ -53,6 +90,35 @@
    "first_seen": "2026-10-30",
    "posted": "2026-10-30",
    "category": "SDE"
+  },
+  {
+   "company": "BlackLine",
+   "title": "Associate Software Engineer",
+   "location": "Toronto, ON, Canada",
+   "url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Apple",
+   "logo": "logos/apple.com.png",
+   "title": "Software Engineer, Xcode Cloud",
+   "location": "Vancouver, Canada",
+   "url": "https://jobs.apple.com/en-ca/details/200692697/software-engineer-xcode-cloud?team=SFTWR",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Ample Insight",
+   "logo": "logos/ampleinsight.com.png",
+   "title": "ML Engineer – Generative AI & LLMs (Remote)",
+   "location": "Toronto, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000158834129",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "AI/ML"
   },
   {
    "company": "Amazon",
@@ -81,6 +147,16 @@
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
    "first_seen": "2026-09-23",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer Embedded Systems I (Full Time) - Canada",
+   "location": "Kanata, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055",
+   "first_seen": "2026-09-16",
    "posted": "2026-10-30",
    "category": "SDE"
   },
@@ -237,16 +313,6 @@
    "title": "New Grad: Photonic Card Software Developer",
    "location": "Ottawa, Canada",
    "url": "https://go.vansh.nyc/10O",
-   "first_seen": "2026-10-30",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Software Development Engineer",
-   "location": "Cupertino, CA",
-   "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
    "first_seen": "2026-10-30",
    "posted": "2026-10-29",
    "category": "SDE"
@@ -473,6 +539,16 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "Routing/IP Software Engineer  - New Grad",
@@ -603,16 +679,6 @@
    "title": "2027 Associate Software Engineer - Azusa CA",
    "location": "Azusa, CA",
    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-27",
-   "category": "SDE"
-  },
-  {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "New Grad 2027: Formal Verification Engineer",
-   "location": "Santa Clara, CA",
-   "url": "https://go.vansh.nyc/Wq",
    "first_seen": "2026-10-28",
    "posted": "2026-10-27",
    "category": "SDE"
@@ -852,16 +918,6 @@
    "location": "Vancouver, British Columbia",
    "url": "https://jobs.jobvite.com/nutanix/job/oLmVAfwm",
    "first_seen": "2026-10-27",
-   "category": "AI/ML"
-  },
-  {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "New Grad 2027: Deep Learning Performance Architect",
-   "location": "Santa Clara, CA",
-   "url": "https://go.vansh.nyc/Wk",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-27",
    "category": "AI/ML"
   },
   {
@@ -3362,36 +3418,6 @@
    "category": "Research"
   },
   {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "SoC Software Engineer",
-   "location": "Santa Clara, CA",
-   "url": "https://go.vansh.nyc/Dr",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-13",
-   "category": "Security"
-  },
-  {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "New Grad 2027: Low Power ASIC Engineer",
-   "location": "Santa Clara, CA",
-   "url": "https://go.vansh.nyc/Ds",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "New Grad 2027: ASIC Verification Engineer",
-   "location": "Santa Clara, CA",
-   "url": "https://go.vansh.nyc/Dq",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Visa",
    "logo": "logos/visa.com.png",
    "title": "Software Engineer",
@@ -4223,16 +4249,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Amplitude",
-   "logo": "logos/amplitude.com.png",
-   "title": "Software Engineer 1",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application?embed=true",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "CAE",
    "logo": "logos/cae.com.png",
    "title": "Junior Software Developer - System Integration Labs",
@@ -4371,16 +4387,6 @@
    "first_seen": "2026-10-07",
    "posted": "2026-10-07",
    "category": "SDE"
-  },
-  {
-   "company": "NVIDIA",
-   "logo": "logos/nvidia.com.png",
-   "title": "New Grad 2027: GPU PCIe and Boot Architect",
-   "location": "Austin, TX; Santa Clara, CA",
-   "url": "https://go.vansh.nyc/HJ",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-06",
-   "category": "Other"
   },
   {
    "company": "Affirm",
@@ -5812,7 +5818,7 @@
   {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
-   "title": "Spécialiste en tests de logiciels / Software Test Specialist",
+   "title": "Spécialiste en tests de logiciels / Software Test Specialist - Clear ID",
    "location": "Sherbrooke, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/E622D24661/",
    "first_seen": "2026-10-13",
@@ -6477,16 +6483,6 @@
    "url": "https://apply.workable.com/genetec-inc/j/33AA1267BD/",
    "first_seen": "2026-10-13",
    "posted": "2026-07-09",
-   "category": "SDE"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) logiciel / Software Developer - Edge OS",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/4FC8BCB979/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-07-08",
    "category": "SDE"
   },
   {
@@ -7332,16 +7328,6 @@
   {
    "company": "Ample Insight",
    "logo": "logos/ampleinsight.com.png",
-   "title": "ML Engineer – Generative AI & LLMs (Remote)",
-   "location": "Toronto, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000108912530",
-   "first_seen": "2026-10-13",
-   "posted": "2026-02-12",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Ample Insight",
-   "logo": "logos/ampleinsight.com.png",
    "title": "Front End and Full Stack Developer (Remote - Ontario, Canada ONLY)",
    "location": "Toronto, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/ampleinsightinc/744000108913021",
@@ -7622,7 +7608,7 @@
   {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) Logiciel / Software Developer",
+   "title": "Développeur(euse) Logiciel / Software Developer - Access Control",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/016A790707/",
    "first_seen": "2026-10-13",
