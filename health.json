@@ -69,6 +69,7 @@
   "last_ok": "2026-10-30"
  },
  "Autodesk": {
+  "empty_since": "2026-10-30",
   "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-10-30"
@@ -403,12 +404,12 @@
   "last_ok": "2026-10-30"
  },
  "Microsoft": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-30"
  },
  "Microsoft (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-10-30"
  },
@@ -446,7 +447,7 @@
   "last_ok": "2026-10-30"
  },
  "Netflix": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: TOO MANY REQUESTS",
   "last_ok": "2026-10-30"
  },
@@ -558,7 +559,7 @@
   "last_ok": "2026-10-30"
  },
  "SAP": {
-  "fail_runs": 60,
+  "fail_runs": 61,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
