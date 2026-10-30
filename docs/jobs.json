@@ -1,12 +1,22 @@
 {
- "generated_at": "2026-10-30 00:26 UTC",
- "count": 802,
+ "generated_at": "2026-10-30 06:17 UTC",
+ "count": 801,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 178
+  "responded": 177
  },
  "jobs": [
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering SMTS",
+   "location": "Canada - Toronto",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
   {
    "company": "Walmart",
    "title": "Software Engineer",
@@ -241,6 +251,15 @@
    "category": "SDE"
   },
   {
+   "company": "Glean",
+   "title": "Software Engineer - University Grad",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-29",
+   "category": "SDE"
+  },
+  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "Routing/IP Software Engineer  - New Grad",
@@ -414,15 +433,6 @@
    "category": "SDE"
   },
   {
-   "company": "Glean",
-   "title": "Software Engineer",
-   "location": "Mountain View, CA",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
    "company": "Genesys",
    "logo": "logos/genesys.com.png",
    "title": "Software Developer in Test - Intern - Genesys Cloud",
@@ -437,6 +447,16 @@
    "title": "Forward Deployed Software Engineer - Recent Graduate - New York",
    "location": "New York City, NY",
    "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -987,6 +1007,16 @@
    "first_seen": "2026-10-27",
    "posted": "2026-10-27",
    "category": "SDE"
+  },
+  {
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "HR Operations Analyst I",
+   "location": "Toronto, Ontario; London, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/HR-Operations-Analyst-I_R_1518703",
+   "first_seen": "2026-10-30",
+   "posted": "2026-10-26",
+   "category": "Other"
   },
   {
    "company": "Hearst",
@@ -4351,16 +4381,6 @@
    "category": "SDE"
   },
   {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, Android, Level 4",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
-   "first_seen": "2026-10-06",
-   "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "NVIDIA",
    "logo": "logos/nvidia.com.png",
    "title": "New Grad 2027: GPU PCIe and Boot Architect",
@@ -5076,26 +5096,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist (Security Posture Insights, Reporting and Remediation)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Security-Posture-Insights--Reporting-and-Remediation-_R_1507913",
-   "first_seen": "2026-09-01",
-   "posted": "2026-09-29",
-   "category": "Security"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist ( Attack Surface Reduction)",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist---Attack-Surface-Reduction-_R_1502609",
-   "first_seen": "2026-09-01",
-   "posted": "2026-09-29",
-   "category": "Security"
-  },
-  {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
    "title": "Spécialiste apprentissage machine/Machine Learning Specialist - Device Analytics",
@@ -5133,15 +5133,6 @@
    "url": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
    "first_seen": "2026-09-29",
    "posted": "2026-09-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer (Java)",
-   "location": "Toronto, ON, CA, M5H1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java%29-ON-M5H1H1/600463717/",
-   "first_seen": "2026-09-28",
    "category": "SDE"
   },
   {
