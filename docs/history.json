@@ -722,13 +722,13 @@
 {
 "date": "2026-10-31",
 "total": 804,
-"ca": 502,
+"ca": 501,
 "by": {
-"SDE": 585,
+"SDE": 584,
 "AI/ML": 82,
 "Other": 53,
 "Security": 39,
-"Research": 45
+"Research": 46
 }
 }
 ]
