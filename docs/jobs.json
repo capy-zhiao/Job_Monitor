@@ -1,12 +1,1475 @@
 {
- "generated_at": "2026-11-01 07:56 UTC",
- "count": 800,
+ "generated_at": "2026-11-01 14:49 UTC",
+ "count": 950,
  "stats": {
   "sources": 180,
   "ats": 27,
   "responded": 178
  },
  "jobs": [
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Testing Engineer, Social-User and Relation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/173",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Testing Engineer, Intelligent Creation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17e",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15Y",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Transaction Platform",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15W",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Recommendation Infrastructure",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17l",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Media Engine (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17c",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Global CRM",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16M",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Foundation Platform (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/175",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Foundation Platform",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/177",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Business Integrity",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17g",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Ads Interface",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16g",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Ads Infrastructure",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15S",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer, Ads Infra",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16q",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm) (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16R",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/176",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (TikTok AI Search & Visual Search Infra Team)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16A",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/170",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Media Engine)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16w",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Global E-commerce-Search)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16s",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Data Arch - E-commerce)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15Z",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Data Arch - E-commerce)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16Q",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Ads Signal & Measurement)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16K",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Ads Measurement Signal Technology)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16F",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (Ads Delivery)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16E",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/169",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Development Engineer (TikTok - Testing - Growth)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/178",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Software Development Engineer (Global E-Commerce-Quality Platform & AI Test Automation)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16H",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Site Reliability Engineer (Global SRE)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15T",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Self-Built Engineer, CDN Platform",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16L",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Self-Built Engineer (CDN Platform) (Master's)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16P",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Self-Built Engineer (CDN Platform)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16f",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Research Scientist, TikTok Recommendation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15V",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Research Scientist, Monetization Technology - Business Integrity (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16l",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Research Scientist (Ads Creative) (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15Q",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Research Engineer, Monetization Technology - Business Integrity (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16X",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16x",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning MLOps Engineer",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16J",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, TikTok Vertical Recommendation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17h",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16k",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, TikTok Trust and Safety",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16p",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, TikTok Recommendation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15X",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Performance Monetization",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16B",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Monetization Technology - Ads Core Global",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16Z",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/165",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16r",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Live",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16e",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16b",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Foundation",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16m",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Governance",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16o",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Governance",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16W",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Commerce Ads",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/162",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Brand Ads (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16D",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer, Ads Delivery",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/172",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (Search Ads)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16h",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16a",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/161",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation/Search Alliance)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/164",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Mall)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/163",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Recommendation Live)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/166",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (Commercial AI-CRM and Transaction) (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16i",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (App Ads and Gaming)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16S",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (Ads Targeting)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16C",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Machine Learning Engineer (Ads Signal & Measurement)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15U",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: ML Infra Engineer, Ads Infra",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/168",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: LLM Post-training Engineer (Research & Product)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16Y",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: LLM Post-Training Engineer (Research & Product) (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/171",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Fullstack Software Engineer, Global E-commerce",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16z",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Frontend Software Engineer (Global CRM)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15O",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Frontend Software Engineer (Ads Interface)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16n",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Data Scientist (Multimedia) (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16O",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Data Scientist (Multimedia)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16V",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Data Engineer, Monetization Data",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/160",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Data Engineer, Data Platform - Global Live",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/174",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Big Data Engineer, TikTok Recommendation Architecture",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17m",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Privacy and Security - Product",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17a",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Security"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Global E-commerce",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16y",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Emerging Products & AI Safety",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15M",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Data Lifecycle Management",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17i",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Creation Platform (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17k",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Creation Platform",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16T",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer, Business Governance",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15K",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/167",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16d",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (TikTok-PGC-Digital Content Center)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15N",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (Risk & Response)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15L",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (Machine Moderation Platform)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/16c",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (Global E-commerce)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/17b",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Software Engineer (Feed Safety)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15R",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Engineer, User Growth",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16u",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/17d",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16t",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: AI Software Engineer (TikTok-PGC-OGC&Creator Strategy)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15P",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: AI Infra Engineer (Recommendation & LLM)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16U",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "TikTok",
+   "logo": "logos/tiktok.com.png",
+   "title": "New Grad 2027: AI Engineer (Client Arch)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/16G",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14X",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15h",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Test Software Engineer, Douyin Research and Development Middle Platform",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15C",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer, Traffic Infrastructure",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15D",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer, AML-Engine-Orchestration",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/14W",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer, AI Infra Compute (Master's)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15p",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/151",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Security"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14O",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer (AML-Engine-Orchestration)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14Y",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer (AML-Engine-Forge Platform)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15f",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15l",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Scheduling)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15g",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Software Development Engineer (Intent-Based Networking)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15B",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Site Reliability Graduate (Data Infrastructure)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15y",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Other"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14H",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist, Seed Model - Vision",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14S",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/14I",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14J",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist (Seed Model - Speech)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/157",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World Model)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14Z",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist (Seed Model - LLM)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14M",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Research Scientist (ML Recommendation Systems)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15c",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Production System Engineer (Server Management)",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/156",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Production System Engineer (Server Management)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15q",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Product Security Engineer (Security BP)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15n",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Security"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Network Engineer, Physical Network Infra",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15A",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14K",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/14L",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15d",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15e",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/150",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/153",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/14P",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14V",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/14Q",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14T",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/14N",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15r",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Machine Learning Backend Engineer (AML MLDev)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14R",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15o",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15a",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15v",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: LLM Backend Engineer (Applied Machine Learning)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15m",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/155",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Dev AI Software Engineer (Dev Infra US)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15b",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/154",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15s",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Research"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15w",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Backend Inference Runtime Engineer (AML Inference)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/14U",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Backend Inference Framework Engineer (AML Inference)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/152",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15z",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/15i",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15k",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "AI/ML"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15x",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15t",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: AI Agent Security Software Engineer (Security Engineering)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/15j",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "Security"
+  },
+  {
+   "company": "ByteDance",
+   "title": "New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Technology)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/158",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "New Grad 2027: ASIC Engineer I, Annapurna Labs",
+   "location": "Cupertino, CA",
+   "url": "https://go.vansh.nyc/17n",
+   "first_seen": "2026-11-01",
+   "posted": "2026-11-01",
+   "category": "SDE"
+  },
   {
    "company": "Roblox",
    "logo": "logos/roblox.com.png",
@@ -799,16 +2262,6 @@
    "title": "Forward Deployed Software Engineer - Recent Graduate - New York",
    "location": "New York City, NY",
    "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -4814,16 +6267,6 @@
    "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/referral19/job/Bellevue-Washington/Software-Engineer--Level-3_R0044231-1",
    "first_seen": "2026-10-13",
    "posted": "2026-10-03",
-   "category": "SDE"
-  },
-  {
-   "company": "CoStar Group",
-   "logo": "logos/costargroup.com.png",
-   "title": "New Grad 2027: Associate Embedded Software Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://go.vansh.nyc/Id",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-02",
    "category": "SDE"
   },
   {

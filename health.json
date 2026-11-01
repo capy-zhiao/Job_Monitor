@@ -149,9 +149,10 @@
   "last_ok": "2026-11-01"
  },
  "Citylogix": {
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "HTTP Error 404: Not Found",
-  "last_ok": "2026-10-31"
+  "last_ok": "2026-10-31",
+  "reported_fail": true
  },
  "Cloudflare": {
   "fail_runs": 0,
@@ -560,7 +561,7 @@
   "last_ok": "2026-11-01"
  },
  "SAP": {
-  "fail_runs": 69,
+  "fail_runs": 70,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
