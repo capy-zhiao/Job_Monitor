@@ -149,7 +149,7 @@
   "last_ok": "2026-11-01"
  },
  "Citylogix": {
-  "fail_runs": 1,
+  "fail_runs": 2,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31"
  },
@@ -560,7 +560,7 @@
   "last_ok": "2026-11-01"
  },
  "SAP": {
-  "fail_runs": 68,
+  "fail_runs": 69,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
