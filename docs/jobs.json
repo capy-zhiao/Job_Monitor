@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01 19:25 UTC",
- "count": 944,
+ "generated_at": "2026-11-01 22:58 UTC",
+ "count": 943,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -1572,6 +1572,16 @@
    "url": "https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering",
    "first_seen": "2026-10-31",
    "posted": "2026-10-31",
+   "category": "SDE"
+  },
+  {
+   "company": "Genesys",
+   "logo": "logos/genesys.com.png",
+   "title": "Associate Software Developer in Test",
+   "location": "Toronto, Canada",
+   "url": "https://go.vansh.nyc/194",
+   "first_seen": "2026-11-01",
+   "posted": "2026-10-30",
    "category": "SDE"
   },
   {
@@ -6306,26 +6316,6 @@
    "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
    "location": "Longueuil, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
-   "first_seen": "2026-10-02",
-   "posted": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Harvey",
-   "logo": "logos/harvey.ai.png",
-   "title": "Software Engineer New Grad",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
-   "first_seen": "2026-10-02",
-   "posted": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Harvey",
-   "logo": "logos/harvey.ai.png",
-   "title": "Software Engineer New Grad",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
    "first_seen": "2026-10-02",
    "posted": "2026-10-02",
    "category": "SDE"
