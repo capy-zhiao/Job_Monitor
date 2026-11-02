@@ -150,7 +150,7 @@
   "last_ok": "2026-11-02"
  },
  "Citylogix": {
-  "fail_runs": 7,
+  "fail_runs": 8,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31",
   "reported_fail": true
@@ -233,7 +233,8 @@
   "last_ok": "2026-11-02"
  },
  "Equitable Bank": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "The read operation timed out",
   "last_ok": "2026-11-02"
  },
  "Ericsson": {
@@ -412,7 +413,7 @@
   "last_ok": "2026-11-02"
  },
  "Microsoft (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-02"
  },
@@ -562,7 +563,7 @@
   "last_ok": "2026-11-02"
  },
  "SAP": {
-  "fail_runs": 74,
+  "fail_runs": 75,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },

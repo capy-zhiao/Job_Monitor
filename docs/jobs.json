@@ -1,12 +1,60 @@
 {
- "generated_at": "2026-11-02 09:50 UTC",
- "count": 946,
+ "generated_at": "2026-11-02 20:03 UTC",
+ "count": 932,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 178
+  "responded": 176
  },
  "jobs": [
+  {
+   "company": "Verkada",
+   "title": "New Grad 2027: Backend Software Engineer",
+   "location": "San Mateo, CA",
+   "url": "https://go.vansh.nyc/19H",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Assistant·e aux opérations commerciales - Partenariats stratégiques et développement des affaires mobiles",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000159220709",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "Other"
+  },
+  {
+   "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
+   "title": "Software Engineer",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/607596217/",
+   "first_seen": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "PointClickCare",
+   "logo": "logos/pointclickcare.com.png",
+   "title": "Int Database Reliability Engineer (DBRE)",
+   "location": "Remote or Mississauga",
+   "url": "https://jobs.lever.co/pointclickcare/44f485fb-6d6f-44ed-a034-bb823a5caf1e",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/fe65e8d3-3273-4a0a-97ad-e4f0a1ca89a0",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
   {
    "company": "Google",
    "logo": "logos/google.com.png",
@@ -24,6 +72,56 @@
    "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
    "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2028996",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Development Engineer, Robotics",
+   "location": "Austin, TX; Bellevue, WA; North Reading, MA; Westborough, MA",
+   "url": "https://go.vansh.nyc/19D",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Amazon",
+   "logo": "logos/amazon.com.png",
+   "title": "Software Development Engineer, AWS Data Services",
+   "location": "Seattle, WA",
+   "url": "https://go.vansh.nyc/19E",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "BMO",
+   "logo": "logos/bmo.com.png",
+   "title": "GenAI Software Developer",
+   "location": "Calgary, AB, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
+   "first_seen": "2026-10-05",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
+   "first_seen": "2026-09-23",
    "posted": "2026-11-02",
    "category": "SDE"
   },
@@ -1624,16 +1722,6 @@
    "category": "SDE"
   },
   {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Hardware Development Engineer 1 - Drone Engineering",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering",
-   "first_seen": "2026-10-31",
-   "posted": "2026-10-31",
-   "category": "SDE"
-  },
-  {
    "company": "Capital One",
    "logo": "logos/capitalone.com.png",
    "title": "Associate - Software Engineer - New Grad Card Expansion",
@@ -1892,16 +1980,6 @@
    "category": "SDE"
   },
   {
-   "company": "Capital One",
-   "logo": "logos/capitalone.com.png",
-   "title": "Associate, Software Engineer, New Grad Card Expansion",
-   "location": "Toronto, ON",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-   "first_seen": "2026-10-02",
-   "posted": "2026-10-30",
-   "category": "SDE"
-  },
-  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "Photonic Card Software Developer - New Grad",
@@ -2072,16 +2150,6 @@
    "title": "Junior Software Engineer",
    "location": "New York City, NY",
    "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline/job/New-York/Junior-Software-Engineer_R5885",
-   "first_seen": "2026-10-29",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/6d6cf597-2b17-471f-91f3-02521705b683",
    "first_seen": "2026-10-29",
    "posted": "2026-10-29",
    "category": "SDE"
@@ -2284,16 +2352,6 @@
    "title": "Forward Deployed Software Engineer - Recent Graduate - New York",
    "location": "New York City, NY",
    "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -3315,15 +3373,6 @@
    "category": "SDE"
   },
   {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Electronics Engineer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/323",
-   "first_seen": "2026-10-23",
-   "category": "SDE"
-  },
-  {
    "company": "Asana",
    "logo": "logos/asana.com.png",
    "title": "Software Engineer, AI",
@@ -3422,26 +3471,6 @@
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "Other"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Developer Interfaces - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39",
-   "first_seen": "2026-10-23",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Credential Brokering - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba",
-   "first_seen": "2026-10-23",
-   "posted": "2026-10-23",
-   "category": "SDE"
   },
   {
    "company": "Cisco",
@@ -3727,66 +3756,6 @@
    "title": "Security Intern, Threat Operations - Winter 2027",
    "location": "Remote (United States | Canada)",
    "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "Security"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Vault Team - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Provisioning - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Machine Identity - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Front-End Platform - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Extension Excellence - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Developer Intern, Data Security - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
    "first_seen": "2026-10-22",
    "posted": "2026-10-22",
    "category": "Security"
@@ -4807,26 +4776,6 @@
    "category": "Research"
   },
   {
-   "company": "Equitable Bank",
-   "logo": "logos/equitablebank.ca.png",
-   "title": "AV & Event Production Engineer",
-   "location": "Toronto",
-   "url": "https://jobs.lever.co/eqbank/618de7c9-517a-423f-b5fd-3e75edf989d3",
-   "first_seen": "2026-10-15",
-   "posted": "2026-10-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Equitable Bank",
-   "logo": "logos/equitablebank.ca.png",
-   "title": "AI Solutions Engineer, Technology Workplace Services",
-   "location": "Toronto",
-   "url": "https://jobs.lever.co/eqbank/a20b80c5-53c4-4c34-b8de-c6d9208994a6",
-   "first_seen": "2026-10-15",
-   "posted": "2026-10-15",
-   "category": "SDE"
-  },
-  {
    "company": "Affirm",
    "logo": "logos/affirm.com.png",
    "title": "Software Engineer I, Fullstack (Search)",
@@ -5076,7 +5025,7 @@
    "company": "Gaiia",
    "logo": "logos/gaiia.com.png",
    "title": "Forward Deployed Engineer (FDE)",
-   "location": "Remote (United States); Remote (Canada)",
+   "location": "Remote (Canada); Remote (United States)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/56e20470-0648-4e6a-a2c4-acf907196110",
    "first_seen": "2026-10-14",
    "category": "SDE"
@@ -5703,6 +5652,16 @@
    "category": "SDE"
   },
   {
+   "company": "EQ Bank",
+   "logo": "logos/equitablebank.ca.png",
+   "title": "Intern - Software Engineer - Winter 2027",
+   "location": "Toronto, Canada",
+   "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
+   "first_seen": "2026-10-13",
+   "posted": "2026-10-09",
+   "category": "SDE"
+  },
+  {
    "company": "Chalk",
    "logo": "logos/chalk.ai.png",
    "title": "Software Engineer - New Grad",
@@ -5890,16 +5849,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-10-08",
    "category": "Security"
-  },
-  {
-   "company": "Equitable Bank",
-   "logo": "logos/equitablebank.ca.png",
-   "title": "Intern - Software Engineer, Winter 2027",
-   "location": "Toronto",
-   "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
-   "first_seen": "2026-10-13",
-   "posted": "2026-10-08",
-   "category": "SDE"
   },
   {
    "company": "TikTok",
@@ -6281,24 +6230,6 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer, Payments Integration & Modernization",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Payments-Integration-&-Modernization-ON-M1L4S2/604174617/",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Junior Software Engineer-Global Payments Engineering",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Junior-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/604174217/",
-   "first_seen": "2026-10-04",
-   "category": "SDE"
-  },
-  {
    "company": "Harvey",
    "logo": "logos/harvey.ai.png",
    "title": "Software Engineer, New Grad (2027)",
@@ -6374,16 +6305,6 @@
    "title": "SVT/PV Engineer 1 - New Grad",
    "location": "Ottawa",
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
-   "first_seen": "2026-09-23",
-   "posted": "2026-10-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded software engineer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
    "first_seen": "2026-09-23",
    "posted": "2026-10-02",
    "category": "SDE"
@@ -6667,16 +6588,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Applied Scientist, Alexa Connections",
-   "location": "CA, BC, Vancouver",
-   "url": "https://www.amazon.jobs/en/jobs/10557194/applied-scientist-alexa-connections",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "AI/ML"
-  },
-  {
    "company": "AMD",
    "logo": "logos/amd.com.png",
    "title": "Software Development Engineer (Chip Product Security)",
@@ -6691,16 +6602,6 @@
    "title": "Développeur(euse) logiciel / Software Developer - Dynamics / Power Platform",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/598A4437BD/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-22",
-   "category": "SDE"
-  },
-  {
-   "company": "Equitable Bank",
-   "logo": "logos/equitablebank.ca.png",
-   "title": "Cloud Platform Engineer",
-   "location": "Toronto",
-   "url": "https://jobs.lever.co/eqbank/da76d8af-459d-432b-8a97-0090ac2593df",
    "first_seen": "2026-10-13",
    "posted": "2026-09-22",
    "category": "SDE"
@@ -6900,26 +6801,6 @@
    "first_seen": "2026-09-15",
    "posted": "2026-09-15",
    "category": "SDE"
-  },
-  {
-   "company": "Equitable Bank",
-   "logo": "logos/equitablebank.ca.png",
-   "title": "Intern - Retail Lending AI Engineer, Winter 2027",
-   "location": "Toronto",
-   "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-14",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Equitable Bank",
-   "logo": "logos/equitablebank.ca.png",
-   "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
-   "location": "Toronto",
-   "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-14",
-   "category": "AI/ML"
   },
   {
    "company": "DoorDash Canada",
@@ -7200,16 +7081,6 @@
    "first_seen": "2026-10-20",
    "posted": "2026-09-04",
    "category": "Other"
-  },
-  {
-   "company": "Valsoft Corporation",
-   "logo": "logos/valsoftcorp.com.png",
-   "title": "Directeur·rice des produits et de l'ingénierie | Head of Product and Engineering",
-   "location": "Remote; Montreal, Quebec, Canada; Trois-Rivières, Quebec, Canada",
-   "url": "https://apply.workable.com/valsoft-corp/j/B861A5DF14/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-04",
-   "category": "SDE"
   },
   {
    "company": "General Dynamics Mission Systems Canada",
@@ -7888,16 +7759,6 @@
    "url": "https://job-boards.greenhouse.io/drweng/jobs/7991196",
    "first_seen": "2026-10-13",
    "posted": "2026-07-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Magnet Forensics",
-   "logo": "logos/magnetforensics.com.png",
-   "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
-   "location": "Waterloo, Ontario",
-   "url": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b",
-   "first_seen": "2026-09-01",
-   "posted": "2026-07-10",
    "category": "SDE"
   },
   {
