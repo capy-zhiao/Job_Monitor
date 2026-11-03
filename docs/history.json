@@ -757,11 +757,11 @@
 },
 {
 "date": "2026-11-03",
-"total": 941,
-"ca": 489,
+"total": 952,
+"ca": 492,
 "by": {
 "Other": 56,
-"SDE": 646,
+"SDE": 657,
 "AI/ML": 142,
 "Security": 41,
 "Research": 56
