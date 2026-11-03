@@ -757,13 +757,13 @@
 },
 {
 "date": "2026-11-03",
-"total": 944,
-"ca": 491,
+"total": 941,
+"ca": 489,
 "by": {
-"SDE": 651,
-"AI/ML": 141,
+"Other": 56,
+"SDE": 646,
+"AI/ML": 142,
 "Security": 41,
-"Other": 55,
 "Research": 56
 }
 }

@@ -1,12 +1,22 @@
 {
- "generated_at": "2026-11-03 09:54 UTC",
- "count": 944,
+ "generated_at": "2026-11-03 17:38 UTC",
+ "count": 941,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 176
+  "responded": 178
  },
  "jobs": [
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Online Game Programmer (Rainbow Six)",
+   "location": "Saguenay, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000159397829",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "Other"
+  },
   {
    "company": "Shield",
    "title": "New Grad: Software Engineer I",
@@ -17,11 +27,60 @@
    "category": "SDE"
   },
   {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering SMTS",
+   "location": "Canada - Vancouver",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR364997",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
    "company": "Rothera",
    "title": "Associate Software Engineer",
    "location": "Chicago, IL; New York, NY",
    "url": "https://go.vansh.nyc/1bF",
    "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Robinhood",
+   "logo": "logos/robinhood.com.png",
+   "title": "Software Engineer, International Expansion",
+   "location": "Toronto, Canada",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/2cfd86a9-53cd-46c4-9c3a-345e65d60a46",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Capgemini",
+   "title": "Campus 1&D: Associate Application Consultant",
+   "location": "Mississauga, ON, Canada",
+   "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "Other"
+  },
+  {
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "Quality Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I_R_1501547",
+   "first_seen": "2026-09-18",
    "posted": "2026-11-03",
    "category": "SDE"
   },
@@ -125,7 +184,7 @@
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
-   "location": "Canada; Vancouver, BC, Canada",
+   "location": "Canada, British Columbia, Vancouver",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
@@ -170,30 +229,11 @@
    "category": "Other"
   },
   {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5H 1H1",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H-1H1/607596217/",
-   "first_seen": "2026-11-02",
-   "category": "SDE"
-  },
-  {
    "company": "PointClickCare",
    "logo": "logos/pointclickcare.com.png",
    "title": "Int Database Reliability Engineer (DBRE)",
    "location": "Remote or Mississauga",
    "url": "https://jobs.lever.co/pointclickcare/44f485fb-6d6f-44ed-a034-bb823a5caf1e",
-   "first_seen": "2026-11-02",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/fe65e8d3-3273-4a0a-97ad-e4f0a1ca89a0",
    "first_seen": "2026-11-02",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -1885,16 +1925,6 @@
    "category": "SDE"
   },
   {
-   "company": "Genesys",
-   "logo": "logos/genesys.com.png",
-   "title": "Associate Software Developer in Test",
-   "location": "Toronto, Canada",
-   "url": "https://go.vansh.nyc/194",
-   "first_seen": "2026-11-01",
-   "posted": "2026-10-30",
-   "category": "SDE"
-  },
-  {
    "company": "Wise",
    "title": "New Grad 2027: Product Analyst",
    "location": "Austin, TX",
@@ -2245,15 +2275,6 @@
    "title": "Backend Software Engineer",
    "location": "SF",
    "url": "https://apply.workable.com/raydar/j/9DFE631308/apply",
-   "first_seen": "2026-10-30",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
-   "company": "RTX",
-   "title": "Software Engineer 1",
-   "location": "San Jose, CA",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857",
    "first_seen": "2026-10-30",
    "posted": "2026-10-29",
    "category": "SDE"
@@ -4493,16 +4514,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cenovus Energy",
-   "logo": "logos/cenovus.com.png",
-   "title": "Process Data Solutions New Grad",
-   "location": "Calgary, AB, Canada",
-   "url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-19",
-   "category": "Other"
-  },
-  {
    "company": "eClerx",
    "logo": "logos/eclerx.com.png",
    "title": "Software Engineer",
@@ -4530,14 +4541,6 @@
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
    "first_seen": "2026-10-19",
    "category": "Security"
-  },
-  {
-   "company": "Evertz",
-   "title": "AV Service Engineer — Control Systems & Device Integration",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/KcF3gFLXtu/AV-Service-Engineer-Control-Systems-Device-Integration",
-   "first_seen": "2026-10-19",
-   "category": "SDE"
   },
   {
    "company": "Applied Materials",
@@ -5474,7 +5477,7 @@
   },
   {
    "company": "Evertz",
-   "title": "AV Service Engineer — Control Systems & Device Integration",
+   "title": "AV Service Engineer, Control Systems & Device Integration",
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/crXg9i5iKx/AV-Service-Engineer-Control-Systems-Device-Integration",
    "first_seen": "2026-10-13",
@@ -6095,16 +6098,6 @@
    "category": "SDE"
   },
   {
-   "company": "Robinhood",
-   "logo": "logos/robinhood.com.png",
-   "title": "Software Engineer, Web3 Backend",
-   "location": "Toronto, Canada",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src=&gh_jid=8258307",
-   "first_seen": "2026-10-07",
-   "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
    "company": "Otter.ai",
    "logo": "logos/otter.ai.png",
    "title": "Software Engineer New Grad - Front-End",
@@ -6316,20 +6309,10 @@
   {
    "company": "Scotiabank",
    "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer",
+   "title": "Software Engineer (Java / Python)",
    "location": "Toronto, ON, CA, M5H4A6",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5H4A6/606726317/",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Java-Python%29-ON-M5H4A6/606726317/",
    "first_seen": "2026-10-05",
-   "category": "SDE"
-  },
-  {
-   "company": "Fellow Insights",
-   "logo": "logos/fellow.app.jpg",
-   "title": "New Grad 2027: Software Engineer",
-   "location": "Ottawa, Canada",
-   "url": "https://go.vansh.nyc/If",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-04",
    "category": "SDE"
   },
   {
@@ -6421,6 +6404,15 @@
    "first_seen": "2026-10-02",
    "posted": "2026-10-02",
    "category": "SDE"
+  },
+  {
+   "company": "AMD",
+   "logo": "logos/amd.com.png",
+   "title": "Software Engineer, AI & Engineering Productivity Tools",
+   "location": "MARKHAM, Ontario, Canada",
+   "url": "https://careers.amd.com/careers-home/jobs/93156",
+   "first_seen": "2026-10-02",
+   "category": "AI/ML"
   },
   {
    "company": "Huawei",
@@ -6845,16 +6837,6 @@
    "location": "Québec City, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/F6D9FBF777/",
    "first_seen": "2026-10-13",
-   "posted": "2026-09-15",
-   "category": "SDE"
-  },
-  {
-   "company": "Waabi",
-   "logo": "logos/waabi.ai.jpg",
-   "title": "Software Engineer, Commercial Software",
-   "location": "Toronto, ON",
-   "url": "https://jobs.lever.co/waabi/6bcfed90-b577-4b09-a893-5c07186a1e0f",
-   "first_seen": "2026-09-15",
    "posted": "2026-09-15",
    "category": "SDE"
   },
@@ -8002,16 +7984,6 @@
    "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23300",
    "first_seen": "2026-09-01",
    "posted": "2026-06-17",
-   "category": "SDE"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Spécialiste en tests logiciels / Software Test Specialist - Access Control",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/D4C316814C/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-06-16",
    "category": "SDE"
   },
   {
