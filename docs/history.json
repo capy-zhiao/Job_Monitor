@@ -754,5 +754,17 @@
 "Research": 56,
 "Security": 40
 }
+},
+{
+"date": "2026-11-03",
+"total": 947,
+"ca": 494,
+"by": {
+"SDE": 651,
+"AI/ML": 143,
+"Security": 41,
+"Other": 56,
+"Research": 56
+}
 }
 ]
