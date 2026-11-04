@@ -148,7 +148,7 @@
   "last_ok": "2026-11-04"
  },
  "Citylogix": {
-  "fail_runs": 15,
+  "fail_runs": 16,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31",
   "reported_fail": true
@@ -449,7 +449,7 @@
   "last_ok": "2026-11-04"
  },
  "Netflix": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: TOO MANY REQUESTS",
   "last_ok": "2026-11-04"
  },
@@ -561,7 +561,7 @@
   "last_ok": "2026-11-04"
  },
  "SAP": {
-  "fail_runs": 82,
+  "fail_runs": 83,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
