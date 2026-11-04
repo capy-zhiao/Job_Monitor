@@ -770,12 +770,12 @@
 {
 "date": "2026-11-04",
 "total": 960,
-"ca": 493,
+"ca": 492,
 "by": {
-"SDE": 664,
+"SDE": 665,
 "Research": 57,
 "AI/ML": 143,
-"Other": 55,
+"Other": 54,
 "Security": 41
 }
 }

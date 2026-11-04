@@ -150,7 +150,7 @@
   "last_ok": "2026-11-04"
  },
  "Citylogix": {
-  "fail_runs": 13,
+  "fail_runs": 14,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31",
   "reported_fail": true
@@ -408,12 +408,12 @@
   "last_ok": "2026-11-04"
  },
  "Microsoft": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-04"
  },
  "Microsoft (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-04"
  },
@@ -563,7 +563,7 @@
   "last_ok": "2026-11-04"
  },
  "SAP": {
-  "fail_runs": 80,
+  "fail_runs": 81,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
