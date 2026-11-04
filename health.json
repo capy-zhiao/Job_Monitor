@@ -69,11 +69,9 @@
   "last_ok": "2026-11-04"
  },
  "Autodesk": {
-  "empty_since": "2026-10-30",
   "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-04",
-  "reported_empty": true
+  "last_ok": "2026-11-04"
  },
  "Auvik": {
   "fail_runs": 0,
@@ -150,7 +148,7 @@
   "last_ok": "2026-11-04"
  },
  "Citylogix": {
-  "fail_runs": 14,
+  "fail_runs": 15,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31",
   "reported_fail": true
@@ -408,12 +406,12 @@
   "last_ok": "2026-11-04"
  },
  "Microsoft": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-04"
  },
  "Microsoft (Security)": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-04"
  },
@@ -563,7 +561,7 @@
   "last_ok": "2026-11-04"
  },
  "SAP": {
-  "fail_runs": 81,
+  "fail_runs": 82,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },

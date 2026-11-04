@@ -1,12 +1,22 @@
 {
- "generated_at": "2026-11-04 09:57 UTC",
+ "generated_at": "2026-11-04 17:54 UTC",
  "count": 960,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 176
+  "responded": 178
  },
  "jobs": [
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/9c23789c-8850-4fd1-bdd4-1715db4da5f3",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
   {
    "company": "Nooks",
    "title": "Software Engineer",
@@ -23,6 +33,62 @@
    "url": "https://go.vansh.nyc/1g9",
    "first_seen": "2026-11-04",
    "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Kraken Robotics",
+   "logo": "logos/krakenrobotics.com.png",
+   "title": "Manufacturing Engineering Technologist",
+   "location": "Dartmouth, Canada",
+   "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/0a4de77d-44e4-4a54-b6a1-c50eb65e0598",
+   "first_seen": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Infoblox",
+   "title": "Associate Software Engineer",
+   "location": "Burnaby, Canada",
+   "url": "https://go.vansh.nyc/1gv",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Working Level Systems Engineer – ISTAR",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000159684389",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Junior Systems Engineer – ISTAR",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000159681119",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "Production Engineer",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/bZcBJfDPB8/Production-Engineer",
+   "first_seen": "2026-11-04",
    "category": "SDE"
   },
   {
@@ -59,6 +125,16 @@
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3",
    "first_seen": "2026-11-03",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "CrowdStrike",
+   "logo": "logos/crowdstrike.com.png",
+   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
+   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
+   "first_seen": "2026-11-02",
    "posted": "2026-11-04",
    "category": "SDE"
   },
@@ -129,6 +205,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "Video/Image AI/ML Software Engineer Graduate - Video and Edge - Multimedia Lab",
    "location": "San Jose, CA",
    "url": "https://jobs.bytedance.com/en/position/7704089625815468293/detail",
@@ -226,16 +303,6 @@
    "title": "Software Engineer, International Expansion",
    "location": "Toronto, Canada",
    "url": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/2cfd86a9-53cd-46c4-9c3a-345e65d60a46",
    "first_seen": "2026-11-03",
    "posted": "2026-11-03",
    "category": "SDE"
@@ -492,7 +559,7 @@
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
-   "location": "Canada; Vancouver, BC, Canada",
+   "location": "Canada, British Columbia, Vancouver",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
@@ -552,16 +619,6 @@
    "title": "Software Engineer 2 – Early Career",
    "location": "Palo Alto, CA; Madison, WI; Seattle, WA; LA; Raleigh, NC; San Bruno, CA; Durham, NC; Pittsburgh, PA; Kirkland, WA; NYC; Sunnyvale, CA; Mountain View, CA",
    "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
-   "first_seen": "2026-11-02",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "CrowdStrike",
-   "logo": "logos/crowdstrike.com.png",
-   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
-   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
-   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
    "first_seen": "2026-11-02",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -1219,16 +1276,6 @@
   {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Machine Learning Engineer (App Ads and Gaming)",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/16S",
-   "first_seen": "2026-11-01",
-   "posted": "2026-11-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
    "title": "New Grad 2027: Machine Learning Engineer (Ads Targeting)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/16C",
@@ -1558,6 +1605,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14X",
@@ -1567,6 +1615,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Visual Generation & Multimodal Evaluation Machine Learning Engineer",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/15h",
@@ -1576,6 +1625,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Test Software Engineer, Douyin Research and Development Middle Platform",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15C",
@@ -1585,6 +1635,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer, Traffic Infrastructure",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15D",
@@ -1594,6 +1645,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer, AML-Engine-Orchestration",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/14W",
@@ -1603,6 +1655,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer, AI Infra Compute (Master's)",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/15p",
@@ -1612,6 +1665,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/151",
@@ -1621,6 +1675,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer (Data-Infrastructure-Network-Application Network-Global Traffic Architecture)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14O",
@@ -1630,6 +1685,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer (AML-Engine-Orchestration)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14Y",
@@ -1639,6 +1695,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer (AML-Engine-Forge Platform)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15f",
@@ -1648,6 +1705,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling)",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/15l",
@@ -1657,6 +1715,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Engineer (AI Infrastructure — Compute Efficiency & Scheduling)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15g",
@@ -1666,6 +1725,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Software Development Engineer (Intent-Based Networking)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15B",
@@ -1675,6 +1735,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Site Reliability Graduate (Data Infrastructure)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15y",
@@ -1684,6 +1745,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist, Seed Model-Alignment&Preparedness",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14H",
@@ -1693,6 +1755,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist, Seed Model - Vision",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14S",
@@ -1702,6 +1765,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/14I",
@@ -1711,6 +1775,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist, Seed Model - AI Foundation Model Infrastructure",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14J",
@@ -1720,6 +1785,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist (Seed Model - Speech)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/157",
@@ -1729,6 +1795,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist (Seed Model - Multimodal Interaction & World Model)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14Z",
@@ -1738,6 +1805,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist (Seed Model - LLM)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14M",
@@ -1747,6 +1815,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Research Scientist (ML Recommendation Systems)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15c",
@@ -1756,6 +1825,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Production System Engineer (Server Management)",
    "location": "New York, NY",
    "url": "https://go.vansh.nyc/156",
@@ -1765,6 +1835,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Production System Engineer (Server Management)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15q",
@@ -1774,6 +1845,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Product Security Engineer (Security BP)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15n",
@@ -1783,6 +1855,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Network Engineer, Physical Network Infra",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15A",
@@ -1792,6 +1865,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14K",
@@ -1801,6 +1875,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/14L",
@@ -1810,6 +1885,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15d",
@@ -1819,6 +1895,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/15e",
@@ -1828,6 +1905,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/150",
@@ -1837,6 +1915,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/153",
@@ -1846,6 +1925,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/14P",
@@ -1855,6 +1935,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Machine Learning System Scheduling Engineer (Applied Machine Learning)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14V",
@@ -1864,6 +1945,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/14Q",
@@ -1873,6 +1955,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Risk Control",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14T",
@@ -1882,6 +1965,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Machine Learning Engineer, AML-Engine-Orchestration",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/14N",
@@ -1891,6 +1975,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Machine Learning Engineer (AML-Engine-Orchestration)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15r",
@@ -1900,6 +1985,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Machine Learning Backend Engineer (AML MLDev)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14R",
@@ -1909,6 +1995,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15o",
@@ -1918,6 +2005,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15a",
@@ -1927,6 +2015,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: LLM/AI Ops Development Engineer (Data Center Networking)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15v",
@@ -1936,6 +2025,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: LLM Backend Engineer (Applied Machine Learning)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15m",
@@ -1945,6 +2035,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Infrastructure Delivery Engineer (Server Delivery)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/155",
@@ -1954,6 +2045,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Dev AI Software Engineer (Dev Infra US)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15b",
@@ -1963,6 +2055,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/154",
@@ -1972,6 +2065,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Data Lake Infrastructure & Data Analytics Research Engineer (AML-Ark-US)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15s",
@@ -1981,6 +2075,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15w",
@@ -1990,6 +2085,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Backend Inference Runtime Engineer (AML Inference)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/14U",
@@ -1999,6 +2095,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Backend Inference Framework Engineer (AML Inference)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/152",
@@ -2008,6 +2105,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Backend Development Engineer (Infrastructure Platform Delivery)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15z",
@@ -2017,6 +2115,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/15i",
@@ -2026,6 +2125,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: Agent Evaluation & Evolution Machine Learning Engineer",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15k",
@@ -2035,6 +2135,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP) (Master's)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15x",
@@ -2044,6 +2145,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: ASIC Design Engineer (Video Silicon IP)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15t",
@@ -2053,6 +2155,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: AI Agent Security Software Engineer (Security Engineering)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15j",
@@ -2062,6 +2165,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "New Grad 2027: 3D Graphics Innovation Engineer (PICO Foundation-Developer Technology)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/158",
@@ -2368,7 +2472,7 @@
   {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
-   "title": "Spécialiste infrastructure didacticiels & DevOp / Courseware & DevOps Specialist",
+   "title": "Spécialiste en infrastructure nuage & DevOps / Cloud Infrastructure & DevOps",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/4E4CF91CE8/",
    "first_seen": "2026-10-30",
@@ -2736,16 +2840,6 @@
    "title": "Software Engineer, Back-End (Superhuman Mail) - Canada",
    "location": "Remote - Canada",
    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/f5fbe278-477e-4afe-adab-fdccee4f224d",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "StackAdapt",
-   "logo": "logos/stackadapt.com.png",
-   "title": "DevOps Engineer (Services Team)",
-   "location": "Canada",
-   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4470989009",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -3207,16 +3301,6 @@
    "title": "Junior Software Engineer - Emergency Call Handling",
    "location": "Gatineau, Canada +1",
    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-27",
-   "category": "SDE"
-  },
-  {
-   "company": "Motive",
-   "logo": "logos/gomotive.com.png",
-   "title": "Solutions Engineer, Mid-Market (Canada)",
-   "location": "Canada - Remote",
-   "url": "https://job-boards.greenhouse.io/gomotive/jobs/8855798002",
    "first_seen": "2026-10-27",
    "posted": "2026-10-27",
    "category": "SDE"
@@ -3742,6 +3826,7 @@
   },
   {
    "company": "ByteDance",
+   "logo": "logos/bytedance.com.png",
    "title": "Research Scientist New Grad - Video and Edge - Multimedia Lab",
    "location": "San Jose, CA",
    "url": "https://jobs.bytedance.com/en/position/7670374385110599989/detail",
@@ -4739,7 +4824,7 @@
    "company": "Kraken Robotics",
    "logo": "logos/krakenrobotics.com.png",
    "title": "Cybersecurity Specialist",
-   "location": "Mount Pearl, Canada; Houston, TX, United States; Dartmouth, Canada; Longmont, CO, United States",
+   "location": "Houston, TX, United States; Longmont, CO, United States; Dartmouth, Canada; Mount Pearl, Canada",
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
    "first_seen": "2026-10-19",
    "category": "Security"
@@ -5604,14 +5689,6 @@
    "url": "https://evertz.applytojob.com/apply/I9TgZD20Oa/Security-Software-Developer",
    "first_seen": "2026-10-13",
    "category": "Security"
-  },
-  {
-   "company": "Evertz",
-   "title": "Production Engineer",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/6JgTZQFHrV/Production-Engineer",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
   },
   {
    "company": "Evertz",
@@ -9159,16 +9236,6 @@
    "category": "Research"
   },
   {
-   "company": "Tenstorrent",
-   "logo": "logos/tenstorrent.com.png",
-   "title": "Software Engineer, TT-Distributed",
-   "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
-   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4711506007",
-   "first_seen": "2026-09-01",
-   "posted": "2025-04-20",
-   "category": "SDE"
-  },
-  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "Researcher – Computer Vision and Autonomous Driving",
@@ -9177,16 +9244,6 @@
    "first_seen": "2026-09-01",
    "posted": "2025-04-11",
    "category": "Research"
-  },
-  {
-   "company": "Tenstorrent",
-   "logo": "logos/tenstorrent.com.png",
-   "title": "Software Engineer, TT-Fabric ",
-   "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
-   "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4645584007",
-   "first_seen": "2026-09-01",
-   "posted": "2025-03-15",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
@@ -9232,7 +9289,7 @@
    "company": "Tenstorrent",
    "logo": "logos/tenstorrent.com.png",
    "title": "Software Engineer, Scale Out",
-   "location": "Toronto, Ontario, Canada",
+   "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4484179007",
    "first_seen": "2026-09-01",
    "posted": "2024-08-19",
