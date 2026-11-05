@@ -1,18 +1,76 @@
 {
- "generated_at": "2026-11-05 11:33 UTC",
- "count": 969,
+ "generated_at": "2026-11-05 19:01 UTC",
+ "count": 972,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 175
+  "responded": 176
  },
  "jobs": [
+  {
+   "company": "Tailscale",
+   "logo": "logos/tailscale.com.png",
+   "title": "Security Software Engineer",
+   "location": "Remote (Canada)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4733116005",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "Security"
+  },
+  {
+   "company": "TD Bank",
+   "title": "Associate Software Engineer",
+   "location": "London, ON, Canada",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer_R_1520502",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "Associate Software Engineer",
+   "location": "London, Ontario; Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer_R_1520502",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "StubHub",
+   "title": "New Grad: Software Engineer I, Consumer Experience",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/1iQ",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/e076b2dd-34bd-4ca8-91a5-297cf41e7d66",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
   {
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Genetec",
+   "logo": "logos/genetec.com.png",
+   "title": "Développeur(euse) logiciel / Software Developer - C# / .NET / React",
+   "location": "Brossard, Quebec, Canada",
+   "url": "https://apply.workable.com/genetec-inc/j/B06F3A67C4/",
    "first_seen": "2026-11-05",
    "posted": "2026-11-05",
    "category": "SDE"
@@ -68,6 +126,45 @@
    "title": "Software Engineer Full Stack / Backend 1",
    "location": "Austin, TX",
    "url": "https://careers.cisco.com/global/en/job/2028784",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Software Design/Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Software Design/Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "New Grad: Software Design/Engineer",
+   "location": "Ottawa, Canada",
+   "url": "https://go.vansh.nyc/1iK",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "CACI",
+   "title": "Junior Software Developer",
+   "location": "Remote in USA",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685",
    "first_seen": "2026-11-05",
    "posted": "2026-11-05",
    "category": "SDE"
@@ -186,16 +283,6 @@
    "title": "Software Engineer - Engine Productivity",
    "location": "San Mateo, CA",
    "url": "https://careers.roblox.com/jobs/8325759?gh_jid=8325759",
-   "first_seen": "2026-11-04",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/9c23789c-8850-4fd1-bdd4-1715db4da5f3",
    "first_seen": "2026-11-04",
    "posted": "2026-11-04",
    "category": "SDE"
@@ -557,16 +644,6 @@
    "category": "SDE"
   },
   {
-   "company": "Google",
-   "logo": "logos/google.com.png",
-   "title": "Software Developer II - Early Career",
-   "location": "Waterloo, Canada",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/93868335938052806",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
    "company": "General Dynamics Mission Systems",
    "title": "Entry Level Engineer - Systems - Software - Electrical - Mechanical - Manufacturing - Other",
    "location": "USA",
@@ -754,6 +831,16 @@
    "title": "Software Engineer",
    "location": "Canada; Vancouver, BC, Canada",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Google",
+   "logo": "logos/google.com.png",
+   "title": "Software Developer 2 – Early Career",
+   "location": "Montreal, QC, Canada; Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/93868335938052806",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -2586,16 +2673,6 @@
    "category": "Other"
   },
   {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "Software Engineering SMTS",
-   "location": "Canada - Toronto",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-SMTS_JR366363",
-   "first_seen": "2026-10-30",
-   "posted": "2026-10-30",
-   "category": "SDE"
-  },
-  {
    "company": "PayPal",
    "logo": "logos/paypal.com.png",
    "title": "Software Engineer",
@@ -3141,16 +3218,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "Software Developer - (Automations/ AI /Dev Ops)",
-   "location": "Mississauga, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Mississauga-ON-CAN/Software-Developer----Automations--AI--Dev-Ops-_R260022970",
-   "first_seen": "2026-10-19",
-   "posted": "2026-10-28",
-   "category": "AI/ML"
-  },
-  {
    "company": "Genetec",
    "logo": "logos/genetec.com.png",
    "title": "Développeur(euse) logiciel / Software Developer - Clearance",
@@ -3609,16 +3676,6 @@
    "title": "Software Engineer - Financial Systems",
    "location": "NYC",
    "url": "https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application?embed=true",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-26",
-   "category": "SDE"
-  },
-  {
-   "company": "Fortinet",
-   "logo": "logos/fortinet.com.png",
-   "title": "Early Careers: Software Development Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770",
    "first_seen": "2026-10-27",
    "posted": "2026-10-26",
    "category": "SDE"
@@ -4990,7 +5047,7 @@
    "company": "Kraken Robotics",
    "logo": "logos/krakenrobotics.com.png",
    "title": "Cybersecurity Specialist",
-   "location": "Houston, TX, United States; Longmont, CO, United States; Dartmouth, Canada; Mount Pearl, Canada",
+   "location": "Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada; Houston, TX, United States",
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
    "first_seen": "2026-10-19",
    "category": "Security"
@@ -5177,6 +5234,15 @@
    "first_seen": "2026-10-16",
    "posted": "2026-10-16",
    "category": "Other"
+  },
+  {
+   "company": "Shield AI",
+   "title": "Electrical Engineer 1 New Grad",
+   "location": "Seattle, WA",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6/application?embed=true",
+   "first_seen": "2026-11-05",
+   "posted": "2026-10-15",
+   "category": "SDE"
   },
   {
    "company": "VAST Data",
@@ -7694,16 +7760,6 @@
   {
    "company": "Lyft",
    "logo": "logos/lyft.com.png",
-   "title": "Software Engineer in Test, LUS",
-   "location": "Montreal, Canada",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002",
-   "first_seen": "2026-09-01",
-   "posted": "2026-08-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Lyft",
-   "logo": "logos/lyft.com.png",
    "title": "Android Software Engineer, Lyft Urban Solutions",
    "location": "Montreal, Canada",
    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
@@ -7719,16 +7775,6 @@
    "url": "https://jobs.apple.com/en-ca/details/200680212/software-development-engineer-in-test-creativity-apps-sdet?team=SFTWR",
    "first_seen": "2026-09-01",
    "posted": "2026-08-27",
-   "category": "SDE"
-  },
-  {
-   "company": "Valsoft Corporation",
-   "logo": "logos/valsoftcorp.com.png",
-   "title": "AI Engineer",
-   "location": "Remote; Canada",
-   "url": "https://apply.workable.com/valsoft-corp/j/48F3E57C7F/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-08-26",
    "category": "SDE"
   },
   {
@@ -7870,16 +7916,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-08-13",
    "category": "Other"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Software Engineer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000142893337",
-   "first_seen": "2026-10-14",
-   "posted": "2026-08-11",
-   "category": "SDE"
   },
   {
    "company": "General Dynamics Mission Systems Canada",
@@ -9219,16 +9255,6 @@
    "url": "https://huaweicanada.recruitee.com/o/researcher-efficient-architecture-for-llms",
    "first_seen": "2026-09-01",
    "posted": "2025-09-03",
-   "category": "AI/ML"
-  },
-  {
-   "company": "StackAdapt",
-   "logo": "logos/stackadapt.com.png",
-   "title": "Machine Learning Engineer ",
-   "location": "Alberta, Canada; British Columbia; Calgary, Alberta, Canada; California; New York; Ontario; Seattle; Toronto; Vancouver; Washington",
-   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4018063009",
-   "first_seen": "2026-10-14",
-   "posted": "2025-08-27",
    "category": "AI/ML"
   },
   {
