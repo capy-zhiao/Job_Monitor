@@ -782,12 +782,12 @@
 {
 "date": "2026-11-05",
 "total": 969,
-"ca": 492,
+"ca": 493,
 "by": {
-"SDE": 673,
+"SDE": 676,
 "Security": 44,
-"Research": 58,
-"AI/ML": 142,
+"Research": 57,
+"AI/ML": 140,
 "Other": 52
 }
 }
