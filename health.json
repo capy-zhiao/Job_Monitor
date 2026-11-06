@@ -149,7 +149,7 @@
   "last_ok": "2026-11-06"
  },
  "Citylogix": {
-  "fail_runs": 22,
+  "fail_runs": 23,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31",
   "reported_fail": true
@@ -522,7 +522,7 @@
   "last_ok": "2026-11-06"
  },
  "PointClickCare": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "The read operation timed out",
   "last_ok": "2026-11-06"
  },
@@ -563,7 +563,7 @@
   "last_ok": "2026-11-06"
  },
  "SAP": {
-  "fail_runs": 89,
+  "fail_runs": 90,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
