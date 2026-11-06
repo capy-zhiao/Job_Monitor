@@ -149,7 +149,7 @@
   "last_ok": "2026-11-06"
  },
  "Citylogix": {
-  "fail_runs": 20,
+  "fail_runs": 21,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-10-31",
   "reported_fail": true
@@ -407,12 +407,12 @@
   "last_ok": "2026-11-06"
  },
  "Microsoft": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-06"
  },
  "Microsoft (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-06"
  },
@@ -450,9 +450,9 @@
   "last_ok": "2026-11-06"
  },
  "Netflix": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: TOO MANY REQUESTS",
-  "last_ok": "2026-11-05"
+  "last_ok": "2026-11-06"
  },
  "Nokia": {
   "fail_runs": 0,
@@ -562,7 +562,7 @@
   "last_ok": "2026-11-06"
  },
  "SAP": {
-  "fail_runs": 87,
+  "fail_runs": 88,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },

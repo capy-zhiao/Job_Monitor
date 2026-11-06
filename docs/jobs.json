@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-06 00:06 UTC",
- "count": 975,
+ "generated_at": "2026-11-06 06:49 UTC",
+ "count": 977,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 176
  },
  "jobs": [
   {
@@ -12,6 +12,15 @@
    "title": "Software Developer 1",
    "location": "Toronto, Canada",
    "url": "https://job-boards.greenhouse.io/zyngacareers/jobs/6240735004",
+   "first_seen": "2026-11-06",
+   "posted": "2026-11-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Persimmons.ai",
+   "title": "New Grad: Design Verification Engineer",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/1jQ",
    "first_seen": "2026-11-06",
    "posted": "2026-11-06",
    "category": "SDE"
@@ -63,6 +72,24 @@
    "category": "SDE"
   },
   {
+   "company": "StubHub",
+   "title": "Software Engineer New Grad - Consumer Experience",
+   "location": "NYC",
+   "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101",
+   "first_seen": "2026-11-06",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "SpaceX",
+   "title": "Electrical Engineer New Grad - Multiple Teams",
+   "location": "Redmond, WA",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8931507002",
+   "first_seen": "2026-11-06",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
    "company": "SEI",
    "title": "Software Engineer",
    "location": "USA",
@@ -94,6 +121,15 @@
    "title": "Design Verification Engineer New Grad - AI-Driven",
    "location": "San Jose, CA",
    "url": "https://apply.workable.com/persimmons-ai/j/E8AF3CDFB3/apply",
+   "first_seen": "2026-11-06",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Magnite",
+   "title": "Engineer 1 - Automation and Custom Applications",
+   "location": "NYC",
+   "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I_R-01440",
    "first_seen": "2026-11-06",
    "posted": "2026-11-05",
    "category": "SDE"
@@ -505,16 +541,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
-   "first_seen": "2026-11-04",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Backend",
@@ -807,6 +833,24 @@
    "category": "SDE"
   },
   {
+   "company": "Qualtrics",
+   "title": "Software Engineer I - XMD",
+   "location": "Seattle, WA",
+   "url": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Qualtrics",
+   "title": "Software Development Engineer I - Data Platform",
+   "location": "Seattle, WA",
+   "url": "https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
    "company": "PRI Engineering",
    "title": "Junior Software Developer",
    "location": "Mississauga, Canada",
@@ -970,24 +1014,6 @@
    "category": "SDE"
   },
   {
-   "company": "Qualtrics",
-   "title": "Software Engineer 1 - XMD",
-   "location": "Seattle, WA",
-   "url": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Qualtrics",
-   "title": "Software Development Engineer 1 - Data Platform",
-   "location": "Seattle, WA",
-   "url": "https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
    "company": "PRI Engineering",
    "title": "Junior Software Developer",
    "location": "Mississauga, Canada",
@@ -1029,7 +1055,7 @@
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
-   "location": "Canada, British Columbia, Vancouver",
+   "location": "Canada; Vancouver, BC, Canada",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
@@ -6782,16 +6808,6 @@
    "title": "Software Engineer New Grad - Front-End",
    "location": "Mountain View, CA",
    "url": "https://otter.ai/careers?gh_jid=8016078003",
-   "first_seen": "2026-10-07",
-   "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer",
-   "location": "Redmond, WA; Reston, VA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
    "first_seen": "2026-10-07",
    "posted": "2026-10-07",
    "category": "SDE"
