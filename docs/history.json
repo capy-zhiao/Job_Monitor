@@ -805,13 +805,13 @@
 },
 {
 "date": "2026-11-07",
-"total": 989,
-"ca": 512,
+"total": 982,
+"ca": 508,
 "by": {
-"SDE": 695,
+"SDE": 690,
 "Security": 48,
-"AI/ML": 132,
-"Other": 56,
+"AI/ML": 131,
+"Other": 55,
 "Research": 58
 }
 }

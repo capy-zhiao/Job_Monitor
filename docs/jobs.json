@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-07 00:25 UTC",
- "count": 989,
+ "generated_at": "2026-11-07 06:25 UTC",
+ "count": 982,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 178
+  "responded": 176
  },
  "jobs": [
   {
@@ -67,6 +67,15 @@
    "title": "Analyst – Data & Software Engineer",
    "location": "Chicago, IL; NYC; Minneapolis, MN",
    "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342",
+   "first_seen": "2026-11-07",
+   "posted": "2026-11-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Lumentum",
+   "title": "Process Automation Software Engineer - MEMS",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
    "first_seen": "2026-11-07",
    "posted": "2026-11-06",
    "category": "SDE"
@@ -642,16 +651,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Associate Software Engineer",
-   "location": "London, Ontario; Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer_R_1520502",
-   "first_seen": "2026-11-05",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
    "company": "StubHub",
    "title": "New Grad: Software Engineer I, Consumer Experience",
    "location": "New York, NY",
@@ -898,16 +897,6 @@
    "title": "iOS Software Engineer",
    "location": "Remote Canada",
    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8302305",
-   "first_seen": "2026-11-04",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
    "first_seen": "2026-11-04",
    "posted": "2026-11-04",
    "category": "SDE"
@@ -1252,15 +1241,6 @@
    "category": "SDE"
   },
   {
-   "company": "Capgemini",
-   "title": "Campus 1&D: Associate Application Consultant",
-   "location": "Mississauga, ON, Canada",
-   "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-03",
-   "category": "Other"
-  },
-  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
@@ -1400,7 +1380,7 @@
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
-   "location": "Canada, British Columbia, Vancouver",
+   "location": "Canada; Vancouver, BC, Canada",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
@@ -6830,26 +6810,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Knowledge Graph",
-   "location": "Seattle, WA",
-   "url": "https://go.vansh.nyc/HR",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-08",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Chalk",
-   "logo": "logos/chalk.ai.png",
-   "title": "New Grad 2027: Software Engineer",
-   "location": "San Francisco, CA; New York, NY",
-   "url": "https://go.vansh.nyc/HQ",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-08",
-   "category": "SDE"
-  },
-  {
    "company": "PayPal",
    "logo": "logos/paypal.com.png",
    "title": "Software Engineer - Android",
@@ -6910,16 +6870,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Chalk",
-   "logo": "logos/chalk.ai.png",
-   "title": "Software Engineer New Grad",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true",
-   "first_seen": "2026-10-08",
-   "posted": "2026-10-08",
-   "category": "SDE"
-  },
-  {
    "company": "Stripe",
    "logo": "logos/stripe.com.png",
    "title": "Backend Engineer, Payments & Risk",
@@ -6937,24 +6887,6 @@
    "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5260226007",
    "first_seen": "2026-10-07",
    "posted": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer (Python)",
-   "location": "Toronto, ON, CA, M5H4A6",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Python%29-ON-M5H4A6/606840217/",
-   "first_seen": "2026-10-07",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer",
-   "location": "Toronto, ON, CA, M5A 3X5",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-ON-M5A-3X5/606832617/",
-   "first_seen": "2026-10-07",
    "category": "SDE"
   },
   {
