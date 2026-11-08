@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-08 19:00 UTC",
- "count": 953,
+ "generated_at": "2026-11-08 22:47 UTC",
+ "count": 950,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 178
  },
  "jobs": [
   {
@@ -1332,7 +1332,7 @@
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
-   "location": "Canada; Vancouver, BC, Canada",
+   "location": "Canada, British Columbia, Vancouver",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
@@ -6477,26 +6477,6 @@
    "category": "SDE"
   },
   {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Machine Learning Engineer, Conversational AI",
-   "location": "Seattle, WA",
-   "url": "https://go.vansh.nyc/HY",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-09",
-   "category": "AI/ML"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Machine Learning Engineer, Conversational AI",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/HZ",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-09",
-   "category": "AI/ML"
-  },
-  {
    "company": "Asana",
    "logo": "logos/asana.com.png",
    "title": "Product Security Engineer",
@@ -6565,16 +6545,6 @@
    "first_seen": "2026-10-13",
    "posted": "2026-10-09",
    "category": "SDE"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "Research Scientist New Grad - Conversational AI",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7670685496821713205",
-   "first_seen": "2026-10-10",
-   "posted": "2026-10-09",
-   "category": "Research"
   },
   {
    "company": "General Dynamics Mission Systems Canada",

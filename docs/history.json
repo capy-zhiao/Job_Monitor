@@ -817,14 +817,14 @@
 },
 {
 "date": "2026-11-08",
-"total": 953,
+"total": 950,
 "ca": 502,
 "by": {
 "SDE": 663,
 "Security": 49,
-"AI/ML": 128,
+"AI/ML": 126,
 "Other": 55,
-"Research": 58
+"Research": 57
 }
 }
 ]
