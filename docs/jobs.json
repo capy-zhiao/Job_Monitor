@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-08 01:11 UTC",
- "count": 968,
+ "generated_at": "2026-11-08 07:23 UTC",
+ "count": 965,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 178
+  "responded": 176
  },
  "jobs": [
   {
@@ -913,16 +913,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
-   "first_seen": "2026-11-04",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Backend",
@@ -1381,7 +1371,7 @@
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
-   "location": "Canada, British Columbia, Vancouver",
+   "location": "Canada; Vancouver, BC, Canada",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
@@ -6606,16 +6596,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Aurelian",
-   "logo": "logos/aurelian.com.png",
-   "title": "Software Engineer",
-   "location": "Seattle, WA",
-   "url": "https://go.vansh.nyc/HX",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-09",
-   "category": "SDE"
-  },
-  {
    "company": "Asana",
    "logo": "logos/asana.com.png",
    "title": "Product Security Engineer",
@@ -6713,16 +6693,6 @@
    "first_seen": "2026-10-10",
    "posted": "2026-10-09",
    "category": "Research"
-  },
-  {
-   "company": "Aurelian",
-   "logo": "logos/aurelian.com.png",
-   "title": "Software Engineer New Grad",
-   "location": "Seattle, WA",
-   "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true",
-   "first_seen": "2026-10-09",
-   "posted": "2026-10-09",
-   "category": "SDE"
   },
   {
    "company": "General Dynamics Mission Systems Canada",
