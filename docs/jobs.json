@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-10 02:59 UTC",
- "count": 947,
+ "generated_at": "2026-11-10 11:00 UTC",
+ "count": 949,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 177
+  "responded": 179
  },
  "jobs": [
   {
@@ -17,32 +17,31 @@
    "category": "SDE"
   },
   {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "Software Developer (New or Recent Graduate)",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
-   "first_seen": "2026-11-09",
+   "company": "Domino",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/1q7",
+   "first_seen": "2026-11-10",
    "posted": "2026-11-10",
    "category": "SDE"
   },
   {
-   "company": "CIBC",
-   "logo": "logos/cibc.com.png",
-   "title": "Software Development Engineer in Test",
-   "location": "Toronto, ON",
-   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Software-Development-Engineer-in-Test_2617661",
-   "first_seen": "2026-10-10",
+   "company": "Cursor",
+   "logo": "logos/cursor.com.png",
+   "title": "Software Engineer, New Grad 2027",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
+   "first_seen": "2026-11-10",
    "posted": "2026-11-10",
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Engineer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
-   "first_seen": "2026-09-23",
+   "company": "Cursor",
+   "logo": "logos/cursor.com.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "San Francisco, CA",
+   "url": "https://go.vansh.nyc/1qa",
+   "first_seen": "2026-11-10",
    "posted": "2026-11-10",
    "category": "SDE"
   },
@@ -171,6 +170,16 @@
    "category": "SDE"
   },
   {
+   "company": "BMO",
+   "logo": "logos/bmo.com.png",
+   "title": "Software Developer (New or Recent Graduate)",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
+   "first_seen": "2026-11-09",
+   "posted": "2026-11-09",
+   "category": "SDE"
+  },
+  {
    "company": "Adobe",
    "logo": "logos/adobe.com.png",
    "title": "New Grad 2027: Data Engineer",
@@ -191,11 +200,40 @@
    "category": "SDE"
   },
   {
+   "company": "CIBC",
+   "logo": "logos/cibc.com.png",
+   "title": "Software Development Engineer in Test",
+   "location": "Toronto, ON",
+   "url": "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Software-Development-Engineer-in-Test_2617661",
+   "first_seen": "2026-10-10",
+   "posted": "2026-11-09",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
+   "first_seen": "2026-09-23",
+   "posted": "2026-11-09",
+   "category": "SDE"
+  },
+  {
    "company": "Genesys",
    "logo": "logos/genesys.com.png",
    "title": "Associate Software Developer",
    "location": "Remote - Toronto, Canada +4",
    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/genesys/job/Toronto-Flexible/Associate-Software-Developer_JR112811",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Ande",
+   "title": "Software Engineer – Early Career - AI",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?embed=true",
    "first_seen": "2026-11-10",
    "posted": "2026-11-07",
    "category": "SDE"
@@ -227,16 +265,6 @@
    "first_seen": "2026-11-06",
    "posted": "2026-11-07",
    "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Security Software Developer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066",
-   "first_seen": "2026-11-06",
-   "posted": "2026-11-07",
-   "category": "Security"
   },
   {
    "company": "Cisco",
@@ -542,6 +570,16 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Security Software Developer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066",
+   "first_seen": "2026-11-06",
+   "posted": "2026-11-06",
+   "category": "Security"
+  },
+  {
    "company": "Bank of Montreal",
    "title": "Personal & Business Banking New Grad",
    "location": "Toronto, ON, Canada",
@@ -578,16 +616,6 @@
    "first_seen": "2026-11-06",
    "posted": "2026-11-06",
    "category": "Security"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Software Design/Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
-   "first_seen": "2026-11-05",
-   "posted": "2026-11-06",
-   "category": "SDE"
   },
   {
    "company": "Highmark Health",
@@ -885,6 +913,16 @@
   {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
+   "title": "Software Design/Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+   "first_seen": "2026-11-05",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "New Grad: Software Design/Engineer",
    "location": "Ottawa, Canada",
    "url": "https://go.vansh.nyc/1iK",
@@ -918,6 +956,16 @@
    "location": "Mountain View, CA",
    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479-software-engineer-agent-eval-platform?oga=true",
    "first_seen": "2026-11-04",
+   "posted": "2026-11-05",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer (hybrid)",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
+   "first_seen": "2026-10-16",
    "posted": "2026-11-05",
    "category": "SDE"
   },
@@ -1105,16 +1153,6 @@
    "category": "SDE"
   },
   {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "Software Engineering SMTS",
-   "location": "Canada - Vancouver",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR364997",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "logo": "logos/lyft.com.png",
    "title": "Software Engineer - Backend",
@@ -1140,16 +1178,6 @@
    "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
    "first_seen": "2026-11-02",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Quality Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I_R_1501547",
-   "first_seen": "2026-09-18",
    "posted": "2026-11-04",
    "category": "SDE"
   },
@@ -1296,9 +1324,9 @@
   {
    "company": "Salesforce",
    "logo": "logos/salesforce.com.png",
-   "title": "Software Engineering LMTS",
+   "title": "Software Engineering SMTS",
    "location": "Canada - Vancouver",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR366672",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-SMTS_JR364997",
    "first_seen": "2026-11-03",
    "posted": "2026-11-03",
    "category": "SDE"
@@ -1379,32 +1407,12 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
-   "first_seen": "2026-10-21",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
-   "first_seen": "2026-10-07",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "GenAI Software Developer",
-   "location": "Calgary, AB, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
-   "first_seen": "2026-10-05",
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "Quality Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I_R_1501547",
+   "first_seen": "2026-09-18",
    "posted": "2026-11-03",
    "category": "SDE"
   },
@@ -1457,6 +1465,16 @@
    "category": "SDE"
   },
   {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering LMTS",
+   "location": "Canada - Vancouver",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR366672",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
    "company": "PRI Engineering",
    "title": "Junior Software Developer",
    "location": "Mississauga, Canada",
@@ -1480,16 +1498,6 @@
    "title": "Software Engineering IC2",
    "location": "Redmond, WA",
    "url": "https://go.vansh.nyc/19Q",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer",
-   "location": "Canada; Vancouver, BC, Canada",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557048150",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -1579,6 +1587,16 @@
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/19E",
    "first_seen": "2026-11-02",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "BMO",
+   "logo": "logos/bmo.com.png",
+   "title": "GenAI Software Developer",
+   "location": "Calgary, AB, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
+   "first_seen": "2026-10-05",
    "posted": "2026-11-02",
    "category": "SDE"
   },
@@ -3187,16 +3205,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Photonic Card Software Developer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
-   "first_seen": "2026-09-23",
-   "posted": "2026-10-31",
-   "category": "SDE"
-  },
-  {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
    "title": "Product Solutions and Operations New Grad - Global Monetization Product and Technology",
@@ -3368,6 +3376,16 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Photonic Card Software Developer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
+   "first_seen": "2026-09-23",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
    "company": "Noble Machines",
    "title": "Electrical Engineer – Early Career - Embedded Systems & Tools",
    "location": "Sunnyvale, CA",
@@ -3525,26 +3543,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Routing/IP Software Engineer  - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
-   "company": "BlackBerry",
-   "logo": "logos/blackberry.com.png",
-   "title": "QNX Systems Software Developer",
-   "location": "Ottawa, Ontario",
-   "url": "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer_20260323-2",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
    "company": "Shield AI",
    "title": "Engineer I - Software - Autonomy Capabilities - New Grad - 6129",
    "location": "USA",
@@ -3680,6 +3678,16 @@
   {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
+   "title": "Routing/IP Software Engineer  - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
    "title": "New Grad: Routing/IP Software Engineer",
    "location": "Ottawa, Canada",
    "url": "https://go.vansh.nyc/Ym",
@@ -3704,6 +3712,16 @@
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "Other"
+  },
+  {
+   "company": "BlackBerry",
+   "logo": "logos/blackberry.com.png",
+   "title": "QNX Systems Software Developer",
+   "location": "Ottawa, Ontario",
+   "url": "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer_20260323-2",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
   },
   {
    "company": "Bask",
@@ -4688,16 +4706,6 @@
    "category": "Other"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Software Developer Intern - Winter 2027",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
    "company": "Scopely",
    "title": "Software Engineer, Machine Learning (Master's)",
    "location": "San Francisco, CA",
@@ -4899,6 +4907,16 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Software Developer Intern - Winter 2027",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+   "first_seen": "2026-10-22",
+   "posted": "2026-10-22",
+   "category": "SDE"
+  },
+  {
    "company": "Canadian Bank Note",
    "logo": "logos/cbnco.com.png",
    "title": "Security Systems Technician",
@@ -4926,16 +4944,6 @@
    "first_seen": "2026-10-22",
    "posted": "2026-10-22",
    "category": "Security"
-  },
-  {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
-   "first_seen": "2026-09-01",
-   "posted": "2026-10-22",
-   "category": "SDE"
   },
   {
    "company": "Orbis Operations",
@@ -5119,16 +5127,6 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Information Security Specialist (Vulnerability Management Data Insights & Reporting  )",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Vulnerability-Management-Data-Insights---Reporting---_R_1514694",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-21",
-   "category": "Security"
-  },
-  {
    "company": "Palantir",
    "logo": "logos/palantir.com.png",
    "title": "Software Engineer - New Grad - Query Engines",
@@ -5148,11 +5146,11 @@
    "category": "SDE"
   },
   {
-   "company": "TD",
-   "logo": "logos/td.com.png",
-   "title": "Global Transaction Banking (GTB), Engineer I",
-   "location": "Toronto, Ontario",
-   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
+   "company": "Snap",
+   "logo": "logos/snap.com.png",
+   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
    "first_seen": "2026-09-01",
    "posted": "2026-10-21",
    "category": "SDE"
@@ -5184,6 +5182,16 @@
    "first_seen": "2026-10-21",
    "posted": "2026-10-20",
    "category": "SDE"
+  },
+  {
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "Information Security Specialist (Vulnerability Management Data Insights & Reporting  )",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Information-Security-Specialist--Vulnerability-Management-Data-Insights---Reporting---_R_1514694",
+   "first_seen": "2026-10-20",
+   "posted": "2026-10-20",
+   "category": "Security"
   },
   {
    "company": "Scopely",
@@ -5257,6 +5265,16 @@
    "location": "Remote - USA",
    "url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1",
    "first_seen": "2026-10-20",
+   "posted": "2026-10-20",
+   "category": "SDE"
+  },
+  {
+   "company": "TD",
+   "logo": "logos/td.com.png",
+   "title": "Global Transaction Banking (GTB), Engineer I",
+   "location": "Toronto, Ontario",
+   "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Transaction-Banking--GTB---Engineer-I_R_1500942",
+   "first_seen": "2026-09-01",
    "posted": "2026-10-20",
    "category": "SDE"
   },
