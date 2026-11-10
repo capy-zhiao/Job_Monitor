@@ -1,17 +1,148 @@
 {
- "generated_at": "2026-11-10 11:00 UTC",
- "count": 949,
+ "generated_at": "2026-11-10 18:37 UTC",
+ "count": 953,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 177
  },
  "jobs": [
+  {
+   "company": "Zingage",
+   "title": "New Grad: Software Engineer",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/1rE",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
+   "title": "Développeur·se de produits IA | AI Product Developer",
+   "location": "Montreal, Quebec, Canada",
+   "url": "https://apply.workable.com/valsoft-corp/j/7D97A4C4CB/",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Valsoft Corporation",
+   "logo": "logos/valsoftcorp.com.png",
+   "title": "AI Product Developer",
+   "location": "Remote; Canada",
+   "url": "https://apply.workable.com/valsoft-corp/j/7B2B6A4B56/",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Programmeuse, Programmeur Front-End Esport - Rainbow Six Siege",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000160893379",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "Other"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Front-end Epsort Programmer - Rainbow Six Siege",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000160893659",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "Other"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: Runtime Engineer",
+   "location": "Austin, TX; San Jose, CA",
+   "url": "https://go.vansh.nyc/1qp",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: Physical Design Engineer",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/1qo",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: Machine Learning Engineer",
+   "location": "Austin, TX; San Jose, CA",
+   "url": "https://go.vansh.nyc/1qm",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "AI/ML"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: ML Infrastructure Engineer",
+   "location": "Austin, TX; San Jose, CA",
+   "url": "https://go.vansh.nyc/1qn",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "AI/ML"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: Design Verification Engineer",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/1ql",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: Compiler Engineer",
+   "location": "Austin, TX; San Jose, CA",
+   "url": "https://go.vansh.nyc/1qk",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "SambaNova",
+   "title": "New Grad: Cloud Platform Engineer",
+   "location": "Austin, TX; San Jose, CA",
+   "url": "https://go.vansh.nyc/1qj",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/e6531037-a3cd-4979-bd01-0f8e0c4ef3e0",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
   {
    "company": "Multi Media",
    "title": "Software Engineer 1/2",
    "location": "Remote in USA",
    "url": "https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Kalshi",
+   "title": "Software Engineer - Marketing",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application?embed=true",
    "first_seen": "2026-11-10",
    "posted": "2026-11-10",
    "category": "SDE"
@@ -42,6 +173,35 @@
    "location": "San Francisco, CA",
    "url": "https://go.vansh.nyc/1qa",
    "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Anysphere",
+   "title": "Software Engineer New Grad",
+   "location": "Palo Alto, CA; SF; NYC",
+   "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "1Password",
+   "logo": "logos/1password.com.png",
+   "title": "Security Engineer, GRC",
+   "location": "Remote (United States | Canada)",
+   "url": "https://jobs.ashbyhq.com/1password/15658971-e4f4-490b-97fe-5e716ddab770",
+   "first_seen": "2026-11-10",
+   "posted": "2026-11-10",
+   "category": "Security"
+  },
+  {
+   "company": "Snap",
+   "logo": "logos/snap.com.png",
+   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
+   "first_seen": "2026-09-01",
    "posted": "2026-11-10",
    "category": "SDE"
   },
@@ -140,16 +300,6 @@
    "category": "SDE"
   },
   {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/d140c692-9b82-4607-8671-da9329bbd213",
-   "first_seen": "2026-11-09",
-   "posted": "2026-11-09",
-   "category": "SDE"
-  },
-  {
    "company": "Canadian Bank Note",
    "logo": "logos/cbnco.com.png",
    "title": "Platform Developer",
@@ -217,6 +367,15 @@
    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
    "first_seen": "2026-09-23",
    "posted": "2026-11-09",
+   "category": "SDE"
+  },
+  {
+   "company": "Keyfactor",
+   "title": "Associate Software Engineer",
+   "location": "Remote - USA",
+   "url": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004",
+   "first_seen": "2026-11-07",
+   "posted": "2026-11-08",
    "category": "SDE"
   },
   {
@@ -311,33 +470,6 @@
    "first_seen": "2026-11-07",
    "posted": "2026-11-06",
    "category": "AI/ML"
-  },
-  {
-   "company": "Ovative",
-   "title": "Analyst – Data & Software Engineer",
-   "location": "Chicago, IL; NYC; Minneapolis, MN",
-   "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Lumentum",
-   "title": "Process Automation Software Engineer - MEMS",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Keyfactor",
-   "title": "Associate Software Engineer",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
   },
   {
    "company": "Fortinet",
@@ -960,16 +1092,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer (hybrid)",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer--hybrid-_2024453",
-   "first_seen": "2026-10-16",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer - Embedded systems - Amazon Leo - Early Career - 2027 - US",
@@ -1407,6 +1529,26 @@
    "category": "SDE"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
+   "first_seen": "2026-10-21",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
+   "first_seen": "2026-10-07",
+   "posted": "2026-11-03",
+   "category": "SDE"
+  },
+  {
    "company": "TD",
    "logo": "logos/td.com.png",
    "title": "Quality Engineer I",
@@ -1626,16 +1768,6 @@
    "title": "New Grad 2027: Testing Engineer, Intelligent Creation",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/17e",
-   "first_seen": "2026-11-01",
-   "posted": "2026-11-01",
-   "category": "SDE"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/15Y",
    "first_seen": "2026-11-01",
    "posted": "2026-11-01",
    "category": "SDE"
@@ -1936,16 +2068,6 @@
    "title": "New Grad 2027: Research Scientist (Ads Creative) (Master's)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/15Q",
-   "first_seen": "2026-11-01",
-   "posted": "2026-11-01",
-   "category": "Research"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Research Engineer, Monetization Technology - Business Integrity (Master's)",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/16X",
    "first_seen": "2026-11-01",
    "posted": "2026-11-01",
    "category": "Research"
@@ -5146,16 +5268,6 @@
    "category": "SDE"
   },
   {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, C++, Level 5 (Fixed Term)",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--C----Level-5--Fixed-Term-_R0045981-2",
-   "first_seen": "2026-09-01",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
    "company": "Cohere Health",
    "title": "Software Engineer I - Integrations",
    "location": "USA",
@@ -5577,7 +5689,7 @@
    "company": "Kraken Robotics",
    "logo": "logos/krakenrobotics.com.png",
    "title": "Cybersecurity Specialist",
-   "location": "Mount Pearl, Canada; Houston, TX, United States; Dartmouth, Canada; Longmont, CO, United States",
+   "location": "Dartmouth, Canada; Longmont, CO, United States; Mount Pearl, Canada; Houston, TX, United States",
    "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
    "first_seen": "2026-10-19",
    "category": "Security"
@@ -5667,26 +5779,6 @@
    "first_seen": "2026-10-26",
    "posted": "2026-10-16",
    "category": "SDE"
-  },
-  {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "AI Labs Rotational Fellow - Emerging Talent",
-   "location": "Seattle, WA; SF; NYC",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-16",
-   "category": "Other"
-  },
-  {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "AI Labs Rotational Fellow - Emerging Talent",
-   "location": "Seattle, WA; SF; NYC",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR363678-1",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-16",
-   "category": "Other"
   },
   {
    "company": "Amazon",
@@ -5832,33 +5924,6 @@
    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
    "first_seen": "2026-10-16",
    "posted": "2026-10-15",
-   "category": "SDE"
-  },
-  {
-   "company": "SKYTRAC",
-   "logo": "logos/skytrac.ca.jpg",
-   "title": "Structural Design and Airworthiness Engineer",
-   "location": "Kelowna, Canada",
-   "url": "https://ats.rippling.com/skytrac/jobs/3c72c8ed-48f8-47ae-9027-fb18d4bdbafa",
-   "first_seen": "2026-10-15",
-   "category": "SDE"
-  },
-  {
-   "company": "SKYTRAC",
-   "logo": "logos/skytrac.ca.jpg",
-   "title": "Project Engineer",
-   "location": "Kelowna, Canada",
-   "url": "https://ats.rippling.com/skytrac/jobs/633a03c9-a48d-415f-9d25-5677ce01037d",
-   "first_seen": "2026-10-15",
-   "category": "SDE"
-  },
-  {
-   "company": "SKYTRAC",
-   "logo": "logos/skytrac.ca.jpg",
-   "title": "Avionics Design and Airworthiness Engineer",
-   "location": "Kelowna, Canada",
-   "url": "https://ats.rippling.com/skytrac/jobs/95e8d043-78f1-47f5-a771-6ed0e4647206",
-   "first_seen": "2026-10-15",
    "category": "SDE"
   },
   {
@@ -6024,15 +6089,6 @@
    "title": "AI Engineer",
    "location": "Toronto, Canada",
    "url": "https://ats.rippling.com/purefacts_jobs/jobs/0981ef32-a247-46e9-923b-a7355e681f08",
-   "first_seen": "2026-10-14",
-   "category": "SDE"
-  },
-  {
-   "company": "Power TakeOff",
-   "logo": "logos/powertakeoff.com.png",
-   "title": "Energy Efficiency Engineer I",
-   "location": "Remote (United States); Remote (Canada)",
-   "url": "https://ats.rippling.com/power-takeoff-careers/jobs/6fb2cf1a-90d9-4c9a-b786-df97bf7f1c1a",
    "first_seen": "2026-10-14",
    "category": "SDE"
   },
@@ -6441,14 +6497,6 @@
   },
   {
    "company": "Evertz",
-   "title": "DSP Engineer (Markham)",
-   "location": "Markham, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/BL7IrygO6p/DSP-Engineer-Markham",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
    "title": "AV Service Engineer, Control Systems & Device Integration",
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/crXg9i5iKx/AV-Service-Engineer-Control-Systems-Device-Integration",
@@ -6592,16 +6640,6 @@
    "first_seen": "2026-09-23",
    "posted": "2026-10-10",
    "category": "SDE"
-  },
-  {
-   "company": "Asana",
-   "logo": "logos/asana.com.png",
-   "title": "Product Security Engineer",
-   "location": "Vancouver, BC",
-   "url": "https://www.asana.com/jobs/apply/8137817?gh_jid=8137817",
-   "first_seen": "2026-10-14",
-   "posted": "2026-10-09",
-   "category": "Security"
   },
   {
    "company": "General Dynamics Mission Systems Canada",

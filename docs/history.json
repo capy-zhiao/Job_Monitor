@@ -841,14 +841,14 @@
 },
 {
 "date": "2026-11-10",
-"total": 949,
-"ca": 498,
+"total": 953,
+"ca": 497,
 "by": {
-"SDE": 666,
+"SDE": 668,
+"AI/ML": 128,
 "Other": 52,
 "Security": 49,
-"AI/ML": 125,
-"Research": 57
+"Research": 56
 }
 }
 ]
