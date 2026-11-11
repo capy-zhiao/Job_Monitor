@@ -1,18 +1,68 @@
 {
- "generated_at": "2026-11-11 11:00 UTC",
- "count": 963,
+ "generated_at": "2026-11-11 18:36 UTC",
+ "count": 953,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 179
+  "responded": 177
  },
  "jobs": [
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering AMTS New Grad",
+   "location": "Palo Alto, CA; Seattle, WA; Indianapolis, IN; SF; Dallas, TX; NYC; Bellevue, WA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047-1",
+   "first_seen": "2026-11-11",
+   "posted": "2026-11-11",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineer New Grad",
+   "location": "Palo Alto, CA; Seattle, WA; Indianapolis, IN; SF; Dallas, TX; NYC; Bellevue, WA",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047",
+   "first_seen": "2026-11-11",
+   "posted": "2026-11-11",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "New Grad: Software Engineering AMTS",
+   "location": "Palo Alto, CA; Seattle, WA; Indianapolis, IN; San Francisco, CA; Dallas, TX; New York, NY; Bellevue, WA",
+   "url": "https://go.vansh.nyc/1uI",
+   "first_seen": "2026-11-11",
+   "posted": "2026-11-11",
+   "category": "SDE"
+  },
+  {
+   "company": "Pogo",
+   "logo": "logos/joinpogo.com.png",
+   "title": "Full Stack Engineer",
+   "location": "United States/Canada",
+   "url": "https://jobs.ashbyhq.com/joinpogo/fcac7c25-5320-4c03-907c-d2d40fd0ffaf",
+   "first_seen": "2026-11-11",
+   "posted": "2026-11-11",
+   "category": "SDE"
+  },
   {
    "company": "Intel",
    "logo": "logos/intel.com.png",
    "title": "New Grad 2027: Junior CPU Verification Engineer",
    "location": "Austin, TX; Hillsboro, OR",
    "url": "https://go.vansh.nyc/1sO",
+   "first_seen": "2026-11-11",
+   "posted": "2026-11-11",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Human Factors Engineering Analyst",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000161082575",
    "first_seen": "2026-11-11",
    "posted": "2026-11-11",
    "category": "SDE"
@@ -45,15 +95,6 @@
    "first_seen": "2026-11-11",
    "posted": "2026-11-10",
    "category": "Other"
-  },
-  {
-   "company": "Mirantis",
-   "title": "Software Development Engineer",
-   "location": "Remote in USA",
-   "url": "https://jobs.smartrecruiters.com/Mirantis/744000160982204",
-   "first_seen": "2026-11-11",
-   "posted": "2026-11-10",
-   "category": "SDE"
   },
   {
    "company": "Zingage",
@@ -216,16 +257,6 @@
    "category": "Other"
   },
   {
-   "company": "Pogo",
-   "logo": "logos/joinpogo.com.png",
-   "title": "Full Stack Engineer",
-   "location": "United States/Canada",
-   "url": "https://jobs.ashbyhq.com/joinpogo/e6531037-a3cd-4979-bd01-0f8e0c4ef3e0",
-   "first_seen": "2026-11-10",
-   "posted": "2026-11-10",
-   "category": "SDE"
-  },
-  {
    "company": "Multi Media",
    "title": "Software Engineer 1/2",
    "location": "Remote in USA",
@@ -364,16 +395,6 @@
    "title": "Spécialiste en tests logiciels / Software Test Specialist - Unified Platform",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/9EC7AB917E/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-11-10",
-   "category": "SDE"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) logiciel / Software Developer - Appliances Platform (Edge OS)",
-   "location": "Québec City, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/F704FBA13A/",
    "first_seen": "2026-10-13",
    "posted": "2026-11-10",
    "category": "SDE"
@@ -1145,14 +1166,6 @@
    "url": "https://go.vansh.nyc/1iq",
    "first_seen": "2026-11-05",
    "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "Mechanical Design Engineer",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/1FAocBPhGq/Mechanical-Design-Engineer",
-   "first_seen": "2026-11-05",
    "category": "SDE"
   },
   {
@@ -4976,16 +4989,6 @@
    "category": "SDE"
   },
   {
-   "company": "GlobalFoundries",
-   "logo": "logos/gf.com.png",
-   "title": "New Grad 2027: AI Software Engineer",
-   "location": "Santa Clara, CA; Richardson, TX",
-   "url": "https://go.vansh.nyc/AQ",
-   "first_seen": "2026-10-25",
-   "posted": "2026-10-22",
-   "category": "AI/ML"
-  },
-  {
    "company": "Brain Co.",
    "title": "New Grad 2027: AI/ML Engineer",
    "location": "San Francisco, CA",
@@ -5166,16 +5169,6 @@
    "first_seen": "2026-10-22",
    "posted": "2026-10-22",
    "category": "SDE"
-  },
-  {
-   "company": "1Password",
-   "logo": "logos/1password.com.png",
-   "title": "Security Intern, Threat Operations - Winter 2027",
-   "location": "Remote (United States | Canada)",
-   "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
-   "first_seen": "2026-10-22",
-   "posted": "2026-10-22",
-   "category": "Security"
   },
   {
    "company": "Quora",
@@ -6553,22 +6546,6 @@
   },
   {
    "company": "Evertz",
-   "title": "Software Developer",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/1O7qv0JFud/Software-Developer",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "Security Software Developer",
-   "location": "Markham, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/I9TgZD20Oa/Security-Software-Developer",
-   "first_seen": "2026-10-13",
-   "category": "Security"
-  },
-  {
-   "company": "Evertz",
    "title": "Junior Field Service Engineer - AV",
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/Hrj181wI2T/Junior-Field-Service-Engineer-AV",
@@ -6588,38 +6565,6 @@
    "title": "Field Service Engineer",
    "location": "Burlington, ON, Canada",
    "url": "https://evertz.applytojob.com/apply/rP7Wr30mg9/Field-Service-Engineer",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "FPGA Design Engineer",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/z9upTg32z9/FPGA-Design-Engineer",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "Enterprise Support Engineer I",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/cG0tnpByzV/Enterprise-Support-Engineer-I",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "Embedded Software Engineer, Markham",
-   "location": "Markham, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/YfnBRjOUrH/Embedded-Software-Engineer-Markham",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Evertz",
-   "title": "Embedded Software Engineer",
-   "location": "Burlington, ON, Canada",
-   "url": "https://evertz.applytojob.com/apply/UXAd3pHP7r/Embedded-Software-Engineer",
    "first_seen": "2026-10-13",
    "category": "SDE"
   },
@@ -7050,16 +6995,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Software Engineering Developer, DevOps ",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000151454169",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-23",
-   "category": "SDE"
-  },
-  {
    "company": "Lyft",
    "logo": "logos/lyft.com.png",
    "title": "Software Engineer, Driver Experience",
@@ -7077,16 +7012,6 @@
    "url": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466",
    "first_seen": "2026-09-23",
    "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Applied Scientist, Alexa Connections",
-   "location": "CA, BC, Vancouver",
-   "url": "https://www.amazon.jobs/en/jobs/10557195/applied-scientist-alexa-connections",
-   "first_seen": "2026-09-23",
-   "posted": "2026-09-23",
-   "category": "AI/ML"
   },
   {
    "company": "AMD",
@@ -7571,15 +7496,6 @@
    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8176003",
    "first_seen": "2026-09-17",
    "posted": "2026-09-04",
-   "category": "SDE"
-  },
-  {
-   "company": "Nascent",
-   "title": "Network Engineer",
-   "location": "Canada",
-   "url": "https://jobs.ashbyhq.com/nascent/72958837-1656-4f01-aec0-93855ae98083",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-03",
    "category": "SDE"
   },
   {
