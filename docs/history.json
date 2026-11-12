@@ -865,14 +865,14 @@
 },
 {
 "date": "2026-11-12",
-"total": 980,
-"ca": 492,
+"total": 979,
+"ca": 496,
 "by": {
-"SDE": 687,
-"AI/ML": 137,
-"Other": 58,
+"SDE": 690,
+"AI/ML": 136,
+"Other": 57,
 "Security": 45,
-"Research": 53
+"Research": 51
 }
 }
 ]
