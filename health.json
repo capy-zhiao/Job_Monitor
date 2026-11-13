@@ -137,8 +137,8 @@
   "last_ok": "2026-11-13"
  },
  "Ciena": {
-  "fail_runs": 0,
-  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "fail_runs": 1,
+  "last_error": "HTTP Error 521: <none>",
   "last_ok": "2026-11-13"
  },
  "Cisco": {
@@ -171,8 +171,8 @@
   "last_ok": "2026-11-13"
  },
  "CrowdStrike": {
-  "fail_runs": 0,
-  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "fail_runs": 1,
+  "last_error": "HTTP Error 521: <none>",
   "last_ok": "2026-11-13"
  },
  "Cursor": {
@@ -437,8 +437,8 @@
   "last_ok": "2026-11-13"
  },
  "NVIDIA": {
-  "fail_runs": 0,
-  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "fail_runs": 1,
+  "last_error": "HTTP Error 521: <none>",
   "last_ok": "2026-11-13"
  },
  "Nascent": {
@@ -563,7 +563,7 @@
   "last_ok": "2026-11-13"
  },
  "SAP": {
-  "fail_runs": 117,
+  "fail_runs": 118,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -652,8 +652,8 @@
   "last_ok": "2026-11-13"
  },
  "Thomson Reuters": {
-  "fail_runs": 0,
-  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "fail_runs": 1,
+  "last_error": "HTTP Error 521: <none>",
   "last_ok": "2026-11-13"
  },
  "Together AI": {
