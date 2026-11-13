@@ -877,11 +877,11 @@
 },
 {
 "date": "2026-11-13",
-"total": 969,
-"ca": 490,
+"total": 968,
+"ca": 492,
 "by": {
 "SDE": 678,
-"Research": 52,
+"Research": 51,
 "AI/ML": 134,
 "Security": 46,
 "Other": 59
