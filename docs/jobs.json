@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13 10:45 UTC",
- "count": 968,
+ "generated_at": "2026-11-13 18:09 UTC",
+ "count": 970,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -8,11 +8,68 @@
  },
  "jobs": [
   {
+   "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
+   "title": "Software Engineer, Fullstack Java Developer",
+   "location": "Toronto, ON, CA, M5H 1H1",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Fullstack-Java-Developer-ON-M5H-1H1/608009517/",
+   "first_seen": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Q2",
+   "title": "Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953",
+   "first_seen": "2026-11-13",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
    "company": "Empowerly",
    "title": "Full Stack Software Engineer",
    "location": "Remote in USA",
    "url": "https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b",
    "first_seen": "2026-11-13",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Engineer Compiler I",
+   "location": "Austin, TX",
+   "url": "https://go.vansh.nyc/1yI",
+   "first_seen": "2026-11-13",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Bank of Montreal",
+   "title": "Personal & Business Banking Development Program New Grad",
+   "location": "Toronto, ON, Canada",
+   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3",
+   "first_seen": "2026-11-13",
+   "posted": "2026-11-13",
+   "category": "Other"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer I (Full Time) - Canada",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
+   "first_seen": "2026-10-08",
    "posted": "2026-11-13",
    "category": "SDE"
   },
@@ -559,16 +616,6 @@
    "title": "Full Stack Engineer",
    "location": "United States/Canada",
    "url": "https://jobs.ashbyhq.com/joinpogo/fcac7c25-5320-4c03-907c-d2d40fd0ffaf",
-   "first_seen": "2026-11-11",
-   "posted": "2026-11-11",
-   "category": "SDE"
-  },
-  {
-   "company": "Intel",
-   "logo": "logos/intel.com.png",
-   "title": "New Grad 2027: Junior CPU Verification Engineer",
-   "location": "Austin, TX; Hillsboro, OR",
-   "url": "https://go.vansh.nyc/1sO",
    "first_seen": "2026-11-11",
    "posted": "2026-11-11",
    "category": "SDE"
@@ -2368,16 +2415,6 @@
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/19E",
    "first_seen": "2026-11-02",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "GenAI Software Developer",
-   "location": "Calgary, AB, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Calgary-AB-CAN/GenAI-Software-Developer_R260018524",
-   "first_seen": "2026-10-05",
    "posted": "2026-11-02",
    "category": "SDE"
   },
@@ -5812,15 +5849,6 @@
    "category": "Security"
   },
   {
-   "company": "Kinaxis",
-   "logo": "logos/kinaxis.com.png",
-   "title": "Intern Cloud Developer, Platform Engineering",
-   "location": "CA-ON-Ottawa, Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job",
-   "first_seen": "2026-10-20",
-   "category": "SDE"
-  },
-  {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
    "title": "Junior Systems Engineer - Networking",
@@ -6634,15 +6662,6 @@
    "url": "https://careers-kinaxis.icims.com/jobs/35025/machine-learning-operations-research-platform-engineer/job",
    "first_seen": "2026-10-14",
    "category": "AI/ML"
-  },
-  {
-   "company": "Kinaxis",
-   "logo": "logos/kinaxis.com.png",
-   "title": "Intern Developer, Back End Technologies",
-   "location": "CA-ON-Ottawa, Canada",
-   "url": "https://careers-kinaxis.icims.com/jobs/35372/intern-developer%2c-back-end-technologies/job",
-   "first_seen": "2026-10-14",
-   "category": "SDE"
   },
   {
    "company": "Kinaxis",
@@ -8677,9 +8696,9 @@
   {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
-   "title": "Graphics Engineer - 3D",
+   "title": "Engineer - Computer Graphics",
    "location": "Vancouver, British Columbia, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/graphics-engineer-3d",
+   "url": "https://huaweicanada.recruitee.com/o/engineer-computer-graphics",
    "first_seen": "2026-09-01",
    "posted": "2026-04-15",
    "category": "SDE"
