@@ -60,8 +60,8 @@
   "last_ok": "2026-11-14"
  },
  "Arctic Wolf": {
-  "fail_runs": 1,
-  "last_error": "HTTP Error 521: <none>",
+  "fail_runs": 2,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13"
  },
  "Asana": {
@@ -70,8 +70,8 @@
  },
  "Autodesk": {
   "empty_since": "2026-11-05",
-  "fail_runs": 1,
-  "last_error": "HTTP Error 521: <none>",
+  "fail_runs": 2,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13",
   "reported_empty": true
  },
@@ -137,9 +137,10 @@
   "last_ok": "2026-11-14"
  },
  "Ciena": {
-  "fail_runs": 2,
-  "last_error": "HTTP Error 521: <none>",
-  "last_ok": "2026-11-13"
+  "fail_runs": 3,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "last_ok": "2026-11-13",
+  "reported_fail": true
  },
  "Cisco": {
   "fail_runs": 0,
@@ -171,9 +172,10 @@
   "last_ok": "2026-11-14"
  },
  "CrowdStrike": {
-  "fail_runs": 2,
-  "last_error": "HTTP Error 521: <none>",
-  "last_ok": "2026-11-13"
+  "fail_runs": 3,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "last_ok": "2026-11-13",
+  "reported_fail": true
  },
  "Cursor": {
   "fail_runs": 0,
@@ -339,8 +341,8 @@
  },
  "Intel": {
   "empty_since": "2026-10-20",
-  "fail_runs": 1,
-  "last_error": "HTTP Error 521: <none>",
+  "fail_runs": 2,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13",
   "reported_empty": true
  },
@@ -390,8 +392,8 @@
   "last_ok": "2026-11-14"
  },
  "Mastercard": {
-  "fail_runs": 1,
-  "last_error": "HTTP Error 521: <none>",
+  "fail_runs": 2,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13"
  },
  "Maya HTT": {
@@ -407,12 +409,12 @@
   "last_ok": "2026-11-14"
  },
  "Microsoft": {
-  "fail_runs": 1,
+  "fail_runs": 2,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-13"
  },
  "Microsoft (Security)": {
-  "fail_runs": 1,
+  "fail_runs": 2,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-13"
  },
@@ -437,9 +439,10 @@
   "last_ok": "2026-11-14"
  },
  "NVIDIA": {
-  "fail_runs": 2,
-  "last_error": "HTTP Error 521: <none>",
-  "last_ok": "2026-11-13"
+  "fail_runs": 3,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "last_ok": "2026-11-13",
+  "reported_fail": true
  },
  "Nascent": {
   "fail_runs": 0,
@@ -563,7 +566,7 @@
   "last_ok": "2026-11-14"
  },
  "SAP": {
-  "fail_runs": 119,
+  "fail_runs": 120,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -596,8 +599,8 @@
   "last_ok": "2026-11-14"
  },
  "Snap": {
-  "fail_runs": 1,
-  "last_error": "HTTP Error 521: <none>",
+  "fail_runs": 2,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13"
  },
  "Snowflake": {
@@ -652,9 +655,10 @@
   "last_ok": "2026-11-14"
  },
  "Thomson Reuters": {
-  "fail_runs": 2,
-  "last_error": "HTTP Error 521: <none>",
-  "last_ok": "2026-11-13"
+  "fail_runs": 3,
+  "last_error": "Expecting value: line 1 column 1 (char 0)",
+  "last_ok": "2026-11-13",
+  "reported_fail": true
  },
  "Together AI": {
   "fail_runs": 0,
