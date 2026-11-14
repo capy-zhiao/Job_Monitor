@@ -70,11 +70,10 @@
  },
  "Autodesk": {
   "empty_since": "2026-11-05",
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13",
-  "reported_empty": true,
-  "reported_fail": true
+  "last_ok": "2026-11-14",
+  "reported_empty": true
  },
  "Auvik": {
   "fail_runs": 0,
@@ -340,11 +339,10 @@
  },
  "Intel": {
   "empty_since": "2026-10-20",
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13",
-  "reported_empty": true,
-  "reported_fail": true
+  "last_ok": "2026-11-14",
+  "reported_empty": true
  },
  "Interac": {
   "fail_runs": 0,
@@ -409,13 +407,13 @@
   "last_ok": "2026-11-14"
  },
  "Microsoft": {
-  "fail_runs": 3,
+  "fail_runs": 4,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-13",
   "reported_fail": true
  },
  "Microsoft (Security)": {
-  "fail_runs": 3,
+  "fail_runs": 4,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-13",
   "reported_fail": true
@@ -441,10 +439,9 @@
   "last_ok": "2026-11-14"
  },
  "NVIDIA": {
-  "fail_runs": 4,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13",
-  "reported_fail": true
+  "last_ok": "2026-11-14"
  },
  "Nascent": {
   "fail_runs": 0,
@@ -568,7 +565,7 @@
   "last_ok": "2026-11-14"
  },
  "SAP": {
-  "fail_runs": 121,
+  "fail_runs": 122,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
