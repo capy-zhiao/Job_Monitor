@@ -60,9 +60,9 @@
   "last_ok": "2026-11-14"
  },
  "Arctic Wolf": {
-  "fail_runs": 2,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13"
+  "last_ok": "2026-11-14"
  },
  "Asana": {
   "fail_runs": 0,
@@ -70,10 +70,11 @@
  },
  "Autodesk": {
   "empty_since": "2026-11-05",
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13",
-  "reported_empty": true
+  "reported_empty": true,
+  "reported_fail": true
  },
  "Auvik": {
   "fail_runs": 0,
@@ -137,10 +138,9 @@
   "last_ok": "2026-11-14"
  },
  "Ciena": {
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13",
-  "reported_fail": true
+  "last_ok": "2026-11-14"
  },
  "Cisco": {
   "fail_runs": 0,
@@ -172,10 +172,9 @@
   "last_ok": "2026-11-14"
  },
  "CrowdStrike": {
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13",
-  "reported_fail": true
+  "last_ok": "2026-11-14"
  },
  "Cursor": {
   "fail_runs": 0,
@@ -341,10 +340,11 @@
  },
  "Intel": {
   "empty_since": "2026-10-20",
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13",
-  "reported_empty": true
+  "reported_empty": true,
+  "reported_fail": true
  },
  "Interac": {
   "fail_runs": 0,
@@ -392,9 +392,9 @@
   "last_ok": "2026-11-14"
  },
  "Mastercard": {
-  "fail_runs": 2,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13"
+  "last_ok": "2026-11-14"
  },
  "Maya HTT": {
   "fail_runs": 0,
@@ -409,14 +409,16 @@
   "last_ok": "2026-11-14"
  },
  "Microsoft": {
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-13"
+  "last_ok": "2026-11-13",
+  "reported_fail": true
  },
  "Microsoft (Security)": {
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-13"
+  "last_ok": "2026-11-13",
+  "reported_fail": true
  },
  "Miovision": {
   "fail_runs": 0,
@@ -439,7 +441,7 @@
   "last_ok": "2026-11-14"
  },
  "NVIDIA": {
-  "fail_runs": 3,
+  "fail_runs": 4,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
   "last_ok": "2026-11-13",
   "reported_fail": true
@@ -566,7 +568,7 @@
   "last_ok": "2026-11-14"
  },
  "SAP": {
-  "fail_runs": 120,
+  "fail_runs": 121,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -599,9 +601,9 @@
   "last_ok": "2026-11-14"
  },
  "Snap": {
-  "fail_runs": 2,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13"
+  "last_ok": "2026-11-14"
  },
  "Snowflake": {
   "fail_runs": 0,
@@ -655,10 +657,9 @@
   "last_ok": "2026-11-14"
  },
  "Thomson Reuters": {
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "Expecting value: line 1 column 1 (char 0)",
-  "last_ok": "2026-11-13",
-  "reported_fail": true
+  "last_ok": "2026-11-14"
  },
  "Together AI": {
   "fail_runs": 0,

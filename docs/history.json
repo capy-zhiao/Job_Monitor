@@ -889,11 +889,11 @@
 },
 {
 "date": "2026-11-14",
-"total": 956,
-"ca": 478,
+"total": 964,
+"ca": 488,
 "by": {
-"SDE": 672,
-"AI/ML": 134,
+"SDE": 679,
+"AI/ML": 135,
 "Security": 44,
 "Other": 55,
 "Research": 51
