@@ -408,12 +408,12 @@
   "last_ok": "2026-11-15"
  },
  "Microsoft": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-15"
  },
  "Microsoft (Security)": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-15"
  },
@@ -564,7 +564,7 @@
   "last_ok": "2026-11-15"
  },
  "SAP": {
-  "fail_runs": 125,
+  "fail_runs": 126,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
