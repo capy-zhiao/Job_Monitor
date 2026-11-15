@@ -901,13 +901,13 @@
 },
 {
 "date": "2026-11-15",
-"total": 960,
-"ca": 487,
+"total": 957,
+"ca": 485,
 "by": {
-"SDE": 678,
-"Security": 44,
+"SDE": 676,
 "AI/ML": 134,
-"Other": 53,
+"Security": 44,
+"Other": 52,
 "Research": 51
 }
 }
