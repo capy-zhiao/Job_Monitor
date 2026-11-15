@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-15 01:12 UTC",
- "count": 955,
+ "generated_at": "2026-11-15 07:55 UTC",
+ "count": 960,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 176
+  "responded": 179
  },
  "jobs": [
   {
@@ -309,10 +309,30 @@
    "category": "Other"
   },
   {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
    "company": "Kinaxis",
    "logo": "logos/kinaxis.com.png",
-   "title": "Cloud Engineer 1 - Site Reliability Engineering - Early Career - Junior level",
-   "location": "Ottawa, Canada",
+   "title": "Cloud Engineer 1, Site Reliability Engineering (Early Career, Junior level)",
+   "location": "CA-ON-Ottawa, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-1%2c-site-reliability-engineering-%28early-career%2c-junior-level%29/job",
    "first_seen": "2026-10-14",
    "posted": "2026-11-13",
@@ -325,6 +345,16 @@
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
    "first_seen": "2026-10-08",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
    "posted": "2026-11-13",
    "category": "SDE"
   },
@@ -1597,15 +1627,6 @@
    "category": "Other"
   },
   {
-   "company": "Bank of Montreal",
-   "title": "Personal & Business Banking New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1",
-   "first_seen": "2026-11-06",
-   "posted": "2026-11-06",
-   "category": "Other"
-  },
-  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "Software Development Engineer, SoC Hardware Abstraction Layer",
@@ -2419,15 +2440,6 @@
    "title": "Backend Software Engineer",
    "location": "San Mateo, CA",
    "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Unity",
-   "title": "Software Developer New Grad - U-Accelerate: Software Developer",
-   "location": "Montreal, QC, Canada",
-   "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -5595,6 +5607,15 @@
    "category": "SDE"
   },
   {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Forward Deployed Engineer",
+   "location": "US-Remote; CA-Remote, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35590/forward-deployed-engineer/job",
+   "first_seen": "2026-10-22",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "IT Product Engineer - HRIS",
@@ -5896,6 +5917,15 @@
    "first_seen": "2026-10-20",
    "posted": "2026-10-20",
    "category": "SDE"
+  },
+  {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Security Engineer",
+   "location": "CA-Remote, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/34670/security-engineer/job",
+   "first_seen": "2026-10-20",
+   "category": "Security"
   },
   {
    "company": "General Dynamics Mission Systems Canada",
@@ -6394,16 +6424,6 @@
    "category": "SDE"
   },
   {
-   "company": "Intuit",
-   "logo": "logos/intuit.com.png",
-   "title": "Software Engineer 1",
-   "location": "Charlotte, NC; NYC; Mountain View, CA; Atlanta, GA; San Diego, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
-   "first_seen": "2026-10-16",
-   "posted": "2026-10-16",
-   "category": "SDE"
-  },
-  {
    "company": "Gaiia",
    "logo": "logos/gaiia.com.png",
    "title": "IT Operations Engineer",
@@ -6574,6 +6594,33 @@
    "url": "https://ats.rippling.com/nestocloud/jobs/77b7a7a2-d3f4-4f16-a27e-343a7e82b163",
    "first_seen": "2026-10-14",
    "category": "Other"
+  },
+  {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Software Architect, Core Engine",
+   "location": "CA-Remote, Canada; US-Remote",
+   "url": "https://careers-kinaxis.icims.com/jobs/34510/software-architect%2c-core-engine/job",
+   "first_seen": "2026-10-14",
+   "category": "SDE"
+  },
+  {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Machine Learning/Operations Research Platform Engineer",
+   "location": "CA-Remote, Canada; US-Remote",
+   "url": "https://careers-kinaxis.icims.com/jobs/35025/machine-learning-operations-research-platform-engineer/job",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Kinaxis",
+   "logo": "logos/kinaxis.com.png",
+   "title": "Intern Developer, AI Solutions",
+   "location": "CA-ON-Ottawa, Canada",
+   "url": "https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job",
+   "first_seen": "2026-10-14",
+   "category": "AI/ML"
   },
   {
    "company": "Genetec",
