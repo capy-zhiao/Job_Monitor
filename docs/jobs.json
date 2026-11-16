@@ -1,12 +1,58 @@
 {
- "generated_at": "2026-11-16 07:07 UTC",
- "count": 930,
+ "generated_at": "2026-11-16 17:03 UTC",
+ "count": 931,
  "stats": {
   "sources": 180,
   "ats": 27,
   "responded": 158
  },
  "jobs": [
+  {
+   "company": "Shopify",
+   "logo": "logos/shopify.com.png",
+   "title": "CAN Software Engineering Internships Summer 2027",
+   "location": "Remote - Americas",
+   "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
+   "first_seen": "2026-11-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Shopify",
+   "logo": "logos/shopify.com.png",
+   "title": "Applied Machine Learning Engineering Internships Summer 2027",
+   "location": "Remote - Americas",
+   "url": "https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536",
+   "first_seen": "2026-11-16",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Canadian Bank Note",
+   "logo": "logos/cbnco.com.png",
+   "title": "DevOps Specialist",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000161810649",
+   "first_seen": "2026-11-16",
+   "posted": "2026-11-16",
+   "category": "Other"
+  },
+  {
+   "company": "American Express",
+   "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
+   "location": "Toronto, Canada",
+   "url": "https://go.vansh.nyc/1Ab",
+   "first_seen": "2026-11-16",
+   "posted": "2026-11-16",
+   "category": "SDE"
+  },
+  {
+   "company": "American Express",
+   "title": "Campus Undergraduate Full-Time Engineer - Software Engineer 1",
+   "location": "Toronto, ON, Canada",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677",
+   "first_seen": "2026-11-16",
+   "posted": "2026-11-16",
+   "category": "SDE"
+  },
   {
    "company": "SpaceX",
    "title": "Full Stack Software Engineer (Starlink)",
@@ -300,8 +346,8 @@
   {
    "company": "Kinaxis",
    "logo": "logos/kinaxis.com.png",
-   "title": "Cloud Engineer 1, Site Reliability Engineering (Early Career, Junior level)",
-   "location": "CA-ON-Ottawa, Canada",
+   "title": "Cloud Engineer 1 - Site Reliability Engineering - Early Career - Junior level",
+   "location": "Ottawa, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35470/cloud-engineer-1%2c-site-reliability-engineering-%28early-career%2c-junior-level%29/job",
    "first_seen": "2026-10-14",
    "posted": "2026-11-13",
@@ -938,15 +984,6 @@
    "location": "Seattle, WA",
    "url": "https://www.amazon.jobs/jobs/10602358/apply",
    "first_seen": "2026-11-13",
-   "posted": "2026-11-10",
-   "category": "SDE"
-  },
-  {
-   "company": "JBT Marel",
-   "title": "Software Engineer",
-   "location": "Redmond, WA",
-   "url": "https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/US---Redmond-WA/Software-Engineer_25394",
-   "first_seen": "2026-11-12",
    "posted": "2026-11-10",
    "category": "SDE"
   },
@@ -1787,15 +1824,6 @@
    "title": "Electrical Engineer Entry Level",
    "location": "Pittsfield, MA",
    "url": "https://careers-gdms.icims.com/jobs/74854/job?mobile=true&needsRedirect=false",
-   "first_seen": "2026-11-05",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
-   "company": "FlexAI",
-   "title": "New Grad: Software Engineer",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/1iq",
    "first_seen": "2026-11-05",
    "posted": "2026-11-05",
    "category": "SDE"
@@ -4317,15 +4345,6 @@
    "first_seen": "2026-10-29",
    "posted": "2026-10-28",
    "category": "SDE"
-  },
-  {
-   "company": "American Express",
-   "title": "Campus Graduate Full-Time Engineer - 2027 AI Engineering - Enterprise Technology Services",
-   "location": "Toronto, ON, Canada",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465",
-   "first_seen": "2026-10-29",
-   "posted": "2026-10-28",
-   "category": "AI/ML"
   },
   {
    "company": "AMD",
@@ -7984,16 +8003,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-06-08",
    "category": "AI/ML"
-  },
-  {
-   "company": "StackAdapt",
-   "logo": "logos/stackadapt.com.png",
-   "title": "Full Stack Engineer",
-   "location": "Canada",
-   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4261506009",
-   "first_seen": "2026-10-21",
-   "posted": "2026-06-03",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
