@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-11-17 00:50 UTC",
- "count": 921,
+ "generated_at": "2026-11-17 08:54 UTC",
+ "count": 925,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 161
+  "responded": 167
  },
  "jobs": [
+  {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer Agentic Security",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "Security"
+  },
+  {
+   "company": "Kraun Electric",
+   "title": "Junior Software Developer",
+   "location": "St. Catharines, ON, Canada",
+   "url": "https://kraunelectric.bamboohr.com/careers/98/",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Kraun Electric",
+   "title": "Junior Software Developer",
+   "location": "St. Catharines, Canada",
+   "url": "https://go.vansh.nyc/1B4",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Flexspring",
+   "title": "New Grad: AI Model Training and Deployment Developer",
+   "location": "Montreal, Canada",
+   "url": "https://go.vansh.nyc/1B5",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Flexspring",
+   "title": "AI Model Training and Deployment Developer New Grad",
+   "location": "Montreal, QC, Canada",
+   "url": "https://flexspring.bamboohr.com/careers/71/",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
+   "company": "All Options",
+   "title": "New Grad 2027: Quantitative Researcher",
+   "location": "Austin, TX",
+   "url": "https://go.vansh.nyc/1B3",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "Research"
+  },
   {
    "company": "Steel",
    "title": "Software Engineer Intern - Summer 2027",
@@ -31,6 +86,16 @@
    "title": "Full Stack Software Engineer - Starlink",
    "location": "Palo Alto, CA",
    "url": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering MTS",
+   "location": "Canada - Toronto",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-MTS_JR367059",
    "first_seen": "2026-11-17",
    "posted": "2026-11-16",
    "category": "SDE"
@@ -431,6 +496,16 @@
    "category": "Other"
   },
   {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
    "company": "Kinaxis",
    "logo": "logos/kinaxis.com.png",
    "title": "Cloud Engineer 1 - Site Reliability Engineering - Early Career - Junior level",
@@ -447,6 +522,16 @@
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
    "first_seen": "2026-10-08",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
    "posted": "2026-11-13",
    "category": "SDE"
   },
@@ -1074,16 +1159,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, Android, Level 4 Bitmoji",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
-   "first_seen": "2026-10-06",
-   "posted": "2026-11-11",
-   "category": "SDE"
-  },
-  {
    "company": "Zip",
    "logo": "logos/ziphq.com.png",
    "title": "Software Engineer, Backend (All Levels)",
@@ -1348,6 +1423,16 @@
    "category": "SDE"
   },
   {
+   "company": "Snap",
+   "logo": "logos/snap.com.png",
+   "title": "Software Engineer, Android, Level 4 Bitmoji",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
+   "first_seen": "2026-10-06",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
    "company": "Planview",
    "title": "Software Engineer 1",
    "location": "Austin, TX",
@@ -1359,9 +1444,9 @@
   {
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
-   "title": "Software Engineering",
+   "title": "Software Engineer",
    "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557039397",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
    "first_seen": "2026-11-10",
    "posted": "2026-11-09",
    "category": "SDE"
@@ -1964,15 +2049,6 @@
    "category": "SDE"
   },
   {
-   "company": "CACI",
-   "title": "Junior Software Developer",
-   "location": "Remote in USA",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685",
-   "first_seen": "2026-11-05",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "Software Developer Engineer 1 - Security Platform",
@@ -2200,6 +2276,16 @@
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3",
    "first_seen": "2026-11-03",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "CrowdStrike",
+   "logo": "logos/crowdstrike.com.png",
+   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
+   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
+   "first_seen": "2026-11-02",
    "posted": "2026-11-04",
    "category": "SDE"
   },
@@ -2454,6 +2540,16 @@
    "title": "Talent Acquisition Partner (Engineering & Product)",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4476790009",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering LMTS",
+   "location": "Canada - Vancouver",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR366672",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -3310,16 +3406,6 @@
    "title": "New Grad 2027: Backend Software Engineer (Feed Safety)",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/15R",
-   "first_seen": "2026-11-01",
-   "posted": "2026-11-01",
-   "category": "SDE"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Backend Engineer, User Growth",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/16u",
    "first_seen": "2026-11-01",
    "posted": "2026-11-01",
    "category": "SDE"
@@ -4268,15 +4354,6 @@
    "category": "SDE"
   },
   {
-   "company": "Raydar",
-   "title": "Full-Stack Software Engineer",
-   "location": "SF",
-   "url": "https://apply.workable.com/raydar/j/247E466DF2/apply",
-   "first_seen": "2026-10-30",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "New Grad: Photonic Card Software Developer",
@@ -4322,16 +4399,6 @@
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000158519919",
    "first_seen": "2026-10-29",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
-   "company": "BlackBerry",
-   "logo": "logos/blackberry.com.png",
-   "title": "QNX Systems Software Developer",
-   "location": "Ottawa, Ontario",
-   "url": "https://bb.wd3.myworkdayjobs.com/en-US/BlackBerry/job/Ottawa-Ontario/QNX-Systems-Software-Developer_20260323-2",
-   "first_seen": "2026-10-28",
    "posted": "2026-10-29",
    "category": "SDE"
   },
@@ -5180,16 +5247,6 @@
    "first_seen": "2026-10-23",
    "posted": "2026-10-23",
    "category": "SDE"
-  },
-  {
-   "company": "Coinbase",
-   "logo": "logos/coinbase.com.png",
-   "title": "Offensive Security Engineer, AI ",
-   "location": "Remote - Canada",
-   "url": "https://www.coinbase.com/careers/positions/8318599?gh_jid=8318599",
-   "first_seen": "2026-10-23",
-   "posted": "2026-10-23",
-   "category": "Security"
   },
   {
    "company": "Citi",
@@ -6150,15 +6207,6 @@
    "location": "Toronto, ON, CA, M5C2V9",
    "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-ON-M5C2V9/603784817/",
    "first_seen": "2026-10-18",
-   "category": "SDE"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer, Global Payments Technology (Backend Java Developer)",
-   "location": "Toronto, ON, CA",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer%2C-Global-Payments-Technology-%28Backend-Java-Developer%29-ON/604531517/",
-   "first_seen": "2026-10-16",
    "category": "SDE"
   },
   {
@@ -7361,16 +7409,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-08-31",
    "category": "SDE"
-  },
-  {
-   "company": "Coinbase",
-   "logo": "logos/coinbase.com.png",
-   "title": "Product Security Engineer",
-   "location": "Remote - Canada",
-   "url": "https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389",
-   "first_seen": "2026-10-14",
-   "posted": "2026-08-28",
-   "category": "Security"
   },
   {
    "company": "Lyft",
