@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-17 08:54 UTC",
- "count": 925,
+ "generated_at": "2026-11-17 18:17 UTC",
+ "count": 917,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 167
+  "responded": 160
  },
  "jobs": [
   {
@@ -31,6 +31,45 @@
    "title": "Junior Software Developer",
    "location": "St. Catharines, Canada",
    "url": "https://go.vansh.nyc/1B4",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Huawei",
+   "logo": "logos/huawei.com.png",
+   "title": "AI Research Engineer - Computer Vision & Neural Rendering",
+   "location": "Edmonton, Alberta, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/ai-research-engineer-computer-vision-neural-rendering",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "Research"
+  },
+  {
+   "company": "Gentec",
+   "title": "Junior Software Designer",
+   "location": "Québec City, QC, Canada",
+   "url": "https://gentec.bamboohr.com/careers/31/",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
+   "title": "Embedded Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24987",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
+   "company": "Fortinet",
+   "logo": "logos/fortinet.com.png",
+   "title": "Embedded Software Developer",
+   "location": "Burnaby, BC, Canada",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24986",
    "first_seen": "2026-11-17",
    "posted": "2026-11-17",
    "category": "SDE"
@@ -91,16 +130,6 @@
    "category": "SDE"
   },
   {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "Software Engineering MTS",
-   "location": "Canada - Toronto",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-MTS_JR367059",
-   "first_seen": "2026-11-17",
-   "posted": "2026-11-16",
-   "category": "SDE"
-  },
-  {
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer",
@@ -129,16 +158,6 @@
    "first_seen": "2026-11-17",
    "posted": "2026-11-16",
    "category": "SDE"
-  },
-  {
-   "company": "Canadian Bank Note",
-   "logo": "logos/cbnco.com.png",
-   "title": "DevOps Specialist",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000161922639",
-   "first_seen": "2026-11-17",
-   "posted": "2026-11-16",
-   "category": "Other"
   },
   {
    "company": "Apple",
@@ -1423,16 +1442,6 @@
    "category": "SDE"
   },
   {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, Android, Level 4 Bitmoji",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
-   "first_seen": "2026-10-06",
-   "posted": "2026-11-10",
-   "category": "SDE"
-  },
-  {
    "company": "Planview",
    "title": "Software Engineer 1",
    "location": "Austin, TX",
@@ -1537,16 +1546,6 @@
    "category": "SDE"
   },
   {
-   "company": "Hootsuite",
-   "logo": "logos/hootsuite.com.png",
-   "title": "Junior Software Developer",
-   "location": "British Columbia, Canada +2",
-   "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
-   "first_seen": "2026-11-06",
-   "posted": "2026-11-07",
-   "category": "SDE"
-  },
-  {
    "company": "Cisco",
    "logo": "logos/cisco.com.png",
    "title": "Software Engineer Embedded Systems I - Full Time - United States",
@@ -1591,25 +1590,6 @@
    "first_seen": "2026-11-07",
    "posted": "2026-11-06",
    "category": "AI/ML"
-  },
-  {
-   "company": "Lumentum",
-   "title": "Process Automation Software Engineer - MEMS",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Fortinet",
-   "logo": "logos/fortinet.com.png",
-   "title": "Early Careers: Technical Content DevOps Developer",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24894",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
   },
   {
    "company": "Cohere",
@@ -1662,12 +1642,12 @@
   {
    "company": "Valsoft Corporation",
    "logo": "logos/valsoftcorp.com.png",
-   "title": "AI Engineer I | Ingénieur.e IA I",
+   "title": "Ingénieur.e IA I | AI Engineer I",
    "location": "Saint-Laurent, Quebec, Canada",
    "url": "https://apply.workable.com/valsoft-corp/j/D0C585CAB5/",
    "first_seen": "2026-11-06",
    "posted": "2026-11-06",
-   "category": "SDE"
+   "category": "AI/ML"
   },
   {
    "company": "Ubisoft",
@@ -1733,6 +1713,16 @@
    "location": "Vancouver, British Columbia",
    "url": "https://jobs.jobvite.com/nutanix/job/oy3NAfwI",
    "first_seen": "2026-11-06",
+   "category": "SDE"
+  },
+  {
+   "company": "Hootsuite",
+   "logo": "logos/hootsuite.com.png",
+   "title": "Junior Software Developer",
+   "location": "Toronto, Ontario, Canada, Vancouver, British Columbia, Canada",
+   "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
+   "first_seen": "2026-11-06",
+   "posted": "2026-11-06",
    "category": "SDE"
   },
   {
@@ -1880,26 +1870,6 @@
    "title": "Software Firmware Engineer - Bowman",
    "location": "Calgary, AB, Canada",
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000159959779",
-   "first_seen": "2026-11-06",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Software Engineering Developer,  Air & Naval ",
-   "location": "Dartmouth, NS, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000159973259",
-   "first_seen": "2026-11-06",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": " Software Engineering Developer,  Air & Naval ",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000159972454",
    "first_seen": "2026-11-06",
    "posted": "2026-11-05",
    "category": "SDE"
@@ -2280,16 +2250,6 @@
    "category": "SDE"
   },
   {
-   "company": "CrowdStrike",
-   "logo": "logos/crowdstrike.com.png",
-   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
-   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
-   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
-   "first_seen": "2026-11-02",
-   "posted": "2026-11-04",
-   "category": "SDE"
-  },
-  {
    "company": "Shield AI",
    "title": "Electrical Engineer New Grad",
    "location": "Seattle, WA",
@@ -2540,16 +2500,6 @@
    "title": "Talent Acquisition Partner (Engineering & Product)",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4476790009",
-   "first_seen": "2026-11-03",
-   "posted": "2026-11-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "Software Engineering LMTS",
-   "location": "Canada - Vancouver",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR366672",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -4298,15 +4248,6 @@
    "category": "SDE"
   },
   {
-   "company": "BlackLine",
-   "title": "Associate Software Engineer",
-   "location": "Toronto, ON, Canada",
-   "url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014",
-   "first_seen": "2026-10-30",
-   "posted": "2026-10-30",
-   "category": "SDE"
-  },
-  {
    "company": "Ample Insight",
    "logo": "logos/ampleinsight.com.png",
    "title": "ML Engineer – Generative AI & LLMs (Remote)",
@@ -5595,15 +5536,6 @@
    "category": "Other"
   },
   {
-   "company": "Shield AI",
-   "title": "Engineer 1 New Grad - Electrical Integration & Test",
-   "location": "Seattle, WA",
-   "url": "https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
-   "first_seen": "2026-11-11",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
    "company": "Orbis Operations",
    "title": "Research Engineer - AI",
    "location": "Remote in USA",
@@ -5620,15 +5552,6 @@
    "first_seen": "2026-10-28",
    "posted": "2026-10-21",
    "category": "Other"
-  },
-  {
-   "company": "Shield AI",
-   "title": "Engineer 1 New Grad - Electrical Integration & Test",
-   "location": "Seattle, WA",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-21",
-   "category": "SDE"
   },
   {
    "company": "Shield AI",
