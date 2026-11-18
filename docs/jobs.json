@@ -1,12 +1,22 @@
 {
- "generated_at": "2026-11-18 08:34 UTC",
- "count": 875,
+ "generated_at": "2026-11-18 17:36 UTC",
+ "count": 874,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 157
+  "responded": 166
  },
  "jobs": [
+  {
+   "company": "Lyft",
+   "logo": "logos/lyft.com.png",
+   "title": "Android Software Developer, Lyft Urban Solutions",
+   "location": "Montreal, Canada",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8950102002?gh_jid=8950102002",
+   "first_seen": "2026-11-18",
+   "posted": "2026-11-18",
+   "category": "SDE"
+  },
   {
    "company": "Kinaxis",
    "logo": "logos/kinaxis.com.png",
@@ -14,6 +24,16 @@
    "location": "US-Remote; CA-Remote | MX-Remote, Canada",
    "url": "https://careers-kinaxis.icims.com/jobs/35781/ai-solutions-engineer%2c-professional-services/job",
    "first_seen": "2026-11-18",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "Systems Engineer, Change Management ",
+   "location": "Cole Harbour, NS, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000162355470",
+   "first_seen": "2026-11-18",
+   "posted": "2026-11-18",
    "category": "SDE"
   },
   {
@@ -251,6 +271,16 @@
    "category": "Research"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
    "company": "Steel",
    "title": "Software Engineer Intern - Summer 2027",
    "location": "Toronto, Canada",
@@ -274,6 +304,16 @@
    "title": "Full Stack Software Engineer - Starlink",
    "location": "Palo Alto, CA",
    "url": "https://boards.greenhouse.io/spacex/jobs/8943586002?gh_jid=8943586002",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering MTS",
+   "location": "Canada - Toronto",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-MTS_JR367059",
    "first_seen": "2026-11-17",
    "posted": "2026-11-16",
    "category": "SDE"
@@ -643,16 +683,6 @@
    "first_seen": "2026-11-13",
    "posted": "2026-11-13",
    "category": "Other"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer I (Full Time) - Canada",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
-   "first_seen": "2026-10-08",
-   "posted": "2026-11-13",
-   "category": "SDE"
   },
   {
    "company": "Nuro",
@@ -1495,6 +1525,16 @@
    "category": "SDE"
   },
   {
+   "company": "Snap",
+   "logo": "logos/snap.com.png",
+   "title": "Software Engineer, Android, Level 4 Bitmoji",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
+   "first_seen": "2026-10-06",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
    "company": "Planview",
    "title": "Software Engineer 1",
    "location": "Austin, TX",
@@ -2012,26 +2052,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Engineer Full Stack / Backend I",
-   "location": "Austin, TX",
-   "url": "https://go.vansh.nyc/1hr",
-   "first_seen": "2026-11-05",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Engineer Full Stack / Backend 1",
-   "location": "Austin, TX",
-   "url": "https://careers.cisco.com/global/en/job/2028784",
-   "first_seen": "2026-11-05",
-   "posted": "2026-11-05",
-   "category": "SDE"
-  },
-  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "Software Developer Engineer 1 - Security Platform",
@@ -2262,6 +2282,16 @@
    "category": "SDE"
   },
   {
+   "company": "CrowdStrike",
+   "logo": "logos/crowdstrike.com.png",
+   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
+   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
+   "first_seen": "2026-11-02",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
    "company": "Shield AI",
    "title": "Electrical Engineer New Grad",
    "location": "Seattle, WA",
@@ -2450,26 +2480,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
-   "first_seen": "2026-10-21",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
-   "first_seen": "2026-10-07",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
    "company": "Verkada",
    "title": "Backend Software Engineer",
    "location": "San Mateo, CA",
@@ -2494,6 +2504,16 @@
    "title": "Talent Acquisition Partner (Engineering & Product)",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4476790009",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-02",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering LMTS",
+   "location": "Canada - Vancouver",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Vancouver/Software-Engineering-LMTS_JR366672",
    "first_seen": "2026-11-03",
    "posted": "2026-11-02",
    "category": "SDE"
@@ -4865,16 +4885,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Canadian Bank Note",
-   "logo": "logos/cbnco.com.png",
-   "title": "Frontend Developer",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000157835067",
-   "first_seen": "2026-10-26",
-   "posted": "2026-10-26",
-   "category": "SDE"
-  },
-  {
    "company": "ServiceNow",
    "logo": "logos/servicenow.com.png",
    "title": "Associate Software Engineer",
@@ -5723,15 +5733,6 @@
    "first_seen": "2026-10-19",
    "posted": "2026-10-19",
    "category": "SDE"
-  },
-  {
-   "company": "Kraken Robotics",
-   "logo": "logos/krakenrobotics.com.png",
-   "title": "Cybersecurity Specialist",
-   "location": "Dartmouth, Canada; Longmont, CO, United States; Houston, TX, United States; Mount Pearl, Canada",
-   "url": "https://ats.rippling.com/kraken-robotics-inc/jobs/3c421826-aff1-41de-bca9-c10295d91b8d",
-   "first_seen": "2026-10-19",
-   "category": "Security"
   },
   {
    "company": "Amazon",
@@ -7883,16 +7884,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-04-02",
    "category": "Research"
-  },
-  {
-   "company": "Huawei",
-   "logo": "logos/huawei.com.png",
-   "title": "Researcher – AI for Scientific Algorithm Discovery",
-   "location": "Montréal , Quebec, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/researcher-ai-for-scientific-algorithm-discovery",
-   "first_seen": "2026-09-01",
-   "posted": "2026-04-02",
-   "category": "AI/ML"
   },
   {
    "company": "Feathery",
