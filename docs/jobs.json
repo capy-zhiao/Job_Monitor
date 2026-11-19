@@ -1,12 +1,21 @@
 {
- "generated_at": "2026-11-19 04:32 UTC",
- "count": 880,
+ "generated_at": "2026-11-19 13:56 UTC",
+ "count": 878,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 158
+  "responded": 159
  },
  "jobs": [
+  {
+   "company": "Eight Sleep",
+   "title": "New Grad: Engineering",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/1CM",
+   "first_seen": "2026-11-19",
+   "posted": "2026-11-19",
+   "category": "SDE"
+  },
   {
    "company": "Apple",
    "logo": "logos/apple.com.png",
@@ -664,16 +673,6 @@
    "category": "SDE"
   },
   {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer - Microsoft Business Operations",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
-   "first_seen": "2026-11-14",
-   "posted": "2026-11-14",
-   "category": "SDE"
-  },
-  {
    "company": "Integrated Biosciences",
    "title": "Software Engineer - Robotics (Master's)",
    "location": "Redwood City, CA",
@@ -887,12 +886,22 @@
    "category": "Other"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer I (Full Time) - Canada",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
-   "first_seen": "2026-10-08",
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
+   "first_seen": "2026-11-04",
+   "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer - Front End",
+   "location": "Canada, British Columbia, Vancouver",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556914390",
+   "first_seen": "2026-10-05",
    "posted": "2026-11-13",
    "category": "SDE"
   },
@@ -1895,16 +1904,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Fortinet",
-   "logo": "logos/fortinet.com.png",
-   "title": "Early Careers: Technical Content DevOps Developer",
-   "location": "Burnaby, BC, Canada",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24894",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
-  },
-  {
    "company": "Cohere",
    "logo": "logos/cohere.com.png",
    "title": "Software Engineer, ML Workload Platform",
@@ -2678,16 +2677,6 @@
    "location": "Ottawa, Ontario, Canada",
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
    "first_seen": "2026-10-21",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
-   "first_seen": "2026-10-07",
    "posted": "2026-11-03",
    "category": "SDE"
   },
@@ -5820,16 +5809,6 @@
    "url": "https://careers-kinaxis.icims.com/jobs/34670/security-engineer/job",
    "first_seen": "2026-10-20",
    "category": "Security"
-  },
-  {
-   "company": "General Dynamics Mission Systems Canada",
-   "logo": "logos/gdmissionsystems.com.png",
-   "title": "Junior Systems Engineer - Networking",
-   "location": "Ottawa, ON, Canada",
-   "url": "https://jobs.smartrecruiters.com/gdmsi/744000156643355",
-   "first_seen": "2026-10-20",
-   "posted": "2026-10-20",
-   "category": "SDE"
   },
   {
    "company": "Fortinet",
