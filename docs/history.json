@@ -949,14 +949,14 @@
 },
 {
 "date": "2026-11-19",
-"total": 878,
-"ca": 442,
+"total": 885,
+"ca": 446,
 "by": {
-"SDE": 615,
+"SDE": 623,
+"Other": 41,
 "AI/ML": 133,
 "Research": 54,
-"Security": 34,
-"Other": 42
+"Security": 34
 }
 }
 ]
