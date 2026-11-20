@@ -1,12 +1,58 @@
 {
- "generated_at": "2026-11-20 03:17 UTC",
- "count": 877,
+ "generated_at": "2026-11-20 12:02 UTC",
+ "count": 879,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 159
+  "responded": 161
  },
  "jobs": [
+  {
+   "company": "Qualcomm",
+   "title": "DSP Applications Software Engineer - ASICS Engineering",
+   "location": "Austin, TX",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446722230518",
+   "first_seen": "2026-11-20",
+   "posted": "2026-11-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Qualcomm",
+   "title": "DSP Applications Software Engineer - ASICS Engineering",
+   "location": "Austin, TX",
+   "url": "https://go.vansh.nyc/1Ec",
+   "first_seen": "2026-11-20",
+   "posted": "2026-11-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "AI Innovation Research Engineer (Master's)",
+   "location": "San Jose, CA",
+   "url": "https://go.vansh.nyc/1E1",
+   "first_seen": "2026-11-20",
+   "posted": "2026-11-20",
+   "category": "Research"
+  },
+  {
+   "company": "HPE",
+   "title": "Systems / Software Engineer I",
+   "location": "Sunnyvale, CA",
+   "url": "https://go.vansh.nyc/1E0",
+   "first_seen": "2026-11-20",
+   "posted": "2026-11-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Apple",
+   "logo": "logos/apple.com.png",
+   "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+   "location": "Sunnyvale, CA; Boulder, CO",
+   "url": "https://jobs.apple.com/en-us/details/200696147",
+   "first_seen": "2026-11-20",
+   "posted": "2026-11-20",
+   "category": "SDE"
+  },
   {
    "company": "SpaceX",
    "title": "Software Engineer - Alerts - Starlink",
@@ -726,6 +772,16 @@
    "category": "Research"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
    "company": "Steel",
    "title": "Software Engineer Intern - Summer 2027",
    "location": "Toronto, Canada",
@@ -740,6 +796,16 @@
    "title": "Software Engineer, Identity ",
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009",
+   "first_seen": "2026-11-17",
+   "posted": "2026-11-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Salesforce",
+   "logo": "logos/salesforce.com.png",
+   "title": "Software Engineering MTS",
+   "location": "Canada - Toronto",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-MTS_JR367059",
    "first_seen": "2026-11-17",
    "posted": "2026-11-16",
    "category": "SDE"
@@ -1959,16 +2025,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2028996",
-   "first_seen": "2026-11-02",
-   "posted": "2026-11-09",
-   "category": "SDE"
-  },
-  {
    "company": "Raydar",
    "title": "Backend Software Engineer",
    "location": "New York City, NY",
@@ -2094,16 +2150,6 @@
    "title": "ASIC DFT Engineer I",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/1lV",
-   "first_seen": "2026-11-07",
-   "posted": "2026-11-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Charles Schwab",
-   "logo": "logos/schwab.com.png",
-   "title": "Associate Software Engineer",
-   "location": "Austin, TX",
-   "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
    "first_seen": "2026-11-07",
    "posted": "2026-11-06",
    "category": "SDE"
@@ -5770,38 +5816,11 @@
    "category": "SDE"
   },
   {
-   "company": "Storable",
-   "title": "Software Development Engineer",
-   "location": "Seattle, WA",
-   "url": "https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
    "company": "Rivian",
    "logo": "logos/rivian.com.png",
    "title": "Software Engineering Intern - Vehicle Controls - January - August 2027",
    "location": "Vancouver, Canada",
    "url": "https://jobs.ashbyhq.com/rivianvw.tech/e00c49b7-44c1-4f0c-af3c-2c7a7402185b",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Rhoda AI",
-   "title": "Software Engineer - Rhoda Platform",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
-   "first_seen": "2026-10-21",
-   "posted": "2026-10-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Mach9",
-   "title": "Software Engineer - 3D Graphics",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8/application?embed=true",
    "first_seen": "2026-10-21",
    "posted": "2026-10-21",
    "category": "SDE"
