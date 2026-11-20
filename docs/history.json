@@ -961,13 +961,13 @@
 },
 {
 "date": "2026-11-20",
-"total": 879,
-"ca": 446,
+"total": 876,
+"ca": 445,
 "by": {
 "SDE": 619,
-"Research": 55,
-"AI/ML": 133,
+"Research": 54,
 "Other": 39,
+"AI/ML": 131,
 "Security": 33
 }
 }
