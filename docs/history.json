@@ -973,14 +973,14 @@
 },
 {
 "date": "2026-11-21",
-"total": 884,
-"ca": 448,
+"total": 895,
+"ca": 456,
 "by": {
-"SDE": 629,
+"SDE": 639,
 "Security": 32,
 "Research": 54,
 "Other": 39,
-"AI/ML": 130
+"AI/ML": 131
 }
 }
 ]
