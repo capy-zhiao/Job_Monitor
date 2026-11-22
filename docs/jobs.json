@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-22 01:57 UTC",
- "count": 869,
+ "generated_at": "2026-11-22 09:34 UTC",
+ "count": 865,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 167
+  "responded": 164
  },
  "jobs": [
   {
@@ -21,16 +21,6 @@
    "title": "New Grad 2027: Software Engineer",
    "location": "New York, NY",
    "url": "https://go.vansh.nyc/1Gh",
-   "first_seen": "2026-11-21",
-   "posted": "2026-11-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Developer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
    "first_seen": "2026-11-21",
    "posted": "2026-11-21",
    "category": "SDE"
@@ -70,6 +60,26 @@
    "url": "https://job-boards.greenhouse.io/okx/jobs/8209722003",
    "first_seen": "2026-11-20",
    "posted": "2026-11-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Trend Micro",
+   "logo": "logos/trendmicro.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa",
+   "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010451",
+   "first_seen": "2026-11-22",
+   "posted": "2026-11-20",
+   "category": "SDE"
+  },
+  {
+   "company": "Trend Micro",
+   "logo": "logos/trendmicro.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa",
+   "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010464",
+   "first_seen": "2026-11-22",
+   "posted": "2026-11-20",
    "category": "SDE"
   },
   {
@@ -796,6 +806,22 @@
    "category": "SDE"
   },
   {
+   "company": "Evertz",
+   "title": "Junior Field Service Engineer - AV",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/3oLKf4xhmq/Junior-Field-Service-Engineer-AV",
+   "first_seen": "2026-11-18",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "AV Service Engineer, Control Systems & Device Integration",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/8iyu3m8Iem/AV-Service-Engineer-Control-Systems-Device-Integration",
+   "first_seen": "2026-11-18",
+   "category": "SDE"
+  },
+  {
    "company": "Eclipse Automation",
    "title": "Full Stack Software Engineer",
    "location": "Cambridge, Canada",
@@ -965,16 +991,6 @@
    "category": "Research"
   },
   {
-   "company": "Salesforce",
-   "logo": "logos/salesforce.com.png",
-   "title": "Software Engineering MTS",
-   "location": "Canada - Toronto",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Canada---Toronto/Software-Engineering-MTS_JR367059",
-   "first_seen": "2026-11-17",
-   "posted": "2026-11-17",
-   "category": "SDE"
-  },
-  {
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer Agentic Security",
@@ -1058,26 +1074,6 @@
    "first_seen": "2026-11-17",
    "posted": "2026-11-17",
    "category": "Research"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1",
-   "first_seen": "2026-11-12",
-   "posted": "2026-11-17",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
-   "first_seen": "2026-10-28",
-   "posted": "2026-11-17",
-   "category": "SDE"
   },
   {
    "company": "Steel",
@@ -1271,15 +1267,6 @@
    "title": "Software Developer - Backend",
    "location": "SF",
    "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4504529009",
-   "first_seen": "2026-11-14",
-   "posted": "2026-11-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Micron Technology",
-   "title": "Design Engineer New Grad",
-   "location": "San Jose, CA",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605",
    "first_seen": "2026-11-14",
    "posted": "2026-11-13",
    "category": "SDE"
@@ -1683,16 +1670,6 @@
    "first_seen": "2026-11-12",
    "posted": "2026-11-12",
    "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "AI/ML Layout Engineering Intern (Winter 2027)",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
-   "first_seen": "2026-11-12",
-   "posted": "2026-11-12",
-   "category": "AI/ML"
   },
   {
    "company": "Bask Health",
@@ -2255,16 +2232,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Engineer",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
-   "first_seen": "2026-09-23",
-   "posted": "2026-11-10",
-   "category": "SDE"
-  },
-  {
    "company": "Planview",
    "title": "Software Engineer 1",
    "location": "Austin, TX",
@@ -2279,15 +2246,6 @@
    "title": "Software Engineer",
    "location": "Redmond, WA",
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
-   "first_seen": "2026-11-10",
-   "posted": "2026-11-09",
-   "category": "SDE"
-  },
-  {
-   "company": "Bank of Montreal",
-   "title": "Software Developer New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581",
    "first_seen": "2026-11-10",
    "posted": "2026-11-09",
    "category": "SDE"
@@ -2952,6 +2910,14 @@
    "url": "https://jobs.smartrecruiters.com/gdmsi/744000159681119",
    "first_seen": "2026-11-04",
    "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "Production Engineer",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/bZcBJfDPB8/Production-Engineer",
+   "first_seen": "2026-11-04",
    "category": "SDE"
   },
   {
@@ -4792,16 +4758,6 @@
    "category": "SDE"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Photonic Card Software Developer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
-   "first_seen": "2026-09-23",
-   "posted": "2026-10-31",
-   "category": "SDE"
-  },
-  {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
    "title": "Product Solutions and Operations New Grad - Global Monetization Product and Technology",
@@ -4906,6 +4862,14 @@
    "first_seen": "2026-10-30",
    "posted": "2026-10-30",
    "category": "Other"
+  },
+  {
+   "company": "Evertz",
+   "title": "Process Engineer - SMT Support",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/OkbCO3LPQu/Process-Engineer-SMT-Support",
+   "first_seen": "2026-10-30",
+   "category": "SDE"
   },
   {
    "company": "Ciena",
@@ -5019,16 +4983,6 @@
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000158519919",
    "first_seen": "2026-10-29",
-   "posted": "2026-10-29",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Routing/IP Software Engineer  - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
-   "first_seen": "2026-10-28",
    "posted": "2026-10-29",
    "category": "SDE"
   },
@@ -5646,26 +5600,6 @@
    "category": "SDE"
   },
   {
-   "company": "Palantir",
-   "logo": "logos/palantir.com.png",
-   "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
-   "location": "New York, NY",
-   "url": "https://go.vansh.nyc/Bb",
-   "first_seen": "2026-10-25",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
-   "location": "Seattle, WA; Austin, TX; Cupertino, CA",
-   "url": "https://go.vansh.nyc/Bg",
-   "first_seen": "2026-10-25",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "Researcher - AI Agents & Knowledge Graphs",
@@ -5823,26 +5757,6 @@
    "category": "Security"
   },
   {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "SVT/PV Engineer 1 - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
-   "first_seen": "2026-09-23",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
-   "company": "Ciena",
-   "logo": "logos/ciena.com.png",
-   "title": "Embedded Software Engineer - New Grad",
-   "location": "Ottawa",
-   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571",
-   "first_seen": "2026-09-23",
-   "posted": "2026-10-22",
-   "category": "SDE"
-  },
-  {
    "company": "Fortinet",
    "logo": "logos/fortinet.com.png",
    "title": "Embedded Software Developer",
@@ -5916,6 +5830,14 @@
    "title": "IT Operations Engineer",
    "location": "Remote (Canada)",
    "url": "https://ats.rippling.com/gaiias-open-positions/jobs/680f234e-0c49-40d6-844e-bff46dfff92e",
+   "first_seen": "2026-10-16",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "evTOC Applications Engineer",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/bHG6oKZGuj/EvTOC-Applications-Engineer",
    "first_seen": "2026-10-16",
    "category": "SDE"
   },
@@ -6159,6 +6081,30 @@
    "url": "https://apply.workable.com/liberty-mutual-canada/j/ADD610E6D0/",
    "first_seen": "2026-10-13",
    "posted": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "Test Engineer",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/JbJ76J3Nkz/Test-Engineer",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "Field Service Engineer, AV",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/v3neeWPYA9/Field-Service-Engineer-AV",
+   "first_seen": "2026-10-13",
+   "category": "SDE"
+  },
+  {
+   "company": "Evertz",
+   "title": "Field Service Engineer",
+   "location": "Burlington, ON, Canada",
+   "url": "https://evertz.applytojob.com/apply/rP7Wr30mg9/Field-Service-Engineer",
+   "first_seen": "2026-10-13",
    "category": "SDE"
   },
   {

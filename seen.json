@@ -4150,6 +4150,8 @@
  "url:td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Mobile-Software-Engineer-I_R_1520654-1",
  "url:td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
  "url:techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity",
+ "url:trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010451",
+ "url:trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010464",
  "url:trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Ottawa/Software-Developer_R0010451",
  "url:trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
  "url:unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
@@ -4377,5 +4379,7 @@
  "workday:td:/job/Toronto-Ontario/Software-Engineer-I_R_1511144",
  "workday:td:/job/Toronto-Ontario/Software-Engineer-I_R_1514704-1",
  "workday:trendmicro:/job/Ottawa/Applied-AI-Backend-Sr-Software-Developer---Ottawa--ON_R0009722",
- "workday:trendmicro:/job/Ottawa/Applied-AI-Backend-Sr-Software-Developer---Ottawa--ON_R0009723"
+ "workday:trendmicro:/job/Ottawa/Applied-AI-Backend-Sr-Software-Developer---Ottawa--ON_R0009723",
+ "workday:trendmicro:/job/Ottawa/Software-Developer_R0010451",
+ "workday:trendmicro:/job/Ottawa/Software-Developer_R0010464"
 ]
