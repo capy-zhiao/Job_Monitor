@@ -985,10 +985,10 @@
 },
 {
 "date": "2026-11-22",
-"total": 865,
-"ca": 446,
+"total": 863,
+"ca": 444,
 "by": {
-"SDE": 616,
+"SDE": 614,
 "Security": 31,
 "Research": 54,
 "Other": 38,

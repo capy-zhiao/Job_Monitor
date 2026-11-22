@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-22 09:34 UTC",
- "count": 865,
+ "generated_at": "2026-11-22 17:25 UTC",
+ "count": 863,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 164
+  "responded": 161
  },
  "jobs": [
   {
@@ -60,26 +60,6 @@
    "url": "https://job-boards.greenhouse.io/okx/jobs/8209722003",
    "first_seen": "2026-11-20",
    "posted": "2026-11-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Trend Micro",
-   "logo": "logos/trendmicro.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa",
-   "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010451",
-   "first_seen": "2026-11-22",
-   "posted": "2026-11-20",
-   "category": "SDE"
-  },
-  {
-   "company": "Trend Micro",
-   "logo": "logos/trendmicro.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa",
-   "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010464",
-   "first_seen": "2026-11-22",
-   "posted": "2026-11-20",
    "category": "SDE"
   },
   {
@@ -1076,6 +1056,16 @@
    "category": "Research"
   },
   {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-11-17",
+   "category": "SDE"
+  },
+  {
    "company": "Steel",
    "title": "Software Engineer Intern - Summer 2027",
    "location": "Toronto, Canada",
@@ -1083,6 +1073,15 @@
    "first_seen": "2026-10-21",
    "posted": "2026-11-17",
    "category": "SDE"
+  },
+  {
+   "company": "The Federal Reserve System",
+   "title": "Quantitative Fellow",
+   "location": "Boston, MA; Washington, DC; SF; Cleveland, OH; Philadelphia, PA; Richmond, VA; Charlotte, NC; St. Louis, MO; NYC; Minneapolis, MN; Atlanta, GA",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000034088",
+   "first_seen": "2026-11-22",
+   "posted": "2026-11-16",
+   "category": "Other"
   },
   {
    "company": "Starbridge",
@@ -1398,25 +1397,6 @@
    "location": "USA",
    "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/",
    "first_seen": "2026-11-13",
-   "posted": "2026-11-13",
-   "category": "SDE"
-  },
-  {
-   "company": "Bank of Montreal",
-   "title": "Personal & Business Banking Development Program New Grad",
-   "location": "Toronto, ON, Canada",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3",
-   "first_seen": "2026-11-13",
-   "posted": "2026-11-13",
-   "category": "Other"
-  },
-  {
-   "company": "Microsoft",
-   "logo": "logos/microsoft.com.png",
-   "title": "Software Engineer - Front End",
-   "location": "Canada, British Columbia, Vancouver",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
-   "first_seen": "2026-11-04",
    "posted": "2026-11-13",
    "category": "SDE"
   },
@@ -2954,6 +2934,16 @@
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3",
    "first_seen": "2026-11-03",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "CrowdStrike",
+   "logo": "logos/crowdstrike.com.png",
+   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
+   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
+   "first_seen": "2026-11-02",
    "posted": "2026-11-04",
    "category": "SDE"
   },
@@ -5578,15 +5568,6 @@
    "location": "Canada (Remote)",
    "url": "https://jobs.lever.co/versapay/5b8d1d13-e1bc-4b3e-a72e-c4c6115d725e",
    "first_seen": "2026-10-28",
-   "posted": "2026-10-23",
-   "category": "SDE"
-  },
-  {
-   "company": "NetApp",
-   "title": "Software Engineer, Cloud Volumes (Master's)",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/UL",
-   "first_seen": "2026-10-27",
    "posted": "2026-10-23",
    "category": "SDE"
   },
