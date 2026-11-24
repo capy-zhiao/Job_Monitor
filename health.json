@@ -60,7 +60,7 @@
   "last_ok": "2026-11-24"
  },
  "Arctic Wolf": {
-  "fail_runs": 5,
+  "fail_runs": 6,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
@@ -71,9 +71,9 @@
  },
  "Autodesk": {
   "empty_since": "2026-11-05",
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-23",
+  "last_ok": "2026-11-24",
   "reported_empty": true
  },
  "Auvik": {
@@ -81,9 +81,10 @@
   "last_ok": "2026-11-24"
  },
  "BMO": {
-  "fail_runs": 2,
+  "fail_runs": 3,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-23"
+  "last_ok": "2026-11-23",
+  "reported_fail": true
  },
  "BinSentry": {
   "fail_runs": 0,
@@ -91,13 +92,13 @@
   "last_ok": "2026-11-24"
  },
  "BlackBerry": {
-  "fail_runs": 3,
+  "fail_runs": 4,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
  },
  "BlackBerry (Security)": {
-  "fail_runs": 3,
+  "fail_runs": 4,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
@@ -107,7 +108,7 @@
   "last_ok": "2026-11-24"
  },
  "CIBC": {
-  "fail_runs": 26,
+  "fail_runs": 27,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-16",
   "reported_fail": true
@@ -142,7 +143,7 @@
   "last_ok": "2026-11-24"
  },
  "Ciena": {
-  "fail_runs": 1,
+  "fail_runs": 2,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-23"
  },
@@ -178,7 +179,7 @@
   "last_ok": "2026-11-24"
  },
  "CrowdStrike": {
-  "fail_runs": 4,
+  "fail_runs": 5,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
@@ -347,14 +348,13 @@
  },
  "Intel": {
   "empty_since": "2026-10-20",
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-22",
-  "reported_empty": true,
-  "reported_fail": true
+  "last_ok": "2026-11-24",
+  "reported_empty": true
  },
  "Interac": {
-  "fail_runs": 4,
+  "fail_runs": 5,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
@@ -393,7 +393,8 @@
   "last_ok": "2026-11-24"
  },
  "Magical": {
-  "fail_runs": 0,
+  "fail_runs": 1,
+  "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-11-24"
  },
  "Magnet Forensics": {
@@ -448,9 +449,9 @@
   "last_ok": "2026-11-24"
  },
  "NVIDIA": {
-  "fail_runs": 2,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-23"
+  "last_ok": "2026-11-24"
  },
  "Nascent": {
   "fail_runs": 0,
@@ -574,7 +575,7 @@
   "last_ok": "2026-11-24"
  },
  "SAP": {
-  "fail_runs": 153,
+  "fail_runs": 154,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -585,7 +586,7 @@
   "reported_empty": true
  },
  "Salesforce": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-24"
  },
@@ -610,9 +611,9 @@
   "last_ok": "2026-11-24"
  },
  "Snap": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-23"
+  "last_ok": "2026-11-24"
  },
  "Snowflake": {
   "fail_runs": 0,
@@ -648,13 +649,13 @@
   "last_ok": "2026-11-24"
  },
  "TD": {
-  "fail_runs": 5,
+  "fail_runs": 6,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
  },
  "TD (Security)": {
-  "fail_runs": 26,
+  "fail_runs": 27,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-16",
   "reported_fail": true
@@ -668,16 +669,16 @@
   "last_ok": "2026-11-24"
  },
  "Thomson Reuters": {
-  "fail_runs": 1,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-23"
+  "last_ok": "2026-11-24"
  },
  "Together AI": {
   "fail_runs": 0,
   "last_ok": "2026-11-24"
  },
  "Trend Micro": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-24"
  },

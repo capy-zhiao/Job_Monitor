@@ -1,12 +1,59 @@
 {
- "generated_at": "2026-11-24 00:25 UTC",
- "count": 850,
+ "generated_at": "2026-11-24 10:17 UTC",
+ "count": 853,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 164
+  "responded": 166
  },
  "jobs": [
+  {
+   "company": "X Development",
+   "title": "AI/ML Engineer & Applied Researcher - Early Stage Projects",
+   "location": "Mountain View, CA",
+   "url": "https://x.company/careers/8959513002?gh_jid=8959513002",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Serko",
+   "title": "Software Engineer 1",
+   "location": "Seattle, WA",
+   "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "SambaNova Systems",
+   "title": "New Grad: AI Performance Engineer",
+   "location": "Austin, TX; San Jose, CA",
+   "url": "https://go.vansh.nyc/1HY",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "AI/ML"
+  },
+  {
+   "company": "Microsoft",
+   "logo": "logos/microsoft.com.png",
+   "title": "Software Engineer-Securing AI",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Huawei",
+   "logo": "logos/huawei.com.png",
+   "title": "Engineer - AI-Driven Software & Automation",
+   "location": "Markham, Ontario, Canada",
+   "url": "https://huaweicanada.recruitee.com/o/engineer-ai-driven-software-automation-3",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
   {
    "company": "WebAI",
    "title": "Junior Software Developer",
@@ -62,26 +109,6 @@
    "first_seen": "2026-11-23",
    "posted": "2026-11-23",
    "category": "Other"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
-   "first_seen": "2026-10-21",
-   "posted": "2026-11-23",
-   "category": "SDE"
-  },
-  {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
-   "first_seen": "2026-10-07",
-   "posted": "2026-11-23",
-   "category": "SDE"
   },
   {
    "company": "Sierra",
@@ -152,26 +179,6 @@
    "category": "SDE"
   },
   {
-   "company": "Trend Micro",
-   "logo": "logos/trendmicro.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa",
-   "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010451",
-   "first_seen": "2026-11-22",
-   "posted": "2026-11-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Trend Micro",
-   "logo": "logos/trendmicro.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa",
-   "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010464",
-   "first_seen": "2026-11-22",
-   "posted": "2026-11-21",
-   "category": "SDE"
-  },
-  {
    "company": "Parsons",
    "title": "Associate Software Engineer",
    "location": "Remote - USA",
@@ -216,6 +223,15 @@
    "location": "Sunnyvale, CA",
    "url": "https://jobs.apple.com/en-us/details/200696147-3956",
    "first_seen": "2026-11-22",
+   "posted": "2026-11-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Zscaler",
+   "title": "Software Development Engineer",
+   "location": "Santa Clara, CA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+   "first_seen": "2026-11-21",
    "posted": "2026-11-21",
    "category": "SDE"
   },
@@ -300,15 +316,6 @@
    "location": "Ottawa, Canada",
    "url": "https://go.vansh.nyc/1Gr",
    "first_seen": "2026-11-22",
-   "posted": "2026-11-20",
-   "category": "SDE"
-  },
-  {
-   "company": "Zscaler",
-   "title": "Software Development Engineer",
-   "location": "Santa Clara, CA",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
-   "first_seen": "2026-11-21",
    "posted": "2026-11-20",
    "category": "SDE"
   },
@@ -1296,6 +1303,16 @@
    "first_seen": "2026-11-17",
    "posted": "2026-11-17",
    "category": "Research"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Vancouver, British Columbia, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
+   "first_seen": "2026-10-28",
+   "posted": "2026-11-17",
+   "category": "SDE"
   },
   {
    "company": "The Federal Reserve System",
@@ -2376,6 +2393,16 @@
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/9EC7AB917E/",
    "first_seen": "2026-10-13",
+   "posted": "2026-11-10",
+   "category": "SDE"
+  },
+  {
+   "company": "Snap",
+   "logo": "logos/snap.com.png",
+   "title": "Software Engineer, Android, Level 4 Bitmoji",
+   "location": "Toronto, Canada",
+   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
+   "first_seen": "2026-10-06",
    "posted": "2026-11-10",
    "category": "SDE"
   },
