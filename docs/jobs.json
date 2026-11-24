@@ -1,12 +1,21 @@
 {
- "generated_at": "2026-11-24 10:17 UTC",
- "count": 853,
+ "generated_at": "2026-11-24 20:46 UTC",
+ "count": 852,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 166
+  "responded": 160
  },
  "jobs": [
+  {
+   "company": "dcbel Inc",
+   "logo": "logos/dcbel.energy.png",
+   "title": "Cybersecurity Ops Administrator",
+   "location": "Montréal, Quebec",
+   "url": "https://dcbel.bamboohr.com/careers/262",
+   "first_seen": "2026-11-24",
+   "category": "Security"
+  },
   {
    "company": "X Development",
    "title": "AI/ML Engineer & Applied Researcher - Early Stage Projects",
@@ -15,6 +24,16 @@
    "first_seen": "2026-11-24",
    "posted": "2026-11-24",
    "category": "AI/ML"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Online Programmer - Online Services",
+   "location": "Saguenay, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000163482417",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "Other"
   },
   {
    "company": "Serko",
@@ -35,6 +54,26 @@
    "category": "AI/ML"
   },
   {
+   "company": "PayPal",
+   "logo": "logos/paypal.com.png",
+   "title": "New Grad 2027: Software Engineer",
+   "location": "San Jose, CA; Chicago, IL; Austin, TX",
+   "url": "https://go.vansh.nyc/1Io",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Nokia",
+   "logo": "logos/nokia.com.png",
+   "title": "Software Development Engineer",
+   "location": "Canada",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42107",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
    "company": "Microsoft",
    "logo": "logos/microsoft.com.png",
    "title": "Software Engineer-Securing AI",
@@ -45,11 +84,41 @@
    "category": "SDE"
   },
   {
+   "company": "Maya HTT",
+   "logo": "logos/mayahtt.com.jpg",
+   "title": "NX CAD application engineer",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.ashbyhq.com/maya-htt/76048989-c135-4a31-b967-4cc4dee3e169",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "Engineer - AI-Driven Software & Automation",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/engineer-ai-driven-software-automation-3",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "General Dynamics Mission Systems Canada",
+   "logo": "logos/gdmissionsystems.com.png",
+   "title": "AI Process Integration (Engineering)",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://jobs.smartrecruiters.com/gdmsi/744000163523968",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "DoorDash Canada",
+   "logo": "logos/doordash.com.png",
+   "title": "Software Engineer, iOS (Canada)",
+   "location": "Toronto, ON",
+   "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8149246",
    "first_seen": "2026-11-24",
    "posted": "2026-11-24",
    "category": "SDE"
@@ -109,6 +178,26 @@
    "first_seen": "2026-11-23",
    "posted": "2026-11-23",
    "category": "Other"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019397",
+   "first_seen": "2026-10-21",
+   "posted": "2026-11-23",
+   "category": "SDE"
+  },
+  {
+   "company": "Cisco",
+   "logo": "logos/cisco.com.png",
+   "title": "Software Developer",
+   "location": "Ottawa, Ontario, Canada",
+   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer_2019426",
+   "first_seen": "2026-10-07",
+   "posted": "2026-11-23",
+   "category": "SDE"
   },
   {
    "company": "Sierra",
@@ -1305,16 +1394,6 @@
    "category": "Research"
   },
   {
-   "company": "Cisco",
-   "logo": "logos/cisco.com.png",
-   "title": "Software Developer",
-   "location": "Vancouver, British Columbia, Canada",
-   "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Vancouver-British-Columbia-Canada/Software-Developer_2024524-1",
-   "first_seen": "2026-10-28",
-   "posted": "2026-11-17",
-   "category": "SDE"
-  },
-  {
    "company": "The Federal Reserve System",
    "title": "Quantitative Fellow",
    "location": "Boston, MA; Washington, DC; SF; Cleveland, OH; Philadelphia, PA; Richmond, VA; Charlotte, NC; St. Louis, MO; NYC; Minneapolis, MN; Atlanta, GA",
@@ -1629,6 +1708,15 @@
    "url": "https://apply.careers.microsoft.com/careers/job/1970393557040315",
    "first_seen": "2026-11-04",
    "posted": "2026-11-13",
+   "category": "SDE"
+  },
+  {
+   "company": "DMC Engineering",
+   "title": "Entry Level Software Engineer",
+   "location": "Seattle, WA; Chicago, IL",
+   "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008",
+   "first_seen": "2026-11-24",
+   "posted": "2026-11-12",
    "category": "SDE"
   },
   {
@@ -2397,16 +2485,6 @@
    "category": "SDE"
   },
   {
-   "company": "Snap",
-   "logo": "logos/snap.com.png",
-   "title": "Software Engineer, Android, Level 4 Bitmoji",
-   "location": "Toronto, Canada",
-   "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1",
-   "first_seen": "2026-10-06",
-   "posted": "2026-11-10",
-   "category": "SDE"
-  },
-  {
    "company": "Planview",
    "title": "Software Engineer 1",
    "location": "Austin, TX",
@@ -2506,6 +2584,16 @@
    "location": "Canada",
    "url": "https://job-boards.greenhouse.io/brave/jobs/8360001",
    "first_seen": "2026-11-08",
+   "posted": "2026-11-07",
+   "category": "SDE"
+  },
+  {
+   "company": "Hootsuite",
+   "logo": "logos/hootsuite.com.png",
+   "title": "Junior Software Developer",
+   "location": "British Columbia, Canada +2",
+   "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
+   "first_seen": "2026-11-06",
    "posted": "2026-11-07",
    "category": "SDE"
   },
@@ -2638,16 +2726,6 @@
    "location": "Vancouver, British Columbia",
    "url": "https://jobs.jobvite.com/nutanix/job/oy3NAfwI",
    "first_seen": "2026-11-06",
-   "category": "SDE"
-  },
-  {
-   "company": "Hootsuite",
-   "logo": "logos/hootsuite.com.png",
-   "title": "Junior Software Developer",
-   "location": "Toronto, Ontario, Canada, Vancouver, British Columbia, Canada",
-   "url": "https://job-boards.greenhouse.io/hootsuite/jobs/8359647",
-   "first_seen": "2026-11-06",
-   "posted": "2026-11-06",
    "category": "SDE"
   },
   {
@@ -3084,16 +3162,6 @@
    "location": "Seattle, WA",
    "url": "https://jobs.ashbyhq.com/shield/88fb99dc-26b8-4937-92a9-b8d13ce4e0f0/application?embed=true",
    "first_seen": "2026-11-11",
-   "posted": "2026-11-03",
-   "category": "SDE"
-  },
-  {
-   "company": "Superhuman",
-   "logo": "logos/superhuman.com.png",
-   "title": "AI Engineer (Superhuman Mail) - Canada",
-   "location": "Remote - Canada",
-   "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5a447015-a4c6-4406-b56a-fc3a01d78db3",
-   "first_seen": "2026-11-04",
    "posted": "2026-11-03",
    "category": "SDE"
   },
@@ -3774,16 +3842,6 @@
   {
    "company": "TikTok",
    "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Supply Chain & Logistics",
-   "location": "Seattle, WA",
-   "url": "https://go.vansh.nyc/165",
-   "first_seen": "2026-11-01",
-   "posted": "2026-11-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
    "title": "New Grad 2027: Machine Learning Engineer, E-Commerce Recommendation Mall",
    "location": "Seattle, WA",
    "url": "https://go.vansh.nyc/16r",
@@ -3877,16 +3935,6 @@
    "title": "New Grad 2027: Machine Learning Engineer (Search Ads)",
    "location": "San Jose, CA",
    "url": "https://go.vansh.nyc/16h",
-   "first_seen": "2026-11-01",
-   "posted": "2026-11-01",
-   "category": "AI/ML"
-  },
-  {
-   "company": "TikTok",
-   "logo": "logos/tiktok.com.png",
-   "title": "New Grad 2027: Machine Learning Engineer (E-Commerce Supply Chain & Logistics)",
-   "location": "San Jose, CA",
-   "url": "https://go.vansh.nyc/16a",
    "first_seen": "2026-11-01",
    "posted": "2026-11-01",
    "category": "AI/ML"
@@ -5144,6 +5192,16 @@
    "category": "AI/ML"
   },
   {
+   "company": "StackAdapt",
+   "logo": "logos/stackadapt.com.png",
+   "title": "DevOps Engineer (Services Team)",
+   "location": "Canada",
+   "url": "https://job-boards.greenhouse.io/stackadapt/jobs/4470989009",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
    "company": "Rubrik",
    "logo": "logos/rubrik.com.png",
    "title": "Software Engineer - Entra ID",
@@ -6034,15 +6092,6 @@
    "category": "SDE"
   },
   {
-   "company": "BinSentry",
-   "logo": "logos/binsentry.com.png",
-   "title": "Software Developer",
-   "location": "Kitchener, Ontario",
-   "url": "https://binsentry.bamboohr.com/careers/310",
-   "first_seen": "2026-10-13",
-   "category": "SDE"
-  },
-  {
    "company": "Glia",
    "logo": "logos/glia.com.jpg",
    "title": "Associate, Client Engineer (Vancouver)",
@@ -6263,15 +6312,6 @@
    "category": "SDE"
   },
   {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer-\tGlobal Payments Engineering",
-   "location": "Toronto, ON, CA, M1L4S2",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Global-Payments-Engineering-ON-M1L4S2/606433617/",
-   "first_seen": "2026-09-24",
-   "category": "SDE"
-  },
-  {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
    "title": "Researcher – Agent Platform R&D",
@@ -6418,16 +6458,6 @@
    "first_seen": "2026-09-17",
    "posted": "2026-09-17",
    "category": "Security"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) logiciel / Software Developer - C#/.NET, WPF and Web",
-   "location": "Montreal, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/5A5A23961A/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-09-16",
-   "category": "SDE"
   },
   {
    "company": "General Dynamics Mission Systems Canada",
@@ -6957,16 +6987,6 @@
    "category": "Research"
   },
   {
-   "company": "DRW",
-   "logo": "logos/drw.com.png",
-   "title": "Junior Data Analyst",
-   "location": "Montreal",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/8128786",
-   "first_seen": "2026-10-13",
-   "posted": "2026-08-13",
-   "category": "Other"
-  },
-  {
    "company": "General Dynamics Mission Systems Canada",
    "logo": "logos/gdmissionsystems.com.png",
    "title": "Life Cycle Material Engineering Specialist",
@@ -7247,16 +7267,6 @@
    "category": "Other"
   },
   {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) logiciel / Software Developer - C#/.NET",
-   "location": "Québec City, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/9D6D4FA079/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-06-26",
-   "category": "SDE"
-  },
-  {
    "company": "Orennia",
    "logo": "logos/orennia.com.png",
    "title": "Analytics Intern - Engineering",
@@ -7445,16 +7455,6 @@
    "first_seen": "2026-09-01",
    "posted": "2026-05-12",
    "category": "AI/ML"
-  },
-  {
-   "company": "Stripe",
-   "logo": "logos/stripe.com.png",
-   "title": "Backend Engineer, Data",
-   "location": "Canada",
-   "url": "https://stripe.com/jobs/search?gh_jid=7913700",
-   "first_seen": "2026-10-28",
-   "posted": "2026-05-11",
-   "category": "SDE"
   },
   {
    "company": "Fortinet",
@@ -7832,16 +7832,6 @@
    "title": "Développeur(euse) logiciel / Software Developer - Storage",
    "location": "Montreal, Quebec, Canada",
    "url": "https://apply.workable.com/genetec-inc/j/D5380E6C17/",
-   "first_seen": "2026-10-13",
-   "posted": "2026-03-02",
-   "category": "SDE"
-  },
-  {
-   "company": "Genetec",
-   "logo": "logos/genetec.com.png",
-   "title": "Développeur(euse) logiciel / Software Developer (IAM)",
-   "location": "Québec City, Quebec, Canada",
-   "url": "https://apply.workable.com/genetec-inc/j/4B8F9C7782/",
    "first_seen": "2026-10-13",
    "posted": "2026-03-02",
    "category": "SDE"
