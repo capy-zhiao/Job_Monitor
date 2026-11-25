@@ -1021,14 +1021,14 @@
 },
 {
 "date": "2026-11-25",
-"total": 875,
-"ca": 455,
+"total": 855,
+"ca": 444,
 "by": {
-"SDE": 625,
-"Security": 32,
-"AI/ML": 124,
-"Other": 42,
-"Research": 52
+"SDE": 608,
+"Other": 43,
+"Security": 31,
+"AI/ML": 122,
+"Research": 51
 }
 }
 ]
