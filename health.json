@@ -60,10 +60,9 @@
   "last_ok": "2026-11-26"
  },
  "Arctic Wolf": {
-  "fail_runs": 12,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-22",
-  "reported_fail": true
+  "last_ok": "2026-11-26"
  },
  "Asana": {
   "fail_runs": 0,
@@ -71,11 +70,10 @@
  },
  "Autodesk": {
   "empty_since": "2026-11-05",
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-25",
-  "reported_empty": true,
-  "reported_fail": true
+  "last_ok": "2026-11-26",
+  "reported_empty": true
  },
  "Auvik": {
   "fail_runs": 0,
@@ -92,22 +90,22 @@
   "last_ok": "2026-11-26"
  },
  "BlackBerry": {
-  "fail_runs": 10,
+  "fail_runs": 11,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
  },
  "BlackBerry (Security)": {
-  "fail_runs": 2,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-25"
+  "last_ok": "2026-11-26"
  },
  "Borealis AI (RBC)": {
   "fail_runs": 0,
   "last_ok": "2026-11-26"
  },
  "CIBC": {
-  "fail_runs": 33,
+  "fail_runs": 34,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-16",
   "reported_fail": true
@@ -121,10 +119,9 @@
   "last_ok": "2026-11-26"
  },
  "Capital One": {
-  "fail_runs": 4,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-25",
-  "reported_fail": true
+  "last_ok": "2026-11-26"
  },
  "Carta": {
   "fail_runs": 0,
@@ -143,7 +140,7 @@
   "last_ok": "2026-11-26"
  },
  "Ciena": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-26"
  },
@@ -351,7 +348,7 @@
   "reported_empty": true
  },
  "Interac": {
-  "fail_runs": 11,
+  "fail_runs": 12,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
@@ -390,7 +387,7 @@
   "last_ok": "2026-11-26"
  },
  "Magical": {
-  "fail_runs": 7,
+  "fail_runs": 8,
   "last_error": "HTTP Error 404: Not Found",
   "last_ok": "2026-11-24",
   "reported_fail": true
@@ -400,7 +397,7 @@
   "last_ok": "2026-11-26"
  },
  "Mastercard": {
-  "fail_runs": 0,
+  "fail_runs": 1,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-26"
  },
@@ -417,16 +414,14 @@
   "last_ok": "2026-11-26"
  },
  "Microsoft": {
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-25",
-  "reported_fail": true
+  "last_ok": "2026-11-26"
  },
  "Microsoft (Security)": {
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-25",
-  "reported_fail": true
+  "last_ok": "2026-11-26"
  },
  "Miovision": {
   "fail_runs": 0,
@@ -576,7 +571,7 @@
   "last_ok": "2026-11-26"
  },
  "SAP": {
-  "fail_runs": 160,
+  "fail_runs": 161,
   "last_error": "HTTP Error 404: Not Found",
   "reported_fail": true
  },
@@ -612,10 +607,9 @@
   "last_ok": "2026-11-26"
  },
  "Snap": {
-  "fail_runs": 3,
+  "fail_runs": 0,
   "last_error": "HTTP Error 429: Too Many Requests",
-  "last_ok": "2026-11-25",
-  "reported_fail": true
+  "last_ok": "2026-11-26"
  },
  "Snowflake": {
   "fail_runs": 0,
@@ -651,13 +645,13 @@
   "last_ok": "2026-11-26"
  },
  "TD": {
-  "fail_runs": 12,
+  "fail_runs": 13,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-22",
   "reported_fail": true
  },
  "TD (Security)": {
-  "fail_runs": 33,
+  "fail_runs": 34,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-16",
   "reported_fail": true
@@ -680,7 +674,7 @@
   "last_ok": "2026-11-26"
  },
  "Trend Micro": {
-  "fail_runs": 7,
+  "fail_runs": 8,
   "last_error": "HTTP Error 429: Too Many Requests",
   "last_ok": "2026-11-24",
   "reported_fail": true
