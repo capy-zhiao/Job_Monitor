@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-26 05:06 UTC",
- "count": 867,
+ "generated_at": "2026-11-26 15:20 UTC",
+ "count": 877,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 157
+  "responded": 165
  },
  "jobs": [
   {
@@ -49,6 +49,25 @@
    "title": "Technical Marketing Engineer",
    "location": "Vancouver, British Columbia",
    "url": "https://jobs.jobvite.com/nutanix/job/oEk9Bfws",
+   "first_seen": "2026-11-26",
+   "category": "SDE"
+  },
+  {
+   "company": "LawDepot",
+   "logo": "logos/lawdepot.com.png",
+   "title": "Data Analyst - Digital Marketing ",
+   "location": "Edmonton, Hybrid",
+   "url": "https://jobs.ashbyhq.com/LawDepot/f06f54f2-c86e-4bc8-acc9-3835e3516811",
+   "first_seen": "2026-11-26",
+   "posted": "2026-11-26",
+   "category": "Other"
+  },
+  {
+   "company": "Google",
+   "logo": "logos/google.com.png",
+   "title": "Software Developer, Google Workspace, Web and Back-End Developer",
+   "location": "Waterloo, ON, Canada",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/106279857268105926-software-developer-google-workspace-web-and-back-end-developer",
    "first_seen": "2026-11-26",
    "category": "SDE"
   },
@@ -370,6 +389,16 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032175",
+   "first_seen": "2026-11-25",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
    "company": "Canadian Tire",
    "title": "Software Development Student - 4 Months - Winter 2027",
    "location": "Toronto, Canada",
@@ -495,6 +524,16 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Developer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+   "first_seen": "2026-11-21",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
    "company": "Valsoft Corporation",
    "logo": "logos/valsoftcorp.com.png",
    "title": "Directeur·rice des produits et de l'ingénierie | Head of Product and Engineering",
@@ -512,6 +551,16 @@
    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166",
    "first_seen": "2026-10-08",
    "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Apple",
+   "logo": "logos/apple.com.png",
+   "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
+   "location": "Cupertino, CA; New York, NY; Seattle, WA",
+   "url": "https://go.vansh.nyc/1Kc",
+   "first_seen": "2026-11-26",
+   "posted": "2026-11-23",
    "category": "SDE"
   },
   {
@@ -772,21 +821,22 @@
    "category": "Other"
   },
   {
+   "company": "BMO",
+   "logo": "logos/bmo.com.png",
+   "title": "AI Software Engineer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/AI-Software-Engineer_R260032207",
+   "first_seen": "2026-11-23",
+   "posted": "2026-11-20",
+   "category": "SDE"
+  },
+  {
    "company": "Ciena",
    "logo": "logos/ciena.com.png",
    "title": "New Grad: Embedded Software Developer",
    "location": "Ottawa, Canada",
    "url": "https://go.vansh.nyc/1Gr",
    "first_seen": "2026-11-22",
-   "posted": "2026-11-20",
-   "category": "SDE"
-  },
-  {
-   "company": "Zscaler",
-   "title": "Software Development Engineer",
-   "location": "Santa Clara, CA",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
-   "first_seen": "2026-11-21",
    "posted": "2026-11-20",
    "category": "SDE"
   },
@@ -1825,6 +1875,16 @@
    "category": "AI/ML"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Engineer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1",
+   "first_seen": "2026-11-12",
+   "posted": "2026-11-16",
+   "category": "SDE"
+  },
+  {
    "company": "Miraterra",
    "title": "Associate Software Developer",
    "location": "Toronto, Canada",
@@ -2441,6 +2501,16 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "AI/ML Layout Engineering Intern (Winter 2027)",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102",
+   "first_seen": "2026-11-12",
+   "posted": "2026-11-11",
+   "category": "AI/ML"
+  },
+  {
    "company": "CDK Global",
    "title": "Associate Software Engineer",
    "location": "Austin, TX",
@@ -2855,6 +2925,16 @@
    "location": "Ottawa, ON, Canada",
    "url": "https://jobs.smartrecruiters.com/canadianbanknotecompany/744000160616275",
    "first_seen": "2026-11-09",
+   "posted": "2026-11-09",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Engineer",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-software-engineer_R031266",
+   "first_seen": "2026-09-23",
    "posted": "2026-11-09",
    "category": "SDE"
   },
@@ -3488,6 +3568,16 @@
    "location": "Sunnyvale, CA",
    "url": "https://jobs.ashbyhq.com/applied/48bab48f-c708-40b6-ac2c-36bb704287b3",
    "first_seen": "2026-11-03",
+   "posted": "2026-11-04",
+   "category": "SDE"
+  },
+  {
+   "company": "CrowdStrike",
+   "logo": "logos/crowdstrike.com.png",
+   "title": "Software Development Engineer in Test - Agentic Automation (Remote, CAN)",
+   "location": "Canada - Remote AB; Canada - Remote ON; Canada - Remote NS; Canada - Remote NB; Canada - Remote BC; Canada - Remote, MB",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/CrowdStrikeCareers/job/Canada---Remote-AB/Software-Development-Engineer-in-Test---Agentic-Automation--Remote--CAN-_R30708",
+   "first_seen": "2026-11-02",
    "posted": "2026-11-04",
    "category": "SDE"
   },
@@ -5374,6 +5464,16 @@
    "category": "AI/ML"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Photonic Card Software Developer - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379",
+   "first_seen": "2026-09-23",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
    "company": "Noble Machines",
    "title": "Electrical Engineer – Early Career - Embedded Systems & Tools",
    "location": "Sunnyvale, CA",
@@ -5512,6 +5612,16 @@
    "title": "Software Engineer - Entra ID",
    "location": "Palo Alto, CA",
    "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-28",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Routing/IP Software Engineer  - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006",
    "first_seen": "2026-10-28",
    "posted": "2026-10-28",
    "category": "SDE"
@@ -5682,15 +5792,6 @@
    "category": "SDE"
   },
   {
-   "company": "Rilla",
-   "title": "New Grad: Software Engineer",
-   "location": "New York, NY",
-   "url": "https://go.vansh.nyc/Vn",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-27",
-   "category": "SDE"
-  },
-  {
    "company": "PayPal",
    "logo": "logos/paypal.com.png",
    "title": "Software Engineer",
@@ -5749,16 +5850,6 @@
    "category": "SDE"
   },
   {
-   "company": "Cerebras",
-   "logo": "logos/cerebras.ai.png",
-   "title": "New Grad: Kernel Engineer",
-   "location": "Sunnyvale, CA",
-   "url": "https://go.vansh.nyc/Vp",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-27",
-   "category": "SDE"
-  },
-  {
    "company": "Applied Materials",
    "logo": "logos/appliedmaterials.com.png",
    "title": "Global Software Support Engineer I",
@@ -5786,6 +5877,16 @@
    "first_seen": "2026-10-26",
    "posted": "2026-10-26",
    "category": "AI/ML"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "SVT/PV Engineer 1 - New Grad",
+   "location": "Ottawa",
+   "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/SVT-PV-Engineer-1---New-Grad_R031622",
+   "first_seen": "2026-09-23",
+   "posted": "2026-10-26",
+   "category": "SDE"
   },
   {
    "company": "VersaPay",
