@@ -1,12 +1,31 @@
 {
- "generated_at": "2026-11-27 08:03 UTC",
- "count": 848,
+ "generated_at": "2026-11-27 18:12 UTC",
+ "count": 842,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 164
+  "responded": 157
  },
  "jobs": [
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Cloud Security Specialist",
+   "location": "Montreal, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000164031149",
+   "first_seen": "2026-11-27",
+   "posted": "2026-11-27",
+   "category": "Security"
+  },
+  {
+   "company": "Scotiabank",
+   "logo": "logos/scotiabank.com.png",
+   "title": "Software Engineer- Cash Management Technology",
+   "location": "Toronto, ON, CA, M5H 4A9",
+   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Cash-Management-Technology-ON-M5H-4A9/608452417/",
+   "first_seen": "2026-11-27",
+   "category": "SDE"
+  },
   {
    "company": "Parallel Web Systems",
    "title": "Early Career Software Engineer - Developer Experience",
@@ -15,6 +34,16 @@
    "first_seen": "2026-11-26",
    "posted": "2026-11-27",
    "category": "SDE"
+  },
+  {
+   "company": "LawDepot",
+   "logo": "logos/lawdepot.com.png",
+   "title": "Data Analyst - Digital Marketing ",
+   "location": "Edmonton, Hybrid",
+   "url": "https://jobs.ashbyhq.com/LawDepot/f06f54f2-c86e-4bc8-acc9-3835e3516811",
+   "first_seen": "2026-11-26",
+   "posted": "2026-11-27",
+   "category": "Other"
   },
   {
    "company": "CodeRabbit",
@@ -81,15 +110,6 @@
    "category": "AI/ML"
   },
   {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer (Angular)",
-   "location": "Toronto, ON, CA, M5C2V9",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-%28Angular%29-ON-M5C2V9/608435517/",
-   "first_seen": "2026-11-26",
-   "category": "SDE"
-  },
-  {
    "company": "Nutanix",
    "logo": "logos/nutanix.com.png",
    "title": "Technical Marketing Engineer",
@@ -143,6 +163,15 @@
    "first_seen": "2026-10-13",
    "posted": "2026-11-26",
    "category": "SDE"
+  },
+  {
+   "company": "LSEG",
+   "title": "New Grad 2027: AI Product & Business Associate",
+   "location": "New York, NY",
+   "url": "https://go.vansh.nyc/1Lo",
+   "first_seen": "2026-11-27",
+   "posted": "2026-11-25",
+   "category": "AI/ML"
   },
   {
    "company": "Cisco",
@@ -729,16 +758,6 @@
    "location": "Seattle, WA",
    "url": "https://www.amazon.jobs/jobs/10612129/apply",
    "first_seen": "2026-11-25",
-   "posted": "2026-11-21",
-   "category": "SDE"
-  },
-  {
-   "company": "Trend Micro",
-   "logo": "logos/trendmicro.com.png",
-   "title": "Software Developer",
-   "location": "Ottawa, Canada",
-   "url": "https://go.vansh.nyc/1H3",
-   "first_seen": "2026-11-24",
    "posted": "2026-11-21",
    "category": "SDE"
   },
@@ -5476,16 +5495,6 @@
    "category": "SDE"
   },
   {
-   "company": "AMD",
-   "logo": "logos/amd.com.png",
-   "title": "Distributed Systems Software Engineer - Collectives",
-   "location": "Austin, TX; San Jose, CA",
-   "url": "https://careers.amd.com/jobs/93894?icims=1",
-   "first_seen": "2026-10-29",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
    "company": "eBay",
    "logo": "logos/ebay.com.png",
    "title": "MTS 2, Software Engineer, AI Platform",
@@ -5611,16 +5620,6 @@
    "first_seen": "2026-10-26",
    "posted": "2026-10-26",
    "category": "AI/ML"
-  },
-  {
-   "company": "VersaPay",
-   "logo": "logos/versapay.com.png",
-   "title": "GTM Engineer",
-   "location": "Canada (Remote)",
-   "url": "https://jobs.lever.co/versapay/5b8d1d13-e1bc-4b3e-a72e-c4c6115d725e",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-23",
-   "category": "SDE"
   },
   {
    "company": "Huawei",
@@ -5872,15 +5871,6 @@
    "url": "https://ats.rippling.com/nesto/jobs/d9d5eb6d-68f2-4873-a9ea-010241a9099f",
    "first_seen": "2026-10-14",
    "category": "Other"
-  },
-  {
-   "company": "PureFacts Financial Solutions",
-   "logo": "logos/purefacts.com.png",
-   "title": "AI Engineer",
-   "location": "Toronto, Canada",
-   "url": "https://ats.rippling.com/purefacts_jobs/jobs/0981ef32-a247-46e9-923b-a7355e681f08",
-   "first_seen": "2026-10-14",
-   "category": "SDE"
   },
   {
    "company": "Nesto Cloud",
@@ -6289,16 +6279,6 @@
    "title": "Researcher – Agent Platform R&D",
    "location": "Markham, Ontario, Canada",
    "url": "https://huaweicanada.recruitee.com/o/researcher-agent-platform-rd",
-   "first_seen": "2026-09-24",
-   "posted": "2026-09-24",
-   "category": "Research"
-  },
-  {
-   "company": "Huawei",
-   "logo": "logos/huawei.com.png",
-   "title": "Researcher - Computer Network for AI",
-   "location": "Markham, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/researcher-computer-network-for-ai-1",
    "first_seen": "2026-09-24",
    "posted": "2026-09-24",
    "category": "Research"
@@ -7169,16 +7149,6 @@
    "category": "Security"
   },
   {
-   "company": "DRW",
-   "logo": "logos/drw.com.png",
-   "title": "Software Developer",
-   "location": "Montreal",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/8064537",
-   "first_seen": "2026-10-13",
-   "posted": "2026-07-15",
-   "category": "SDE"
-  },
-  {
    "company": "Magnet Forensics",
    "logo": "logos/magnetforensics.com.png",
    "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
@@ -8011,16 +7981,6 @@
   {
    "company": "Huawei",
    "logo": "logos/huawei.com.png",
-   "title": "Researcher – AI/ML Real-Time Embedded OS",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/researcher-real-time-embedded-os-2",
-   "first_seen": "2026-09-01",
-   "posted": "2025-07-17",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Huawei",
-   "logo": "logos/huawei.com.png",
    "title": "Researcher - Graphic Rendering",
    "location": "Edmonton, Alberta, Canada",
    "url": "https://huaweicanada.recruitee.com/o/intern-researcher-graphic-rendering-2-3",
@@ -8139,16 +8099,6 @@
    "category": "SDE"
   },
   {
-   "company": "Huawei",
-   "logo": "logos/huawei.com.png",
-   "title": "Software Developer - Real-time Operating System",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/software-developer-realtime-operating-system",
-   "first_seen": "2026-09-01",
-   "posted": "2024-10-02",
-   "category": "SDE"
-  },
-  {
    "company": "Tenstorrent",
    "logo": "logos/tenstorrent.com.png",
    "title": "Software Engineer, Scale Out",
@@ -8207,16 +8157,6 @@
    "first_seen": "2026-10-12",
    "posted": "2023-08-04",
    "category": "SDE"
-  },
-  {
-   "company": "Huawei",
-   "logo": "logos/huawei.com.png",
-   "title": "Researcher - Real-Time Embedded OS",
-   "location": "Ottawa, Ontario, Canada",
-   "url": "https://huaweicanada.recruitee.com/o/researcher-realtime-embedded-os",
-   "first_seen": "2026-09-01",
-   "posted": "2022-12-14",
-   "category": "Research"
   }
  ]
 }
