@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-28 01:29 UTC",
- "count": 843,
+ "generated_at": "2026-11-28 09:22 UTC",
+ "count": 848,
  "stats": {
   "sources": 180,
   "ats": 27,
@@ -17,10 +17,58 @@
    "category": "AI/ML"
   },
   {
+   "company": "Marvell",
+   "logo": "logos/marvell.com.png",
+   "title": "Software/Firmware Engineer Early Career",
+   "location": "Santa Clara, CA",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "SDE"
+  },
+  {
    "company": "HireHawk",
    "title": "Associate Software Engineer",
    "location": "Remote in USA",
    "url": "https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Systems Integration Specialist New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Systems-Integration-Specialist---New-Grad_R032209",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "Other"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Software Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "SDE"
+  },
+  {
+   "company": "CHEP",
+   "title": "Software Developer - Applications",
+   "location": "Santa Clara, CA",
+   "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "SDE"
+  },
+  {
+   "company": "CHEP",
+   "title": "Software Developer - Applications",
+   "location": "Santa Clara, CA",
+   "url": "https://go.vansh.nyc/1LZ",
    "first_seen": "2026-11-28",
    "posted": "2026-11-27",
    "category": "SDE"
@@ -34,15 +82,6 @@
    "first_seen": "2026-11-27",
    "posted": "2026-11-27",
    "category": "Security"
-  },
-  {
-   "company": "Scotiabank",
-   "logo": "logos/scotiabank.com.png",
-   "title": "Software Engineer- Cash Management Technology",
-   "location": "Toronto, ON, CA, M5H 4A9",
-   "url": "https://jobs.scotiabank.com/job/Toronto-Software-Engineer-Cash-Management-Technology-ON-M5H-4A9/608452417/",
-   "first_seen": "2026-11-27",
-   "category": "SDE"
   },
   {
    "company": "Parallel Web Systems",
@@ -451,6 +490,26 @@
    "category": "SDE"
   },
   {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Engineer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032175",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
+   "company": "Ciena",
+   "logo": "logos/ciena.com.png",
+   "title": "Embedded Software Developer New Grad",
+   "location": "Ottawa, ON, Canada",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-24",
+   "category": "SDE"
+  },
+  {
    "company": "webAI",
    "title": "Jr Software Developer",
    "location": "Austin, TX",
@@ -635,6 +694,16 @@
    "category": "SDE"
   },
   {
+   "company": "GlobalFoundries",
+   "logo": "logos/gf.com.png",
+   "title": "Analyst New Grad - Data Systems and Automation",
+   "location": "Austin, TX",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Analyst--Data-Systems-and-Automation--2027-New-College-Graduate--_JR-2604458",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-23",
+   "category": "Other"
+  },
+  {
    "company": "Apple",
    "logo": "logos/apple.com.png",
    "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
@@ -770,16 +839,6 @@
    "category": "SDE"
   },
   {
-   "company": "BMO",
-   "logo": "logos/bmo.com.png",
-   "title": "AI Software Engineer",
-   "location": "Toronto, ON, CAN",
-   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/AI-Software-Engineer_R260032207",
-   "first_seen": "2026-11-23",
-   "posted": "2026-11-21",
-   "category": "SDE"
-  },
-  {
    "company": "Trend Micro",
    "logo": "logos/trendmicro.com.png",
    "title": "Software Developer",
@@ -897,15 +956,6 @@
    "title": "Product Analyst New Grad",
    "location": "Toronto, ON, Canada",
    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst-_R2879279-1",
-   "first_seen": "2026-11-23",
-   "posted": "2026-11-20",
-   "category": "Other"
-  },
-  {
-   "company": "Sanofi",
-   "title": "Digital New Grad - Product Analyst",
-   "location": "Toronto, ON, Canada",
-   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2878972-1",
    "first_seen": "2026-11-23",
    "posted": "2026-11-20",
    "category": "Other"
