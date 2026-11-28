@@ -1,12 +1,30 @@
 {
- "generated_at": "2026-11-27 18:12 UTC",
- "count": 842,
+ "generated_at": "2026-11-28 01:29 UTC",
+ "count": 843,
  "stats": {
   "sources": 180,
   "ats": 27,
-  "responded": 157
+  "responded": 160
  },
  "jobs": [
+  {
+   "company": "Providius",
+   "title": "Software Engineer - AI Test & Evaluation",
+   "location": "Hamilton, Canada",
+   "url": "https://apply.workable.com/providius/j/B90A37F447/",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "AI/ML"
+  },
+  {
+   "company": "HireHawk",
+   "title": "Associate Software Engineer",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-27",
+   "category": "SDE"
+  },
   {
    "company": "Ubisoft",
    "logo": "logos/ubisoft.com.png",
@@ -62,16 +80,6 @@
    "first_seen": "2026-11-26",
    "posted": "2026-11-26",
    "category": "SDE"
-  },
-  {
-   "company": "Ubisoft",
-   "logo": "logos/ubisoft.com.png",
-   "title": "Security Specialist",
-   "location": "Montreal, QC, Canada",
-   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000163906029",
-   "first_seen": "2026-11-26",
-   "posted": "2026-11-26",
-   "category": "Security"
   },
   {
    "company": "Scout AI",
@@ -762,6 +770,16 @@
    "category": "SDE"
   },
   {
+   "company": "BMO",
+   "logo": "logos/bmo.com.png",
+   "title": "AI Software Engineer",
+   "location": "Toronto, ON, CAN",
+   "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/AI-Software-Engineer_R260032207",
+   "first_seen": "2026-11-23",
+   "posted": "2026-11-21",
+   "category": "SDE"
+  },
+  {
    "company": "Trend Micro",
    "logo": "logos/trendmicro.com.png",
    "title": "Software Developer",
@@ -863,6 +881,15 @@
    "url": "https://job-boards.greenhouse.io/okx/jobs/8209722003",
    "first_seen": "2026-11-20",
    "posted": "2026-11-21",
+   "category": "SDE"
+  },
+  {
+   "company": "Qualcomm",
+   "title": "DSP Applications Software Engineer",
+   "location": "Austin, TX",
+   "url": "https://careers.qualcomm.com/careers/job/446722230518",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-20",
    "category": "SDE"
   },
   {
@@ -1068,7 +1095,7 @@
    "logo": "logos/hpe.com.png",
    "title": "Systems / Software Engineer I Graduate",
    "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214972",
+   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214972-1",
    "first_seen": "2026-11-20",
    "posted": "2026-11-20",
    "category": "SDE"
@@ -1078,7 +1105,7 @@
    "logo": "logos/hpe.com.png",
    "title": "Systems / Software Engineer I Graduate",
    "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214972-1",
+   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214972",
    "first_seen": "2026-11-20",
    "posted": "2026-11-20",
    "category": "SDE"
@@ -1187,6 +1214,15 @@
    "first_seen": "2026-10-13",
    "posted": "2026-11-20",
    "category": "SDE"
+  },
+  {
+   "company": "ICF International",
+   "title": "GIS Analyst Entry Level",
+   "location": "Austin, TX",
+   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Austin-TX-TX18/GIS-Analyst--Entry-Level--Hybrid---Austin-_R2603901",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-19",
+   "category": "Other"
   },
   {
    "company": "Cadence Design Systems",
@@ -2057,7 +2093,7 @@
    "logo": "logos/hpe.com.png",
    "title": "Systems/Software Engineer I",
    "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-1",
+   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2",
    "first_seen": "2026-11-13",
    "posted": "2026-11-13",
    "category": "SDE"
@@ -2067,7 +2103,7 @@
    "logo": "logos/hpe.com.png",
    "title": "Systems/Software Engineer I",
    "location": "Sunnyvale, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2",
+   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-1",
    "first_seen": "2026-11-13",
    "posted": "2026-11-13",
    "category": "SDE"
@@ -2159,6 +2195,15 @@
    "category": "SDE"
   },
   {
+   "company": "Bask",
+   "title": "Backend Engineer - New Grad",
+   "location": "USA",
+   "url": "https://apply.workable.com/bask-health-1/j/472CF47F60/",
+   "first_seen": "2026-11-14",
+   "posted": "2026-11-12",
+   "category": "SDE"
+  },
+  {
    "company": "Twitch",
    "logo": "logos/twitch.tv.png",
    "title": "Software Engineer I - Commerce",
@@ -2228,9 +2273,9 @@
   },
   {
    "company": "Bask",
-   "title": "Software Engineer - Early Career",
+   "title": "Junior Backend Engineer",
    "location": "USA",
-   "url": "https://apply.workable.com/bask-health-1/j/3AC4353728/",
+   "url": "https://apply.workable.com/bask-health-1/j/007CBE9F1D/",
    "first_seen": "2026-11-13",
    "posted": "2026-11-12",
    "category": "SDE"
@@ -2932,6 +2977,15 @@
    "category": "SDE"
   },
   {
+   "company": "Qualcomm",
+   "title": "AI and DSP Applications Software Engineer",
+   "location": "Markham, Canada",
+   "url": "https://careers.qualcomm.com/careers/job/446722003218",
+   "first_seen": "2026-11-28",
+   "posted": "2026-11-07",
+   "category": "SDE"
+  },
+  {
    "company": "Amazon",
    "logo": "logos/amazon.com.png",
    "title": "Front-End Engineer - 2027 - US",
@@ -3112,7 +3166,7 @@
    "company": "DraftKings",
    "title": "Software Engineer - Casino",
    "location": "Remote - Canada",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Remote---Canada/Software-Engineer--Casino_JR15319-1",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Canada/Software-Engineer--Casino_JR15319",
    "first_seen": "2026-11-06",
    "posted": "2026-11-06",
    "category": "SDE"
@@ -3121,7 +3175,7 @@
    "company": "DraftKings",
    "title": "Software Engineer - Casino",
    "location": "Remote - Canada",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Canada/Software-Engineer--Casino_JR15319",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Remote---Canada/Software-Engineer--Casino_JR15319-1",
    "first_seen": "2026-11-06",
    "posted": "2026-11-06",
    "category": "SDE"
@@ -3601,6 +3655,16 @@
    "first_seen": "2026-11-04",
    "posted": "2026-11-03",
    "category": "SDE"
+  },
+  {
+   "company": "Ubisoft",
+   "logo": "logos/ubisoft.com.png",
+   "title": "Online Game Programmer (Rainbow Six)",
+   "location": "Saguenay, QC, Canada",
+   "url": "https://jobs.smartrecruiters.com/ubisoft2/744000159397829",
+   "first_seen": "2026-11-03",
+   "posted": "2026-11-03",
+   "category": "Other"
   },
   {
    "company": "Strada",
@@ -5400,6 +5464,16 @@
    "category": "AI/ML"
   },
   {
+   "company": "rubrik",
+   "logo": "logos/rubrik.com.png",
+   "title": "Software Engineer - Entra ID",
+   "location": "Palo Alto, CA",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
+   "first_seen": "2026-10-28",
+   "posted": "2026-10-30",
+   "category": "SDE"
+  },
+  {
    "company": "Noble Machines",
    "title": "Electrical Engineer – Early Career - Embedded Systems & Tools",
    "location": "Sunnyvale, CA",
@@ -5467,78 +5541,12 @@
    "category": "SDE"
   },
   {
-   "company": "SambaNova Systems",
-   "title": "Cloud Platform Engineer - New Grad",
-   "location": "Austin, TX +1",
-   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004",
-   "first_seen": "2026-11-14",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Planview",
-   "title": "Software Engineer I",
-   "location": "Vancouver, Canada",
-   "url": "https://careers2-planview.icims.com/jobs/5182/job",
-   "first_seen": "2026-11-12",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Software Development Engineer - Database Early Career- 2027 - US",
-   "location": "Seattle, WA",
-   "url": "https://www.amazon.jobs/jobs/10593902/apply",
-   "first_seen": "2026-10-31",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
    "company": "eBay",
    "logo": "logos/ebay.com.png",
    "title": "MTS 2, Software Engineer, AI Platform",
    "location": "Toronto, Canada",
    "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Senior-Software-Engineer--AI-Platform_R0075658",
    "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "AI/ML"
-  },
-  {
-   "company": "Rubrik",
-   "logo": "logos/rubrik.com.png",
-   "title": "Software Engineer - Entra ID",
-   "location": "Palo Alto, CA",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8267709?gh_jid=8267709",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Amazon",
-   "logo": "logos/amazon.com.png",
-   "title": "Software Developer Engineer - Product Knowledge Store",
-   "location": "Seattle, WA; United States",
-   "url": "https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store",
-   "first_seen": "2026-10-28",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Lumos",
-   "title": "Software Engineer - NHI Platform",
-   "location": "USA",
-   "url": "https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701",
-   "first_seen": "2026-10-27",
-   "posted": "2026-10-28",
-   "category": "SDE"
-  },
-  {
-   "company": "Lumos",
-   "title": "Software Engineer - AI Agent Governance",
-   "location": "USA",
-   "url": "https://jobs.ashbyhq.com/lumos/37ecfa5a-f047-4b70-a29b-79cc885df706",
-   "first_seen": "2026-10-27",
    "posted": "2026-10-28",
    "category": "AI/ML"
   },
